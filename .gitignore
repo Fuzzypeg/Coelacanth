@@ -1,2 +1,7 @@
 # Fontforge backup files
 *.sfd-*
+
+# TeX intermediary build files
+*.aux
+*.log
+*.synctex.gz
