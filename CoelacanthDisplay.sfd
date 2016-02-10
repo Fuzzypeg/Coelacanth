@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1454644300
+ModificationTime: 1455134346
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -170,7 +170,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 78 13 5
+WinInfo: 715 13 5
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -1989,17 +1989,11 @@ StartChar: R
 Encoding: 82 82 43
 Width: 765
 VWidth: 1159
-Flags: HMWO
+Flags: HMW
 HStem: -34 18<715.141 760> -15 21<238.873 275.333> 333 25<190.186 311.406> 678 21<31 89.864>
 VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 469 86<439.59 588.412>
 AnchorPoint: "Top" 315 682 basechar 0
 LayerCount: 2
-Back
-SplineSet
-469 504 m 7
- 469 566 431 649 351 679 c 4
- 342.137655618 681.954114794 313.862646553 685.798718793 283.987942482 685.798718793 c 1031
-EndSplineSet
 Fore
 SplineSet
 189 365 m 1xfa
@@ -2184,12 +2178,12 @@ StartChar: uni0307
 Encoding: 775 775 49
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 479 78<-234.922 -162.078>
 VStem: -240 83<484.319 551.681>
 AnchorPoint: "Top" -198.5 389 mark 0
 LayerCount: 2
-Fore
+Back
 SplineSet
 -198 557 m 0
  -176 557 -157 541 -157 519 c 0
@@ -2197,6 +2191,8 @@ SplineSet
  -221 479 -240 495 -240 517 c 0
  -240 539 -220 557 -198 557 c 0
 EndSplineSet
+Fore
+Refer: 2360 57345 N 1.01727 0.216228 -0.201674 0.948803 -198 518 2
 EndChar
 
 StartChar: dotlessi
@@ -3320,18 +3316,12 @@ StartChar: acute
 Encoding: 180 180 89
 Width: 263
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 434 159
 VStem: 45 177
 LayerCount: 2
 Fore
-SplineSet
-45 444 m 17
- 77 488 140.194 555.523 188 593 c 9
- 188 593 206.404 579.394 222 560 c 1
- 167.963 532.07 111 490 55 434 c 9
- 45 444 l 17
-EndSplineSet
+Refer: 92 769 N 1 0 0 1 271 0 2
 EndChar
 
 StartChar: Acute
@@ -3373,13 +3363,19 @@ StartChar: acutecomb
 Encoding: 769 769 92
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 434 159
 VStem: -226 177
 AnchorPoint: "Top" -198.5 410 mark 0
 LayerCount: 2
 Fore
-Refer: 89 180 S 1 0 0 1 -271 0 2
+SplineSet
+-226 444 m 17
+ -194 488 -130.805664062 555.5234375 -83 593 c 9
+ -83 593 -64.595703125 579.393554688 -49 560 c 1
+ -103.037109375 532.0703125 -160 490 -216 434 c 9
+ -226 444 l 17
+EndSplineSet
 EndChar
 
 StartChar: uni0302
@@ -3462,7 +3458,7 @@ StartChar: uni0308
 Encoding: 776 776 97
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 465.983 64.7014<-315.712 -255.288> 465.983 64.7014<-139.712 -79.2878>
 VStem: -319.924 68.8489<470.395 526.272> -143.924 68.8489<470.395 526.272>
 AnchorPoint: "Top" -198.5 389 mark 0
@@ -4549,7 +4545,7 @@ StartChar: Uni0308
 Encoding: 58024 58024 163
 Width: 298
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 782.95 74.1<18.8991 88.1009> 782.95 74.1<210.899 280.101>
 VStem: 14.075 78.85<788.003 851.997> 206.075 78.85<788.003 851.997>
 AnchorPoint: "Top" 150 699 mark 0
@@ -4563,7 +4559,7 @@ StartChar: Dotaccent
 Encoding: 58025 58025 164
 Width: 156
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 780.43 83.1402<38.6776 116.322>
 VStem: 33.265 88.4697<786.1 857.901>
 AnchorPoint: "Top" 76 699 mark 0
@@ -6409,7 +6405,7 @@ StartChar: dotbelowcomb
 Encoding: 803 803 272
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -173 102<-235.927 -152.073>
 VStem: -246 104<-163.046 -80.9539>
 AnchorPoint: "Bottom" -193 -15 mark 0
@@ -6422,7 +6418,7 @@ StartChar: uni0324
 Encoding: 804 804 273
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -161.33 84.66<-316.799 -247.201 -140.799 -71.2007>
 VStem: -325.16 86.32<-153.068 -84.9318> -149.16 86.32<-153.068 -84.9318>
 AnchorPoint: "Bottom" -193 -15 mark 0
@@ -6585,7 +6581,7 @@ StartChar: Dotbelowcomb
 Encoding: 58031 58031 283
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -176.276 108.556<-238.622 -149.379>
 VStem: -249.342 110.684<-165.683 -78.3143>
 AnchorPoint: "Bottom" -193 -15 mark 0
@@ -6598,7 +6594,7 @@ StartChar: Uni0324
 Encoding: 58032 58032 284
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -167.68 97.359<-330.019 -249.981 -138.019 -57.9809>
 VStem: -339.634 99.268<-158.178 -79.8215> -147.634 99.268<-158.178 -79.8215>
 AnchorPoint: "Bottom" -193 -15 mark 0
@@ -7308,18 +7304,12 @@ StartChar: uni0337
 Encoding: 823 823 321
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 391.747 20G<-87.813 -46.585>
 AnchorPoint: "Middle" -251 206 mark 0
 LayerCount: 2
 Fore
-SplineSet
--66.197265625 409.747070312 m 29
- -49.5849609375 395.313476562 l 25
- -452.802734375 -14.7119140625 l 25
- -467.397460938 0.6865234375 l 29
- -66.197265625 409.747070312 l 29
-EndSplineSet
+Refer: 1970 58113 N 0.403574 0.410119 -0.669586 0.657102 -461.287 -7.0595 2
 EndChar
 
 StartChar: ae
@@ -9538,7 +9528,7 @@ Flags: HW
 AnchorPoint: "Middle" -419.303 364.853 mark 0
 LayerCount: 2
 Fore
-Refer: 321 823 N 1.44738 0.149977 0.149977 1.45262 -82.1349 108.561 2
+Refer: 1971 58114 N 0.64316 0.654025 -0.59133 0.580652 -749.299 29.9111 2
 EndChar
 
 StartChar: multiply
@@ -32192,7 +32182,6 @@ LayerCount: 2
 Back
 Refer: 97 776 N 1 0 0 1 368.5 76 2
 Refer: 651 57355 N 1 0 0 1 0 0 3
-Validated: 1
 Fore
 Refer: 97 776 N 1 0 0 1 368.5 76 2
 Refer: 651 57355 N 1 0 0 1 0 0 3
@@ -36267,7 +36256,6 @@ LayerCount: 2
 Back
 Refer: 97 776 N 1 0 0 1 509.5 76 2
 Refer: 650 57354 N 1 0 0 1 0 0 3
-Validated: 1
 Fore
 Refer: 97 776 N 1 0 0 1 509.5 76 2
 Refer: 650 57354 N 1 0 0 1 0 0 3
@@ -45013,19 +45001,18 @@ StartChar: uniE001
 Encoding: 57345 57345 2360
 Width: 0
 VWidth: 1159
-Flags: W
-HStem: -52 104<-42.4112 42.4112>
-VStem: -52 104<-42.3769 42.4151>
+Flags: HW
+HStem: -40.3 80.6<-32.8687 32.8687>
+VStem: -40.3 80.6<-32.8421 32.8717>
 LayerCount: 2
 Fore
 SplineSet
--52 0.0576171875 m 3
- -52 28.73828125 -28.736328125 52 0 52 c 3
- 28.736328125 52 52 28.73828125 52 0.0576171875 c 3
- 52 -28.6259765625 28.736328125 -52 0 -52 c 3
- -28.736328125 -52 -52 -28.6259765625 -52 0.0576171875 c 3
+-40 0 m 3
+ -40 22.0868004173 -22.1048295248 40 0 40 c 3
+ 22.1048295248 40 40 22.0868004173 40 0 c 3
+ 40 -22.0405199332 22.1048295248 -40 0 -40 c 3
+ -22.1048295248 -40 -40 -22.0405199332 -40 0 c 3
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: uniE002
