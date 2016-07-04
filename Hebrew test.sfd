@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1467059633
+ModificationTime: 1467580856
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -170,7 +170,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1420 10 4
+WinInfo: 1440 10 4
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -50756,8 +50756,8 @@ Encoding: 1463 1463 2513
 Width: 0
 VWidth: 0
 Flags: HW
-HStem: -115 35<-378.494 -189.506>
-VStem: -378.5 189<-115 -80>
+HStem: -123 43<187 373>
+VStem: 187 186<-123 -80>
 LayerCount: 2
 Back
 SplineSet
@@ -50770,13 +50770,7 @@ SplineSet
  357 -80 l 6
 EndSplineSet
 Fore
-SplineSet
-187 -80 m 1
- 373 -80 l 1
- 373 -123 l 1
- 187 -123 l 1
- 187 -80 l 1
-EndSplineSet
+Refer: 1971 58114 N 0.186 0 0 0.934783 187 -101.5 2
 EndChar
 
 StartChar: afii57797
@@ -50784,8 +50778,8 @@ Encoding: 1464 1464 2514
 Width: 0
 VWidth: 0
 Flags: HW
-HStem: -115 35<-373.561 -292.018 -264.938 -185.453>
-VStem: -313.964 63.8701<-233.369 -156.934> -292 27<-178.335 -115.125>
+HStem: -123 43<187 373>
+VStem: 187 186<-123 -80> 265 33<-201.605 -104>
 LayerCount: 2
 Back
 SplineSet
@@ -50855,12 +50849,12 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-265 -104 m 1
- 298 -104 l 1
- 298.089893502 -145.739570262 305.123620273 -185.671533364 326 -222 c 1
- 307.609050898 -240.586811229 280.12132838 -244.214739593 254 -248 c 1
- 242 -231 l 1
- 254.97125501 -188.66666667 264 -153 265 -104 c 1
+298 -104 m 1xa0
+ 299 -151.842519685 308.028320312 -186.666984498 321 -228 c 1
+ 309 -245 l 1
+ 282.87890625 -242.2746875 255.390625 -240.382578125 237 -227 c 1
+ 257.875976562 -189.450761555 264.91015625 -147.142258075 265 -104 c 1
+ 298 -104 l 1xa0
 EndSplineSet
 Refer: 2513 1463 N 1 0 0 1 0 0 2
 EndChar
