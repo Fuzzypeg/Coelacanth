@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1468347827
+ModificationTime: 1468572252
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -3729,7 +3729,7 @@ StartChar: uni030B
 Encoding: 779 779 102
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HWO
 AnchorPoint: "Top" -198.5 465 mark 0
 LayerCount: 2
 Back
@@ -3746,9 +3746,8 @@ SplineSet
  -172.0546875 499.78125 l 21
 EndSplineSet
 Fore
+Refer: 92 769 N 0.939693 0.34202 -0.34202 0.939693 139.205 112.161 2
 Refer: 92 769 N 0.984808 0.173648 -0.173648 0.984808 137.612 42.7705 2
-Refer: 89 180 N 0.939693 0.34202 -0.34202 0.939693 -115.596 19.0228 2
-Validated: 1
 EndChar
 
 StartChar: uni030C
@@ -4654,14 +4653,13 @@ StartChar: ohungarumlaut
 Encoding: 337 337 155
 Width: 492
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 21<213.737 312.228> 388 23<183.876 282.08>
 VStem: 28 65<130.362 287.127> 399 65<108.357 276.92>
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 449.5 27 2
 Refer: 14 111 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" ohungarumlaut.smcp
 Substitution2: "case-1" Ohungarumlaut
 Substitution2: "pcap-1" ohungarumlaut.pcap
@@ -6088,14 +6086,13 @@ StartChar: uhungarumlaut
 Encoding: 369 369 238
 Width: 512
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -4 43<170.512 261.959> 26 15<478.103 499.867> 347 12<15 28.3301> 360 18<297 345.329> 387 26G<122 151 410.5 436>
 VStem: 71 67<72.8435 345.445> 356 67<71.5641 319.205> 363 73<165.286 357.317>
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 462.5 32 2
 Refer: 20 117 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" uhungarumlaut.smcp
 Substitution2: "case-1" Uhungarumlaut
 Substitution2: "pcap-1" uhungarumlaut.pcap
@@ -6407,7 +6404,7 @@ StartChar: Aogonek
 Encoding: 260 260 255
 Width: 719
 VWidth: 0
-Flags: HWO
+Flags: HW
 HStem: -256.515 56.804<448.75 524.105> -4 20<26 54.2745 178.316 229.2 656.807 697> 247 38<229 455>
 VStem: 377.549 59.298<-188.305 -85.422>
 LayerCount: 2
@@ -22770,13 +22767,12 @@ StartChar: uni04F3
 Encoding: 1267 1267 1082
 Width: 441
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84>
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 431 60 2
 Refer: 1072 1091 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0400
@@ -25394,11 +25390,10 @@ StartChar: hungarumlaut
 Encoding: 733 733 1228
 Width: 301
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 287 0 2
-Validated: 1
 EndChar
 
 StartChar: afii10051
@@ -34269,14 +34264,13 @@ StartChar: ohungarumlaut.pcap
 Encoding: 57442 57442 1697
 Width: 568
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 37<240.993 370.228> 378 35<202.127 322.544>
 VStem: 56 78<146.969 286.001> 428 84<111.049 270.5>
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 484.5 60 2
 Refer: 657 57361 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: oe.pcap
@@ -34531,14 +34525,13 @@ StartChar: uhungarumlaut.pcap
 Encoding: 57458 57458 1713
 Width: 562
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 38<211.789 381.26> 379 25<50.16 92.7586 186.969 230.913 479.043 522.502>
 VStem: 99 72<68.5834 324.974> 427 38<73.533 350.901>
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 493.5 60 2
 Refer: 663 57367 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uogonek.pcap
@@ -42641,14 +42634,13 @@ StartChar: ohungarumlaut.smcp
 Encoding: 57766 57766 2127
 Width: 651
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -5.6 40.9<271.034 427.015> 461.7 39.2<230.39 375.856>
 VStem: 52.1 82.5<180.762 335.941> 509.9 89.1<144.602 324.626>
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 527.5 134 2
 Refer: 2046 57685 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: oe.smcp
@@ -42899,14 +42891,13 @@ StartChar: uhungarumlaut.smcp
 Encoding: 57782 57782 2143
 Width: 637
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7.2 42.8<233.456 435.99> 460.3 29.5<39.3458 92.9757 192.847 248.559 553.726 606.162>
 VStem: 99 76.5<89.2876 449.926> 498.1 43.1<92.0078 387.382>
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 535.5 134 2
 Refer: 2052 57691 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uogonek.smcp
