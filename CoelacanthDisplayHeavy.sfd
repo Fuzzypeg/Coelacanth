@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1468572502
+ModificationTime: 1468822362
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -170,7 +170,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 91 13 5
+WinInfo: 741 13 5
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -3741,13 +3741,19 @@ StartChar: acutecomb
 Encoding: 769 769 92
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HWO
 HStem: 434 159
 VStem: -226 177
 AnchorPoint: "Top" -198.5 410 mark 0
 LayerCount: 2
 Fore
-Refer: 89 180 S 1 0 0 1 -271 0 2
+SplineSet
+-226 444 m 1
+ -194 488 -130.806 555.523 -83 593 c 1
+ -83 593 -52.146235294 569.911030303 -26 537 c 1
+ -99.074 506.14 -146 489 -216 434 c 1
+ -226 444 l 1
+EndSplineSet
 EndChar
 
 StartChar: uni0302
