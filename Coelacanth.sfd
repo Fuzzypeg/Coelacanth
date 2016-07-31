@@ -42365,7 +42365,6 @@ EndChar
 
 StartChar: eth.smcp
 Encoding: 57713 57713 2076
-AltUni2: 000000.ffffffff.0
 Width: 629
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
