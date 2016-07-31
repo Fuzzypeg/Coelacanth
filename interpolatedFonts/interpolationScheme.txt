@@ -1,0 +1,22 @@
+In the roman, there are 9 masters:
+
+60Hair, 60Reg, 60Gross (60pt)
+14Hair, 14Reg, 14Gross (14pt)
+5Hair, 5Reg, 5Gross (5pt)
+
+From these we generate the full roman family:
+
+DisplayExtraLt,   DisplayLt,       Display,      DisplaySemibd,    DisplayBold,     DisplayHeavy      (60pt)
+60R->60H 39.3%    60R->60H 21.6%   60R           60R->60G 26.6%    60R->60G 59%     60G
+
+SubhdExtraLt,     SubhdLt,         Subhd,        SubhdSemibd,      SubhdBold,       SubheadHeavy      (24pt) 54.3% from Regular to Display
+
+ExtraLt,          Lt,              Regular,      Semibd,           Bold,            Heavy             (14pt)
+47.7%             26.1%            14R           31.2%             68.9%            114.7%
+
+CaptionExtraLt,   CaptionLt,       Caption,      CaptionSemibd,    CaptionBold,     CaptionHeavy      (9pt, "Bourgeois") 30.9% from Regular to Pearl
+
+SubcaptExtraLt,   SubcaptLt,       Subcapt,      SubcaptSemibd,    SubcaptBold,     SubcaptHeavy      (6pt "Nonpareille") 74.1% from Regular to Pearl
+
+PearlExtraLt,     PearlLt,         Pearl,        PearlSemibd,      PearlBold,       PearlHeavy        (5pt)
+5R->5H 95.7%      5R->5H 69.2%     5R->5H 37.0%  5R->5G 2.0%       5R->5G 51.0%     5R->5G 110.3%
