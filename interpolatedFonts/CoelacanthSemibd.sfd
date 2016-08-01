@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1470082863
+ModificationTime: 1470084801
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -170,7 +170,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 13 6
+WinInfo: 64 8 2
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -25434,7 +25434,7 @@ Encoding: 8592 8592 1301
 Width: 761
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 1303 8594 S -1 0 0 -1 761.2 491 2
@@ -40870,7 +40870,7 @@ StartChar: oslashacute.smcp
 Encoding: 57827 57827 2188
 Width: 651
 VWidth: 1159
-Flags: HW
+Flags: W
 HStem: -5.6 40.9<271.034 427.015> 461.7 39.2<230.39 375.856> 562.752 229.422
 VStem: 52.1 82.5<180.762 335.941> 292.074 176.63 509.9 89.1<144.602 324.626>
 LayerCount: 2

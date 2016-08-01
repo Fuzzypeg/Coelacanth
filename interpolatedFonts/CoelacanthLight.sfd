@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1470083107
+ModificationTime: 1470084873
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -25442,7 +25442,7 @@ Encoding: 8592 8592 1301
 Width: 761
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 1303 8594 S -1 0 0 -1 761.2 491 2
@@ -40900,7 +40900,7 @@ StartChar: oslashacute.smcp
 Encoding: 57827 57827 2188
 Width: 651
 VWidth: 1159
-Flags: HW
+Flags: W
 HStem: -5.6 40.9<271.034 427.015> 461.7 39.2<230.39 375.856> 566.791 222.25
 VStem: 52.1 82.5<180.762 335.941> 293.57 164.126 509.9 89.1<144.602 324.626>
 LayerCount: 2
