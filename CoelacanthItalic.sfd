@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1416444197
-ModificationTime: 1465250958
+ModificationTime: 1478999951
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -30531,7 +30531,7 @@ SplineSet
  76.3974609375 470.071289062 63.294921875 493.31640625 71.0927734375 530 c 0
  78.7744140625 566.139648438 106.465820312 615.150390625 181.188476562 681 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 EndChars
 EndSplineFont
