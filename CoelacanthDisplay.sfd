@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1468572252
+ModificationTime: 1494826890
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -170,7 +170,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 260 10 4
+WinInfo: 170 10 4
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -191,7 +191,7 @@ Grid
   Named: "Cap"
 EndSplineSet
 TeXData: 1 62914560 0 214958 107479 71652 419430 1048576 71652 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "BottomMark" "mkmk-1" "TopMark" "mkmk-1" "TopRight" "mark-topright" "Horn" "mark-horn" "Middle" "mark-middle" "Ogonek" "mark-ogonek" "Bottom" "mark-bottom" "Top" "mark-top" 
+AnchorClass2: "BottomMark" "mkmk-1" "TopMark" "mkmk-1" "TopRight" "mark-topright" "Horn" "mark-horn" "Middle" "mark-middle" "Ogonek" "mark-ogonek" "Bottom" "mark-bottom" "Top" "mark-top"
 BeginChars: 65541 2546
 
 StartChar: a
@@ -1011,7 +1011,6 @@ SplineSet
  221 354 152 325 152 293 c 3
  152 262 151 230 151 199 c 0x28
 EndSplineSet
-Validated: 33
 Substitution2: "case-1" R
 Substitution2: "pcap-1" r.pcap
 Substitution2: "smcp-1" r.smcp
@@ -3729,7 +3728,7 @@ StartChar: uni030B
 Encoding: 779 779 102
 Width: 0
 VWidth: 1159
-Flags: HWO
+Flags: HW
 AnchorPoint: "Top" -198.5 465 mark 0
 LayerCount: 2
 Back
@@ -4676,7 +4675,6 @@ LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 349 56 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" racute.smcp
 Substitution2: "case-1" Racute
 Substitution2: "pcap-1" racute.pcap
@@ -4693,7 +4691,6 @@ LayerCount: 2
 Fore
 Refer: 103 780 N 1 0 0 1 349 57 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" rcaron.smcp
 Substitution2: "case-1" Rcaron
 Substitution2: "pcap-1" rcaron.pcap
@@ -6993,7 +6990,6 @@ LayerCount: 2
 Fore
 Refer: 275 806 N 1 0 0 1 326 0 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" rcommaaccent.smcp
 Substitution2: "case-1" Rcommaaccent
 Substitution2: "pcap-1" rcommaaccent.pcap
@@ -11087,7 +11083,6 @@ LayerCount: 2
 Fore
 Refer: 104 783 N 1 0 0 1 352 60 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "salt-1" uni0211.alt
 EndChar
 
@@ -11117,7 +11112,6 @@ LayerCount: 2
 Fore
 Refer: 109 785 N 1 0 0 1 352 72 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0216
@@ -12422,7 +12416,6 @@ LayerCount: 2
 Fore
 Refer: 49 775 N 1 0 0 1 352 76 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E5B
@@ -12438,7 +12431,6 @@ LayerCount: 2
 Fore
 Refer: 272 803 N 1 0 0 1 326 0 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E5E
@@ -12467,7 +12459,6 @@ LayerCount: 2
 Fore
 Refer: 532 817 N 1 0 0 1 326 0 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E60
@@ -17221,7 +17212,6 @@ LayerCount: 2
 Fore
 Refer: 101 772 S 1 0 0 1 352 72 2
 Refer: 584 7771 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E68
@@ -29951,7 +29941,6 @@ LayerCount: 2
 Fore
 Refer: 104 783 N 0.984808 -0.173648 0.173648 0.984808 304.703 22.1297 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: angleleft
