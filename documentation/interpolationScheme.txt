@@ -20,3 +20,9 @@ SubcaptExtraLt,   SubcaptLt,       Subcapt,      SubcaptSemibd,    SubcaptBold, 
 
 PearlExtraLt,     PearlLt,         Pearl,        PearlSemibd,      PearlBold,       PearlHeavy        (5pt)
 5R->5H 95.7%      5R->5H 69.2%     5R->5H 37.0%  5R->5G 2.0%       5R->5G 51.0%     5R->5G 110.3%
+
+
+====================================================================
+PETITECAPS
+
+To generate 60Reg petitecaps, I interpolated 60Reg with 14Gross 45%, then scaled the capitals uniformly to 56.7%. I then adjusted serifs (most were about 3 units too thick, a few were too thin) and thinned most of the thin strokes by about 4 units. Then of course spacing had to be adjusted.
