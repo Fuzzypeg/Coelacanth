@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1495573608
+ModificationTime: 1495575668
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -170,11 +170,11 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 299 13 5
+WinInfo: 39 13 5
 BeginPrivate: 6
-StdHW 4 [32]
+StdHW 4 [56]
 StemSnapH 13 [26 32 37 43]
-StdVW 4 [70]
+StdVW 5 [112]
 StemSnapV 13 [31 64 70 88]
 BlueValues 25 [498 518 562 582 673 693]
 OtherBlues 7 [-16 4]
@@ -1485,7 +1485,7 @@ StartChar: E
 Encoding: 69 69 30
 Width: 683
 VWidth: 1159
-Flags: HW
+Flags: HWO
 HStem: -21 67<95.8006 142.195> -4 69<254.078 527.324> 319 68<254.103 468.74> 623 69<85.251 143.32 256.761 504.477> 680 20G<557.629 580.623>
 VStem: 144 111<65.9855 318.377 387.279 621.235> 480 63<274.377 319.029 388.232 432.565> 519 59<556.141 614.996>
 AnchorPoint: "Top" 349 679 basechar 0
@@ -1514,7 +1514,7 @@ SplineSet
  430 305 308 304 252 305 c 1
  252 218 251 153 253 95 c 0
  253 80 260 78 266 78 c 0
- 305 78 342 77 377 77 c 1
+ 305 78 342 77 377 77 c 7
  415 77 450 78 484 79 c 0
  522 81 532 100 568 164 c 1
  627 141 l 1
