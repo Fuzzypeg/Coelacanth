@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1496096529
+ModificationTime: 1496099032
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -167,10 +167,10 @@ DesignSize: 600 330-720 1 1033 "Regular"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -72
+DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 58050 18 7
+WinInfo: 57990 10 4
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -24855,7 +24855,7 @@ HStem: -5 37<196.003 313.637> 374 47<173.241 297.231>
 VStem: 32 61<136.013 275.84>
 LayerCount: 2
 Fore
-Refer: 1192 57996 S 1 0 0 1 181 0 2
+Refer: 1192 57996 S 1 0 0 1 191 0 2
 Refer: 2 99 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ckreska.smcp
 Substitution2: "pcap-1" ckreska.pcap
@@ -24887,7 +24887,7 @@ AnchorPoint: "Middle" 255 206 basechar 0
 AnchorPoint: "Bottom" 249 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1192 57996 N 1 0 0 1 210 0 2
+Refer: 1192 57996 S 1 0 0 1 216 0 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" okreska.smcp
 Substitution2: "pcap-1" okreska.pcap
@@ -24902,7 +24902,7 @@ HStem: -12 24<117.158 219.742> 375 22<139.721 212.745>
 VStem: 27 12<99.8773 105.5> 47 55<268.488 340.402> 256 56<45.0788 127.078> 278 10<304.6 311.805>
 LayerCount: 2
 Fore
-Refer: 1192 57996 N 1 0 0 1 135 0 2
+Refer: 1192 57996 S 1 0 0 1 138 0 2
 Refer: 18 115 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" skreska.smcp
 Substitution2: "pcap-1" skreska.pcap
@@ -24917,7 +24917,7 @@ HStem: 1 24<125 203.889 257.601 340.965> 374 20<92.9061 311> 383 20G<36 62 380.5
 VStem: 418 15<101.5 122>
 LayerCount: 2
 Fore
-Refer: 1192 57996 N 1 0 0 1 185 0 2
+Refer: 1192 57996 S 1 0 0 1 179 0 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" zkreska.smcp
 Substitution2: "pcap-1" zkreska.pcap
@@ -24932,7 +24932,7 @@ HStem: -12 26<345.649 498.05> 697 30<308.728 483.108>
 VStem: 23 90<225.853 484.692> 600 20<550.9 621.644> 625 21<128.174 155>
 LayerCount: 2
 Fore
-Refer: 1193 57997 N 1 0 0 1 367 0 2
+Refer: 1193 57997 S 1 0 0 1 371 0 2
 Refer: 28 67 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" ckreska.smcp
@@ -24948,7 +24948,7 @@ HStem: -11 20<243.349 292.7> 685 17.2427<818.699 862> 690.5 20.5<29 67.9982 632 
 VStem: 126.655 39.3449<44.7657 588.27> 738 38<153 299.352> 746.209 39.7912<396.818 626.255> 759 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 1193 57997 N 1 0 0 1 367 0 2
+Refer: 1193 57997 S 1 0 0 1 429 0 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" nkreska.smcp
@@ -24964,7 +24964,7 @@ HStem: -16 33<341.371 514.276> 685 33<297.104 456.595>
 VStem: 23 82<266.508 463.741> 689 82<227.806 435.778>
 LayerCount: 2
 Fore
-Refer: 1193 57997 N 1 0 0 1 365 0 2
+Refer: 1193 57997 S 1 0 0 1 357 0 2
 Refer: 40 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" okreska.smcp
@@ -24980,7 +24980,7 @@ HStem: -14 32<191.142 375.847> -5 21G<52 71.5> 683 21<223.309 353.769>
 VStem: 52 19<-2 14.1074> 64 66<479.982 592.81> 439 70<90.2823 217.985> 476 14<539.966 567.52 688.109 697.5>
 LayerCount: 2
 Fore
-Refer: 1193 57997 N 1 0 0 1 250 0 2
+Refer: 1193 57997 S 1 0 0 1 244 0 2
 Refer: 44 83 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" skreska.smcp
@@ -24995,7 +24995,7 @@ Flags: HW
 HStem: 0 36<160 577.489> 649 36.951<430.453 552> 656 34<118.052 547.612> 698.453 20G<63.375 79>
 LayerCount: 2
 Fore
-Refer: 1193 57997 S 1 0 0 1 304 0 2
+Refer: 1193 57997 S 1 0 0 1 311 0 2
 Refer: 58 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" zkreska.smcp
@@ -46279,7 +46279,7 @@ HStem: -6 29<245.082 356.638> 301 101<393 438> 387 27<231.619 347.46>
 VStem: 56 86<120.275 291.515> 393 24<302.184 348.314> 422 21<91.7148 107>
 LayerCount: 2
 Fore
-Refer: 1192 57996 S 1 0 0 1 245 0 2
+Refer: 1192 57996 S 1 0 0 1 224 0 2
 Refer: 645 57349 N 1 0 0 1 0 0 3
 EndChar
 
@@ -46292,7 +46292,7 @@ HStem: -10 30<63.125 100.174 181.639 220.167> 380 25<506.583 536> 390 20G<392.4 
 VStem: 116.523 41.4775<36.7797 310.125> 455 30<130.503 238.479> 469 24<-6.04167 11.8909>
 LayerCount: 2
 Fore
-Refer: 1192 57996 S 1 0 0 1 263 0 2
+Refer: 1192 57996 S 1 0 0 1 257 0 2
 Refer: 656 57360 N 1 0 0 1 0 0 3
 EndChar
 
@@ -46305,7 +46305,7 @@ HStem: -5 37<240.993 370.228> 378 35<202.127 322.544>
 VStem: 56 78<146.969 286.001> 428 84<111.049 270.5>
 LayerCount: 2
 Fore
-Refer: 1192 57996 S 1 0 0 1 241 0 2
+Refer: 1192 57996 S 1 0 0 1 233 0 2
 Refer: 657 57361 N 1 0 0 1 0 0 3
 EndChar
 
@@ -46330,7 +46330,7 @@ Flags: HW
 HStem: -4 31<169.416 334.724> 374 29<125.908 333.172> 404 20G<79.5 97>
 LayerCount: 2
 Fore
-Refer: 1192 57996 N 1 0 0 1 211 0 2
+Refer: 1192 57996 S 1 0 0 1 200 0 2
 Refer: 668 57372 N 1 0 0 1 0 0 3
 EndChar
 
