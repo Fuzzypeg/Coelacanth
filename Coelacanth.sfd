@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1495704068
+ModificationTime: 1496174743
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -171,7 +171,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 91 13 5
+WinInfo: 57759 13 5
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -21755,7 +21755,7 @@ Fore
 SplineSet
 23 -192 m 1
  44.2734375 -51.5732421875 55.2822265625 89.421875 71.0234375 244 c 0
- 94.640625 475.918945312 155.305664062 711 298 711 c 7
+ 94.640625 475.918945312 155.305664062 711 298 711 c 3
  379.883789062 711 433 637.831054688 433 558 c 27
  433 410.487304688 305 267 199 261 c 1
  178 264 160 288 157 309 c 1
@@ -21766,9 +21766,10 @@ SplineSet
  74 93 75 102 76 117 c 1
  131 60 184.0234375 9 271 9 c 27
  350.90625 9 403 51 403 165 c 3
- 403 248.294921875 340 303 247 309 c 1
+ 403 242.488606002 348.477068863 295.234321814 266.000004698 307.042068617 c 1
+ 247 309 l 1
  319 345 358 433.670898438 358 531 c 27
- 358 588.21875 347.036132812 654 277 654 c 7
+ 358 588.21875 347.036132812 654 277 654 c 3
  157 654 70 199 94 -204 c 1
  67.9111328125 -202.762695312 40.4296875 -203.112304688 23 -192 c 1
 EndSplineSet
@@ -21855,7 +21856,8 @@ SplineSet
  291 335 264 341 210 341 c 3
  168 341 123 326 123 288 c 3
  123 256 163 233 217 214 c 1
- 152 198 111 177 111 136 c 3
+ 213.25247236 213.077531658 209.584721079 212.13844324 206.000004102 211.179860093 c 1
+ 147.408634361 195.512040301 111 174.636174873 111 136 c 3
  111 86 166 66 218 66 c 3
  277 66 311 81 363 102 c 1
  369 94 377 61 378 47 c 1
@@ -24201,7 +24203,7 @@ Width: 417
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
 InSpiro: 1
-Flags: W
+Flags: HW
 HStem: 490.951 225.517
 VStem: 228.89 169.822
 AnchorPoint: "Bottom" 207 -15 basechar 0
@@ -24762,7 +24764,7 @@ GlifName: uni1F_72
 Width: 417
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 486.175 225.516
 VStem: 107.014 169.82
 AnchorPoint: "Bottom" 207 -15 basechar 0
@@ -24778,7 +24780,7 @@ GlifName: uni1F_73
 Width: 417
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 490.951 225.517
 VStem: 220.89 169.822
 AnchorPoint: "Bottom" 207 -15 basechar 0
@@ -25271,7 +25273,7 @@ GlifName: uni1F_10
 Width: 417
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 494 22<211.2 254.393> 618.8 74<235.201 276.824>
 VStem: 284.2 45<531.916 605.114>
 AnchorPoint: "Bottom" 207 -15 basechar 0
@@ -25287,7 +25289,7 @@ GlifName: uni1F_11
 Width: 417
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 495 22<242.306 285.499> 619.8 74<218.808 261.498>
 VStem: 167.499 44<533.962 605.962>
 AnchorPoint: "Bottom" 207 -15 basechar 0
@@ -25501,7 +25503,7 @@ GlifName: uni1F_12
 Width: 417
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 495 22<122.336 165.529> 619.8 74<146.337 187.96>
 VStem: 195.336 45<532.916 606.114>
 AnchorPoint: "Bottom" 207 -15 basechar 0
@@ -25517,7 +25519,7 @@ GlifName: uni1F_13
 Width: 417
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 495 22<166.306 209.499> 619.8 74<142.808 185.498>
 VStem: 91.499 44<533.962 605.962>
 AnchorPoint: "Bottom" 207 -15 basechar 0
@@ -25536,7 +25538,7 @@ GlifName: uni1F_14
 Width: 417
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 491.951 225.517 501 22<146.336 189.529> 625.8 74<170.337 211.96>
 VStem: 219.336 45<538.916 612.114> 275.89 169.822
 AnchorPoint: "Bottom" 207 -15 basechar 0
@@ -25552,7 +25554,7 @@ GlifName: uni1F_15
 Width: 417
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 491.951 225.517 495 22<177.306 220.499> 619.8 74<153.808 196.498>
 VStem: 102.499 44<533.962 605.962> 251.89 169.822
 AnchorPoint: "Bottom" 207 -15 basechar 0
@@ -36718,11 +36720,10 @@ Encoding: 57470 57470 1744
 GlifName: clickdental.pcap
 Width: 198
 VWidth: 1515
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 325 124 N 1 0 0 0.461704 20 63.9601 2
-Validated: 1
+Refer: 325 124 S 1 0 0 0.461704 20 87.9601 2
 EndChar
 
 StartChar: dollar.alt
@@ -36765,12 +36766,11 @@ Encoding: 57471 57471 1746
 GlifName: clicklateral.pcap
 Width: 313
 VWidth: 1515
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1744 57470 N 1 0 0 1 115 0 2
 Refer: 1744 57470 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: clickalveolar.pcap
@@ -36779,13 +36779,13 @@ GlifName: clickalveolar.pcap
 Width: 378
 VWidth: 1515
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 124 53.9999<60 318> 245 53.9999<60 318>
 LayerCount: 2
 Fore
 Refer: 1971 58114 N 0.258 0 0 1.17391 60 272 2
 Refer: 1971 58114 N 0.258 0 0 1.17391 60 151 2
-Refer: 1744 57470 N 1 0 0 1 90 0 2
+Refer: 1744 57470 N 1 0 0 1 90 1 2
 EndChar
 
 StartChar: uni021C
@@ -45214,11 +45214,10 @@ Encoding: 57794 57794 2155
 GlifName: clickdental.smcp
 Width: 198
 VWidth: 1515
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 325 124 S 1 0 0 0.534134 20 75.1143 2
-Validated: 1
+Refer: 325 124 S 1 0 0 0.534134 20 103.114 2
 EndChar
 
 StartChar: clicklateral.smcp
@@ -45226,12 +45225,11 @@ Encoding: 57795 57795 2156
 GlifName: clicklateral.smcp
 Width: 313
 VWidth: 1515
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 2155 57794 N 1 0 0 1 115 0 2
 Refer: 2155 57794 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: clickalveolar.smcp
@@ -45240,7 +45238,7 @@ GlifName: clickalveolar.smcp
 Width: 378
 VWidth: 1515
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 157 53.9999<60 318> 278 53.9999<60 318>
 LayerCount: 2
 Fore
