@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1496174743
+ModificationTime: 1496272346
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -171,7 +171,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 57759 13 5
+WinInfo: 8580 15 7
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -190,7 +190,7 @@ Grid
 EndSplineSet
 TeXData: 1 14680064 0 214958 107479 71652 419430 1048576 71652 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "BottomMark" "mkmk-1" "TopMark" "mkmk-1" "TopRight" "mark-topright" "Horn" "mark-horn" "Middle" "mark-middle" "Ogonek" "mark-ogonek" "Bottom" "mark-bottom" "Top" "mark-top"
-BeginChars: 65542 2610
+BeginChars: 65542 2614
 
 StartChar: a
 Encoding: 97 97 0
@@ -55848,6 +55848,54 @@ SplineSet
 EndSplineSet
 Refer: 48 46 N 1 0 0 1 18 0 2
 Validated: 33
+EndChar
+
+StartChar: uni2196
+Encoding: 8598 8598 2610
+Width: 572
+VWidth: 1159
+Flags: HW
+HStem: 454 267
+VStem: 20 289
+LayerCount: 2
+Fore
+Refer: 1302 8593 N 0.707107 0.707107 -0.707107 0.707107 420.093 -105.731 2
+EndChar
+
+StartChar: uni2197
+Encoding: 8599 8599 2611
+Width: 572
+VWidth: 1159
+Flags: HW
+HStem: 454 267
+VStem: 20 289
+LayerCount: 2
+Fore
+Refer: 1302 8593 N 0.707107 -0.707107 0.707107 0.707107 -80.5387 126.907 2
+EndChar
+
+StartChar: uni2198
+Encoding: 8600 8600 2612
+Width: 572
+VWidth: 1159
+Flags: HW
+HStem: -199.192 267
+VStem: 263.192 289
+LayerCount: 2
+Fore
+Refer: 1302 8593 N -0.707107 -0.707107 0.707107 -0.707107 152.099 627.539 2
+EndChar
+
+StartChar: uni2199
+Encoding: 8601 8601 2613
+Width: 572
+VWidth: 1159
+Flags: HW
+HStem: 454 267
+VStem: 20 289
+LayerCount: 2
+Fore
+Refer: 1302 8593 N -0.707107 0.707107 -0.707107 -0.707107 652.731 394.901 2
 EndChar
 EndChars
 EndSplineFont
