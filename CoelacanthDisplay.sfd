@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1496698501
+ModificationTime: 1496701886
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -170,7 +170,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60 10 4
+WinInfo: 8370 10 4
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -202,7 +202,7 @@ Flags: HMW
 HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.099 224.5>
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 AnchorPoint: "Bottom" 198 -15 basechar 0
-AnchorPoint: "Top" 186 489 basechar 0
+AnchorPoint: "Top" 195 489 basechar 0
 AnchorPoint: "Ogonek" 339 18 basechar 0
 LayerCount: 2
 Fore
@@ -252,7 +252,7 @@ VWidth: 1159
 Flags: HMW
 HStem: -12 29<169.699 271.885> -7 21G<31 45> 370 35<184.53 286.926> 667 7<-12 -5.3772>
 VStem: 50 58<53.7357 347.497 352 575.344> 381 65<127.855 267.145>
-AnchorPoint: "Bottom" 201 -15 basechar 0
+AnchorPoint: "Bottom" 226 -15 basechar 0
 AnchorPoint: "Top" 77 749 basechar 0
 LayerCount: 2
 Fore
@@ -574,13 +574,12 @@ StartChar: j
 Encoding: 106 106 9
 Width: 229
 VWidth: 1159
-Flags: W
+Flags: HW
 VStem: -46 27<-331 -293> 63 68<-160 327>
 LayerCount: 2
 Fore
 Refer: 49 775 N 1 0 0 1 359 121 2
 Refer: 52 567 N 1 0 0 1 -19 0 2
-Validated: 1
 Substitution2: "case-1" J
 Substitution2: "salt-1" j.alt
 Substitution2: "pcap-1" j.pcap
@@ -1021,10 +1020,10 @@ StartChar: s
 Encoding: 115 115 18
 Width: 341
 VWidth: 1159
-Flags: HMW
+Flags: HMWO
 HStem: -12 24<117.158 219.742> 375 22<139.721 212.745>
 VStem: 27 12<99.8773 105.5> 47 55<268.488 340.402> 256 56<45.0788 127.078> 278 10<304.6 311.805>
-AnchorPoint: "Bottom" 169 -15 basechar 0
+AnchorPoint: "Bottom" 176 -15 basechar 0
 AnchorPoint: "Top" 180.5 500 basechar 0
 LayerCount: 2
 Fore
@@ -1060,7 +1059,7 @@ VWidth: 1159
 Flags: HMW
 HStem: -6 40<169.156 248.814> 364 28<149 310> 364 9<30 34.6045>
 VStem: 81 65<56.2268 364> 151 10<471.112 477.4>
-AnchorPoint: "Bottom" 153 -15 basechar 0
+AnchorPoint: "Bottom" 174 -15 basechar 0
 AnchorPoint: "Top" 145.5 500 basechar 0
 AnchorPoint: "TopRight" 313 531 basechar 0
 LayerCount: 2
@@ -1181,7 +1180,7 @@ VWidth: 1159
 Flags: HMW
 HStem: 371 15<-1 31.5327> 378 13<242 270.92> 389 11<411.766 427.091 512.2 519.347>
 AnchorPoint: "Bottom" 300 -15 basechar 0
-AnchorPoint: "Top" 303 498 basechar 0
+AnchorPoint: "Top" 334 498 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1291,7 +1290,7 @@ VWidth: 1159
 Flags: HMW
 HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84>
 AnchorPoint: "Bottom" 287 -15 basechar 0
-AnchorPoint: "Top" 208.5 485.3 basechar 0
+AnchorPoint: "Top" 225.5 485.3 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -1360,7 +1359,7 @@ StartChar: z
 Encoding: 122 122 25
 Width: 441
 VWidth: 1159
-Flags: HMWO
+Flags: HMW
 HStem: 1 24<125 203.889 257.601 340.965> 374 20<92.9061 311> 383 20G<36 62 380.5 419>
 VStem: 418 15<101.5 122>
 AnchorPoint: "Bottom" 218 -15 basechar 0
@@ -1919,8 +1918,8 @@ VWidth: 1159
 Flags: HW
 HStem: -7 19<36 85.6652 238.157 296 689.5 722.257> -1 22<927.234 984> 675 20<39 117.171 904.146 978>
 VStem: 799 78<350.25 578> 804 81<57.3892 366.812>
+AnchorPoint: "Top" 528 695 basechar 0
 AnchorPoint: "Bottom" 502 -15 basechar 0
-AnchorPoint: "Top" 523 625 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1970,8 +1969,8 @@ VWidth: 1159
 Flags: HW
 HStem: -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.5<36 74.9982 639 702.908>
 VStem: 133.655 39.3449<44.7657 588.27> 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
-AnchorPoint: "Bottom" 444 -15 basechar 0
-AnchorPoint: "Top" 461 699 basechar 0
+AnchorPoint: "Top" 463 695 basechar 0
+AnchorPoint: "Bottom" 449 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2120,7 +2119,7 @@ VWidth: 1159
 Flags: HMW
 HStem: -34 18<715.141 760> -15 21<238.873 275.333> 333 25<190.186 311.406> 678 21<31 89.864>
 VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 469 86<439.59 588.412>
-AnchorPoint: "Bottom" 318 -15 basechar 0
+AnchorPoint: "Bottom" 358 -15 basechar 0
 AnchorPoint: "Top" 315 684 basechar 0
 LayerCount: 2
 Fore
@@ -2166,7 +2165,7 @@ VWidth: 1159
 Flags: HW
 HStem: -14 32<191.142 375.847> -5 21G<52 71.5> 683 21<223.309 353.769>
 VStem: 52 19<-2 14.1074> 64 66<479.982 592.81> 439 70<90.2823 217.985> 476 14<539.966 567.52 688.109 697.5>
-AnchorPoint: "Bottom" 272 -15 basechar 0
+AnchorPoint: "Bottom" 287 -15 basechar 0
 AnchorPoint: "Top" 285 675 basechar 0
 LayerCount: 2
 Fore
@@ -2337,6 +2336,7 @@ VWidth: 1159
 Flags: HMW
 HStem: -7 33<15 69 166 236>
 VStem: 79 71<57 330>
+AnchorPoint: "Top" 128.5 526 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2346,8 +2346,8 @@ SplineSet
  205.543496778 14.6893558567 226 11.75 241 10 c 1
  242 -3 l 1
  222.647058823 -2.66666666667 169.800262573 1 148 1 c 3
- 106.898876405 1 69.7752808989 -1.47619047619 30 -3 c 5
- 28 -1.25 28 3.125 30 11 c 5
+ 106.898876405 1 69.7752808989 -1.47619047619 30 -3 c 1
+ 28 -1.25 28 3.125 30 11 c 1
  69 16 l 0
  79 18.0061919505 82.2287572269 23.6677504903 84 34 c 0
  92.5714285714 84 96 132 96 185 c 3
@@ -2360,7 +2360,6 @@ SplineSet
  168 402 164 383 162 363 c 0
  157 313 155 258 155 209 c 3
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" I
 Substitution2: "pcap-1" i.pcap
 Substitution2: "smcp-1" i.smcp
@@ -2428,30 +2427,30 @@ StartChar: uni0237
 Encoding: 567 567 52
 Width: 271
 VWidth: 1159
-Flags: MW
+Flags: HMW
 VStem: -27 27<-331 -293> 82 68<-160 327>
+AnchorPoint: "Top" 149.5 526 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-25 -333 m 5
- 25 -303 40 -273 54 -253 c 4
- 75 -223 101 -195 111 -157 c 4
- 123 -111 124 1 124 77 c 7
- 124 135 123 192 119 250 c 4
- 118 283 115 330 79 330 c 7
- 69 330 57 327 47 325 c 5
- 43 338 l 5
- 101 359 148 390 186 424 c 5
- 200 416 l 5
- 190 394 187 364 187 342 c 4
- 186 295 185 247 185 200 c 4
- 184 86 183 -29 182 -145 c 4
- 182 -166 176 -180 166 -192 c 4
- 145 -220 119 -246 91 -268 c 4
- 70 -284 48 -297 42 -338 c 5
- 25 -333 l 5
+25 -333 m 1
+ 25 -303 40 -273 54 -253 c 0
+ 75 -223 101 -195 111 -157 c 0
+ 123 -111 124 1 124 77 c 3
+ 124 135 123 192 119 250 c 0
+ 118 283 115 330 79 330 c 3
+ 69 330 57 327 47 325 c 1
+ 43 338 l 1
+ 101 359 148 390 186 424 c 1
+ 200 416 l 1
+ 190 394 187 364 187 342 c 0
+ 186 295 185 247 185 200 c 0
+ 184 86 183 -29 182 -145 c 0
+ 182 -166 176 -180 166 -192 c 0
+ 145 -220 119 -246 91 -268 c 0
+ 70 -284 48 -297 42 -338 c 1
+ 25 -333 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: U
@@ -2504,8 +2503,8 @@ Width: 805
 VWidth: 1159
 Flags: HW
 HStem: 683 21<5 53.7285 187.178 249 602.526 647.654 761.845 800>
+AnchorPoint: "Top" 423 695 basechar 0
 AnchorPoint: "Bottom" 407 -15 basechar 0
-AnchorPoint: "Top" 411 662 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2653,8 +2652,8 @@ VWidth: 1159
 Flags: HW
 HStem: -12 21.5<252.512 307.555 485.31 522.5> 690 18<14.5 68.8147 217.388 278 687.535 725.5> 696.5 20G<497.167 523.25>
 VStem: 345.5 83<27.9743 355.681>
+AnchorPoint: "Top" 385 695 basechar 0
 AnchorPoint: "Bottom" 387 -15 basechar 0
-AnchorPoint: "Top" 378.5 669 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3546,7 +3545,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956> 509.3 15
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 184.5 177
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 410.5 15.3 2
+Refer: 92 769 N 1 0 0 1 413.68 21.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" eacute.pcap
 Substitution2: "case-1" Eacute
@@ -3625,7 +3624,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956> 510.3 15
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 60.5 177
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 410.5 16.3 2
+Refer: 94 768 N 1 0 0 1 413.68 22.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" egrave.pcap
 Substitution2: "case-1" Egrave
@@ -3792,8 +3791,8 @@ StartChar: uni030F
 Encoding: 783 783 104
 Width: 0
 VWidth: 1159
-Flags: W
-AnchorPoint: "Top" -198.5 525 mark 0
+Flags: HW
+AnchorPoint: "Top" -198.5 465 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -3811,7 +3810,6 @@ EndSplineSet
 Fore
 Refer: 94 768 N 0.939693 -0.34202 0.34202 0.939693 -162.906 -24.5365 2
 Refer: 94 768 N 0.984808 -0.173648 0.173648 0.984808 -141.109 -28.0343 2
-Validated: 1
 EndChar
 
 StartChar: uni0306
@@ -3980,7 +3978,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 34.5 177 49 59<315.642 355.233> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 384.5 20 2
+Refer: 94 768 N 1 0 0 1 393.5 20 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" agrave.pcap
 Substitution2: "case-1" Agrave
@@ -3996,7 +3994,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 158.5 177 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 384.5 19 2
+Refer: 92 769 N 1 0 0 1 393.5 19 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" aacute.pcap
 Substitution2: "case-1" Aacute
@@ -4012,7 +4010,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 84.5 205 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 384.5 20 2
+Refer: 93 770 N 1 0 0 1 393.5 20 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" acircumflex.pcap
 Substitution2: "case-1" Acircumflex
@@ -4028,7 +4026,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 73.833 227.589 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 396 47 2
+Refer: 100 771 N 1 0 0 1 405 47 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" atilde.pcap
 Substitution2: "case-1" Atilde
@@ -4044,7 +4042,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 384.5 40 2
+Refer: 97 776 N 1 0 0 1 393.5 40 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" adieresis.pcap
 Substitution2: "case-1" Adieresis
@@ -4060,7 +4058,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 109.049 21.6846<561.554 626.506> 242.267 21.6846<563.494 627.339> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 98 778 N 1 0 0 1 384.5 34 2
+Refer: 98 778 N 1 0 0 1 393.5 34 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" aring.pcap
 Substitution2: "case-1" Aring
@@ -4076,7 +4074,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956> 507.3 16
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 110.5 205
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 410.5 16.3 2
+Refer: 93 770 N 1 0 0 1 413.68 22.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ecircumflex.pcap
 Substitution2: "case-1" Ecircumflex
@@ -4092,7 +4090,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956>
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 410.5 36.3 2
+Refer: 97 776 N 1 0 0 1 413.68 42.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" edieresis.pcap
 Substitution2: "case-1" Edieresis
@@ -4103,14 +4101,13 @@ StartChar: igrave
 Encoding: 236 236 122
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 548 159
 VStem: -53 177 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 297 54 2
+Refer: 94 768 N 1 0 0 1 327 57 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" igrave.pcap
 Substitution2: "salt-1" igrave.alt
 Substitution2: "case-1" Igrave
@@ -4121,14 +4118,13 @@ StartChar: iacute
 Encoding: 237 237 123
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 548 159
 VStem: 79 71<57 330> 104 177
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 330 54 2
+Refer: 92 769 N 1 0 0 1 327 56 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" iacute.pcap
 Substitution2: "case-1" Iacute
 Substitution2: "smcp-1" iacute.smcp
@@ -4138,14 +4134,13 @@ StartChar: icircumflex
 Encoding: 238 238 124
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 548 162
 VStem: 11.5 205 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 311.5 57 2
+Refer: 93 770 N 1 0 0 1 327 57 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" icircumflex.pcap
 Substitution2: "case-1" Icircumflex
 Substitution2: "smcp-1" icircumflex.smcp
@@ -4155,14 +4150,13 @@ StartChar: idieresis
 Encoding: 239 239 125
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236>
 VStem: 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 311.414 18.0439 2
+Refer: 97 776 N 1 0 0 1 327 77 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" idieresis.pcap
 Substitution2: "case-1" Idieresis
 Substitution2: "smcp-1" idieresis.smcp
@@ -4322,7 +4316,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 101 772 N 1 0 0 1 384.5 36 2
+Refer: 101 772 N 1 0 0 1 393.5 36 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" amacron.smcp
 Substitution2: "case-1" Amacron
@@ -4338,7 +4332,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 76.4346 11.4004<610.652 617.381> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 384.5 36 2
+Refer: 105 774 N 1 0 0 1 393.5 36 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" abreve.smcp
 Substitution2: "case-1" Abreve
@@ -4420,7 +4414,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956> 539.626 
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702>
 LayerCount: 2
 Fore
-Refer: 101 772 N 1 0 0 1 410.5 32.3 2
+Refer: 101 772 N 1 0 0 1 413.68 38.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" emacron.smcp
 Substitution2: "case-1" Emacron
@@ -4436,7 +4430,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956> 536.283 
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 102.435 11.4004<606.952 613.681>
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 410.5 32.3 2
+Refer: 105 774 N 1 0 0 1 413.68 38.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ebreve.smcp
 Substitution2: "case-1" Ebreve
@@ -4452,7 +4446,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956> 506.3 16
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 110.5 205
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 410.5 16.3 2
+Refer: 103 780 N 1 0 0 1 413.68 22.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ecaron.smcp
 Substitution2: "case-1" Ecaron
@@ -4463,14 +4457,13 @@ StartChar: gcircumflex
 Encoding: 285 285 144
 Width: 447
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -323 40<110.064 270.233> -89 55<147.956 371.536> 347 43<358.789 436.304> 390 26<167.45 250.397> 505 162
 VStem: 18.7773 34<-229.937 -152.098> 40.7773 49<187.132 309.988> 61.7773 68<-23.4815 21.1121> 111.277 205 324.777 60<161.777 315.908> 392.777 46<-204.458 -109.454>
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 411.277 14 2
 Refer: 6 103 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" gcircumflex.smcp
 Substitution2: "case-1" Gcircumflex
 Substitution2: "pcap-1" gcircumflex.pcap
@@ -4480,14 +4473,13 @@ StartChar: gbreve
 Encoding: 287 287 145
 Width: 447
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -323 40<110.064 270.233> -89 55<147.956 371.536> 347 43<358.789 436.304> 390 26<167.45 250.397> 533.983 33.7656<149.624 277.319>
 VStem: 18.7773 34<-229.937 -152.098> 40.7773 49<187.132 309.988> 61.7773 68<-23.4815 21.1121> 103.212 11.4004<604.652 611.381> 324.777 60<161.777 315.908> 392.777 46<-204.458 -109.454>
 LayerCount: 2
 Fore
 Refer: 105 774 N 1 0 0 1 411.277 30 2
 Refer: 6 103 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" gbreve.smcp
 Substitution2: "case-1" Gbreve
 Substitution2: "pcap-1" gbreve.pcap
@@ -4502,7 +4494,7 @@ HStem: -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344 45<229.6
 VStem: 79 60<30.6838 318.111 320 325.711> 141.833 227.589 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 464 49 2
+Refer: 100 771 N 1 0 0 1 457 49 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ntilde.pcap
 Substitution2: "case-1" Ntilde
@@ -4513,14 +4505,13 @@ StartChar: gcommaaccent
 Encoding: 291 291 147
 Width: 447
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -323 40<110.064 270.233> -89 55<147.956 371.536> 347 43<358.789 436.304> 390 26<167.45 250.397> 458.953 187.434
 VStem: 18.7773 34<-229.937 -152.098> 40.7773 49<187.132 309.988> 61.7773 68<-23.4815 21.1121> 160.182 108.5<497.068 529.976> 324.777 60<161.777 315.908> 392.777 46<-204.458 -109.454>
 LayerCount: 2
 Fore
-Refer: 112 786 N 1 0 0 1 411.277 17 2
+Refer: 112 786 N 1 0 0 1 411.277 77 2
 Refer: 6 103 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" gcommaaccent.smcp
 Substitution2: "case-1" Gcommaaccent
 Substitution2: "pcap-1" gcommaaccent.pcap
@@ -4530,14 +4521,13 @@ StartChar: itilde
 Encoding: 297 297 148
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 544 21G<0.206008 19.5982> 552.34 44.667<86.4604 195.749> 577.122 44.2051<36.4606 146.513>
 VStem: 0.206008 227.589 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 322.373 59.0068 2
+Refer: 100 771 N 1 0 0 1 338.5 84 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" itilde.smcp
 Substitution2: "case-1" Itilde
 Substitution2: "pcap-1" itilde.pcap
@@ -4547,14 +4537,13 @@ StartChar: imacron
 Encoding: 299 299 149
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 542.626 38.3479<20 209>
 VStem: 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 101 772 N 1 0 0 1 311 35.2998 2
+Refer: 101 772 N 1 0 0 1 327 73 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" imacron.smcp
 Substitution2: "case-1" Imacron
 Substitution2: "pcap-1" imacron.pcap
@@ -4564,14 +4553,13 @@ StartChar: ibreve
 Encoding: 301 301 150
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 544 33.7656<49.8471 177.542>
 VStem: 3.43457 11.4004<614.669 621.398> 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 311.5 40.0171 2
+Refer: 105 774 N 1 0 0 1 327 73 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" ibreve.smcp
 Substitution2: "case-1" Ibreve
 Substitution2: "pcap-1" ibreve.pcap
@@ -4581,14 +4569,13 @@ StartChar: jcircumflex
 Encoding: 309 309 151
 Width: 271
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 544 162
 VStem: -27 27<-331 -293> 41.5 205 82 68<-160 327>
 LayerCount: 2
 Fore
-Refer: 93 770 S 1 0 0 1 341.5 53 2
+Refer: 93 770 N 1 0 0 1 348 57 2
 Refer: 52 567 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" jcircumflex.smcp
 Substitution2: "case-1" Jcircumflex
 Substitution2: "pcap-1" jcircumflex.pcap
@@ -4603,7 +4590,7 @@ HStem: -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344 45<229.6
 VStem: 79 60<30.6838 318.111 320 325.711> 226.5 177 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 452.5 21 2
+Refer: 92 769 N 1 0 0 1 445.5 21 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" nacute.smcp
 Substitution2: "'locl' Localized Forms Polish-1" nkreska
@@ -4620,7 +4607,7 @@ HStem: -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344 45<229.6
 VStem: 79 60<30.6838 318.111 320 325.711> 152.5 205 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 452.5 22 2
+Refer: 103 780 N 1 0 0 1 445.5 22 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ncaron.smcp
 Substitution2: "case-1" Ncaron
@@ -5100,7 +5087,7 @@ HStem: -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.5<36 74.9982 639 
 VStem: 133.655 39.3449<44.7657 588.27> 324.694 271.867 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 161 58022 N 1 0 0 1 296 0 2
+Refer: 161 58022 N 1 0 0 1 298 -4 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ntilde.pcap
@@ -5261,7 +5248,7 @@ HStem: -12 21.5<252.512 307.555 485.31 522.5> 690 18<14.5 68.8147 217.388 278 68
 VStem: 345.5 83<27.9743 355.681> 368 127
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 314.5 -28 2
+Refer: 90 58018 N 1 0 0 1 321 -4 2
 Refer: 57 89 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" yacute.pcap
@@ -5277,7 +5264,7 @@ HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84> 509.3 159
 VStem: 181 177
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 407 15.3 2
+Refer: 92 769 N 1 0 0 1 424 15.3 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" yacute.pcap
 Substitution2: "case-1" Yacute
@@ -5292,7 +5279,7 @@ Flags: HW
 HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 407 36.3 2
+Refer: 97 776 N 1 0 0 1 424 36.3 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ydieresis.pcap
 Substitution2: "case-1" Ydieresis
@@ -5627,7 +5614,7 @@ HStem: 0 22<28 77.3713> 0 34<201.715 484.694> 680 20<39 87.9227 235.574 290.286>
 VStem: 108 83<42.703 331.175> 112 90<374.826 665.166> 162.5 127 584 21<117.717 142.667>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 109 -22 2
+Refer: 90 58018 N 1 0 0 1 106 -23 2
 Refer: 37 76 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" lacute.pcap
@@ -5643,7 +5630,7 @@ HStem: -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.5<36 74.9982 639 
 VStem: 133.655 39.3449<44.7657 588.27> 453.5 127 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 400 -35 2
+Refer: 90 58018 N 1 0 0 1 399 -4 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "'locl' Localized Forms Polish-1" Nkreska
@@ -5660,7 +5647,7 @@ HStem: -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.5<36 74.9982 639 
 VStem: 133.655 39.3449<44.7657 588.27> 339.495 248.01 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 323 -35 2
+Refer: 167 58028 N 1 0 0 1 322 -4 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ncaron.pcap
@@ -5724,7 +5711,7 @@ HStem: -34 18<715.141 760> -15 21<238.873 275.333> 333 25<190.186 311.406> 678 2
 VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 304.5 127 469 86<439.59 588.412>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 251 -17 2
+Refer: 90 58018 N 1 0 0 1 251 -15 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" racute.pcap
@@ -5740,7 +5727,7 @@ HStem: -34 18<715.141 760> -15 21<238.873 275.333> 333 25<190.186 311.406> 678 2
 VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 190.495 248.01 469 86<439.59 588.412>
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 174 -17 2
+Refer: 167 58028 N 1 0 0 1 174 -15 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" rcaron.pcap
@@ -6045,7 +6032,7 @@ HStem: 371 15<-1 31.5327> 378 13<242 270.92> 389 11<411.766 427.091 512.2 519.34
 VStem: 201.5 205
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 501.5 29 2
+Refer: 93 770 N 1 0 0 1 532.5 29 2
 Refer: 22 119 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" wcircumflex.smcp
 Substitution2: "case-1" Wcircumflex
@@ -6061,7 +6048,7 @@ HStem: -12 21.5<252.512 307.555 485.31 522.5> 690 18<14.5 68.8147 217.388 278 68
 VStem: 254.995 248.01 345.5 83<27.9743 355.681>
 LayerCount: 2
 Fore
-Refer: 159 58020 N 1 0 0 1 238.5 -28 2
+Refer: 159 58020 N 1 0 0 1 245 -4 2
 Refer: 57 89 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ycircumflex.pcap
@@ -6077,7 +6064,7 @@ HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84> 507.3 162
 VStem: 107 205
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 407 16.3 2
+Refer: 93 770 N 1 0 0 1 424 16.3 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ycircumflex.smcp
 Substitution2: "case-1" Ycircumflex
@@ -6093,7 +6080,7 @@ HStem: -12 21.5<252.512 307.555 485.31 522.5> 690 18<14.5 68.8147 217.388 278 68
 VStem: 345.5 83<27.9743 355.681>
 LayerCount: 2
 Fore
-Refer: 163 58024 N 1 0 0 1 228.5 -28 2
+Refer: 163 58024 N 1 0 0 1 235 -4 2
 Refer: 57 89 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ydieresis.pcap
@@ -6109,7 +6096,7 @@ HStem: 0 36<187.25 604.739> 649 36.951<457.703 579.25> 656 34<145.302 574.862> 6
 VStem: 375.75 127
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 322.25 -39 2
+Refer: 90 58018 N 1 0 0 1 322 -39 2
 Refer: 58 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" zacute.pcap
@@ -6126,7 +6113,7 @@ HStem: 1 24<125 203.889 257.601 340.965> 374 20<92.9061 311> 383 20G<36 62 380.5
 VStem: 186 177 418 15<101.5 122>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 412 31 2
+Refer: 92 769 N 1 0 0 1 412 30 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" zacute.smcp
 Substitution2: "'locl' Localized Forms Polish-1" zkreska
@@ -6142,7 +6129,7 @@ Flags: HW
 HStem: 0 36<187.25 604.739> 649 36.951<457.703 579.25> 656 34<145.302 574.862> 698.453 20G<90.625 106.25>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 310.25 -39 2
+Refer: 164 58025 N 1 0 0 1 310 -39 2
 Refer: 58 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" zdotaccent.pcap
@@ -6158,7 +6145,7 @@ HStem: 0 36<187.25 604.739> 649 36.951<457.703 579.25> 656 34<145.302 574.862> 6
 VStem: 261.745 248.01
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 245.25 -39 2
+Refer: 167 58028 N 1 0 0 1 245 -39 2
 Refer: 58 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" zcaron.pcap
@@ -6174,7 +6161,7 @@ HStem: 1 24<125 203.889 257.601 340.965> 374 20<92.9061 311> 383 20G<36 62 380.5
 VStem: 112 205 418 15<101.5 122>
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 412 32 2
+Refer: 103 780 N 1 0 0 1 412 31 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" zcaron.smcp
 Substitution2: "case-1" Zcaron
@@ -6631,7 +6618,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956>
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 410.5 36.3 2
+Refer: 49 775 N 1 0 0 1 413.68 42.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" edotaccent.smcp
 Substitution2: "case-1" Edotaccent
@@ -6664,7 +6651,7 @@ HStem: 1 24<125 203.889 257.601 340.965> 374 20<92.9061 311> 383 20G<36 62 380.5
 VStem: 418 15<101.5 122>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 412 52 2
+Refer: 49 775 N 1 0 0 1 412 51 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" zdotaccent.smcp
 Substitution2: "case-1" Zdotaccent
@@ -6679,11 +6666,11 @@ UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -5 37<196.003 313.637> 374 47<173.241 297.231>
 VStem: 32 61<136.013 275.84> 226 62.4277<-164.273 -94.0566>
-AnchorPoint: "Top" 231 465 basechar 0
+AnchorPoint: "Top" 233 493 basechar 0
 AnchorPoint: "Bottom" 228 -207 basechar 0
 LayerCount: 2
 Fore
-Refer: 268 807 S 1 0 0 1 421 0 2
+Refer: 268 807 N 1 0 0 1 412 0 2
 Refer: 2 99 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ccedilla.pcap
 Substitution2: "case-1" Ccedilla
@@ -6746,7 +6733,7 @@ HStem: -6 40<169.156 248.814> 364 9<30 34.6045> 364 28<149 310>
 VStem: 81 65<56.2268 364> 151 10<471.112 477.4> 181 62.4277<-164.273 -94.0566>
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 376 0 2
+Refer: 268 807 N 1 0 0 1 367 0 2
 Refer: 19 116 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" tcedilla.smcp
 Substitution2: "'locl' Localized Forms Romanian and Moldavian-1" uni021B
@@ -6764,7 +6751,7 @@ HStem: -12 24<117.158 219.742> 375 22<139.721 212.745>
 VStem: 27 12<99.8773 105.5> 47 55<268.488 340.402> 162 62.4277<-164.273 -94.0566> 256 56<45.0788 127.078> 278 10<304.6 311.805>
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 357 0 2
+Refer: 268 807 N 1 0 0 1 362 0 2
 Refer: 18 115 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" scedilla.smcp
 Substitution2: "'locl' Localized Forms Romanian and Moldavian-1" scommaaccent
@@ -6845,7 +6832,7 @@ HStem: -247.047 187.434 -1 16<-1 18.8 151.504 188 284 322.093 442.358 475> 387 1
 VStem: 65 73<449.539 675.703> 68 59<25.5973 213 240 463.75> 189.904 108.5<-130.636 -97.7281>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 437 0 2
+Refer: 275 806 N 1 0 0 1 423 0 2
 Refer: 10 107 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" kcommaaccent.smcp
 Substitution2: "case-1" Kcommaaccent
@@ -6861,7 +6848,7 @@ HStem: -247.047 187.434 -2 14<4.25 23 211.375 237> 667 16<21 38.9013> 733 20G<14
 VStem: 64.9043 108.5<-130.636 -97.7281> 87 63<43.9746 563.918>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 312 0 2
+Refer: 275 806 N 1 0 0 1 315 0 2
 Refer: 11 108 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" lcommaaccent.smcp
 Substitution2: "case-1" Lcommaaccent
@@ -6877,7 +6864,7 @@ HStem: -247.047 187.434 -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6
 VStem: 79 60<30.6838 318.111 320 325.711> 214.904 108.5<-130.636 -97.7281> 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 462 0 2
+Refer: 275 806 N 1 0 0 1 443 0 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ncommaaccent.smcp
 Substitution2: "case-1" Ncommaaccent
@@ -6893,7 +6880,7 @@ HStem: -247.047 187.434 -6 12<28 52.1111> -5 23<155.453 263> 395 20G<286 308.5> 
 VStem: 78.9043 108.5<-130.636 -97.7281> 87 64<18.0803 323.88>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 326 0 2
+Refer: 275 806 N 1 0 0 1 335 0 2
 Refer: 17 114 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" rcommaaccent.smcp
 Substitution2: "case-1" Rcommaaccent
@@ -6992,7 +6979,7 @@ HStem: -257.434 187.434 -10 30<346.593 535.084> 320 23<471 582.818> 328 21<699.8
 VStem: 23 88<247.514 473.292> 372.75 108.5<-141.023 -108.115> 604 79<60.1948 309.006> 647 20<537.25 556.91>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 619.846 -10.3867 2
+Refer: 275 806 N 1 0 0 1 600 0 2
 Refer: 32 71 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" gcommaaccent.pcap
@@ -7008,7 +6995,7 @@ HStem: -247.047 187.434 -1 19<31 35.8607 227.666 278 486 527.34> 680 19<36 81.44
 VStem: 304.904 108.5<-130.636 -97.7281>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 552 0 2
+Refer: 275 806 N 1 0 0 1 542 0 2
 Refer: 36 75 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" kcommaaccent.pcap
@@ -7024,7 +7011,7 @@ HStem: -247.047 187.434 0 22<28 77.3713> 0 34<201.715 484.694> 680 20<39 87.9227
 VStem: 108 83<42.703 331.175> 112 90<374.826 665.166> 245.904 108.5<-130.636 -97.7281> 584 21<117.717 142.667>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 493 0 2
+Refer: 275 806 N 1 0 0 1 496 0 2
 Refer: 37 76 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" lcommaaccent.pcap
@@ -7040,7 +7027,7 @@ HStem: -247.047 187.434 -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.
 VStem: 133.655 39.3449<44.7657 588.27> 383.904 108.5<-130.636 -97.7281> 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 631 0 2
+Refer: 275 806 N 1 0 0 1 642 0 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ncommaaccent.pcap
@@ -7056,7 +7043,7 @@ HStem: -247.047 187.434 -34 18<715.141 760> -15 21<238.873 275.333> 333 25<190.1
 VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 302.904 108.5<-130.636 -97.7281> 469 86<439.59 588.412>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 550 0 2
+Refer: 275 806 N 1 0 0 1 551 0 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" rcommaaccent.pcap
@@ -7073,7 +7060,7 @@ HStem: -14 32<191.142 375.847> -5 21G<52 71.5> 683 21<223.309 353.769>
 VStem: 52 19<-2 14.1074> 64 66<479.982 592.81> 282.072 70.897<-182.621 -103.12> 439 70<90.2823 217.985> 476 14<539.966 567.52 688.109 697.5>
 LayerCount: 2
 Fore
-Refer: 281 58030 N 1 0 0 1 477 0 2
+Refer: 281 58030 N 1 0 0 1 478 0 2
 Refer: 44 83 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" scedilla.pcap
@@ -7091,7 +7078,7 @@ HStem: -12 22<223.277 267.753> 657 38<429 632.242> 695 20G<63.5 76>
 VStem: 333 90<37.5695 314.818> 354.072 70.897<-182.621 -103.12>
 LayerCount: 2
 Fore
-Refer: 281 58030 N 1 0 0 1 549 0 2
+Refer: 281 58030 N 1 0 0 1 574 0 2
 Refer: 45 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" tcedilla.pcap
@@ -7108,7 +7095,7 @@ HStem: -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19 805> 727
 VStem: 120 75<119.571 665.877> 252.262 262.238
 LayerCount: 2
 Fore
-Refer: 295 58034 N 1 0 0 1 361 0 2
+Refer: 295 58034 N 1 0 0 1 345 -28 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -7122,7 +7109,7 @@ HStem: -4 43<166.512 257.959> 26 15<474.103 495.867> 347 12<11 24.3301> 360 18<2
 VStem: 67 67<72.8435 345.445> 352 67<71.5641 319.205> 359 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 104 783 N 1 0 0 1 448.5 60 2
+Refer: 104 783 N 1 0 0 1 458.5 32 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -7160,7 +7147,7 @@ HStem: -7 18<33 46.5502 203.436 236.667 487.333 524.463 679.953 704> 247 38<236 
 VStem: 250.495 248.01
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 234 0 2
+Refer: 167 58028 N 1 0 0 1 239 0 2
 Refer: 26 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" acaron.pcap
@@ -7176,7 +7163,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 99.5 205 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 399.5 64 2
+Refer: 103 780 N 1 0 0 1 393.5 20 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" acaron.pcap
 Substitution2: "smcp-1" acaron.smcp
@@ -7192,7 +7179,7 @@ HStem: -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346> 747.855 147.54
 VStem: 31 315 47.4951 248.01
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 31 0 2
+Refer: 167 58028 N 1 0 0 1 54 -10 2
 Refer: 34 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" icaron.smcp
@@ -7203,14 +7190,13 @@ StartChar: uni01D0
 Encoding: 464 464 299
 Width: 264
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 554 162
 VStem: 34.5 205 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 334.5 64 2
+Refer: 103 780 N 1 0 0 1 327 57 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "salt-1" uni01D0.alt
 Substitution2: "case-1" uni01CF
 Substitution2: "smcp-1" icaron.smcp
@@ -7226,7 +7212,7 @@ HStem: -16 33<341.371 514.276> 685 33<297.104 456.595> 747.855 147.545
 VStem: 23 82<266.508 463.741> 302.495 248.01 689 82<227.806 435.778>
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 286 0 2
+Refer: 167 58028 N 1 0 0 1 260 -4 2
 Refer: 40 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ocaron.pcap
@@ -7242,7 +7228,7 @@ HStem: -10 21<213.737 312.228> 388 23<183.876 282.08> 554 162
 VStem: 28 65<130.362 287.127> 150.5 205 399 65<108.357 276.92>
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 450.5 64 2
+Refer: 103 780 N 1 0 0 1 449.5 23 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ocaron.pcap
 Substitution2: "smcp-1" ocaron.smcp
@@ -7258,7 +7244,7 @@ HStem: -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19 805> 747
 VStem: 120 75<119.571 665.877> 324.495 248.01
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 308 0 2
+Refer: 167 58028 N 1 0 0 1 291 -28 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ucaron.pcap
@@ -7274,7 +7260,7 @@ HStem: -4 43<166.512 257.959> 26 15<474.103 495.867> 347 12<11 24.3301> 360 18<2
 VStem: 67 67<72.8435 345.445> 148.5 205 352 67<71.5641 319.205> 359 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 448.5 64 2
+Refer: 103 780 N 1 0 0 1 458.5 28 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ucaron.pcap
 Substitution2: "smcp-1" ucaron.smcp
@@ -7290,7 +7276,7 @@ HStem: -10 30<346.593 535.084> 320 23<471 582.818> 328 21<699.83 724.333> 679 31
 VStem: 23 88<247.514 473.292> 325.495 248.01 604 79<60.1948 309.006> 647 20<537.25 556.91>
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 309 0 2
+Refer: 167 58028 N 1 0 0 1 279 -10 2
 Refer: 32 71 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -7299,14 +7285,13 @@ StartChar: gcaron
 Encoding: 487 487 305
 Width: 447
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -323 40<110.064 270.233> -89 55<147.956 371.536> 347 43<358.789 436.304> 390 26<167.45 250.397> 554 162
 VStem: 18.7773 34<-229.937 -152.098> 40.7773 49<187.132 309.988> 61.7773 68<-23.4815 21.1121> 122.5 205 324.777 60<161.777 315.908> 392.777 46<-204.458 -109.454>
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 422.5 64 2
+Refer: 103 780 N 1 0 0 1 411.277 14 2
 Refer: 6 103 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "case-1" Gcaron
 EndChar
 
@@ -7319,7 +7304,7 @@ HStem: -1 19<31 35.8607 227.666 278 486 527.34> 680 19<36 81.4409 219.508 280.57
 VStem: 211.495 248.01
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 195 0 2
+Refer: 167 58028 N 1 0 0 1 205 -24 2
 Refer: 36 75 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -7396,14 +7381,13 @@ StartChar: uni01F0
 Encoding: 496 496 310
 Width: 271
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 554 162
 VStem: -27 27<-331 -293> 18.5 205 82 68<-160 327>
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 318.5 64 2
+Refer: 103 780 N 1 0 0 1 348 57 2
 Refer: 52 567 N 1 0 0 1 0 0 3
-Validated: 1
 MultipleSubs2: "case-2" J Caron
 EndChar
 
@@ -7416,7 +7400,7 @@ HStem: -10 30<346.593 535.084> 320 23<471 582.818> 328 21<699.83 724.333> 679 31
 VStem: 23 88<247.514 473.292> 438.5 127 604 79<60.1948 309.006> 647 20<537.25 556.91>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 385 0 2
+Refer: 90 58018 N 1 0 0 1 356 -10 2
 Refer: 32 71 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -7425,14 +7409,13 @@ StartChar: uni01F5
 Encoding: 501 501 312
 Width: 447
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -323 40<110.064 270.233> -89 55<147.956 371.536> 347 43<358.789 436.304> 390 26<167.45 250.397> 557 159
 VStem: 18.7773 34<-229.937 -152.098> 40.7773 49<187.132 309.988> 61.7773 68<-23.4815 21.1121> 196.5 177 324.777 60<161.777 315.908> 392.777 46<-204.458 -109.454>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 422.5 63 2
+Refer: 92 769 N 1 0 0 1 411.277 13 2
 Refer: 6 103 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "case-1" uni01F4
 EndChar
 
@@ -7445,7 +7428,7 @@ HStem: -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.5<36 74.9982 639 
 VStem: 133.655 39.3449<44.7657 588.27> 316.5 127 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 96 58019 N 1 0 0 1 370 0 2
+Refer: 96 58019 N 1 0 0 1 399 -4 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -7459,7 +7442,7 @@ HStem: -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344 45<229.6
 VStem: 79 60<30.6838 318.111 320 325.711> 120.5 177 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 470.5 56 2
+Refer: 94 768 N 1 0 0 1 445.5 22 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 Substitution2: "case-1" uni01F8
 EndChar
@@ -7473,7 +7456,7 @@ HStem: -7 18<33 46.5502 203.436 236.667 487.333 524.463 679.953 704> 247 38<236 
 VStem: 178.262 262.238
 LayerCount: 2
 Fore
-Refer: 295 58034 N 1 0 0 1 287 0 2
+Refer: 295 58034 N 1 0 0 1 293 0 2
 Refer: 26 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -7487,7 +7470,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 104 783 N 1 0 0 1 399.5 60 2
+Refer: 104 783 N 1 0 0 1 393.5 24 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "salt-1" uni0201.alt
 EndChar
@@ -7840,7 +7823,7 @@ UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -12 26<345.649 498.05> 697 30<308.728 483.108>
 VStem: 23 90<225.853 484.692> 412.072 70.897<-176.421 -96.92> 600 20<550.9 621.644> 625 21<128.174 155>
-AnchorPoint: "Top" 433 699 basechar 0
+AnchorPoint: "Top" 389 708 basechar 0
 AnchorPoint: "Bottom" 423 -227 basechar 0
 LayerCount: 2
 Fore
@@ -10451,14 +10434,13 @@ StartChar: uni01E3
 Encoding: 483 483 458
 Width: 605
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -17 32<66 175.852> -7 35<380.53 482.11> 376 20<373.824 431.22> 376 32<142.099 213.764> 543.326 38.3479<205.5 394.5>
 VStem: 32 58<23.793 131.601> 49 59<315.642 355.233> 253 60<97.4677 185.688 196.916 212.755 223 341.712>
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 496.5 36 2
 Refer: 322 230 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "case-1" uni01E2
 EndChar
 
@@ -10466,14 +10448,13 @@ StartChar: aeacute
 Encoding: 509 509 459
 Width: 605
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -17 32<66 175.852> -7 35<380.53 482.11> 376 20<373.824 431.22> 376 32<142.099 213.764> 513 159
 VStem: 32 58<23.793 131.601> 49 59<315.642 355.233> 253 60<97.4677 185.688 196.916 212.755 223 341.712> 270.5 177
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 496.5 19 2
 Refer: 322 230 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: cedilla
@@ -10832,7 +10813,7 @@ HStem: -7 18<33 46.5502 203.436 236.667 487.333 524.463 679.953 704> 247 38<236 
 VStem: 474.165 11.4004<816.869 823.598>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 572.5 306 2
+Refer: 109 785 N 1 0 0 1 578.5 246 2
 Refer: 26 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -10846,7 +10827,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214> 301.165 11.4004<582.869 589.598>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 399.5 72 2
+Refer: 109 785 N 1 0 0 1 393.5 36 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -10859,7 +10840,7 @@ HStem: -9 19<29.8947 69.7483> 0.0184778 25.0965<228.8 463.902> 346 28<193 384.21
 VStem: 103.262 262.238 117.19 75.8105<136.594 346 374 613.965> 498 16.3665<247.172 300.747 414.044 451.383> 535 19<563 640.939> 608 17<149.154 163.471>
 LayerCount: 2
 Fore
-Refer: 295 58034 N 1 0 0 1 212 0 2
+Refer: 295 58034 N 1 0 0 1 243 -17 2
 Refer: 30 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -10873,7 +10854,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956>
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702>
 LayerCount: 2
 Fore
-Refer: 104 783 N 1 0 0 1 415.5 60 2
+Refer: 104 783 N 1 0 0 1 413.68 26.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "salt-1" uni0205.alt
 EndChar
@@ -10887,7 +10868,7 @@ HStem: -9 19<29.8947 69.7483> 0.0184778 25.0965<228.8 463.902> 346 28<193 384.21
 VStem: 117.19 75.8105<136.594 346 374 613.965> 399.165 11.4004<816.869 823.598> 498 16.3665<247.172 300.747 414.044 451.383> 535 19<563 640.939> 608 17<149.154 163.471>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 497.5 306 2
+Refer: 109 785 N 1 0 0 1 528.5 229 2
 Refer: 30 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -10901,7 +10882,7 @@ HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956> 626.501 
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 317.165 11.4004<582.869 589.598>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 415.5 72 2
+Refer: 109 785 N 1 0 0 1 413.68 38.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -10914,7 +10895,7 @@ HStem: -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346> 727.907 184.09
 VStem: -24.738 262.238 31 315
 LayerCount: 2
 Fore
-Refer: 295 58034 N 1 0 0 1 84 0 2
+Refer: 295 58034 N 1 0 0 1 108 -10 2
 Refer: 34 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -10923,14 +10904,13 @@ StartChar: uni0209
 Encoding: 521 521 483
 Width: 264
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236>
 VStem: 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 104 783 N 1 0 0 1 334.5 60 2
+Refer: 104 783 N 1 0 0 1 327 61 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "salt-1" uni0209.alt
 EndChar
 
@@ -10943,7 +10923,7 @@ HStem: -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346> 860.501 33.765
 VStem: 31 315 271.165 11.4004<816.869 823.598>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 369.5 306 2
+Refer: 109 785 N 1 0 0 1 393.5 236 2
 Refer: 34 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -10952,14 +10932,13 @@ StartChar: uni020B
 Encoding: 523 523 485
 Width: 264
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 626.501 33.7656<73.4584 201.153>
 VStem: 79 71<57 330> 236.165 11.4004<582.869 589.598>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 334.5 72 2
+Refer: 109 785 N 1 0 0 1 327 73 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni020C
@@ -10971,7 +10950,7 @@ HStem: -16 33<341.371 514.276> 685 33<297.104 456.595> 727.907 184.093
 VStem: 23 82<266.508 463.741> 230.262 262.238 689 82<227.806 435.778>
 LayerCount: 2
 Fore
-Refer: 295 58034 N 1 0 0 1 339 0 2
+Refer: 295 58034 N 1 0 0 1 314 -4 2
 Refer: 40 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -10985,7 +10964,7 @@ HStem: -10 21<213.737 312.228> 388 23<183.876 282.08>
 VStem: 28 65<130.362 287.127> 399 65<108.357 276.92>
 LayerCount: 2
 Fore
-Refer: 104 783 N 1 0 0 1 450.5 60 2
+Refer: 104 783 N 1 0 0 1 449.5 27 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -10998,7 +10977,7 @@ HStem: -16 33<341.371 514.276> 685 33<297.104 456.595> 860.501 33.7656<363.458 4
 VStem: 23 82<266.508 463.741> 526.165 11.4004<816.869 823.598> 689 82<227.806 435.778>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 624.5 306 2
+Refer: 109 785 N 1 0 0 1 599.5 242 2
 Refer: 40 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11012,7 +10991,7 @@ HStem: -10 21<213.737 312.228> 388 23<183.876 282.08> 626.501 33.7656<189.458 31
 VStem: 28 65<130.362 287.127> 352.165 11.4004<582.869 589.598> 399 65<108.357 276.92>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 450.5 72 2
+Refer: 109 785 N 1 0 0 1 449.5 39 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11025,7 +11004,7 @@ HStem: -34 18<715.141 760> -15 21<238.873 275.333> 333 25<190.186 311.406> 678 2
 VStem: 88.262 262.238 106 83<27.267 311.306> 107 91<473.918 669.555> 469 86<439.59 588.412>
 LayerCount: 2
 Fore
-Refer: 295 58034 N 1 0 0 1 197 0 2
+Refer: 295 58034 N 1 0 0 1 228 -15 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11039,7 +11018,7 @@ HStem: -6 12<28 52.1111> -5 23<155.453 263> 395 20G<286 308.5> 402 20G<130 147>
 VStem: 87 64<18.0803 323.88>
 LayerCount: 2
 Fore
-Refer: 104 783 N 1 0 0 1 352 60 2
+Refer: 104 783 N 1 0 0 1 349 61 2
 Refer: 17 114 N 1 0 0 1 0 0 3
 Substitution2: "salt-1" uni0211.alt
 EndChar
@@ -11053,7 +11032,7 @@ HStem: -34 18<715.141 760> -15 21<238.873 275.333> 333 25<190.186 311.406> 678 2
 VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 384.165 11.4004<816.869 823.598> 469 86<439.59 588.412>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 482.5 306 2
+Refer: 109 785 N 1 0 0 1 513.5 231 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11067,7 +11046,7 @@ HStem: -6 12<28 52.1111> -5 23<155.453 263> 395 20G<286 308.5> 402 20G<130 147> 
 VStem: 87 64<18.0803 323.88> 253.665 11.4004<582.869 589.598>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 352 72 2
+Refer: 109 785 N 1 0 0 1 349 73 2
 Refer: 17 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11080,7 +11059,7 @@ HStem: -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19 805> 860
 VStem: 120 75<119.571 665.877> 548.165 11.4004<816.869 823.598>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 646.5 306 2
+Refer: 109 785 N 1 0 0 1 630.5 218 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11094,7 +11073,7 @@ HStem: -4 43<166.512 257.959> 26 15<474.103 495.867> 347 12<11 24.3301> 360 18<2
 VStem: 67 67<72.8435 345.445> 350.165 11.4004<582.869 589.598> 352 67<71.5641 319.205> 359 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 448.5 72 2
+Refer: 109 785 N 1 0 0 1 458.5 44 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11107,7 +11086,7 @@ HStem: -247.047 187.434 -14 32<191.142 375.847> -5 21G<52 71.5> 683 21<223.309 3
 VStem: 52 19<-2 14.1074> 64 66<479.982 592.81> 231.904 108.5<-130.636 -97.7281> 439 70<90.2823 217.985> 476 14<539.966 567.52 688.109 697.5>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 479 0 2
+Refer: 275 806 N 1 0 0 1 480 0 2
 Refer: 44 83 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11121,7 +11100,7 @@ HStem: -247.047 187.434 -12 24<117.158 219.742> 375 22<139.721 212.745>
 VStem: 27 12<99.8773 105.5> 47 55<268.488 340.402> 109.904 108.5<-130.636 -97.7281> 256 56<45.0788 127.078> 278 10<304.6 311.805>
 LayerCount: 2
 Fore
-Refer: 275 806 S 1 0 0 1 357 0 2
+Refer: 275 806 N 1 0 0 1 369 0 2
 Refer: 18 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11134,7 +11113,7 @@ HStem: -247.047 187.434 -12 22<223.277 267.753> 657 38<429 632.242> 695 20G<63.5
 VStem: 303.904 108.5<-130.636 -97.7281> 333 90<37.5695 314.818>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 551 0 2
+Refer: 275 806 N 1 0 0 1 576 0 2
 Refer: 45 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11148,7 +11127,7 @@ HStem: -247.047 187.434 -6 40<169.156 248.814> 364 9<30 34.6045> 364 28<149 310>
 VStem: 81 65<56.2268 364> 128.904 108.5<-130.636 -97.7281> 151 10<471.112 477.4>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 376 0 2
+Refer: 275 806 N 1 0 0 1 367 0 2
 Refer: 19 116 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11161,7 +11140,7 @@ HStem: -7 22<31 84.7222 609.238 655.154 797.033 843> 344 35<193 689> 688 20<34 8
 VStem: 109 85<393.875 627.104> 303.495 248.01 685 86<30.0585 342 380 676.577>
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 287 0 2
+Refer: 167 58028 N 1 0 0 1 297 -34 2
 Refer: 33 72 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11187,7 +11166,7 @@ Flags: HW
 HStem: -7 18<33 46.5502 203.436 236.667 487.333 524.463 679.953 704> 247 38<236 462>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 298 0 2
+Refer: 164 58025 N 1 0 0 1 304 0 2
 Refer: 26 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11201,7 +11180,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 399.5 76 2
+Refer: 49 775 N 1 0 0 1 393.5 40 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11216,7 +11195,7 @@ VStem: 117.19 75.8105<136.594 346 374 613.965> 292.072 70.897<-166.421 -86.92> 4
 AnchorPoint: "Top" 330 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 281 58030 N 1 0 0 1 487 16.2 2
+Refer: 281 58030 N 1 0 0 1 500 0 2
 Refer: 30 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11232,7 +11211,7 @@ VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 211 62.4277<-164.273 -94
 AnchorPoint: "Top" 209 465 basechar 0
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 406 0 2
+Refer: 268 807 N 1 0 0 1 403 0 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11245,7 +11224,7 @@ HStem: -16 33<341.371 514.276> 685 33<297.104 456.595>
 VStem: 23 82<266.508 463.741> 689 82<227.806 435.778>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 350 0 2
+Refer: 164 58025 N 1 0 0 1 325 -4 2
 Refer: 40 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11259,7 +11238,7 @@ HStem: -10 21<213.737 312.228> 388 23<183.876 282.08>
 VStem: 28 65<130.362 287.127> 399 65<108.357 276.92>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 450.5 76 2
+Refer: 49 775 N 1 0 0 1 449.5 43 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11272,7 +11251,7 @@ HStem: -12 21.5<252.512 307.555 485.31 522.5> 690 18<14.5 68.8147 217.388 278 68
 VStem: 345.5 83<27.9743 355.681>
 LayerCount: 2
 Fore
-Refer: 160 58021 N 1 0 0 1 236.5 0 2
+Refer: 160 58021 N 1 0 0 1 235 -4 2
 Refer: 57 89 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11285,7 +11264,7 @@ Flags: HW
 HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84> 579.326 38.3479<140 329>
 LayerCount: 2
 Fore
-Refer: 101 772 N 1 0 0 1 431 72 2
+Refer: 101 772 N 1 0 0 1 424 32.3 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11469,7 +11448,7 @@ VStem: 272.347 39.124<-166.022 -91.47> 406.195 39.1243<-164.941 -91.3707>
 AnchorPoint: "Top" 377 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 285 58033 N 1 0 0 1 553 0 2
+Refer: 285 58033 N 1 0 0 1 558 0 2
 Refer: 26 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11484,7 +11463,7 @@ VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 124.549 21.6846<-161.446 -96.
 AnchorPoint: "Top" 191 465 basechar 0
 LayerCount: 2
 Fore
-Refer: 274 805 N 1 0 0 1 396 0 2
+Refer: 274 805 N 1 0 0 1 391 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11497,7 +11476,7 @@ HStem: -5 30<174.927 364.508> 363 21<187 291.543> 678 24<32.4444 86.375 206.52 3
 VStem: 114 73<41.2395 363 384 621.552> 395 88<461.318 607.313> 464 88<99.5601 269.208>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 173 0 2
+Refer: 164 58025 N 1 0 0 1 202 -17 2
 Refer: 27 66 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11511,7 +11490,7 @@ HStem: -12 29<169.699 271.885> -7 21G<31 45> 370 35<184.53 286.926> 667 7<-12 -5
 VStem: 50 58<53.7357 347.497 352 575.344> 381 65<127.855 267.145>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 302.5 360 2
+Refer: 49 775 N 1 0 0 1 275.5 300 2
 Refer: 1 98 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11524,7 +11503,7 @@ HStem: -5 30<174.927 364.508> 363 21<187 291.543> 678 24<32.4444 86.375 206.52 3
 VStem: 114 73<41.2395 363 384 621.552> 395 88<461.318 607.313> 464 88<99.5601 269.208>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 475 0 2
+Refer: 283 58031 N 1 0 0 1 479 0 2
 Refer: 27 66 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11538,7 +11517,7 @@ HStem: -12 29<169.699 271.885> -7 21G<31 45> 370 35<184.53 286.926> 667 7<-12 -5
 VStem: 50 58<53.7357 347.497 352 575.344> 381 65<127.855 267.145>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 441 0 2
+Refer: 272 803 N 1 0 0 1 419 0 2
 Refer: 1 98 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11551,7 +11530,7 @@ HStem: -6 23<31 93.0026 263.448 453.367> 692 21<39 81.9453 193.386 427.753>
 VStem: 109 87<40.7566 309.036> 683 91<231.612 474.643>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 281 0 2
+Refer: 164 58025 N 1 0 0 1 285 -9 2
 Refer: 29 68 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11565,7 +11544,7 @@ HStem: 0 39<178.96 290.797> 373 33<199.285 321.34> 667 18<308.444 329.397> 733 2
 VStem: 35 52<136.267 271.943> 367 61<11.5684 57 62.6121 342.5> 368 71<11.9114 56.2983 416.973 620.773>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 588.5 345 2
+Refer: 49 775 N 1 0 0 1 566.5 285 2
 Refer: 3 100 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11578,7 +11557,7 @@ HStem: -6 23<31 93.0026 263.448 453.367> 692 21<39 81.9453 193.386 427.753>
 VStem: 109 87<40.7566 309.036> 683 91<231.612 474.643>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 550 0 2
+Refer: 283 58031 N 1 0 0 1 545 0 2
 Refer: 29 68 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11592,7 +11571,7 @@ HStem: 0 39<178.96 290.797> 373 33<199.285 321.34> 667 18<308.444 329.397> 733 2
 VStem: 35 52<136.267 271.943> 367 61<11.5684 57 62.6121 342.5> 368 71<11.9114 56.2983 416.973 620.773>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 417 0 2
+Refer: 272 803 N 1 0 0 1 420 0 2
 Refer: 3 100 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11618,7 +11597,7 @@ HStem: -132.674 38.3479<184 373> -5 30<174.927 364.508> 363 21<187 291.543> 678 
 VStem: 114 73<41.2395 363 384 621.552> 395 88<461.318 607.313> 464 88<99.5601 269.208>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 475 0 2
+Refer: 532 817 N 1 0 0 1 479 0 2
 Refer: 27 66 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11632,7 +11611,7 @@ HStem: -132.674 38.3479<150 339> -12 29<169.699 271.885> -7 21G<31 45> 370 35<18
 VStem: 50 58<53.7357 347.497 352 575.344> 381 65<127.855 267.145>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 441 0 2
+Refer: 532 817 N 1 0 0 1 419 0 2
 Refer: 1 98 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11645,7 +11624,7 @@ HStem: -132.674 38.3479<259 448> -6 23<31 93.0026 263.448 453.367> 692 21<39 81.
 VStem: 109 87<40.7566 309.036> 683 91<231.612 474.643>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 550 0 2
+Refer: 532 817 N 1 0 0 1 545 0 2
 Refer: 29 68 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11659,7 +11638,7 @@ HStem: -132.674 38.3479<126 315> 0 39<178.96 290.797> 373 33<199.285 321.34> 667
 VStem: 35 52<136.267 271.943> 367 61<11.5684 57 62.6121 342.5> 368 71<11.9114 56.2983 416.973 620.773>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 417 0 2
+Refer: 532 817 N 1 0 0 1 420 0 2
 Refer: 3 100 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11673,7 +11652,7 @@ HStem: -6 23<31 93.0026 263.448 453.367> 692 21<39 81.9453 193.386 427.753>
 VStem: 109 87<40.7566 309.036> 353.072 70.897<-182.621 -103.12> 683 91<231.612 474.643>
 LayerCount: 2
 Fore
-Refer: 281 58030 N 1 0 0 1 548 0 2
+Refer: 281 58030 N 1 0 0 1 543 0 2
 Refer: 29 68 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11688,7 +11667,7 @@ HStem: 0 39<178.96 290.797> 373 33<199.285 321.34> 667 18<308.444 329.397> 733 2
 VStem: 35 52<136.267 271.943> 222 62.4277<-164.273 -94.0566> 367 61<11.5684 57 62.6121 342.5> 368 71<11.9114 56.2983 416.973 620.773>
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 417 0 2
+Refer: 268 807 N 1 0 0 1 420 0 2
 Refer: 3 100 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11701,7 +11680,7 @@ HStem: -242 162 -6 23<31 93.0026 263.448 453.367> 692 21<39 81.9453 193.386 427.
 VStem: 109 87<40.7566 309.036> 254 205 683 91<231.612 474.643>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 550 -8 2
+Refer: 599 813 N 1 0 0 1 545 -8 2
 Refer: 29 68 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11715,7 +11694,7 @@ HStem: -242 162 0 39<178.96 290.797> 373 33<199.285 321.34> 667 18<308.444 329.3
 VStem: 35 52<136.267 271.943> 121 205 367 61<11.5684 57 62.6121 342.5> 368 71<11.9114 56.2983 416.973 620.773>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 417 -8 2
+Refer: 599 813 N 1 0 0 1 420 -8 2
 Refer: 3 100 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11728,7 +11707,7 @@ HStem: -242 162 -9 19<29.8947 69.7483> 0.0184778 25.0965<228.8 463.902> 346 28<1
 VStem: 117.19 75.8105<136.594 346 374 613.965> 193 205 498 16.3665<247.172 300.747 414.044 451.383> 535 19<563 640.939> 608 17<149.154 163.471>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 489 -8 2
+Refer: 599 813 N 1 0 0 1 502 -8 2
 Refer: 30 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11742,7 +11721,7 @@ HStem: -182.007 21G<182.833 202.225> -173.667 44.667<269.087 378.376> -148.885 4
 VStem: 117.19 75.8105<136.594 346 374 613.965> 182.833 227.589 498 16.3665<247.172 300.747 414.044 451.383> 535 19<563 640.939> 608 17<149.154 163.471>
 LayerCount: 2
 Fore
-Refer: 601 816 N 1 0 0 1 497 -1 2
+Refer: 601 816 N 1 0 0 1 510 -1 2
 Refer: 30 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11756,7 +11735,7 @@ HStem: -182.007 21G<99.833 119.225> -173.667 44.667<186.087 295.376> -148.885 44
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 99.833 227.589
 LayerCount: 2
 Fore
-Refer: 601 816 N 1 0 0 1 414 -1 2
+Refer: 601 816 N 1 0 0 1 411 -1 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11769,7 +11748,7 @@ HStem: -4 22<38 81.6241> 351 29<200 392.516> 683 19<30 80.4241>
 VStem: 477 25<258 325.072 385.783 445> 529 23<565 628.106>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 233 0 2
+Refer: 164 58025 N 1 0 0 1 244.146 -23.773 2
 Refer: 31 70 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11783,7 +11762,7 @@ HStem: -4 22<18 42 164.811 250> 373 27<20 90 157 307> 707 43<248.897 359.422>
 VStem: 90 66<24.4249 373 400 587.19>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 460.5 359 2
+Refer: 49 775 N 1 0 0 1 450.5 299 2
 Refer: 5 102 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11796,7 +11775,7 @@ HStem: -7 22<31 84.7222 609.238 655.154 797.033 843> 344 35<193 689> 688 20<34 8
 VStem: 109 85<393.875 627.104> 685 86<30.0585 342 380 676.577>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 351 0 2
+Refer: 164 58025 N 1 0 0 1 362 -34 2
 Refer: 33 72 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11810,7 +11789,7 @@ HStem: -4 14<303.5 329> 0 14<3 27 162.375 200 462.818 493> 360 46<216.849 322.91
 VStem: 57 68<52.802 293.893> 68 74<446.97 682.339> 359 64<25.1175 318.505>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 318.5 344 2
+Refer: 49 775 N 1 0 0 1 288.5 284 2
 Refer: 7 104 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11823,7 +11802,7 @@ HStem: -10 30<346.593 535.084> 320 23<471 582.818> 328 21<699.83 724.333> 679 31
 VStem: 23 88<247.514 473.292> 604 79<60.1948 309.006> 647 20<537.25 556.91>
 LayerCount: 2
 Fore
-Refer: 160 58021 N 1 0 0 1 299 0 2
+Refer: 160 58021 N 1 0 0 1 270 -10 2
 Refer: 32 71 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11832,14 +11811,13 @@ StartChar: uni1E21
 Encoding: 7713 7713 549
 Width: 447
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -323 40<110.064 270.233> -89 55<147.956 371.536> 347 43<358.789 436.304> 390 26<167.45 250.397> 579.326 38.3479<131.5 320.5>
 VStem: 18.7773 34<-229.937 -152.098> 40.7773 49<187.132 309.988> 61.7773 68<-23.4815 21.1121> 324.777 60<161.777 315.908> 392.777 46<-204.458 -109.454>
 LayerCount: 2
 Fore
-Refer: 101 772 N 1 0 0 1 422.5 72 2
+Refer: 101 772 N 1 0 0 1 411.277 30 2
 Refer: 6 103 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E24
@@ -11851,7 +11829,7 @@ HStem: -7 22<31 84.7222 609.238 655.154 797.033 843> 344 35<193 689> 688 20<34 8
 VStem: 109 85<393.875 627.104> 685 86<30.0585 342 380 676.577>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 612 0 2
+Refer: 283 58031 N 1 0 0 1 635 0 2
 Refer: 33 72 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11865,7 +11843,7 @@ HStem: -4 14<303.5 329> 0 14<3 27 162.375 200 462.818 493> 360 46<216.849 322.91
 VStem: 57 68<52.802 293.893> 68 74<446.97 682.339> 359 64<25.1175 318.505>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 468 0 2
+Refer: 272 803 N 1 0 0 1 443 0 2
 Refer: 7 104 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11878,7 +11856,7 @@ HStem: -7 22<31 84.7222 609.238 655.154 797.033 843> 344 35<193 689> 688 20<34 8
 VStem: 109 85<393.875 627.104> 685 86<30.0585 342 380 676.577>
 LayerCount: 2
 Fore
-Refer: 163 58024 N 1 0 0 1 277 0 2
+Refer: 163 58024 N 1 0 0 1 288 -34 2
 Refer: 33 72 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11892,7 +11870,7 @@ HStem: -4 14<303.5 329> 0 14<3 27 162.375 200 462.818 493> 360 46<216.849 322.91
 VStem: 57 68<52.802 293.893> 68 74<446.97 682.339> 359 64<25.1175 318.505>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 318.5 344 2
+Refer: 97 776 N 1 0 0 1 288.5 284 2
 Refer: 7 104 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11905,7 +11883,7 @@ HStem: -1 19<31 35.8607 227.666 278 486 527.34> 680 19<36 81.4409 219.508 280.57
 VStem: 324.5 127
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 271 0 2
+Refer: 90 58018 N 1 0 0 1 282 -24 2
 Refer: 36 75 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11934,7 +11912,7 @@ Flags: HW
 HStem: -1 19<31 35.8607 227.666 278 486 527.34> 680 19<36 81.4409 219.508 280.571 415 452.693 593.354 621.6>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 552 0 2
+Refer: 283 58031 N 1 0 0 1 542 0 2
 Refer: 36 75 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11948,7 +11926,7 @@ HStem: -1 16<-1 18.8 151.504 188 284 322.093 442.358 475> 387 14<230 254.764 398
 VStem: 65 73<449.539 675.703> 68 59<25.5973 213 240 463.75>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 437 0 2
+Refer: 272 803 N 1 0 0 1 423 0 2
 Refer: 10 107 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11960,7 +11938,7 @@ Flags: HW
 HStem: -132.674 38.3479<261 450> -1 19<31 35.8607 227.666 278 486 527.34> 680 19<36 81.4409 219.508 280.571 415 452.693 593.354 621.6>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 552 0 2
+Refer: 532 817 N 1 0 0 1 542 0 2
 Refer: 36 75 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -11974,7 +11952,7 @@ HStem: -132.674 38.3479<146 335> -1 16<-1 18.8 151.504 188 284 322.093 442.358 4
 VStem: 65 73<449.539 675.703> 68 59<25.5973 213 240 463.75>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 437 0 2
+Refer: 532 817 N 1 0 0 1 423 0 2
 Refer: 10 107 N 1 0 0 1 0 0 3
 EndChar
 
@@ -11988,7 +11966,7 @@ VStem: 108 83<42.703 331.175> 112 90<374.826 665.166> 584 21<117.717 142.667>
 AnchorPoint: "Top" 177 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 493 0 2
+Refer: 283 58031 N 1 0 0 1 496 0 2
 Refer: 37 76 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12003,7 +11981,7 @@ VStem: 87 63<43.9746 563.918>
 AnchorPoint: "Top" 138 734 basechar 0
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 312 0 2
+Refer: 272 803 N 1 0 0 1 315 0 2
 Refer: 11 108 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12016,7 +11994,7 @@ HStem: -132.674 38.3479<202 391> 0 22<28 77.3713> 0 34<201.715 484.694> 680 20<3
 VStem: 108 83<42.703 331.175> 112 90<374.826 665.166> 584 21<117.717 142.667>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 493 0 2
+Refer: 532 817 N 1 0 0 1 496 0 2
 Refer: 37 76 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12030,7 +12008,7 @@ HStem: -132.674 38.3479<21 210> -2 14<4.25 23 211.375 237> 667 16<21 38.9013> 73
 VStem: 87 63<43.9746 563.918>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 312 0 2
+Refer: 532 817 N 1 0 0 1 315 0 2
 Refer: 11 108 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12043,7 +12021,7 @@ HStem: -242 162 0 22<28 77.3713> 0 34<201.715 484.694> 680 20<39 87.9227 235.574
 VStem: 108 83<42.703 331.175> 112 90<374.826 665.166> 197 205 584 21<117.717 142.667>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 493 -8 2
+Refer: 599 813 N 1 0 0 1 496 -8 2
 Refer: 37 76 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12057,7 +12035,7 @@ HStem: -242 162 -2 14<4.25 23 211.375 237> 667 16<21 38.9013> 733 20G<140.5 168>
 VStem: 16 205 87 63<43.9746 563.918>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 312 -8 2
+Refer: 599 813 N 1 0 0 1 315 -8 2
 Refer: 11 108 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12070,7 +12048,7 @@ HStem: -7 19<36 85.6652 238.157 296 689.5 722.257> -1 22<927.234 984> 675 20<39 
 VStem: 494.5 127 799 78<350.25 578> 804 81<57.3892 366.812>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 441 0 2
+Refer: 90 58018 N 1 0 0 1 464 -4 2
 Refer: 38 77 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12084,7 +12062,7 @@ HStem: -1 11<7 20.6944 184 212 291 311 458 484> -1 13<570 590 736.3 778> 341 11<
 VStem: 81 61<44.1758 322.94> 359 65<23.7993 292.25> 373.5 177 634 62<26.0615 303.999>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 599.5 55 2
+Refer: 92 769 N 1 0 0 1 581.5 2 2
 Refer: 12 109 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12097,7 +12075,7 @@ HStem: -7 19<36 85.6652 238.157 296 689.5 722.257> -1 22<927.234 984> 675 20<39 
 VStem: 799 78<350.25 578> 804 81<57.3892 366.812>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 429 0 2
+Refer: 164 58025 N 1 0 0 1 452 -4 2
 Refer: 38 77 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12111,7 +12089,7 @@ HStem: -1 11<7 20.6944 184 212 291 311 458 484> -1 13<570 590 736.3 778> 341 11<
 VStem: 81 61<44.1758 322.94> 359 65<23.7993 292.25> 634 62<26.0615 303.999>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 599.5 76 2
+Refer: 49 775 N 1 0 0 1 581.5 23 2
 Refer: 12 109 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12124,7 +12102,7 @@ HStem: -7 19<36 85.6652 238.157 296 689.5 722.257> -1 22<927.234 984> 675 20<39 
 VStem: 799 78<350.25 578> 804 81<57.3892 366.812>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 664 0 2
+Refer: 283 58031 N 1 0 0 1 695 0 2
 Refer: 38 77 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12138,7 +12116,7 @@ HStem: -1 11<7 20.6944 184 212 291 311 458 484> -1 13<570 590 736.3 778> 341 11<
 VStem: 81 61<44.1758 322.94> 359 65<23.7993 292.25> 634 62<26.0615 303.999>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 577 0 2
+Refer: 272 803 N 1 0 0 1 583 0 2
 Refer: 12 109 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12151,7 +12129,7 @@ HStem: -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.5<36 74.9982 639 
 VStem: 133.655 39.3449<44.7657 588.27> 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 358 0 2
+Refer: 164 58025 N 1 0 0 1 387 -4 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12165,7 +12143,7 @@ HStem: -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344 45<229.6
 VStem: 79 60<30.6838 318.111 320 325.711> 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 470.5 76 2
+Refer: 49 775 N 1 0 0 1 445.5 42 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12178,7 +12156,7 @@ HStem: -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.5<36 74.9982 639 
 VStem: 133.655 39.3449<44.7657 588.27> 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 631 0 2
+Refer: 283 58031 N 1 0 0 1 642 0 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12192,7 +12170,7 @@ HStem: -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344 45<229.6
 VStem: 79 60<30.6838 318.111 320 325.711> 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 462 0 2
+Refer: 272 803 N 1 0 0 1 443 0 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12205,7 +12183,7 @@ HStem: -132.674 38.3479<340 529> -11 20<250.349 299.7> 685 17.2427<825.699 869> 
 VStem: 133.655 39.3449<44.7657 588.27> 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 631 0 2
+Refer: 532 817 N 1 0 0 1 642 0 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12219,7 +12197,7 @@ HStem: -132.674 38.3479<171 360> -10 16<188.625 212.375> -4 15<12 36.0376> 338 1
 VStem: 79 60<30.6838 318.111 320 325.711> 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 462 0 2
+Refer: 532 817 N 1 0 0 1 443 0 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12232,7 +12210,7 @@ HStem: -10 21<41.6667 77.512 248.617 301.401> 258 29<197.038 365.389> 686 32<205
 VStem: 119 77<30.3146 267 289.664 315.623> 283.5 127 490 87<396.596 564.051>
 LayerCount: 2
 Fore
-Refer: 90 58018 S 1 0 0 1 230 0 2
+Refer: 90 58018 N 1 0 0 1 234 -5 2
 Refer: 41 80 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12246,7 +12224,7 @@ HStem: -347 15<17 49.6684> -337 18<153.33 228> -7 29<195.26 316.269> 367 36<218.
 VStem: 85 59<-184.603 10 47.4573 340.936> 223.5 177 416 61<124.101 253.463>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 449.5 55 2
+Refer: 92 769 N 1 0 0 1 431.5 27 2
 Refer: 15 112 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12259,7 +12237,7 @@ HStem: -10 21<41.6667 77.512 248.617 301.401> 258 29<197.038 365.389> 686 32<205
 VStem: 119 77<30.3146 267 289.664 315.623> 490 87<396.596 564.051>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 218 0 2
+Refer: 164 58025 N 1 0 0 1 222 -5 2
 Refer: 41 80 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12273,7 +12251,7 @@ HStem: -347 15<17 49.6684> -337 18<153.33 228> -7 29<195.26 316.269> 367 36<218.
 VStem: 85 59<-184.603 10 47.4573 340.936> 416 61<124.101 253.463>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 449.5 76 2
+Refer: 49 775 N 1 0 0 1 431.5 48 2
 Refer: 15 112 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12286,7 +12264,7 @@ HStem: -34 18<715.141 760> -15 21<238.873 275.333> 333 25<190.186 311.406> 678 2
 VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 469 86<439.59 588.412>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 208 0 2
+Refer: 164 58025 N 1 0 0 1 239 -15 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12300,7 +12278,7 @@ HStem: -6 12<28 52.1111> -5 23<155.453 263> 395 20G<286 308.5> 402 20G<130 147>
 VStem: 87 64<18.0803 323.88>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 352 76 2
+Refer: 49 775 N 1 0 0 1 349 77 2
 Refer: 17 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12315,7 +12293,7 @@ AnchorPoint: "Top" 315 699 basechar 0
 AnchorPoint: "Top" 169.5 465 basechar 0
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 326 0 2
+Refer: 272 803 N 1 0 0 1 335 0 2
 Refer: 17 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12328,7 +12306,7 @@ HStem: -132.674 38.3479<259 448> -34 18<715.141 760> -15 21<238.873 275.333> 333
 VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 469 86<439.59 588.412>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 550 0 2
+Refer: 532 817 N 1 0 0 1 551 0 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12342,7 +12320,7 @@ HStem: -132.674 38.3479<35 224> -6 12<28 52.1111> -5 23<155.453 263> 395 20G<286
 VStem: 87 64<18.0803 323.88>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 326 0 2
+Refer: 532 817 N 1 0 0 1 335 0 2
 Refer: 17 114 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12355,7 +12333,7 @@ HStem: -14 32<191.142 375.847> -5 21G<52 71.5> 683 21<223.309 353.769>
 VStem: 52 19<-2 14.1074> 64 66<479.982 592.81> 439 70<90.2823 217.985> 476 14<539.966 567.52 688.109 697.5>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 232 0 2
+Refer: 164 58025 N 1 0 0 1 209 -24 2
 Refer: 44 83 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12369,7 +12347,7 @@ HStem: -12 24<117.158 219.742> 375 22<139.721 212.745>
 VStem: 27 12<99.8773 105.5> 47 55<268.488 340.402> 256 56<45.0788 127.078> 278 10<304.6 311.805>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 381 76 2
+Refer: 49 775 N 1 0 0 1 379 51 2
 Refer: 18 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12383,7 +12361,7 @@ VStem: 52 19<-2 14.1074> 64 66<479.982 592.81> 439 70<90.2823 217.985> 476 14<53
 AnchorPoint: "Top" 319 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 479 0 2
+Refer: 283 58031 N 1 0 0 1 480 0 2
 Refer: 44 83 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12398,7 +12376,7 @@ VStem: 27 12<99.8773 105.5> 47 55<268.488 340.402> 256 56<45.0788 127.078> 278 1
 AnchorPoint: "Top" 180.5 465 basechar 0
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 357 0 2
+Refer: 272 803 N 1 0 0 1 369 0 2
 Refer: 18 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12411,7 +12389,7 @@ HStem: -12 22<223.277 267.753> 657 38<429 632.242> 695 20G<63.5 76>
 VStem: 333 90<37.5695 314.818>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 282 0 2
+Refer: 164 58025 N 1 0 0 1 300 -29 2
 Refer: 45 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12425,7 +12403,7 @@ HStem: -6 40<169.156 248.814> 364 9<30 34.6045> 364 28<149 310>
 VStem: 81 65<56.2268 364> 151 10<471.112 477.4>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 342 119 2
+Refer: 49 775 N 1 0 0 1 344 51 2
 Refer: 19 116 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12438,7 +12416,7 @@ HStem: -12 22<223.277 267.753> 657 38<429 632.242> 695 20G<63.5 76>
 VStem: 333 90<37.5695 314.818>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 551 0 2
+Refer: 283 58031 N 1 0 0 1 576 0 2
 Refer: 45 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12452,7 +12430,7 @@ HStem: -6 40<169.156 248.814> 364 9<30 34.6045> 364 28<149 310>
 VStem: 81 65<56.2268 364> 151 10<471.112 477.4>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 376 0 2
+Refer: 272 803 N 1 0 0 1 367 0 2
 Refer: 19 116 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12465,7 +12443,7 @@ HStem: -132.674 38.3479<260 449> -12 22<223.277 267.753> 657 38<429 632.242> 695
 VStem: 333 90<37.5695 314.818>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 551 0 2
+Refer: 532 817 N 1 0 0 1 576 0 2
 Refer: 45 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12479,7 +12457,7 @@ HStem: -132.674 38.3479<85 274> -6 40<169.156 248.814> 364 9<30 34.6045> 364 28<
 VStem: 81 65<56.2268 364> 151 10<471.112 477.4>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 376 0 2
+Refer: 532 817 N 1 0 0 1 367 0 2
 Refer: 19 116 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12492,7 +12470,7 @@ HStem: -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19 805>
 VStem: 120 75<119.571 665.877>
 LayerCount: 2
 Fore
-Refer: 284 58032 N 1 0 0 1 620 0 2
+Refer: 284 58032 N 1 0 0 1 615 0 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12506,7 +12484,7 @@ HStem: -4 43<166.512 257.959> 26 15<474.103 495.867> 347 12<11 24.3301> 360 18<2
 VStem: 67 67<72.8435 345.445> 352 67<71.5641 319.205> 359 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 273 804 N 1 0 0 1 434 0 2
+Refer: 273 804 N 1 0 0 1 441 0 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12589,7 +12567,7 @@ HStem: -242 162 -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956>
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 110 205
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 406 -8 2
+Refer: 599 813 N 1 0 0 1 403 -8 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12602,7 +12580,7 @@ HStem: -179.017 33.7656<354.347 482.042> -7 22<31 84.7222 609.238 655.154 797.03
 VStem: 109 85<393.875 627.104> 307.935 11.4004<-108.348 -101.619> 685 86<30.0585 342 380 676.577>
 LayerCount: 2
 Fore
-Refer: 602 814 N 1 0 0 1 612 0 2
+Refer: 602 814 N 1 0 0 1 635 0 2
 Refer: 33 72 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12616,7 +12594,7 @@ HStem: -179.017 33.7656<210.347 338.042> -4 14<303.5 329> 0 14<3 27 162.375 200 
 VStem: 57 68<52.802 293.893> 68 74<446.97 682.339> 163.935 11.4004<-108.348 -101.619> 359 64<25.1175 318.505>
 LayerCount: 2
 Fore
-Refer: 602 814 N 1 0 0 1 468 0 2
+Refer: 602 814 N 1 0 0 1 443 0 2
 Refer: 7 104 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12629,7 +12607,7 @@ HStem: -182.007 21G<53.833 73.2252> -173.667 44.667<140.087 249.376> -148.885 44
 VStem: 31 315 53.833 227.589
 LayerCount: 2
 Fore
-Refer: 601 816 N 1 0 0 1 368 -1 2
+Refer: 601 816 N 1 0 0 1 395 -1 2
 Refer: 34 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12643,7 +12621,7 @@ HStem: -182.007 21G<-0.166992 19.2252> -173.667 44.667<86.0874 195.376> -148.885
 VStem: -0.166992 227.589 90 71<57 330>
 LayerCount: 2
 Fore
-Refer: 601 816 N 1 0 0 1 314 -1 2
+Refer: 601 816 N 1 0 0 1 343 -1 2
 Refer: 8 105 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12656,7 +12634,7 @@ HStem: -242 162 -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.5<36 74.
 VStem: 133.655 39.3449<44.7657 588.27> 335 205 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 631 -8 2
+Refer: 599 813 N 1 0 0 1 642 -8 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12670,7 +12648,7 @@ HStem: -242 162 -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344
 VStem: 79 60<30.6838 318.111 320 325.711> 166 205 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 462 -8 2
+Refer: 599 813 N 1 0 0 1 443 -8 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12683,7 +12661,7 @@ HStem: -242 162 -12 22<223.277 267.753> 657 38<429 632.242> 695 20G<63.5 76>
 VStem: 255 205 333 90<37.5695 314.818>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 551 -8 2
+Refer: 599 813 N 1 0 0 1 576 -8 2
 Refer: 45 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12697,7 +12675,7 @@ HStem: -242 162 -6 40<169.156 248.814> 364 9<30 34.6045> 364 28<149 310>
 VStem: 80 205 81 65<56.2268 364> 151 10<471.112 477.4>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 376 -8 2
+Refer: 599 813 N 1 0 0 1 367 -8 2
 Refer: 19 116 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12710,7 +12688,7 @@ HStem: -182.007 21G<313.833 333.225> -173.667 44.667<400.087 509.376> -148.885 4
 VStem: 120 75<119.571 665.877> 313.833 227.589
 LayerCount: 2
 Fore
-Refer: 601 816 N 1 0 0 1 628 -1 2
+Refer: 601 816 N 1 0 0 1 623 -1 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12724,7 +12702,7 @@ HStem: -182.007 21G<127.833 147.225> -173.667 44.667<214.087 323.376> -148.885 4
 VStem: 67 67<72.8435 345.445> 127.833 227.589 352 67<71.5641 319.205> 359 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 601 816 N 1 0 0 1 442 -1 2
+Refer: 601 816 N 1 0 0 1 449 -1 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12737,7 +12715,7 @@ HStem: -242 162 -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19
 VStem: 120 75<119.571 665.877> 324 205
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 620 -8 2
+Refer: 599 813 N 1 0 0 1 615 -8 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12751,7 +12729,7 @@ HStem: -242 162 -4 43<166.512 257.959> 26 15<474.103 495.867> 347 12<11 24.3301>
 VStem: 67 67<72.8435 345.445> 138 205 352 67<71.5641 319.205> 359 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 599 813 N 1 0 0 1 434 -8 2
+Refer: 599 813 N 1 0 0 1 441 -8 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12763,7 +12741,7 @@ Flags: HW
 HStem: 683 21<5 53.7285 187.178 249 602.526 647.654 761.845 800>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 599 0 2
+Refer: 283 58031 N 1 0 0 1 600 0 2
 Refer: 54 86 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12776,7 +12754,7 @@ Flags: HW
 HStem: 379 11<155.5 183.286> 383 14<264 293.34>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 381 0 2
+Refer: 272 803 N 1 0 0 1 387 0 2
 Refer: 21 118 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12789,7 +12767,7 @@ HStem: 692 20<4 52.9811 233.755 281.9 401 437.96 599.181 660 813 879.378 1030.1 
 VStem: 450.5 127 716 25<-22 19.2261>
 LayerCount: 2
 Fore
-Refer: 96 58019 N 1 0 0 1 504 0 2
+Refer: 96 58019 N 1 0 0 1 481 -6 2
 Refer: 55 87 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12803,7 +12781,7 @@ HStem: 371 15<-1 31.5327> 378 13<242 270.92> 389 11<411.766 427.091 512.2 519.34
 VStem: 172.5 177
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 522.5 56 2
+Refer: 94 768 N 1 0 0 1 532.5 29 2
 Refer: 22 119 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12816,7 +12794,7 @@ HStem: 692 20<4 52.9811 233.755 281.9 401 437.96 599.181 660 813 879.378 1030.1 
 VStem: 557.5 127 716 25<-22 19.2261>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 504 0 2
+Refer: 90 58018 N 1 0 0 1 481 -6 2
 Refer: 55 87 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12830,7 +12808,7 @@ HStem: 371 15<-1 31.5327> 378 13<242 270.92> 389 11<411.766 427.091 512.2 519.34
 VStem: 296.5 177
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 522.5 55 2
+Refer: 92 769 N 1 0 0 1 532.5 28 2
 Refer: 22 119 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12843,7 +12821,7 @@ HStem: 692 20<4 52.9811 233.755 281.9 401 437.96 599.181 660 813 879.378 1030.1 
 VStem: 716 25<-22 19.2261>
 LayerCount: 2
 Fore
-Refer: 163 58024 N 1 0 0 1 418 0 2
+Refer: 163 58024 N 1 0 0 1 395 -6 2
 Refer: 55 87 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12856,7 +12834,7 @@ Flags: HW
 HStem: 371 15<-1 31.5327> 378 13<242 270.92> 389 11<411.766 427.091 512.2 519.347>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 522.5 76 2
+Refer: 97 776 N 1 0 0 1 532.5 49 2
 Refer: 22 119 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12869,7 +12847,7 @@ HStem: 692 20<4 52.9811 233.755 281.9 401 437.96 599.181 660 813 879.378 1030.1 
 VStem: 716 25<-22 19.2261>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 492 0 2
+Refer: 164 58025 N 1 0 0 1 469 -6 2
 Refer: 55 87 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12882,7 +12860,7 @@ Flags: HW
 HStem: 371 15<-1 31.5327> 378 13<242 270.92> 389 11<411.766 427.091 512.2 519.347>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 522.5 76 2
+Refer: 49 775 N 1 0 0 1 532.5 49 2
 Refer: 22 119 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12895,7 +12873,7 @@ HStem: 692 20<4 52.9811 233.755 281.9 401 437.96 599.181 660 813 879.378 1030.1 
 VStem: 716 25<-22 19.2261>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 756 0 2
+Refer: 283 58031 N 1 0 0 1 728 0 2
 Refer: 55 87 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12908,7 +12886,7 @@ Flags: HW
 HStem: 371 15<-1 31.5327> 378 13<242 270.92> 389 11<411.766 427.091 512.2 519.347>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 488 0 2
+Refer: 272 803 N 1 0 0 1 493 0 2
 Refer: 22 119 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12920,7 +12898,7 @@ Flags: HW
 HStem: -7.5 23<486.5 541.825 693.494 745> 688 16<660.755 707.5> 695.5 15.5<31.5 75.4415 240.435 284.5 471.265 511.631>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 291.5 0 2
+Refer: 164 58025 N 1 0 0 1 304 -13 2
 Refer: 56 88 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12933,7 +12911,7 @@ Flags: HW
 HStem: -3 16<8.5625 29.3824 113.098 152 230 266.517 363.547 411> 378 14<16 60.9259 168.479 198 259 299.977>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 424.5 76 2
+Refer: 49 775 N 1 0 0 1 399.5 45 2
 Refer: 23 120 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12945,7 +12923,7 @@ Flags: HW
 HStem: -7.5 23<486.5 541.825 693.494 745> 688 16<660.755 707.5> 695.5 15.5<31.5 75.4415 240.435 284.5 471.265 511.631>
 LayerCount: 2
 Fore
-Refer: 163 58024 N 1 0 0 1 217.5 0 2
+Refer: 163 58024 N 1 0 0 1 230 -13 2
 Refer: 56 88 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12958,7 +12936,7 @@ Flags: HW
 HStem: -3 16<8.5625 29.3824 113.098 152 230 266.517 363.547 411> 378 14<16 60.9259 168.479 198 259 299.977>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 424.5 76 2
+Refer: 97 776 N 1 0 0 1 399.5 45 2
 Refer: 23 120 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12971,7 +12949,7 @@ HStem: -12 21.5<252.512 307.555 485.31 522.5> 690 18<14.5 68.8147 217.388 278 68
 VStem: 345.5 83<27.9743 355.681>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 310.5 0 2
+Refer: 164 58025 N 1 0 0 1 309 -4 2
 Refer: 57 89 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -12984,7 +12962,7 @@ Flags: HW
 HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 431 76 2
+Refer: 49 775 N 1 0 0 1 424 36.3 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12997,7 +12975,7 @@ HStem: 683 21<5 53.7285 187.178 249 602.526 647.654 761.845 800> 766.053 46<395.
 VStem: 283.694 271.867
 LayerCount: 2
 Fore
-Refer: 161 58022 N 1 0 0 1 255 0 2
+Refer: 161 58022 N 1 0 0 1 258 -4 2
 Refer: 54 86 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -13011,7 +12989,7 @@ HStem: 379 11<155.5 183.286> 383 14<264 293.34> 567.993 21G<92.833 112.225> 576.
 VStem: 92.833 227.589
 LayerCount: 2
 Fore
-Refer: 100 771 S 1 0 0 1 415 83 2
+Refer: 100 771 N 1 0 0 1 403 52 2
 Refer: 21 118 N 1 0 0 1 0 0 3
 EndChar
 
@@ -13024,7 +13002,7 @@ HStem: 0 36<187.25 604.739> 649 36.951<457.703 579.25> 656 34<145.302 574.862> 6
 VStem: 269.745 248.01
 LayerCount: 2
 Fore
-Refer: 159 58020 N 1 0 0 1 253.25 0 2
+Refer: 159 58020 N 1 0 0 1 246 -39 2
 Refer: 58 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -13038,7 +13016,7 @@ HStem: 1 24<125 203.889 257.601 340.965> 374 20<92.9061 311> 383 20G<36 62 380.5
 VStem: 131 205 418 15<101.5 122>
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 431 56 2
+Refer: 93 770 N 1 0 0 1 412 31 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -13050,7 +13028,7 @@ Flags: HW
 HStem: 0 36<187.25 604.739> 649 36.951<457.703 579.25> 656 34<145.302 574.862> 698.453 20G<90.625 106.25>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 577.25 0 2
+Refer: 283 58031 N 1 0 0 1 575 0 2
 Refer: 58 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -13064,7 +13042,7 @@ HStem: 1 24<125 203.889 257.601 340.965> 374 20<92.9061 311> 383 20G<36 62 380.5
 VStem: 418 15<101.5 122>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 419 0 2
+Refer: 272 803 N 1 0 0 1 411 0 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -13076,7 +13054,7 @@ Flags: HW
 HStem: -132.674 38.3479<286.25 475.25> 0 36<187.25 604.739> 649 36.951<457.703 579.25> 656 34<145.302 574.862> 698.453 20G<90.625 106.25>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 577.25 0 2
+Refer: 532 817 N 1 0 0 1 575 0 2
 Refer: 58 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -13090,7 +13068,7 @@ HStem: -132.674 38.3479<128 317> 1 24<125 203.889 257.601 340.965> 374 20<92.906
 VStem: 418 15<101.5 122>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 419 0 2
+Refer: 532 817 N 1 0 0 1 411 0 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15257,7 +15235,7 @@ HStem: -9 35<449 500.854> -5 39<22.5469 80.8864> 3.06988 37.3024<636.857 887.73>
 VStem: 525 93<373.564 639.016> 529.631 78.3691<90.5 243.369 285.991 334 370 605.156> 892 36<248.75 306.348 394.846 442.094> 933 30<539 620.59> 993 28<152.034 171.75>
 LayerCount: 2
 Fore
-Refer: 160 58021 N 1 0 0 1 430.585 0 2
+Refer: 160 58021 N 1 0 0 1 414 0 2
 Refer: 319 198 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15272,7 +15250,7 @@ HStem: -12 26<345.649 498.05> 697 30<308.728 483.108> 742.3 169.7
 VStem: 23 90<225.853 484.692> 412.072 70.897<-176.421 -96.92> 415.5 127 600 20<550.9 621.644> 625 21<128.174 155>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 362 0 2
+Refer: 90 58018 N 1 0 0 1 325 9 2
 Refer: 323 199 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15287,7 +15265,7 @@ HStem: -5 37<196.003 313.637> 374 47<173.241 297.231> 557 159
 VStem: 32 61<136.013 275.84> 203.5 177 226 62.4277<-164.273 -94.0566>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 429.5 63 2
+Refer: 92 769 N 1 0 0 1 431.5 23 2
 Refer: 267 231 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15364,7 +15342,7 @@ HStem: -9 35<449 500.854> -5 39<22.5469 80.8864> 3.06988 37.3024<636.857 887.73>
 VStem: 525 93<373.564 639.016> 529.631 78.3691<90.5 243.369 285.991 334 370 605.156> 570.085 127 892 36<248.75 306.348 394.846 442.094> 933 30<539 620.59> 993 28<152.034 171.75>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 516.585 0 2
+Refer: 90 58018 N 1 0 0 1 500 0 2
 Refer: 319 198 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15624,7 +15602,7 @@ HStem: -7 18<33 46.5502 203.436 236.667 487.333 524.463 679.953 704> 247 38<236 
 AnchorPoint: "Top" 377 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 553 0 2
+Refer: 283 58031 N 1 0 0 1 558 0 2
 Refer: 26 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15639,7 +15617,7 @@ VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 243 63<56.5717 161.987 182.75
 AnchorPoint: "Top" 191 465 basechar 0
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 396 0 2
+Refer: 272 803 N 1 0 0 1 391 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15679,7 +15657,7 @@ HStem: -12 21.5<252.512 307.555 485.31 522.5> 690 18<14.5 68.8147 217.388 278 68
 VStem: 345.5 83<27.9743 355.681>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 579.5 0 2
+Refer: 283 58031 N 1 0 0 1 580 0 2
 Refer: 57 89 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15692,7 +15670,7 @@ Flags: HW
 HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 484 0 2
+Refer: 272 803 N 1 0 0 1 480 0 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15705,7 +15683,7 @@ HStem: -12 21.5<252.512 307.555 485.31 522.5> 690 18<14.5 68.8147 217.388 278 68
 VStem: 269 127 345.5 83<27.9743 355.681>
 LayerCount: 2
 Fore
-Refer: 96 58019 N 1 0 0 1 322.5 0 2
+Refer: 96 58019 N 1 0 0 1 321 -4 2
 Refer: 57 89 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15719,7 +15697,7 @@ HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84> 550 159
 VStem: 81 177
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 431 56 2
+Refer: 94 768 N 1 0 0 1 424 16.3 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15746,7 +15724,7 @@ HStem: -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19 805>
 VStem: 120 75<119.571 665.877>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 620 0 2
+Refer: 283 58031 N 1 0 0 1 615 0 2
 Refer: 53 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15760,7 +15738,7 @@ HStem: -4 43<166.512 257.959> 26 15<474.103 495.867> 347 12<11 24.3301> 360 18<2
 VStem: 67 67<72.8435 345.445> 352 67<71.5641 319.205> 359 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 434 0 2
+Refer: 272 803 N 1 0 0 1 441 0 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15788,7 +15766,7 @@ VStem: 23 82<266.508 463.741> 689 82<227.806 435.778>
 AnchorPoint: "Top" 420 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 615 0 2
+Refer: 283 58031 N 1 0 0 1 606 0 2
 Refer: 40 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15803,7 +15781,7 @@ VStem: 28 65<130.362 287.127> 399 65<108.357 276.92>
 AnchorPoint: "Top" 251 465 basechar 0
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 452 0 2
+Refer: 272 803 N 1 0 0 1 447 0 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15817,7 +15795,7 @@ VStem: 117.19 75.8105<136.594 346 374 613.965> 498 16.3665<247.172 300.747 414.0
 AnchorPoint: "Top" 330 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 489 0 2
+Refer: 283 58031 N 1 0 0 1 502 0 2
 Refer: 30 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15832,7 +15810,7 @@ VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702>
 AnchorPoint: "Top" 209 465 basechar 0
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 406 0 2
+Refer: 272 803 N 1 0 0 1 403 0 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15846,7 +15824,7 @@ VStem: 117.19 75.8105<136.594 346 374 613.965> 162.694 271.867 498 16.3665<247.1
 AnchorPoint: "Bottom" 327 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 161 58022 N 1 0 0 1 134 0 2
+Refer: 161 58022 N 1 0 0 1 165 -17 2
 Refer: 30 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15861,7 +15839,7 @@ VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 104.833 227.589
 AnchorPoint: "Bottom" 205 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 427 83 2
+Refer: 100 771 N 1 0 0 1 425.18 49.68 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15946,7 +15924,7 @@ HStem: -7 18<33 46.5502 203.436 236.667 487.333 524.463 679.953 704> 247 38<236 
 VStem: 296 61<839.318 870.707> 354 40<740.945 790.508> 401 58<808.95 870.362>
 LayerCount: 2
 Fore
-Refer: 749 58037 N 1 0 0 1 727 0 2
+Refer: 749 58037 N 1 0 0 1 733 0 2
 Refer: 26 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -15960,7 +15938,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 136.685 43.8457<654.872 694.156> 182.36 29.5801<555.182 606.926> 228.82 37.4951<621.553 694.132> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 LayerCount: 2
 Fore
-Refer: 748 777 S 1 0 0 1 422.5 21 2
+Refer: 748 777 N 1 0 0 1 416.5 -15 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15973,7 +15951,7 @@ HStem: -6 40<169.156 248.814> 364 9<30 34.6045> 364 28<149 310>
 VStem: 81 65<56.2268 364> 151 10<471.112 477.4>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 342 119 2
+Refer: 97 776 N 1 0 0 1 344 51 2
 Refer: 19 116 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15986,7 +15964,7 @@ HStem: 371 15<-1 31.5327> 378 13<242 270.92> 389 11<411.766 427.091 512.2 519.34
 VStem: 247.049 21.6846<597.554 662.506> 380.267 21.6846<599.494 663.339>
 LayerCount: 2
 Fore
-Refer: 98 778 N 1 0 0 1 522.5 70 2
+Refer: 98 778 N 1 0 0 1 532.5 43 2
 Refer: 22 119 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15999,7 +15977,7 @@ HStem: 381 11<-1 20 158 179 420.98 437> 384 16<273.812 305.84> 555.037 21.2695<1
 VStem: 155.549 21.6846<597.554 662.506> 288.767 21.6846<599.494 663.339>
 LayerCount: 2
 Fore
-Refer: 98 778 N 1 0 0 1 431 70 2
+Refer: 98 778 N 1 0 0 1 424 30.3 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 EndChar
 
@@ -16012,7 +15990,7 @@ HStem: -132.674 38.3479<177 366> -4 14<303.5 329> 0 14<3 27 162.375 200 462.818 
 VStem: 57 68<52.802 293.893> 68 74<446.97 682.339> 359 64<25.1175 318.505>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 468 0 2
+Refer: 532 817 N 1 0 0 1 443 0 2
 Refer: 7 104 N 1 0 0 1 0 0 3
 EndChar
 
@@ -16080,7 +16058,7 @@ VStem: 117.19 75.8105<136.594 346 374 613.965> 221 61<839.318 870.707> 279 40<74
 AnchorPoint: "Bottom" 327 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 749 58037 N 1 0 0 1 652 0 2
+Refer: 749 58037 N 1 0 0 1 683 -17 2
 Refer: 30 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -16095,7 +16073,7 @@ VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702> 152.685 43.8457<654.872 
 AnchorPoint: "Bottom" 205 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 748 777 N 1 0 0 1 438.5 21 2
+Refer: 748 777 N 1 0 0 1 436.68 -12.32 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 EndChar
 
@@ -16108,7 +16086,7 @@ HStem: -16 33<341.371 514.276> 685 33<297.104 456.595> 872 31<411.234 446.612>
 VStem: 23 82<266.508 463.741> 348 61<839.318 870.707> 406 40<740.945 790.508> 453 58<808.95 870.362> 689 82<227.806 435.778>
 LayerCount: 2
 Fore
-Refer: 749 58037 N 1 0 0 1 779 0 2
+Refer: 749 58037 N 1 0 0 1 754 -4 2
 Refer: 40 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -16122,7 +16100,7 @@ HStem: -10 21<213.737 312.228> 388 23<183.876 282.08> 698.275 13.0498<246.753 27
 VStem: 28 65<130.362 287.127> 196.685 43.8457<654.872 694.156> 242.36 29.5801<555.182 606.926> 288.82 37.4951<621.553 694.132> 399 65<108.357 276.92>
 LayerCount: 2
 Fore
-Refer: 748 777 N 1 0 0 1 482.5 21 2
+Refer: 748 777 N 1 0 0 1 472.5 -12 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 EndChar
 
@@ -16149,7 +16127,7 @@ HStem: -4 43<166.512 257.959> 26 15<474.103 495.867> 347 12<11 24.3301> 360 18<2
 VStem: 67 67<72.8435 345.445> 185.685 43.8457<654.872 694.156> 231.36 29.5801<555.182 606.926> 277.82 37.4951<621.553 694.132> 352 67<71.5641 319.205> 359 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 748 777 N 1 0 0 1 471.5 21 2
+Refer: 748 777 N 1 0 0 1 481.5 -7 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 EndChar
 
@@ -16870,7 +16848,7 @@ StartChar: uni1E2F
 Encoding: 7727 7727 801
 Width: 264
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236>
 VStem: 79 71<57 330>
 AnchorPoint: "Bottom" 127 -15 basechar 0
@@ -16879,7 +16857,6 @@ Fore
 Refer: 470 58080 N 1 0 0 1 392 126 2
 Refer: 97 776 N 1 0 0 1 352.5 51 2
 Refer: 50 305 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: uni1E38
@@ -17083,7 +17060,7 @@ HStem: -14 32<191.142 375.847> -5 21G<52 71.5> 683 21<223.309 353.769>
 VStem: 52 19<-2 14.1074> 64 66<479.982 592.81> 439 70<90.2823 217.985> 476 14<539.966 567.52 688.109 697.5>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 232 0 2
+Refer: 164 58025 N 1 0 0 1 243 0 2
 Refer: 589 7778 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -17097,7 +17074,7 @@ HStem: -12 24<117.158 219.742> 375 22<139.721 212.745>
 VStem: 27 12<99.8773 105.5> 47 55<268.488 340.402> 256 56<45.0788 127.078> 278 10<304.6 311.805>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 381 76 2
+Refer: 49 775 N 1 0 0 1 379 16 2
 Refer: 590 7779 N 1 0 0 1 0 0 3
 EndChar
 
@@ -17729,7 +17706,7 @@ HStem: -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346>
 VStem: 31 315
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 360 0 2
+Refer: 283 58031 N 1 0 0 1 387 0 2
 Refer: 34 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -17743,7 +17720,7 @@ HStem: -7 33<26 80 177 247>
 VStem: 90 71<57 330>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 306 0 2
+Refer: 272 803 N 1 0 0 1 335 0 2
 Refer: 8 105 N 1 0 0 1 0 0 3
 EndChar
 
@@ -17756,7 +17733,7 @@ HStem: -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346> 872 31<156.234
 VStem: 31 315 93 61<839.318 870.707> 151 40<740.945 790.508> 198 58<808.95 870.362>
 LayerCount: 2
 Fore
-Refer: 749 58037 N 1 0 0 1 524 0 2
+Refer: 749 58037 N 1 0 0 1 548 -10 2
 Refer: 34 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -17765,14 +17742,13 @@ StartChar: uni1EC9
 Encoding: 7881 7881 859
 Width: 264
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 700.601 13.0498<87.5084 113.831>
 VStem: 37.4396 43.8457<657.197 696.482> 79 71<57 330> 83.1154 29.5801<557.508 609.251> 129.575 37.4951<623.878 696.457>
 LayerCount: 2
 Fore
-Refer: 748 777 N 1 0 0 1 323.255 23.3252 2
+Refer: 748 777 N 1 0 0 1 350 22 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1EBE
@@ -22456,12 +22432,11 @@ StartChar: afii10105
 Encoding: 1112 1112 1076
 Width: 229
 VWidth: 0
-Flags: W
+Flags: HW
 VStem: -46 27<-331 -293> 63 68<-160 327>
 LayerCount: 2
 Fore
 Refer: 9 106 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni04D4
@@ -22850,14 +22825,13 @@ StartChar: afii10104
 Encoding: 1111 1111 1096
 Width: 264
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236>
 VStem: 79 71<57 330>
 LayerCount: 2
 Fore
 Refer: 97 776 S 1 0 0 1 334.5 76 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: afii10055
@@ -29534,7 +29508,7 @@ StartChar: igrave.alt
 Encoding: 58122 58122 1431
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236>
 VStem: 79 71<57 330>
 AnchorPoint: "Bottom" 127 -15 basechar 0
@@ -29542,7 +29516,6 @@ LayerCount: 2
 Fore
 Refer: 50 305 N 1 0 0 1 0 0 3
 Refer: 94 768 S 0.984808 -0.173648 0.173648 0.984808 255.863 20.1933 2
-Validated: 1
 EndChar
 
 StartChar: uniFB00.alt
@@ -29616,14 +29589,13 @@ StartChar: uni01D0.alt
 Encoding: 58123 58123 1433
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 546 162
 VStem: 36.5 205 79 71<57 330>
 LayerCount: 2
 Fore
 Refer: 50 305 N 1 0 0 1 0 0 3
 Refer: 103 780 S 1 0 0 1 336.5 56 2
-Validated: 1
 EndChar
 
 StartChar: uni0201.alt
@@ -29656,14 +29628,13 @@ StartChar: uni0209.alt
 Encoding: 58126 58126 1436
 Width: 264
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236>
 VStem: 79 71<57 330>
 LayerCount: 2
 Fore
 Refer: 50 305 N 1 0 0 1 0 0 3
 Refer: 104 783 S 0.984808 -0.173648 0.173648 0.984808 279.703 22.1297 2
-Validated: 1
 EndChar
 
 StartChar: uni0211.alt
@@ -39614,14 +39585,13 @@ StartChar: uni025F
 Encoding: 607 607 2004
 Width: 330
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 106.312 21.375<16 314>
 VStem: 23 27<-331 -293> 132 68<-160 327>
 LayerCount: 2
 Fore
 Refer: 441 821 S 1 0 0 1 342 -410 2
 Refer: 52 567 N 1 0 0 1 50 0 2
-Validated: 5
 EndChar
 
 StartChar: uni029A
@@ -45996,7 +45966,7 @@ VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 469 86<439.59 588.412>
 AnchorPoint: "Top" 284 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 550 0 2
+Refer: 283 58031 N 1 0 0 1 551 0 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 EndChar
 
