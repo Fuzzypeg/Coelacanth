@@ -1,0 +1,17 @@
+StartChar: Rho
+Encoding: 929 929 992
+GlifName: R_ho
+Width: 596
+Flags: W
+HStem: -11 38<33.4211 85.9927> 242 36<198.515 361.94> 645 42<14.5 99.2917> 655 39<195.531 363.467>
+VStem: 103 90<358.521 636.758> 114.344 80.6562<48.2578 250 282.973 479.296> 475 89<377.611 543.933>
+AnchorPoint: "Top" 294 699 basechar 0
+AnchorPoint: "Bottom" 162 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 41 80 N 1 0 0 1 0 0 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" p.pcap
+Substitution2: "c2sc-1" p.smcp
+EndChar

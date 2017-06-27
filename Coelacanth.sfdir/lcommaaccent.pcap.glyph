@@ -1,0 +1,14 @@
+StartChar: lcommaaccent.pcap
+Encoding: 57432 57432 1687
+GlifName: lcommaaccent.pcap
+Width: 456
+VWidth: 0
+Flags: W
+HStem: -261.06 204.119 -5 28<67 96.6314> 1 35<188.915 347.424> 380 26<62.4643 98.7524 195.343 240.385>
+VStem: 106 75<39.8145 372.901> 171.87 116.64 395 23<89.6116 110>
+LayerCount: 2
+Fore
+Refer: 275 806 N 1 0 0 1 425 0 2
+Refer: 654 57358 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

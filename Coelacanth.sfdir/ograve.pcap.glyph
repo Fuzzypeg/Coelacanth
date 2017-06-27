@@ -1,0 +1,14 @@
+StartChar: ograve.pcap
+Encoding: 57391 57391 1646
+GlifName: ograve.pcap
+Width: 568
+VWidth: 1159
+Flags: W
+HStem: -5 37<240.993 370.228> 378 35<202.127 322.544> 486.175 225.516
+VStem: 56 78<146.969 286.001> 147.014 169.82 428 84<111.049 270.5>
+LayerCount: 2
+Fore
+Refer: 94 768 N 1 0 0 1 484.5 56 2
+Refer: 657 57361 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

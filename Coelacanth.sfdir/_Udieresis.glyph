@@ -1,0 +1,16 @@
+StartChar: Udieresis
+Encoding: 220 220 190
+GlifName: U_dieresis
+Width: 815
+VWidth: 0
+Flags: HW
+HStem: -10 54<297.466 551.379> 650 40<14.125 94.1699 204.669 289.778 727.959 801.369> 672 20<570 586.309> 756 98<294.22 375.78 486.22 567.78>
+VStem: 99 87<142.83 548.313> 104 90<339.122 637.527> 285 100<765.068 844.968> 477 100<765.068 844.968> 664 55<148.927 617.399> 665 61<265.818 645.847>
+LayerCount: 2
+Fore
+Refer: 163 58024 N 1 0 0 1 281 0 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" udieresis.pcap
+Substitution2: "c2sc-1" udieresis.smcp
+EndChar

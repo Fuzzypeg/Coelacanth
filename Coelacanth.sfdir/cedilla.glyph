@@ -1,0 +1,11 @@
+StartChar: cedilla
+Encoding: 184 184 460
+GlifName: cedilla
+Width: 227
+VWidth: 1159
+Flags: W
+VStem: 128 62.4277<-164.273 -94.0566>
+LayerCount: 2
+Fore
+Refer: 268 807 N 1 0 0 1 323 0 2
+EndChar

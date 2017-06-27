@@ -1,0 +1,16 @@
+StartChar: four.numerator
+Encoding: 58412 58412 926
+GlifName: four.numerator
+Width: 335
+VWidth: 1159
+Flags: W
+HStem: 337 29<4 30.5 286 299> 353 40<68.3667 170 226 293.238>
+VStem: 170 56<274.534 353 393 513.537> 219 20<606.81 614.5>
+LayerCount: 2
+Fore
+Refer: 916 58402 N 1 0 0 1 0 346 2
+Validated: 1
+Kerns2: 911 -235 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "dnom-1" four.denom
+EndChar

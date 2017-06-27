@@ -1,0 +1,20 @@
+StartChar: quotesingle
+Encoding: 39 39 79
+GlifName: quotesingle
+Width: 200
+VWidth: 1159
+Flags: W
+HStem: 445.7 254<79 119>
+VStem: 51 96<522.722 699.7> 79 40<445.7 617.021>
+LayerCount: 2
+Fore
+SplineSet
+51 699.7 m 9xc0
+ 147 699.7 l 17xc0
+ 145.966 630.734 121.666 537.034 119 445.7 c 9
+ 79 445.7 l 17xa0
+ 76.2106 536.911 52.1894 630.89 51 699.7 c 9xc0
+EndSplineSet
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

@@ -1,0 +1,17 @@
+StartChar: uni1E9A
+Encoding: 7834 7834 2456
+GlifName: uni1E_9A_
+Width: 413
+VWidth: 1159
+Flags: W
+HStem: -15 43<75 181> 161 32<153 246> 364 52<128 220> 425 32<323 362.942> 545 32<323 363.449>
+VStem: 33 64<34 133> 247 65<60 164 191 321> 374 32<468.768 533.857>
+AnchorPoint: "Top" 201 465 basechar 0
+AnchorPoint: "Ogonek" 354 18 basechar 0
+AnchorPoint: "Bottom" 203 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 0 97 N 1 0 0 1 0 0 2
+Refer: 2025 855 N 1 0 0 1 548 0 2
+Validated: 1
+EndChar

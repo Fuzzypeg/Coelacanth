@@ -1,0 +1,16 @@
+StartChar: Dcroat
+Encoding: 272 272 326
+GlifName: D_croat
+Width: 792
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -10 38<15.6316 81.6884> -7 44<159.868 463.195> 329 46<7 357> 647 41<13 82.5059> 659 37<188.563 435.412>
+VStem: 94.1875 82.2977<49.5582 525.672> 655 94<221.047 461.211>
+LayerCount: 2
+Fore
+Refer: 324 208 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" eth.pcap
+Substitution2: "c2sc-1" eth.smcp
+EndChar

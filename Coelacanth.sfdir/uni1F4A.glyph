@@ -1,0 +1,16 @@
+StartChar: uni1F4A
+Encoding: 8010 8010 1547
+GlifName: uni1F_4A_
+Width: 1012
+Flags: HW
+HStem: -7 50<509.523 712.448> 518.048 23.76<4.19096 50.8394> 652.832 79.92<30.112 75.0649> 657 49<471.396 662.712>
+VStem: 83.031 48.6<558.997 638.051> 210 93<267.4 455.825> 868 101<222.803 442.21>
+AnchorPoint: "Middle" 590.697 364.853 basechar 0
+AnchorPoint: "Bottom" 589 -15 basechar 0
+AnchorPoint: "Top" 593 699 basechar 0
+LayerCount: 2
+Fore
+Refer: 2388 8175 S 1.08329 -0.191013 0.191013 1.08329 -47.2958 121.955 2
+Refer: 1608 8127 N 1.08 0 0 1.08 -112.273 -15.472 2
+Refer: 990 927 N 1 0 0 1 167 0 2
+EndChar

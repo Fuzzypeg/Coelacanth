@@ -1,0 +1,33 @@
+StartChar: J
+Encoding: 74 74 35
+GlifName: J_
+Width: 337
+VWidth: 1356
+Flags: HMW
+AnchorPoint: "Bottom" 189 -138.8 basechar 0
+AnchorPoint: "Top" 172 699 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+125 614 m 0
+ 118 650 67 647 14 652 c 9
+ 18 692 l 1
+ 72.8070731284 684.912878475 116.45252592 681.843940271 160.221828099 681.843940271 c 3
+ 209.090916605 681.843940271 258.114396507 685.66969722 323 692 c 9
+ 325 649 l 1
+ 267 647 229 657 225 616 c 0
+ 214 498 218 378 218 225 c 3
+ 218 95 224 43 224 0 c 3
+ 224 -92 163 -151 94 -200 c 0
+ 69 -217 44 -235 19 -251 c 9
+ -6 -218 l 1
+ 17 -207 36 -196 52 -182 c 0
+ 57 -178 62 -175 66 -171 c 0
+ 128 -112 138 -30 138 65 c 3
+ 138 104 132 578 125 614 c 0
+EndSplineSet
+Validated: 33
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" j.pcap
+Substitution2: "c2sc-1" j.smcp
+EndChar

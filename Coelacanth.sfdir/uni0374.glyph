@@ -1,0 +1,19 @@
+StartChar: uni0374
+Encoding: 884 884 957
+GlifName: uni0374
+Width: 138
+Flags: W
+HStem: 458 286
+VStem: 32 30<463.367 483.541>
+LayerCount: 2
+Fore
+SplineSet
+32 465 m 1
+ 73 744 l 1
+ 136 728 l 1
+ 62 458 l 1
+ 32 465 l 1
+EndSplineSet
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

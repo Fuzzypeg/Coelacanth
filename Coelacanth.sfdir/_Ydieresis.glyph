@@ -1,0 +1,17 @@
+StartChar: Ydieresis
+Encoding: 376 376 243
+GlifName: Y_dieresis
+Width: 735
+VWidth: 0
+Flags: W
+HStem: -11 42<247 320.923 456.301 545.814> 649 35.2148<212.294 267.95 481 483 664 666.328> 651 39<9.47368 79.3442 237.708 269.641 654.659 729> 756 98<250.22 331.78 442.22 523.78>
+VStem: 241 100<765.068 844.968> 353 78<94.0509 324.999> 433 100<765.068 844.968>
+LayerCount: 2
+Fore
+Refer: 163 58024 N 1 0 0 1 237 0 2
+Refer: 57 89 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" ydieresis.pcap
+Substitution2: "c2sc-1" ydieresis.smcp
+EndChar

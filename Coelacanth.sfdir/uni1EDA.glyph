@@ -1,0 +1,15 @@
+StartChar: uni1EDA
+Encoding: 7898 7898 761
+GlifName: uni1E_D_A_
+Width: 845
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -7 50<342.523 545.448> 594.133 32.8672<626.38 718.511> 657 49<304.396 495.712> 744.9 147.152
+VStem: 43 93<267.4 455.825> 388.493 234.89 701 101<222.803 442.21> 752 88.6436<675.042 757.455>
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 362 0 2
+Refer: 758 416 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

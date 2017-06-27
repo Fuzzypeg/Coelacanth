@@ -1,0 +1,16 @@
+StartChar: seven.tabulartext
+Encoding: 58375 58375 679
+GlifName: seven.tabulartext
+Width: 463
+VWidth: 1159
+Flags: W
+HStem: 339 67<103.377 355.466>
+LayerCount: 2
+Fore
+Refer: 70 55 N 1 0 0 1 15 0 2
+Validated: 1
+Substitution2: "pnum-1" seven
+Substitution2: "lnum-1" seven.tabularlining
+Substitution2: "numr-1" seven.numerator
+Substitution2: "dnom-1" seven.denom
+EndChar

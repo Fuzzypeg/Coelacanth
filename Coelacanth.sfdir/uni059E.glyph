@@ -1,0 +1,15 @@
+StartChar: uni059E
+Encoding: 1438 1438 2553
+GlifName: uni059E_
+Width: 0
+VWidth: 0
+Flags: W
+HStem: 744.764 38<-358.622 -265.031 -178.622 -85.031>
+VStem: -409.998 30.998<642.834 718.932> -229.998 30.998<642.834 718.932>
+AnchorPoint: "Top" -306 628 mark 0
+LayerCount: 2
+Fore
+Refer: 2551 1436 N 1 0 0 1 103 0 2
+Refer: 2551 1436 N 1 0 0 1 -77 0 2
+Validated: 1
+EndChar

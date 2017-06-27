@@ -1,0 +1,13 @@
+StartChar: uni01C0
+Encoding: 448 448 1508
+GlifName: uni01C_0
+Width: 158
+VWidth: 1515
+Flags: W
+LayerCount: 2
+Fore
+Refer: 325 124 S 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "smcp-1" clickdental.smcp
+Substitution2: "pcap-1" clickdental.pcap
+EndChar

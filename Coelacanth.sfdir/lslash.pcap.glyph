@@ -1,0 +1,14 @@
+StartChar: lslash.pcap
+Encoding: 57435 57435 1690
+GlifName: lslash.pcap
+Width: 456
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -5 28<67 96.6314> 1 35<188.915 347.424> 380 26<62.4643 98.7524 195.343 240.385>
+VStem: 106 75<39.8145 372.901> 395 23<89.6116 110>
+LayerCount: 2
+Fore
+Refer: 321 823 S 0.659901 -0.537972 -0.113122 0.845455 355.618 -123.792 2
+Refer: 654 57358 N 1 0 0 1 0 0 3
+EndChar

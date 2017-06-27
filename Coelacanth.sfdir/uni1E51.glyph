@@ -1,0 +1,15 @@
+StartChar: uni1E51
+Encoding: 7761 7761 809
+GlifName: uni1E_51
+Width: 505
+VWidth: 0
+Flags: W
+HStem: -11 39<199.926 327.747> 374 45<168.903 305.133> 496 49<132.5 391.5>
+VStem: 32 76<130.211 291.037> 395 78<107.641 276.826>
+LayerCount: 2
+Fore
+Refer: 14 111 N 1 0 0 1 0 0 2
+Refer: 94 768 S 0.86012 0.45148 -0.351495 0.861865 627.508 299.031 2
+Refer: 101 772 N 1 0 0 1 459.5 49 2
+Validated: 1
+EndChar

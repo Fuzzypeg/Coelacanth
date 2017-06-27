@@ -1,0 +1,14 @@
+StartChar: afii57799
+Encoding: 1456 1456 2530
+GlifName: afii57799
+Width: 0
+VWidth: 0
+Flags: W
+HStem: -256 70<252.752 317.248> -144 70<252.752 317.248>
+VStem: 250 70<-253.248 -188.752 -141.248 -76.7518>
+LayerCount: 2
+Fore
+Refer: 2510 1460 S 1 0 0 1 0 -112 2
+Refer: 2510 1460 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,17 @@
+StartChar: six.proportionallining
+Encoding: 58394 58394 907
+GlifName: six.proportionallining
+Width: 480
+VWidth: 1159
+Flags: W
+HStem: -9 40<222.589 322.29> 338 44<208.153 308.825>
+VStem: 65 72<136.697 371.449> 369 64<103.692 263.496>
+LayerCount: 2
+Fore
+Refer: 688 58384 N 1 0 0 1 6 0 2
+Validated: 1
+Substitution2: "tnum-1" six.tabularlining
+Substitution2: "onum-1" six
+Substitution2: "numr-1" six.numerator
+Substitution2: "dnom-1" six.denom
+EndChar

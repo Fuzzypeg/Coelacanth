@@ -1,0 +1,14 @@
+StartChar: igrave.pcap
+Encoding: 57385 57385 1640
+GlifName: igrave.pcap
+Width: 329
+VWidth: 1159
+Flags: W
+HStem: -7 26<62.1923 106.911> 381 28<65.5 116.097> 486.175 225.516
+VStem: 31.014 169.82 134.425 63.9451<36.2503 369.855>
+LayerCount: 2
+Fore
+Refer: 94 768 N 1 0 0 1 368.5 56 2
+Refer: 651 57355 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

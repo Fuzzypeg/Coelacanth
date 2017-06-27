@@ -1,0 +1,23 @@
+StartChar: guilsinglleft
+Encoding: 8249 8249 1289
+GlifName: guilsinglleft
+Width: 269
+VWidth: 1159
+Flags: W
+VStem: 48 74.0996<134.586 267.414>
+LayerCount: 2
+Fore
+SplineSet
+48 211 m 1
+ 70.2001953125 246.284179688 71.0263671875 348.10546875 209 459 c 1
+ 229 439 l 1
+ 152.109375 358.8515625 122.099609375 316.391601562 122.099609375 201 c 3
+ 122.099609375 85.6083984375 152.109375 43.1484375 229 -37 c 1
+ 209 -57 l 1
+ 71.0263671875 53.89453125 70.2001953125 155.715820312 48 191 c 1
+ 48 211 l 1
+EndSplineSet
+Validated: 1
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

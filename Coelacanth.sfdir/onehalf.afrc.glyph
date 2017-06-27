@@ -1,0 +1,17 @@
+StartChar: onehalf.afrc
+Encoding: 58428 58428 1407
+GlifName: onehalf.afrc
+Width: 463
+VWidth: 1159
+Flags: HW
+HStem: 4.3125 54.9277<195.963 325.959> 238.184 41.6133<156.175 241.365> 328 28<34 428> 416 20.0625<151.934 189.86 276.338 319.932> 670.525 18.2988<158.552 196.343> 677.6 18.3701<286.022 316.82>
+VStem: 210.888 53.4014<445.301 666.154> 251.903 62.8506<143.545 228.683>
+LayerCount: 2
+Fore
+Refer: 1970 58113 S 0.394 0 0 0.875 34 342 2
+Refer: 1400 8322 N 1 0 0 1 87 83 2
+Refer: 1399 8321 N 1 0 0 1 107 496 2
+Validated: 1
+Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction two.denom
+Ligature2: "'afrc' Nut Fractions lookup 23-1" onehalf
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni030D
+Encoding: 781 781 106
+GlifName: uni030D_
+Width: 0
+VWidth: 1159
+Flags: W
+AnchorPoint: "Bottom" -193 -15 mark 0
+AnchorPoint: "TopMark" -200.5 396 mark 0
+AnchorPoint: "TopMark" -198.5 601 basemark 0
+AnchorPoint: "Top" -198.5 393 mark 0
+LayerCount: 2
+Fore
+Refer: 1971 58114 S 0 0.177 -0.956522 0 -198 434 2
+Validated: 1
+EndChar

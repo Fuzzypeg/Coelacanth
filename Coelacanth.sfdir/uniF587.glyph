@@ -1,0 +1,16 @@
+StartChar: uniF587
+Encoding: 62855 62855 2599
+GlifName: uniF_587
+Width: 523
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 48 46 S 1 0 0 1 161 651 2
+Refer: 48 46 N 1 0 0 1 161 217 2
+Refer: 48 46 N 1 0 0 1 292 434 2
+Refer: 48 46 N 1 0 0 1 292 0 2
+Refer: 48 46 N 1 0 0 1 30 434 2
+Refer: 48 46 N 1 0 0 1 30 0 2
+Validated: 1
+EndChar

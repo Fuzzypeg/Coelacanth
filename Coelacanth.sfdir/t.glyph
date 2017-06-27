@@ -1,0 +1,36 @@
+StartChar: t
+Encoding: 116 116 19
+GlifName: t
+Width: 341
+VWidth: 1159
+Flags: HMW
+HStem: -10 49<154 261> 360 36<148 304>
+VStem: 68 74<52 357>
+AnchorPoint: "Bottom" 183 -15 basechar 0
+AnchorPoint: "TopRight" 313 531 basechar 0
+AnchorPoint: "Top" 143.5 508 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+14 370 m 1
+ 66 400 109 431 140 478 c 1
+ 155 475 l 1
+ 151 449 151 427 149 399 c 1
+ 199 401 258 400 308 402 c 1
+ 304 355 l 1
+ 254 355 196 357 146 358 c 1
+ 142 296 141 229 141 107 c 3
+ 141 73 155 38 207 38 c 3
+ 249 38 279 55 309 69 c 1
+ 309 69 315 56 320 46 c 1
+ 282 21 218 -10 160 -10 c 3
+ 140 -10 68 0 68 97 c 3
+ 68 197 72 259 74 357 c 1
+ 74 357 39 354 17 354 c 1
+ 14 370 l 1
+EndSplineSet
+Validated: 1
+Substitution2: "case-1" T
+Substitution2: "pcap-1" t.pcap
+Substitution2: "smcp-1" t.smcp
+EndChar

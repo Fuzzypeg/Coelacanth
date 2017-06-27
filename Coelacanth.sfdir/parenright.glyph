@@ -1,0 +1,14 @@
+StartChar: parenright
+Encoding: 41 41 60
+GlifName: parenright
+Width: 383
+VWidth: 1516
+Flags: W
+VStem: 298 48<46.007 378.575>
+LayerCount: 2
+Fore
+Refer: 59 40 S -1 0 0 -1 383 423 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
+EndChar

@@ -1,0 +1,16 @@
+StartChar: uni2189
+Encoding: 8585 8585 1426
+GlifName: uni2189
+Width: 648
+VWidth: 0
+Flags: HW
+HStem: -99 21<415 451.883> 71 20<438 466.464> 220 41<448.206 537.194> 260 28<154.77 236.217> 577 29<129.227 215.365>
+VStem: 30 65<348.838 520.204> 267 69<340.181 525.995> 547 59<142.744 209.813> 558 65<-16.0378 59.2427>
+LayerCount: 2
+Fore
+Refer: 915 58401 N 1 0 0 1 372 0 2
+Refer: 922 58408 N 1 0 0 1 0 0 2
+Refer: 911 8260 N 1 0 0 1 118 0 2
+Validated: 1
+Substitution2: "'zero' Slashed Zero lookup 22-1" uni2189.alt
+EndChar

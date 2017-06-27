@@ -1,0 +1,17 @@
+StartChar: omegatonos
+Encoding: 974 974 1114
+GlifName: omegatonos
+Width: 697
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 490.951 225.517
+VStem: 338.375 169.822
+AnchorPoint: "Bottom" 334.485 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 966 900 N 1 0 0 1 319.984 63 2
+Refer: 1027 969 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" omega.pcap
+Substitution2: "smcp-1" omega.smcp
+EndChar

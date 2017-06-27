@@ -1,0 +1,33 @@
+StartChar: two.tabulartext
+Encoding: 58370 58370 674
+GlifName: two.tabulartext
+Width: 463
+VWidth: 1159
+Flags: W
+HStem: -11 21G<369 388.5> 2 64<114 384.376> 405 53<119.663 250.173>
+VStem: 276 68<269.295 378.966>
+LayerCount: 2
+Fore
+SplineSet
+49 367 m 1x70
+ 80.1826171875 414.314453125 126.302734375 458 206 458 c 0
+ 282 458 344 405 344 335 c 3
+ 344 222 132.888671875 89 114 66 c 9x70
+ 354 69 l 2
+ 386 69 409 108 431 138 c 1
+ 451 121 l 1
+ 451 121 391 39 386 -11 c 1xb0
+ 352 5 277 2 203 2 c 0
+ 99.55859375 2 31.7470703125 0 26 0 c 1
+ 20 18 l 1
+ 66.1455078125 75 276 187 276 325 c 3
+ 276 382 229 405 185 405 c 0
+ 127.624023438 405 93.9462890625 381 69 353 c 1
+ 49 367 l 1x70
+EndSplineSet
+Validated: 33
+Substitution2: "pnum-1" two
+Substitution2: "lnum-1" two.tabularlining
+Substitution2: "numr-1" two.numerator
+Substitution2: "dnom-1" two.denom
+EndChar

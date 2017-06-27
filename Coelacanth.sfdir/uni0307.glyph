@@ -1,0 +1,16 @@
+StartChar: uni0307
+Encoding: 775 775 49
+GlifName: uni0307
+Width: 0
+VWidth: 1159
+Flags: W
+HStem: 451 102<-240.411 -155.589>
+VStem: -250 104<460.438 543.599>
+AnchorPoint: "TopMark" -200.5 405 mark 0
+AnchorPoint: "TopMark" -198.5 539 basemark 0
+AnchorPoint: "Top" -198.5 389 mark 0
+LayerCount: 2
+Fore
+Refer: 2360 57345 N 1 0 0 0.980769 -198 502 2
+Validated: 1
+EndChar

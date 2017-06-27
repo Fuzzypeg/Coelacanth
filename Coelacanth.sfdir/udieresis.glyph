@@ -1,0 +1,18 @@
+StartChar: udieresis
+Encoding: 252 252 134
+GlifName: udieresis
+Width: 506
+VWidth: 1159
+Flags: W
+HStem: -11 55<171 272> 338 31<291 350> 519 84<140.194 214.806 316.194 390.806>
+VStem: 69 76<71 327> 134.5 86<524.582 597.441> 310.5 86<524.582 597.441> 358 65<36 52 75 331>
+AnchorPoint: "Bottom" 256 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 97 776 N 1 0 0 1 462.5 76 2
+Refer: 20 117 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "pcap-1" udieresis.pcap
+Substitution2: "case-1" Udieresis
+Substitution2: "smcp-1" udieresis.smcp
+EndChar

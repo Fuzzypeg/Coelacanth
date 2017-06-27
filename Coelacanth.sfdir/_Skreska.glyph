@@ -1,0 +1,16 @@
+StartChar: Skreska
+Encoding: 58006 58006 1202
+GlifName: S_kreska
+Width: 575
+VWidth: 1159
+Flags: HW
+HStem: -10 43<195.79 384.696> 672 38<219.404 383.163> 681 20G<474 513>
+VStem: 30 34<149.828 195.235> 58 32<0 20.4257> 68 82<457.95 594.46> 449 80<96.0494 230.479> 482 33<527.268 575.693 682.701 692>
+LayerCount: 2
+Fore
+Refer: 1193 57997 N 1 0 0 1 250 0 2
+Refer: 44 83 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2sc-1" skreska.smcp
+Substitution2: "c2pc-1" skreska.pcap
+EndChar

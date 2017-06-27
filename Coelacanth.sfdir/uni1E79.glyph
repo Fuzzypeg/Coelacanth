@@ -1,0 +1,16 @@
+StartChar: uni1E79
+Encoding: 7801 7801 818
+GlifName: uni1E_79
+Width: 506
+VWidth: 0
+Flags: W
+HStem: -11 55<171 272> 338 31<291 350> 466.645 21G<129.074 166.745> 479.053 60<260.537 353.863> 516.391 59.446<180.694 274.001>
+VStem: 69 76<71 327> 129.074 273.107 358 65<36 52 75 331>
+AnchorPoint: "Bottom" 256 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 470 58080 N 1 0 0 1 391 117 2
+Refer: 100 771 N 1 0 0 1 474 45 2
+Refer: 20 117 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,14 @@
+StartChar: uni205D
+Encoding: 8285 8285 2387
+GlifName: uni205D_
+Width: 262
+VWidth: 1159
+Flags: W
+HStem: -21 140<106.678 149.536> 275 140<106.678 149.536> 277 140<106.678 149.536>
+VStem: 59 141<25.3087 69.9365 321.309 365.937 323.309 367.937>
+LayerCount: 2
+Fore
+Refer: 48 46 N 1 0 0 1 29 296 2
+Refer: 1724 8282 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni1F38
+Encoding: 7992 7992 1551
+GlifName: uni1F_38
+Width: 525
+Flags: W
+HStem: -10 40<154.125 257.789> 518.048 23.76<-2.80904 43.8394> 652 43<159.349 258.801> 652.832 79.92<23.112 68.0649>
+VStem: 76.031 48.6<558.997 638.051> 269 90<41.0295 293.416> 275.915 75.6029<80.3904 534.592>
+AnchorPoint: "Bottom" 311 -15 basechar 0
+AnchorPoint: "Top" 315 699 basechar 0
+LayerCount: 2
+Fore
+Refer: 1608 8127 S 1.08 0 0 1.08 -119.273 -15.472 2
+Refer: 984 921 N 1 0 0 1 138 0 2
+Validated: 1
+EndChar

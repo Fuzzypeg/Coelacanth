@@ -1,0 +1,26 @@
+StartChar: omicron
+Encoding: 959 959 1017
+GlifName: omicron
+Width: 510
+VWidth: 1043
+Flags: HMW
+AnchorPoint: "Top" 294 465 basechar 0
+AnchorPoint: "Bottom" 250 -15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+250 34 m 3
+ 357 34 380 153 380 215 c 3
+ 380 296 349 380 265 380 c 3
+ 212 380 132 353 132 187 c 3
+ 132 92 175 34 250 34 c 3
+52 209 m 3
+ 52 309 120 420 253 420 c 3
+ 389 420 458 298 458 194 c 3
+ 458 61 356 -10 254 -10 c 3
+ 129 -10 52 112 52 209 c 3
+EndSplineSet
+Validated: 1
+Substitution2: "pcap-1" o.pcap
+Substitution2: "smcp-1" o.smcp
+EndChar

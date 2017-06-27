@@ -1,0 +1,15 @@
+StartChar: napostrophe
+Encoding: 329 329 882
+GlifName: napostrophe
+Width: 526
+VWidth: 1159
+Flags: W
+HStem: -7 33<21 68 170 229 308 360 454 512> 338 60<237 357> 493.94 204.119
+VStem: 47.8701 116.64 95 66<44 316 330 333> 379 68<36 316>
+LayerCount: 2
+Fore
+Refer: 111 787 S 1 0 0 1 266 55 2
+Refer: 13 110 N 1 0 0 1 0 0 3
+Validated: 1
+MultipleSubs2: "case-2" quoteright N
+EndChar

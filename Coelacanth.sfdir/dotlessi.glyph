@@ -1,0 +1,37 @@
+StartChar: dotlessi
+Encoding: 305 305 50
+GlifName: dotlessi
+Width: 263
+VWidth: 1159
+Flags: HMW
+HStem: -7 33<33 87 184 254>
+VStem: 97 71<57 330>
+AnchorPoint: "Top" 136 465 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+168 196 m 3
+ 168 157 171 91 177 54 c 0
+ 179 39 199 35 210 33 c 0
+ 226 29 244 28 258 27 c 1
+ 254 -7 l 1
+ 215 -1 171 4 129 4 c 3
+ 99 4 63 -3 33 -7 c 1
+ 30 26 l 1
+ 41 27 57 29 68 31 c 0
+ 91 37 92 48 94 76 c 0
+ 96 101 97 150 97 176 c 3
+ 97 196 98 238 93 301 c 0
+ 92 317 87 330 70 330 c 3
+ 64 330 49 326 40 325 c 1
+ 33 357 l 1
+ 85 369 122 383 175 431 c 1
+ 195 415 l 1
+ 189 401 184 374 182 363 c 0
+ 172 319 168 213 168 196 c 3
+EndSplineSet
+Validated: 33
+Substitution2: "case-1" I
+Substitution2: "pcap-1" i.pcap
+Substitution2: "smcp-1" i.smcp
+EndChar

@@ -1,0 +1,25 @@
+StartChar: uni0302
+Encoding: 770 770 93
+GlifName: uni0302
+Width: 0
+VWidth: 1159
+Flags: W
+HStem: 422.6 184.8
+VStem: -310.25 225.5
+AnchorPoint: "TopMark" -198.5 587 basemark 0
+AnchorPoint: "TopMark" -200.5 384 mark 0
+AnchorPoint: "Top" -198.5 401 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-84.75 435.8 m 1
+ -104.55 422.6 l 1
+ -197.5 528.581 l 1
+ -290.45 422.6 l 1
+ -310.25 435.8 l 1
+ -213.45 607.4 l 1
+ -181.55 607.4 l 1
+ -84.75 435.8 l 1
+EndSplineSet
+Validated: 1
+EndChar

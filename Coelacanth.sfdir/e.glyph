@@ -1,0 +1,37 @@
+StartChar: e
+Encoding: 101 101 4
+GlifName: e
+Width: 409
+VWidth: 1159
+Flags: HMW
+HStem: 425 168
+VStem: 53 185
+AnchorPoint: "Bottom" 213 -15 basechar 0
+AnchorPoint: "Ogonek" 306.65 23 basechar 0
+AnchorPoint: "Top" 217 465 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+213 415 m 3
+ 271 415 331.644432889 369.853361067 352 321 c 0
+ 357 309 372 301 383 300 c 1
+ 383 276 l 1
+ 298 261 194 239 112 219 c 1
+ 112 213 111 206 111 200 c 3
+ 111 86 181 40 240 40 c 3
+ 287 40 326 62 354 85 c 1
+ 375 58 l 1
+ 333 25 273 -10 204 -10 c 3
+ 97 -10 36 73 36 180 c 3
+ 36 355 179 415 213 415 c 3
+199 368 m 3
+ 145 368 118 300.796610169 114 246 c 1
+ 285 282 l 0
+ 293 283 l 1
+ 283 322.87654321 241 368 199 368 c 3
+EndSplineSet
+Validated: 1
+Substitution2: "case-1" E
+Substitution2: "pcap-1" e.pcap
+Substitution2: "smcp-1" e.smcp
+EndChar

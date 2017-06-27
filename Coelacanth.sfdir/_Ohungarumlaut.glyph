@@ -1,0 +1,16 @@
+StartChar: Ohungarumlaut
+Encoding: 336 336 446
+GlifName: O_hungarumlaut
+Width: 845
+VWidth: 0
+Flags: HW
+HStem: -7 50<342.523 545.448> 657 49<304.396 495.712> 731.472 183.528
+VStem: 43 93<267.4 455.825> 367.5 261.258 701 101<222.803 442.21>
+LayerCount: 2
+Fore
+Refer: 166 58027 S 1 0 0 1 347 3 2
+Refer: 40 79 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" ohungarumlaut.pcap
+Substitution2: "c2sc-1" ohungarumlaut.smcp
+EndChar

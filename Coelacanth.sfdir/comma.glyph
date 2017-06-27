@@ -1,0 +1,27 @@
+StartChar: comma
+Encoding: 44 44 46
+GlifName: space
+Width: 200
+VWidth: 1159
+Flags: W
+HStem: -133 252
+VStem: 27 144
+LayerCount: 2
+Fore
+SplineSet
+43 -133 m 1
+ 27 -108 l 1
+ 61 -87 104 -45 90 -14 c 0
+ 80 8 58 23 37 34 c 0
+ 32 36 30 43 30 49 c 3
+ 30 55 32 60 37 62 c 0
+ 58 73 74 89 85 110 c 0
+ 87 115 93 119 99 119 c 3
+ 105 119 111 115 113 110 c 0
+ 124 89 142 73 163 62 c 0
+ 168 60 171 55 171 49 c 3
+ 171 43 161 -68 43 -133 c 1
+EndSplineSet
+Validated: 33
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

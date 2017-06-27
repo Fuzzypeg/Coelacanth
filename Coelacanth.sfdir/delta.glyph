@@ -1,0 +1,31 @@
+StartChar: delta
+Encoding: 948 948 1006
+GlifName: delta
+Width: 487
+VWidth: 1039
+UnlinkRmOvrlpSave: 1
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+134 186 m 3
+ 134 113 179 31 252 31 c 3
+ 273 31 360 67 360 206 c 3
+ 360 415 -2 500 -2 648 c 3
+ -2 691 28 754 125 754 c 3
+ 228 754 401 674 447 651 c 1
+ 446 623 405 611 374 605 c 1
+ 329 630 193 707 103 707 c 3
+ 67 707 42 686 42 655 c 3
+ 42 530 433 457 433 236 c 3
+ 433 97 333 -9 227 -9 c 3
+ 100 -9 55 90 55 154 c 0
+ 55 298 159 378 261 378 c 3
+ 294 378 317 369 350 363 c 1
+ 344 333 l 1
+ 323 342 297 351 266 351 c 3
+ 172 351 134 254 134 186 c 3
+EndSplineSet
+Substitution2: "pcap-1" delta.pcap
+Substitution2: "smcp-1" delta.smcp
+EndChar

@@ -1,0 +1,14 @@
+StartChar: ydieresis.pcap
+Encoding: 57462 57462 1717
+GlifName: ydieresis.pcap
+Width: 499
+VWidth: 0
+Flags: W
+HStem: -11 27<168.185 206.747 323.93 362.656> 382 25<33.44 68.7653 304 342.606 427.785 467> 519 84<122.194 196.806 298.194 372.806>
+VStem: 116.5 86<524.582 597.441> 292.5 86<524.582 597.441>
+LayerCount: 2
+Fore
+Refer: 97 776 N 1 0 0 1 444.5 76 2
+Refer: 667 57371 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

@@ -1,0 +1,16 @@
+StartChar: Uhungarumlaut
+Encoding: 368 368 237
+GlifName: U_hungarumlaut
+Width: 815
+VWidth: 0
+Flags: HW
+HStem: -10 54<297.466 551.379> 650 40<14.125 94.1699 204.669 289.778 727.959 801.369> 672 20<570 586.309> 731.472 183.528
+VStem: 99 87<142.83 548.313> 104 90<339.122 637.527> 336.5 261.258 664 55<148.927 617.399> 665 61<265.818 645.847>
+LayerCount: 2
+Fore
+Refer: 166 58027 N 1 0 0 1 316 3 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" uhungarumlaut.pcap
+Substitution2: "c2sc-1" uhungarumlaut.smcp
+EndChar

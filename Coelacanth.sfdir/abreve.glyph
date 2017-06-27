@@ -1,0 +1,17 @@
+StartChar: abreve
+Encoding: 259 259 136
+GlifName: abreve
+Width: 413
+VWidth: 0
+Flags: W
+HStem: -15 43<75 181> 161 32<153 246> 364 52<128 220> 508.274 54.719<131.997 271.259>
+VStem: 33 64<34 133> 69.322 28.08<604.771 621.079> 247 65<60 164 191 321> 306.598 28.081<607.635 621.079>
+LayerCount: 2
+Fore
+Refer: 105 774 N 1 0 0 1 399.5 72 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "smcp-1" abreve.smcp
+Substitution2: "case-1" Abreve
+Substitution2: "pcap-1" abreve.pcap
+EndChar

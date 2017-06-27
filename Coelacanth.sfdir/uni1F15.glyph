@@ -1,0 +1,15 @@
+StartChar: uni1F15
+Encoding: 7957 7957 1186
+GlifName: uni1F_15
+Width: 417
+VWidth: 1043
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: 491.951 225.517 495 22<177.306 220.499> 619.8 74<153.808 196.498>
+VStem: 102.499 44<533.962 605.962> 251.89 169.822
+AnchorPoint: "Bottom" 207 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1614 8158 N 1 0 0 1 107.499 1 2
+Refer: 1007 949 N 1 0 0 1 0 0 3
+EndChar

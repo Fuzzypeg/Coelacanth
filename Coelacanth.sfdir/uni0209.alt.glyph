@@ -1,0 +1,14 @@
+StartChar: uni0209.alt
+Encoding: 58126 58126 1436
+GlifName: uni0209.alt
+Width: 263
+VWidth: 1159
+Flags: W
+HStem: -7 33<33 87 184 254>
+VStem: 97 71<57 330>
+LayerCount: 2
+Fore
+Refer: 50 305 N 1 0 0 1 0 0 3
+Refer: 104 783 S 0.984808 -0.173648 0.173648 0.984808 315.703 22.1297 2
+Validated: 1
+EndChar

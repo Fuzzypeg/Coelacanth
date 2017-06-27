@@ -1,0 +1,17 @@
+StartChar: etatonos
+Encoding: 942 942 1106
+GlifName: etatonos
+Width: 490
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 490.951 225.517
+VStem: 291.299 169.822
+AnchorPoint: "Bottom" 118.409 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 966 900 N 1 0 0 1 272.908 63 2
+Refer: 1009 951 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" h.smcp
+Substitution2: "pcap-1" h.pcap
+EndChar

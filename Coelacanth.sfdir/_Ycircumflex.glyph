@@ -1,0 +1,17 @@
+StartChar: Ycircumflex
+Encoding: 374 374 241
+GlifName: Y_circumflex
+Width: 735
+VWidth: 0
+Flags: W
+HStem: -11 42<247 320.923 456.301 545.814> 649 35.2148<212.294 267.95 481 483 664 666.328> 651 39<9.47368 79.3442 237.708 269.641 654.659 729>
+VStem: 353 78<94.0509 324.999>
+LayerCount: 2
+Fore
+Refer: 159 58020 N 1 0 0 1 247 0 2
+Refer: 57 89 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" ycircumflex.pcap
+Substitution2: "c2sc-1" ycircumflex.smcp
+EndChar

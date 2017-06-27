@@ -1,0 +1,14 @@
+StartChar: uni2037
+Encoding: 8247 8247 2384
+GlifName: uni2037
+Width: 428
+Flags: W
+HStem: 455.304 288.492
+VStem: 7.93164 120.744 147.932 120.744 287.932 120.744
+CounterMasks: 1 70
+LayerCount: 2
+Fore
+Refer: 2382 8245 N 1 0 0 1 280 0 2
+Refer: 2383 8246 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

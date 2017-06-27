@@ -1,0 +1,15 @@
+StartChar: uni1EF7
+Encoding: 7927 7927 757
+GlifName: uni1E_F_7
+Width: 446
+VWidth: 0
+Flags: W
+HStem: 365 30<9 37 170 185 277 339 410 444> 653 25<215.539 245.948>
+VStem: 205 40<497.234 557.043> 259 48.5<572.957 648.828>
+DStem2: 176 -32 383 308 0.447214 0.894427<-152.969 14.7689>
+LayerCount: 2
+Fore
+Refer: 748 777 N 1 0 0 1 454 21 2
+Refer: 24 121 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar
