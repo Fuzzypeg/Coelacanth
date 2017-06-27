@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1498171249
+ModificationTime: 1498516247
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -109,7 +109,7 @@ KernClass2: 29 22 "kern-2 latin class kerning"
  142 c d e o q ccedilla oslash oe ohorn uni01EB uni1E0B uni1E0D uni1E0F uni1E11 uni1E13 uni1E19 uni1E1B uni1ECD uni1EE3 c.pcap g.pcap o.pcap q.pcap
  458 colon semicolon m n p r t u x z aogonek dotlessi kgreenlandic ncommaaccent eng rcommaaccent scedilla tcommaaccent tcaron tbar uogonek uhorn uni01CC uni01DD uni021B uni0259 uni1E01 uni1E3F uni1E41 uni1E43 uni1E47 uni1E49 uni1E4B uni1E5B uni1E5F uni1E63 uni1E6D uni1E6F uni1E71 uni1E73 uni1E75 uni1E77 uni1E93 uni1E95 uni1EA1 uni1EE5 uni1EF1 b.pcap d.pcap e.pcap f.pcap h.pcap i.pcap j.pcap k.pcap l.pcap m.pcap n.pcap p.pcap r.pcap s.pcap u.pcap x.pcap z.pcap
  228 A Agrave Aacute Acircumflex Atilde Adieresis Aring Amacron Abreve Aogonek uni01CD uni01DE Aringacute uni0200 uni0202 uni0226 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6
- 585 C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash yacute ydieresis Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE wcircumflex ycircumflex uni019F Ohorn uni01D1 uni01E4 Gcaron uni01EA uni01EC uni01F4 Oslashacute uni020C uni020E uni022A uni022C uni022E uni0230 uni0233 uni1E08 uni1E20 uni1E4C uni1E4E uni1E50 uni1E52 uni1E7D wgrave wacute wdieresis uni1E87 uni1E8F uni1E98 uni1E99 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2 ygrave uni1EF7 uni1EF9 Q.alt
+ 735 parenleft C G O Q Ccedilla Ograve Oacute Ocircumflex Otilde Odieresis Oslash yacute ydieresis Cacute Ccircumflex Cdotaccent Ccaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Omacron Obreve Ohungarumlaut OE wcircumflex ycircumflex uni019F Ohorn uni01A2 uni01D1 uni01E4 Gcaron uni01EA uni01EC uni01F4 Oslashacute uni020C uni020E uni022A uni022C uni022E uni0230 uni0233 uni023B Theta Omicron Phi uni03D8 uni03F4 uni03F9 uni03FE afii10053 afii10032 afii10035 afii10038 afii10147 uni04E6 uni04E8 uni04EA uni1E08 uni1E20 uni1E4C uni1E4E uni1E50 uni1E52 uni1E7D wgrave wacute wdieresis uni1E87 uni1E8F uni1E98 uni1E99 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2 ygrave uni1EF7 uni1EF9 Q.alt
  61 T Tcommaaccent Tcaron uni021A uni1E6A uni1E6C uni1E6E uni1E70
  75 Y Tbar Ycircumflex Ydieresis uni0232 uni1E8E Ygrave uni1EF4 uni1EF6 uni1EF8
  50 v w y uni1E7F uni1E89 uni1EF5 v.pcap w.pcap y.pcap
@@ -125,7 +125,7 @@ KernClass2: 29 22 "kern-2 latin class kerning"
  9 backslash
  19 a s ae scommaaccent
  9 g uni01E5
- 1577 B E F H I K L M N P R b h k l Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Thorn thorn Dcaron Emacron Ebreve Edotaccent Eogonek Ecaron Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Kcommaaccent kcommaaccent Lacute lacute Lcommaaccent lcommaaccent Lcaron lcaron Ldot ldot Lslash lslash Nacute Ncommaaccent Ncaron Eng Racute Rcommaaccent Rcaron uni0180 uni0182 uni0189 uni0197 uni01C0 uni01C1 uni01C4 uni01C5 uni01C7 uni01C8 uni01C9 uni01CA uni01CB uni01E8 uni01E9 uni01F1 uni01F2 uni01F6 uni01F8 uni0204 uni0206 uni0208 uni020A uni0210 uni0212 uni021E uni021F uni0228 uni0243 uni0246 uni0370 uni0376 Beta Gamma Epsilon Eta Iota Kappa Mu Nu Xi Pi Rho Iotadieresis uni03CF uni03DC uni03F7 uni0400 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 uni040D afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10030 afii10031 afii10033 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 uni04D6 uni04E2 uni04E4 uni04F8 uni1E02 uni1E03 uni1E04 uni1E05 uni1E06 uni1E07 uni1E0A uni1E0C uni1E0E uni1E10 uni1E12 uni1E14 uni1E16 uni1E18 uni1E1A uni1E1C uni1E1E uni1E22 uni1E23 uni1E24 uni1E25 uni1E26 uni1E27 uni1E28 uni1E29 uni1E2A uni1E2B uni1E2C uni1E2E uni1E30 uni1E31 uni1E32 uni1E33 uni1E34 uni1E35 uni1E36 uni1E37 uni1E38 uni1E39 uni1E3A uni1E3B uni1E3C uni1E3D uni1E3E uni1E40 uni1E42 uni1E44 uni1E46 uni1E48 uni1E4A uni1E54 uni1E56 uni1E58 uni1E5B uni1E5C uni1E5E uni1EB8 uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6 uni1EC8 uni1ECA uni1EFA uni1EFB
+ 1842 exclam question B E F H I K L M N P R bracketleft bracketright b h k l braceleft bar braceright brokenbar Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Thorn thorn Dcaron Emacron Ebreve Edotaccent Eogonek Ecaron Hcircumflex hcircumflex Hbar hbar Itilde Imacron Ibreve Iogonek Idotaccent IJ Kcommaaccent kcommaaccent Lacute lacute Lcommaaccent lcommaaccent Lcaron lcaron Ldot ldot Lslash lslash Nacute Ncommaaccent Ncaron Eng Racute Rcommaaccent Rcaron uni0180 uni0182 uni0189 uni0197 uni01C0 uni01C1 uni01C4 uni01C5 uni01C7 uni01C8 uni01C9 uni01CA uni01CB uni01E8 uni01E9 uni01F1 uni01F2 uni01F6 uni01F8 uni0204 uni0206 uni0208 uni020A uni0210 uni0212 uni021E uni021F uni0228 uni0243 uni0246 uni0370 uni0376 Beta Gamma Epsilon Eta Iota Kappa Mu Nu Xi Pi Rho Iotadieresis uni03CF uni03DC uni03F7 uni0400 afii10023 afii10052 afii10055 afii10056 afii10059 afii10061 uni040D afii10145 afii10018 afii10019 afii10020 afii10022 afii10026 afii10027 afii10028 afii10030 afii10031 afii10033 afii10040 afii10042 afii10043 afii10045 afii10046 afii10048 uni04D6 uni04E2 uni04E4 uni04F8 uni1E02 uni1E03 uni1E04 uni1E05 uni1E06 uni1E07 uni1E0A uni1E0C uni1E0E uni1E10 uni1E12 uni1E14 uni1E16 uni1E18 uni1E1A uni1E1C uni1E1E uni1E22 uni1E23 uni1E24 uni1E25 uni1E26 uni1E27 uni1E28 uni1E29 uni1E2A uni1E2B uni1E2C uni1E2E uni1E30 uni1E31 uni1E32 uni1E33 uni1E34 uni1E35 uni1E36 uni1E37 uni1E38 uni1E39 uni1E3A uni1E3B uni1E3C uni1E3D uni1E3E uni1E40 uni1E42 uni1E44 uni1E46 uni1E48 uni1E4A uni1E54 uni1E56 uni1E58 uni1E5C uni1E5E uni1EB8 uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6 uni1EC8 uni1ECA uni1EFA uni1EFB uni2016 exclamdbl uni203D uni2047 uni2048 uni2049 uni205D uni205E prescription uni211F Nkreska R.alt Eng.alt one.tabularlining one.proportionallining one.tabularliningalt one.proportionalliningalt
  18 AE uni01E2 AEacute
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -132 {} -93 {} -186 {} -46 {} -31 {} -31 {} -61 {} -31 {} -63 {} -15 {} -15 {} 0 {} -174 {} 0 {} -171 {} -108 {} 0 {} -154 {} -171 {} 0 {} -247 {} 0 {} -123 {} -124 {} -139 {} -31 {} -16 {} 0 {} -124 {} 0 {} -61 {} 0 {} 0 {} 0 {} -174 {} 0 {} -109 {} -124 {} 0 {} -124 {} -171 {} 0 {} -201 {} 0 {} -123 {} -123 {} -139 {} -46 {} 0 {} 0 {} -108 {} -15 {} -46 {} 0 {} -15 {} 0 {} -131 {} 0 {} -109 {} -124 {} 0 {} -124 {} -201 {} 0 {} -171 {} 0 {} 0 {} 0 {} 0 {} 46 {} 139 {} 139 {} 0 {} 139 {} 61 {} 139 {} 139 {} 139 {} 0 {} 0 {} 0 {} 0 {} 124 {} 0 {} 0 {} 154 {} 0 {} 0 {} -23 {} 0 {} 0 {} -71 {} -70 {} -85 {} -55 {} -162 {} 0 {} -55 {} -38 {} -93 {} 0 {} 0 {} 0 {} 0 {} -139 {} 0 {} 0 {} 0 {} 0 {} 0 {} -30 {} -31 {} -31 {} 0 {} 0 {} 0 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 93 {} 0 {} 0 {} 108 {} -78 {} 0 {} 0 {} 0 {} 0 {} -46 {} -124 {} -124 {} -31 {} -171 {} 0 {} -46 {} -46 {} -116 {} 0 {} 0 {} 0 {} 0 {} -169 {} 0 {} 0 {} 0 {} -31 {} 0 {} 0 {} 0 {} 0 {} 15 {} 46 {} 46 {} 0 {} 46 {} 0 {} 46 {} 46 {} 46 {} 0 {} 0 {} 0 {} 0 {} 15 {} 0 {} 0 {} 61 {} 0 {} 0 {} -37 {} 0 {} -31 {} -78 {} -93 {} -93 {} -61 {} -108 {} 0 {} -31 {} -48 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} 0 {} 0 {} 0 {} 0 {} 0 {} -61 {} -46 {} -108 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -61 {} 0 {} -162 {} 0 {} -61 {} 0 {} -15 {} 0 {} 0 {} 0 {} -186 {} 0 {} 0 {} 0 {} 0 {} -31 {} -139 {} -154 {} -61 {} -171 {} 0 {} -46 {} -15 {} -116 {} 0 {} 0 {} 0 {} 0 {} -93 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} -36 {} 0 {} -61 {} -93 {} 0 {} -93 {} 0 {} -30 {} 0 {} -46 {} 0 {} 0 {} 0 {} 0 {} -78 {} 0 {} 0 {} 0 {} -46 {} 0 {} 0 {} 0 {} -74 {} 0 {} -73 {} -136 {} 0 {} -104 {} 0 {} -43 {} -58 {} -27 {} -61 {} 0 {} -30 {} 0 {} -31 {} 0 {} 0 {} 0 {} -108 {} 0 {} 0 {} 0 {} 0 {} 0 {} -78 {} -124 {} 0 {} -154 {} 0 {} -15 {} -31 {} -63 {} 0 {} 0 {} 0 {} 0 {} -108 {} 0 {} 0 {} 0 {} -61 {} 0 {} 0 {} 0 {} -46 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} 0 {} -61 {} 0 {} 0 {} 0 {} 0 {} 0 {} -93 {} 0 {} -15 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -78 {} 0 {} -61 {} 0 {} 0 {} 0 {} 0 {} 0 {} -124 {} 0 {} 0 {} 0 {} 0 {} -61 {} -116 {} -116 {} -61 {} -116 {} 0 {} -61 {} 0 {} -58 {} 0 {} 0 {} 0 {} 0 {} -116 {} 0 {} 0 {} 0 {} 0 {} 0 {} -16 {} 0 {} -85 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -85 {} 0 {} -93 {} 0 {} 0 {} 0 {} 0 {} 0 {} -85 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} 0 {} 0 {} 0 {} 0 {} -93 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -61 {} -31 {} -15 {} -46 {} -31 {} -93 {} 0 {} -15 {} -46 {} -46 {} 0 {} 0 {} 0 {} 0 {} -124 {} 0 {} 0 {} 0 {} -46 {} 0 {} 0 {} 31 {} 0 {} 0 {} 0 {} 0 {} 61 {} 0 {} 31 {} 46 {} 0 {} 61 {} 0 {} 0 {} 0 {} 0 {} 16 {} 0 {} 0 {} 31 {} -46 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -46 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -31 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 78 {} 108 {} 0 {} 108 {} 0 {} 108 {} 108 {} 108 {} 0 {} 23 {} 0 {} 0 {} 93 {} 0 {} 0 {} 108 {} 0 {} 0 {} -139 {} -108 {} -186 {} -46 {} 0 {} 0 {} -93 {} -15 {} -31 {} 0 {} 0 {} 0 {} -174 {} 0 {} -169 {} -108 {} -15 {} -139 {} -186 {} 0 {} -263 {} 0 {} 0 {} 0 {} -74 {} 0 {} 31 {} 0 {} 0 {} 31 {} 0 {} 31 {} 31 {} 31 {} -61 {} 0 {} -31 {} 0 {} 63 {} 0 {} 0 {} 31 {} -93 {} 0 {} 0 {} 0 {} -46 {} 0 {} 108 {} 139 {} 0 {} 139 {} 61 {} 139 {} 139 {} 139 {} -46 {} 0 {} 0 {} 0 {} 171 {} 0 {} 0 {} 124 {} -78 {} 0 {} -124 {} -109 {} -171 {} -78 {} 0 {} 0 {} -31 {} 0 {} -46 {} 0 {} 0 {} 0 {} -124 {} 0 {} -93 {} -61 {} 0 {} -93 {} -108 {} 0 {} -202 {} 0 {} 0 {} 0 {} 0 {} -61 {} -48 {} -124 {} -30 {} -171 {} 0 {} -31 {} 0 {} -116 {} 0 {} 0 {} 124 {} 0 {} -93 {} 0 {} 61 {} 0 {} 0 {}
 ContextSub2: coverage "calt-3 tight f" 0 0 0 1
@@ -171,7 +171,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1014 13 6
+WinInfo: 8151 13 6
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -190,7 +190,7 @@ Grid
 EndSplineSet
 TeXData: 1 14680064 0 214958 107479 71652 419430 1048576 71652 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "BottomMark" "mkmk-1" "TopMark" "mkmk-1" "TopRight" "mark-topright" "Horn" "mark-horn" "Middle" "mark-middle" "Ogonek" "mark-ogonek" "Bottom" "mark-bottom" "Top" "mark-top"
-BeginChars: 65542 2634
+BeginChars: 65542 2647
 
 StartChar: a
 Encoding: 97 97 0
@@ -1296,29 +1296,29 @@ Fore
 SplineSet
 113 -346 m 1
  109 -346 90 -343 52 -343 c 3
- 22 -343 15 -345 -6 -346 c 9
+ 22 -343 15 -345 -6 -346 c 13
  -6 -346 -5 -330 -7 -319 c 1
- 85 -283 73 -255 176 -32 c 5
- 148 100.845528455 85 310.926829268 58 348 c 4
- 51 358 47 365 37 370 c 4
- 28 372 16 375 6 376 c 5
- 10 406 l 5
- 33 402 68 400 91 400 c 7
- 125 400 153 401 185 407 c 5
- 189 379 l 5
- 156 370 l 4
- 149 369 145 368 145 359 c 7
- 145 358 147 351 148 346 c 4
- 160 272.107407407 192 153.462962963 226 65 c 5
- 273 138.16872428 317 236.423868313 342 319 c 4
- 344 326 347 335 347 344 c 7
- 347 366 340 367 271 381 c 13
- 277 411 l 5
- 308 404 351 400 369 400 c 7
- 394 400 422 402 443 408 c 5
- 448 378 l 5
- 410 368 401 363 383 319 c 4
- 368 283.83125 294 132.8125 223 -12 c 4
+ 85 -283 73 -255 176 -32 c 1
+ 148 100.845528455 85 310.926829268 58 348 c 0
+ 51 358 47 365 37 370 c 0
+ 28 372 16 375 6 376 c 1
+ 10 406 l 1
+ 33 402 68 400 91 400 c 3
+ 125 400 153 401 185 407 c 1
+ 189 379 l 1
+ 156 370 l 0
+ 149 369 145 368 145 359 c 3
+ 145 358 147 351 148 346 c 0
+ 160 272.107407407 192 153.462962963 226 65 c 1
+ 273 138.16872428 317 236.423868313 342 319 c 0
+ 344 326 347 335 347 344 c 3
+ 347 366 340 367 271 381 c 9
+ 277 411 l 1
+ 308 404 351 400 369 400 c 3
+ 394 400 422 402 443 408 c 1
+ 448 378 l 1
+ 410 368 401 363 383 319 c 0
+ 368 283.83125 294 132.8125 223 -12 c 0
  179 -98 113 -281 113 -346 c 1
 EndSplineSet
 Validated: 1
@@ -21912,7 +21912,8 @@ SplineSet
  316 826 317 822 317 817 c 0
  317 800 314 771 312 758 c 1
  289 753 275 753 275 738 c 3
- 275 717 342 681 409 677 c 1
+ 275 719.838176297 325.113544885 690.456902247 381.999998115 680.259310944 c 5
+ 390.889732199 678.665717569 399.944866099 677.540605009 409 677 c 1
  251 642 82 342 82 157 c 3
  82 75 139 72 178 72 c 3
  214 72 232 80 268 80 c 3
@@ -57167,6 +57168,136 @@ SplineSet
  620.62 221.02 l 1
  348.86 706.06 l 1
 EndSplineSet
+EndChar
+
+StartChar: uni0274
+Encoding: 628 628 2634
+Width: 587
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 656 57360 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0276
+Encoding: 630 630 2635
+Width: 733
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1698 57443 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0280
+Encoding: 640 640 2636
+Width: 504
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 660 57364 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0279
+Encoding: 633 633 2637
+Width: 358
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 17 114 S -1 0 0 -1 357 412 2
+EndChar
+
+StartChar: uni026A
+Encoding: 618 618 2638
+Width: 329
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 651 57355 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0262
+Encoding: 610 610 2639
+Width: 543
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 649 57353 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0252
+Encoding: 594 594 2640
+Width: 498
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1118 593 N -1 0 0 -1 498 406 2
+EndChar
+
+StartChar: uni0250
+Encoding: 592 592 2641
+Width: 413
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 0 97 S -1 0 0 -1 413 404 2
+EndChar
+
+StartChar: uni0265
+Encoding: 613 613 2642
+Width: 531
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 7 104 N -1 0 0 -1 531 409 2
+EndChar
+
+StartChar: uni0299
+Encoding: 665 665 2643
+Width: 444
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 644 57348 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni029C
+Encoding: 668 668 2644
+Width: 603
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 650 57354 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni029F
+Encoding: 671 671 2645
+Width: 456
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 654 57358 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni028F
+Encoding: 655 655 2646
+Width: 499
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 667 57371 S 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
