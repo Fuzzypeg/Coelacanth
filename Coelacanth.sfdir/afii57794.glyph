@@ -4,11 +4,11 @@ GlifName: afii57794
 Width: 0
 VWidth: 0
 Flags: W
-HStem: -144 70<195.752 260.248 308.752 373.248>
-VStem: 193 70<-141.248 -76.7518> 306 70<-141.248 -76.7518>
+HStem: -156 93.0225
+VStem: 174.018 90.875 307.018 90.875
+AnchorPoint: "HbBottom" 287 0 mark 0
 LayerCount: 2
 Fore
-Refer: 2510 1460 S 1 0 0 1 66 0 2
+Refer: 2510 1460 N 1 0 0 1 66 0 2
 Refer: 2510 1460 N 1 0 0 1 -67 0 2
-Validated: 1
 EndChar

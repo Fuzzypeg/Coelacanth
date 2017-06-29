@@ -3,10 +3,10 @@ Encoding: 1427 1427 2542
 GlifName: uni0593
 Width: 0
 VWidth: 0
-Flags: HW
-HStem: 631.16 255.2
-VStem: 165.2 184.439
-AnchorPoint: "Top" 258.68 619.44 mark 0
+Flags: W
+HStem: 643.92 229.681
+VStem: 174.48 165.995
+AnchorPoint: "HbTop" 258.68 619.44 mark 0
 LayerCount: 2
 Back
 SplineSet

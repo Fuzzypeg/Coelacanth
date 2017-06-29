@@ -3,12 +3,11 @@ Encoding: 1471 1471 2521
 GlifName: afii57841
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 662 35<-401.494 -212.506>
 VStem: -401.5 189<662 697>
-AnchorPoint: "Top" 258 628 mark 0
+AnchorPoint: "HbTop" 258 628 mark 0
 LayerCount: 2
 Fore
 Refer: 2513 1463 N 1 0 0 1 -24 784 2
-Validated: 1
 EndChar

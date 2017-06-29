@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1498543790
+ModificationTime: 1498715555
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -73,6 +73,7 @@ Lookup: 257 0 0 "'case' Case-Sensitive Forms lookup 5" { "'case' Case-Sensitive 
 Lookup: 258 0 0 "kern" { "kern-1 latin individual kerning" [150,15,4] "kern-2 latin class kerning" [150,15,4] } ['kern' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "mark" { "mark-topright"  "mark-horn"  "mark-middle"  "mark-ogonek"  "mark-top"  "mark-bottom"  } ['mark' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 0 0 "mkmk" { "mkmk-1"  } ['mkmk' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 1 0 "mark-hb" { "mark-hb-bottom"  "mark-hb-middle"  "mark-hb-top"  } ['mark' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'hebr' <'dflt' > 'runr' <'dflt' > ) ]
 Lookup: 257 0 0 "'lnum' Lining Numerals" { "'lnum-2' vertical adjustment"  } ['case' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'dflt' > ) 'lnum' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 257 0 0 "'case' vertical ajustments for all-caps" { "'case' vertical ajustments for all-caps-1"  } ['case' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -172,7 +173,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 26 13 6
+WinInfo: 1417 13 5
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -190,5 +191,5 @@ Grid
   Named: "Cap"
 EndSplineSet
 TeXData: 1 14680064 0 214958 107479 71652 419430 1048576 71652 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "BottomMark" "mkmk-1" "TopMark" "mkmk-1" "TopRight" "mark-topright" "Horn" "mark-horn" "Middle" "mark-middle" "Ogonek" "mark-ogonek" "Bottom" "mark-bottom" "Top" "mark-top"
+AnchorClass2: "HbBottom" "mark-hb-bottom" "HbMiddle" "mark-hb-middle" "HbTop" "mark-hb-top" "mark-hb-top"""  "BottomMark" "mkmk-1" "TopMark" "mkmk-1" "TopRight" "mark-topright" "Horn" "mark-horn" "Middle" "mark-middle" "Ogonek" "mark-ogonek" "Bottom" "mark-bottom" "Top" "mark-top"
 EndSplineFont

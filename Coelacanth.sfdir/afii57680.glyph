@@ -5,9 +5,10 @@ Width: 330
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: 2.32031 133.378<131.08 246.307>
-VStem: 259.409 53.791<139.539 404.17>
-AnchorPoint: "Top" 172.84 619.44 basechar 0
+HStem: 2.32031 117.378<121.08 244.501> 399.8 21G<256.447 261.711>
+VStem: 259.409 36.791<132.87 374.503>
+AnchorPoint: "HbBottom" 171 0 basechar 0
+AnchorPoint: "HbTop" 178 619.44 basechar 0
 LayerCount: 2
 Back
 SplineSet

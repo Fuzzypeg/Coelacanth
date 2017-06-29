@@ -3,11 +3,11 @@ Encoding: 1468 1468 2518
 GlifName: afii57807
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 242.5 77<292.027 362.973>
-VStem: 289 77<245.527 316.473>
+Flags: HW
+HStem: 244.5 77<229.027 299.973>
+VStem: 226 77<247.527 318.473>
+AnchorPoint: "HbMiddle" 266 284 mark 0
 LayerCount: 2
 Fore
-Refer: 2510 1460 N 1.1 0 0 1.1 14 400.9 2
-Validated: 1
+Refer: 2510 1460 N 1.1 0 0 1.1 -49 402.9 2
 EndChar

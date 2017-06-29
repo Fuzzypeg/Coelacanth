@@ -6,7 +6,7 @@ VWidth: 0
 Flags: W
 HStem: -0.0384962 141.038<45.887 465.861> 433 141<106.82 385.491>
 VStem: 38.938 506.242<6.11042 135.78>
-AnchorPoint: "Top" 270 628 mark 0
+AnchorPoint: "HbTop" 290 628 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -33,5 +33,4 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 1
 EndChar

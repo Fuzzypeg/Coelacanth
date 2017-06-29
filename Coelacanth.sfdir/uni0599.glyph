@@ -3,11 +3,11 @@ Encoding: 1433 1433 2548
 GlifName: uni0599
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 774.996 38<-614.848 -521.257>
-VStem: -500.879 30.998<673.066 749.165>
+Flags: HW
+HStem: 774.996 38<181.152 274.743>
+VStem: 295.121 30.998<673.066 749.165>
+AnchorPoint: "HbTop" 281 628 mark 0
 LayerCount: 2
 Fore
-Refer: 2545 1430 N -1 0 0 -1 -776.76 602.913 2
-Validated: 1
+Refer: 2545 1430 S -1 0 0 -1 19.24 602.913 2
 EndChar

@@ -4,8 +4,9 @@ GlifName: uni0591
 Width: 0
 VWidth: 0
 Flags: W
-HStem: -115.582 61.582<269.263 298.798>
-VStem: 223 30<-215.995 -121.267> 269 30<-93.6411 -54.0049> 313 30<-215.995 -121.18>
+HStem: -115.582 61.582<269.263 298.801>
+VStem: 223 30<-215.995 -121.266> 269 30<-93.6411 -54.0049> 313 30<-215.995 -121.18>
+AnchorPoint: "HbBottom" 285 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -27,5 +28,4 @@ SplineSet
  313 -155 l 2
  313 -121.313 289.435 -115.582 283.543 -115.582 c 0
 EndSplineSet
-Validated: 1
 EndChar

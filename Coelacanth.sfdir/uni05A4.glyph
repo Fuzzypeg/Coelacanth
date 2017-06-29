@@ -5,9 +5,9 @@ Width: 0
 VWidth: 0
 Flags: W
 HStem: -221.731 173.737
-VStem: -359.498 151.229
+VStem: 204.502 151.229
+AnchorPoint: "HbBottom" 287 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2549 1434 N 1 0 0 1 -240 -18 2
-Validated: 1
 EndChar

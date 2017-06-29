@@ -7,7 +7,7 @@ UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 407.16 21G<144.536 178.253 381.745 466.32>
 VStem: 99.7598 29<-235.64 -221.798> 122.96 53.3604<157.103 406.784> 317.84 31.3203<573.001 596.24>
-AnchorPoint: "Top" 244.76 619.44 basechar 0
+AnchorPoint: "HbTop" 235 619.44 basechar 0
 LayerCount: 2
 Back
 SplineSet

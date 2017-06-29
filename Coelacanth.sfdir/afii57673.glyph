@@ -4,8 +4,9 @@ GlifName: afii57673
 Width: 287
 VWidth: 0
 Flags: W
-VStem: 32.4805 222.72
-AnchorPoint: "Top" 165.88 611.32 basechar 0
+VStem: 32.4805 205.72
+AnchorPoint: "HbBottom" 150 0 basechar 0
+AnchorPoint: "HbTop" 144 611.32 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -38,5 +39,4 @@ SplineSet
  105.037048349 430.295077521 54.2267888922 459.078826161 32.48046875 491.240234375 c 1
  35.9599609375 528.462689246 38.2802734375 566.748796313 75.400390625 612.48046875 c 1
 EndSplineSet
-Validated: 33
 EndChar

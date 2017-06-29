@@ -6,6 +6,7 @@ VWidth: 0
 Flags: W
 HStem: -188.5 42<159.523 271.5>
 VStem: 271.5 35<-146.5 -43.5057>
+AnchorPoint: "HbBottom" 283 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20,5 +21,4 @@ SplineSet
  298.66 -43.5 306.5 -51.3398 306.5 -61 c 2
  306.5 -166 l 2
 EndSplineSet
-Validated: 1
 EndChar
