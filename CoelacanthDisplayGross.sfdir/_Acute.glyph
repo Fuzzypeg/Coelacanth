@@ -1,0 +1,15 @@
+StartChar: Acute
+Encoding: 58018 58018 90
+Width: 222
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+53.5 754.3 m 1
+ 74.5 808.3 95 861 128 912 c 1
+ 128 912 183.693714286 882.994747475 221 859.6 c 1
+ 167 821.6 125 818.6 67 736.6 c 1
+ 53.5 754.3 l 1
+EndSplineSet
+EndChar

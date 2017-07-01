@@ -1,0 +1,11 @@
+StartChar: less
+Encoding: 60 60 334
+Width: 463
+VWidth: 0
+Flags: HW
+HStem: -7 20<327.718 371.359> 391 21<349.571 391>
+LayerCount: 2
+Fore
+Refer: 333 62 N -1 0 0 -1 463 405 2
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

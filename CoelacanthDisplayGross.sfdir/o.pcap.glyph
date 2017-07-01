@@ -1,0 +1,26 @@
+StartChar: o.pcap
+Encoding: 57361 57361 657
+Width: 568
+VWidth: 1159
+Flags: W
+HStem: -5 37<240.993 370.228> 378 35<202.127 322.544>
+VStem: 56 78<146.969 286.001> 428 84<111.049 270.5>
+AnchorPoint: "Middle" 282 206 basechar 0
+AnchorPoint: "Bottom" 288 -15 basechar 0
+AnchorPoint: "Top" 286 465 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+258 378 m 3
+ 186 378 134 325 134 243 c 3
+ 134 136 212 32 307 32 c 3
+ 385 32 428 92 428 174 c 3
+ 428 292 344 378 258 378 c 3
+292 413 m 3
+ 416 413 512 314 512 200 c 3
+ 512 87 421 -5 287 -5 c 3
+ 144 -5 56 109 56 200 c 3
+ 56 314 165 413 292 413 c 3
+EndSplineSet
+Validated: 1
+EndChar

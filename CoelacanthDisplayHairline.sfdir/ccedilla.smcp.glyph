@@ -1,0 +1,13 @@
+StartChar: ccedilla.smcp
+Encoding: 57704 57704 2067
+Width: 511
+VWidth: 807
+Flags: W
+HStem: -6.9 32.9<276.12 416.408> 468.6 30.9<260.464 406.89>
+VStem: 52.1 91.1<158.089 343.256> 323 62.4277<-164.273 -94.0566> 465 26.7<368.086 421.637> 497.3 22.8<109.945 125.626>
+AnchorPoint: "Top" 336 539 basechar 0
+LayerCount: 2
+Fore
+Refer: 268 807 N 1 0 0 1 488 0 2
+Refer: 2034 57673 N 1 0 0 1 0 0 3
+EndChar

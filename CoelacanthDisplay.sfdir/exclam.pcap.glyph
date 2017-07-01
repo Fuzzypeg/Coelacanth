@@ -1,0 +1,21 @@
+StartChar: exclam.pcap
+Encoding: 57473 57473 1753
+Width: 258
+VWidth: 1159
+Flags: W
+HStem: -19.5496 118.177<113.035 140.373>
+VStem: 71.7849 112.1<23.0533 53.6484> 108 38<144 265.33>
+LayerCount: 2
+Fore
+SplineSet
+108 144 m 1xa0
+ 108 215 108 268 97 320 c 0
+ 93 352 71 368 73 402 c 1
+ 124 408 189 438 194 406 c 1
+ 180 382 181 366 176 320 c 0
+ 165 252 146 216 146 143 c 1
+ 108 144 l 1xa0
+EndSplineSet
+Refer: 48 46 N 0.836878 0 0 0.88855 42.8914 -4 2
+Validated: 33
+EndChar

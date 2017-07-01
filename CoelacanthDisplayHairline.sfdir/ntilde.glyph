@@ -1,0 +1,15 @@
+StartChar: ntilde
+Encoding: 241 241 146
+Width: 485
+VWidth: 1159
+Flags: HW
+HStem: -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344 45<229.607 336.126> 379 20<115 141> 482.333 44.667<228.088 337.377> 507.115 44.2051<178.088 288.14>
+VStem: 79 60<30.6838 318.111 320 325.711> 141.833 227.589 369 63<26.9973 308.316>
+LayerCount: 2
+Fore
+Refer: 100 771 N 1 0 0 1 464 49 2
+Refer: 13 110 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" ntilde.pcap
+Substitution2: "case-1" Ntilde
+Substitution2: "smcp-1" ntilde.smcp
+EndChar

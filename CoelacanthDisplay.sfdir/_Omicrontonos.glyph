@@ -1,0 +1,15 @@
+StartChar: Omicrontonos
+Encoding: 908 908 973
+Width: 889
+VWidth: 0
+Flags: HW
+HStem: -16 33<385.371 558.276> 596 159 685 33<341.104 500.595>
+VStem: 27.002 177 67 82<266.508 463.741> 733 82<227.806 435.778>
+LayerCount: 2
+Fore
+Refer: 966 900 N 1 0 0 1 0 102 2
+Refer: 990 927 N 1 0 0 1 44 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" o.pcap
+Substitution2: "c2sc-1" o.smcp
+EndChar

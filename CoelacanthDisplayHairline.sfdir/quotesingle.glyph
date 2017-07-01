@@ -1,0 +1,18 @@
+StartChar: quotesingle
+Encoding: 39 39 79
+Width: 201
+VWidth: 1159
+Flags: HW
+HStem: 445.7 254<91 107>
+VStem: 57 84<560.903 699.7> 91 16<445.7 531.412>
+LayerCount: 2
+Fore
+SplineSet
+92 699.700195312 m 1xc0
+ 106 699.700195312 l 1xc0
+ 106 630.734195312 106 557.034226071 106 445.700195312 c 1
+ 92 445.700195312 l 1xa0
+ 92 556.91122607 92 630.890195312 92 699.700195312 c 1xc0
+EndSplineSet
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

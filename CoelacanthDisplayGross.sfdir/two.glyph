@@ -1,0 +1,29 @@
+StartChar: two
+Encoding: 50 50 65
+Width: 400
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+56 340.5 m 1
+ 82.6142578125 383.813476562 136.978515625 417.5 192 417.5 c 1
+ 268 417.5 320 383.5 320 313.5 c 3
+ 320 267.986328125 294 221 160 98 c 1
+ 297 73.5 252 80.5 317 91 c 1
+ 369.98828125 92.8720703125 397 129 392 117.5 c 1
+ 404 109.5 l 1
+ 404 109.5 352 27.5 334 -20.5 c 1
+ 326 -18 310.052734375 0.5 259 0.5 c 3
+ 4.982421875 0.5 34 -0.6484375 18 -5 c 1
+ 11 14 l 1
+ 44 36 198 131.017578125 198 294.5 c 3
+ 198 328.943359375 200 371 156 371 c 1
+ 103 371 98 345 74 326.5 c 1
+ 56 340.5 l 1
+EndSplineSet
+Substitution2: "dnom-1" two.denom
+Substitution2: "numr-1" two.numerator
+Substitution2: "tnum-1" two.tabulartext
+Substitution2: "lnum-1" two.proportionallining
+EndChar

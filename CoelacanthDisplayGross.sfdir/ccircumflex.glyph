@@ -1,0 +1,15 @@
+StartChar: ccircumflex
+Encoding: 265 265 139
+Width: 405
+VWidth: 1159
+Flags: W
+HStem: -5 37<196.003 313.637> 374 47<173.241 297.231> 515 162
+VStem: 32 61<136.013 275.84> 131.5 205
+LayerCount: 2
+Fore
+Refer: 93 770 N 1 0 0 1 431.5 24 2
+Refer: 2 99 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" ccircumflex.smcp
+Substitution2: "case-1" Ccircumflex
+Substitution2: "pcap-1" ccircumflex.pcap
+EndChar

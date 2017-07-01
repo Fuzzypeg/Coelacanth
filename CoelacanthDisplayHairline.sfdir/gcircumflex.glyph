@@ -1,0 +1,15 @@
+StartChar: gcircumflex
+Encoding: 285 285 144
+Width: 447
+VWidth: 1159
+Flags: HW
+HStem: -323 40<110.064 270.233> -89 55<147.956 371.536> 347 43<358.789 436.304> 390 26<167.45 250.397> 445 162
+VStem: 18.7773 34<-229.937 -152.098> 40.7773 49<187.132 309.988> 61.7773 68<-23.4815 21.1121> 111.277 205 324.777 60<161.777 315.908> 392.777 46<-204.458 -109.454>
+LayerCount: 2
+Fore
+Refer: 93 770 N 1 0 0 1 411.277 14 2
+Refer: 6 103 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" gcircumflex.smcp
+Substitution2: "case-1" Gcircumflex
+Substitution2: "pcap-1" gcircumflex.pcap
+EndChar

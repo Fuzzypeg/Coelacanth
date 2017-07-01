@@ -1,0 +1,20 @@
+StartChar: circumcombhigh
+Encoding: 58081 58081 471
+Width: 0
+VWidth: 1159
+Flags: W
+HStem: 450.319 133.361
+VStem: -323.78 252.561
+LayerCount: 2
+Fore
+SplineSet
+-71.2197 465.56 m 1
+ -93.3955 450.319 l 1
+ -197.5 518.507 l 1
+ -301.604 450.319 l 1
+ -323.78 465.56 l 1
+ -215.364 583.681 l 1
+ -179.636 583.681 l 1
+ -71.2197 465.56 l 1
+EndSplineSet
+EndChar

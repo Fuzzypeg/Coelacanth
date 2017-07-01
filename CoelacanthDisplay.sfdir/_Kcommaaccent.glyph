@@ -1,0 +1,15 @@
+StartChar: Kcommaaccent
+Encoding: 310 310 287
+Width: 713
+VWidth: 0
+Flags: HW
+HStem: -247.047 187.434 -1 19<31 35.8607 227.666 278 486 527.34> 680 19<36 81.4409 219.508 280.571 415 452.693 593.354 621.6>
+VStem: 304.904 108.5<-130.636 -97.7281>
+LayerCount: 2
+Fore
+Refer: 275 806 N 1 0 0 1 542 0 2
+Refer: 36 75 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" kcommaaccent.pcap
+Substitution2: "c2sc-1" kcommaaccent.smcp
+EndChar

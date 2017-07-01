@@ -1,0 +1,29 @@
+StartChar: oe
+Encoding: 339 339 871
+Width: 740
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -4 21<213.737 312.228> 394 23<183.876 282.08>
+VStem: 28 65<136.362 293.127> 399 65<114.357 282.92>
+AnchorPoint: "Top" 395 465 basechar 0
+AnchorPoint: "Bottom" 393 -15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+204 410 m 3
+ 302.4375 410 379 321 379 202 c 3
+ 379 80 303.075848214 -11 201 -11 c 3
+ 107.964483963 -11 28 79 28 198 c 3
+ 28 314 109.052891523 410 204 410 c 3
+204 396 m 3
+ 116.101354981 396 42 305.249023438 42 198 c 3
+ 42 87.8271484375 114.790605096 3 201 3 c 3
+ 295.376795419 3 365 87.400390625 365 202 c 3
+ 365 313.3515625 294.870982496 396 204 396 c 3
+EndSplineSet
+Refer: 4 101 N 1 0 0 1 331 0 2
+Substitution2: "smcp-1" oe.smcp
+Substitution2: "case-1" OE
+Substitution2: "pcap-1" oe.pcap
+EndChar

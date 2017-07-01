@@ -1,0 +1,15 @@
+StartChar: abreve
+Encoding: 259 259 136
+Width: 385
+VWidth: 1159
+Flags: HW
+HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.099 224.5> 539.983 33.7656<122.847 250.542>
+VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 76.4346 11.4004<610.652 617.381> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
+LayerCount: 2
+Fore
+Refer: 105 774 N 1 0 0 1 393.5 36 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" abreve.smcp
+Substitution2: "case-1" Abreve
+Substitution2: "pcap-1" abreve.pcap
+EndChar

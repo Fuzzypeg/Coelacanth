@@ -1,0 +1,23 @@
+StartChar: asciitilde
+Encoding: 126 126 339
+Width: 394
+VWidth: 0
+Flags: W
+HStem: 190 64<164.87 319.051> 219 64<79.4558 233.909>
+LayerCount: 2
+Fore
+SplineSet
+18 193 m 1x40
+ 48 239 103 283 111 283 c 3x40
+ 154 283 245 254 287 254 c 3
+ 297 254 327 276 342 300 c 1
+ 376 287 l 1
+ 351 243 304 190 291 190 c 3x80
+ 250 190 145 219 106 219 c 3
+ 93 219 64 195 50 180 c 1
+ 18 193 l 1x40
+EndSplineSet
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

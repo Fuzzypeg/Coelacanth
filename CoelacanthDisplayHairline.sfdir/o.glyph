@@ -1,0 +1,28 @@
+StartChar: o
+Encoding: 111 111 14
+Width: 492
+VWidth: 1159
+Flags: HW
+HStem: -4 21<213.737 312.228> 394 23<183.876 282.08>
+VStem: 28 65<136.362 293.127> 399 65<114.357 282.92>
+AnchorPoint: "Top" 251 432 basechar 0
+AnchorPoint: "Horn" 420.5 341.8 basechar 0
+AnchorPoint: "Ogonek" 341 19.6582 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+256 410 m 3
+ 373 410 464 321 464 202 c 3
+ 464 80 374 -11 253 -11 c 3
+ 132 -11 28 79 28 198 c 3
+ 28 314 133 410 256 410 c 3
+256 396 m 3
+ 139.886997741 396 42 305.248829206 42 198 c 3
+ 42 87.8271516775 138.596646544 3 253 3 c 3
+ 366.367380782 3 450 87.4001556796 450 202 c 3
+ 450 313.351766388 365.496819971 396 256 396 c 3
+EndSplineSet
+Substitution2: "case-1" O
+Substitution2: "pcap-1" o.pcap
+Substitution2: "smcp-1" o.smcp
+EndChar

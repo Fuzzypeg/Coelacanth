@@ -1,0 +1,15 @@
+StartChar: lcaron
+Encoding: 318 318 252
+Width: 241
+VWidth: 0
+Flags: W
+HStem: -2 14<4.25 23 211.375 237> 452.494 200.751 667 16<21 38.9013> 733 20G<140.5 168>
+VStem: 87 63<43.9746 563.918> 294.75 41<581.48 644.952>
+LayerCount: 2
+Fore
+Refer: 113 789 N 1 0 0 1 344.5 0 2
+Refer: 11 108 N 1 0 0 1 0 0 2
+Substitution2: "smcp-1" lcaron.smcp
+Substitution2: "case-1" Lcaron
+Substitution2: "pcap-1" lcaron.pcap
+EndChar

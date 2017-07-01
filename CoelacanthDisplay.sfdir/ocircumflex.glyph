@@ -1,0 +1,15 @@
+StartChar: ocircumflex
+Encoding: 244 244 128
+Width: 492
+VWidth: 1159
+Flags: HW
+HStem: -10 21<213.737 312.228> 388 23<183.876 282.08> 514 162
+VStem: 28 65<130.362 287.127> 149.5 205 399 65<108.357 276.92>
+LayerCount: 2
+Fore
+Refer: 93 770 N 1 0 0 1 449.5 23 2
+Refer: 14 111 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" ocircumflex.pcap
+Substitution2: "case-1" Ocircumflex
+Substitution2: "smcp-1" ocircumflex.smcp
+EndChar

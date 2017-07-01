@@ -1,0 +1,14 @@
+StartChar: nkreska
+Encoding: 57999 57999 1195
+Width: 485
+VWidth: 1159
+Flags: W
+HStem: -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344 45<229.607 336.126> 379 20G<115 141>
+VStem: 79 60<30.6838 318.111 320 325.711> 369 63<26.9973 308.316>
+LayerCount: 2
+Fore
+Refer: 1192 57996 N 1 0 0 1 222 0 2
+Refer: 13 110 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" nkreska.smcp
+Substitution2: "pcap-1" nkreska.pcap
+EndChar

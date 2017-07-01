@@ -1,0 +1,13 @@
+StartChar: uni2056
+Encoding: 8278 8278 1723
+Width: 446
+VWidth: 0
+Flags: HW
+HStem: -21 140<322.678 365.536> 128 140<77.678 120.536> 277 140<322.678 365.536>
+VStem: 30 141<174.309 218.936> 275 141<25.3087 69.9365 323.309 367.937>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+Refer: 62 58 N 1 0 0 1 216 0 2
+Refer: 48 46 S 1 0 0 1 8 130 2
+EndChar

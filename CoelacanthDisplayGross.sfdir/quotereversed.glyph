@@ -1,0 +1,26 @@
+StartChar: quotereversed
+Encoding: 8219 8219 462
+Width: 200
+VWidth: 1159
+Flags: W
+HStem: 451 252
+VStem: 29 141
+LayerCount: 2
+Fore
+SplineSet
+157 451 m 1
+ 39 516 29 627 29 633 c 3
+ 29 639 32 644 37 646 c 0
+ 58 657 76 673 87 694 c 0
+ 89 699 95 703 101 703 c 3
+ 107 703 113 699 115 694 c 0
+ 126 673 142 657 163 646 c 0
+ 168 644 170 639 170 633 c 3
+ 170 627 168 620 163 618 c 0
+ 142 607 120 592 110 570 c 0
+ 96 539 139 497 173 476 c 1
+ 157 451 l 1
+EndSplineSet
+Validated: 33
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

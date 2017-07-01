@@ -1,0 +1,15 @@
+StartChar: Ibreve
+Encoding: 300 300 211
+Width: 373
+VWidth: 1159
+Flags: HW
+HStem: -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346>
+VStem: 31 315
+LayerCount: 2
+Fore
+Refer: 162 58023 N 1 0 0 1 33 -10 2
+Refer: 34 73 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" ibreve.pcap
+Substitution2: "c2sc-1" ibreve.smcp
+EndChar

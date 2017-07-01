@@ -1,0 +1,15 @@
+StartChar: Zdotaccent
+Encoding: 379 379 246
+Width: 766
+VWidth: 1159
+Flags: HW
+HStem: 0 36<160 577.489> 649 36.951<430.453 552> 656 34<118.052 547.612> 698.453 20<63.375 79> 741.43 83.1402<321.678 399.322>
+VStem: 316.265 88.4697<747.1 818.901>
+LayerCount: 2
+Fore
+Refer: 164 58025 N 1 0 0 1 283 -39 2
+Refer: 58 90 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" zdotaccent.pcap
+Substitution2: "c2sc-1" zdotaccent.smcp
+EndChar

@@ -1,0 +1,23 @@
+StartChar: uni27E6
+Encoding: 10214 10214 1446
+Width: 289
+VWidth: 1515
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -230 42<83 222.222> -230 33<122.778 262> 685 32<136.7 262>
+VStem: 37 46<-188 675>
+LayerCount: 2
+Fore
+SplineSet
+83 675 m 1x70
+ 83 -188 l 1xb0
+ 262 -197 l 1
+ 262 -230 l 1
+ 37 -230 l 1
+ 37 717 l 1
+ 262 717 l 1
+ 262 685 l 1
+ 83 675 l 1x70
+EndSplineSet
+Refer: 1970 58113 N 0 -0.927 0.875 0 160 704 2
+EndChar

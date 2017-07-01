@@ -1,0 +1,15 @@
+StartChar: Aacute
+Encoding: 193 193 169
+Width: 719
+VWidth: 1159
+Flags: HW
+HStem: -7 18<33 46.5502 203.436 236.667 487.333 524.463 679.953 704> 247 38<236 462> 742.3 169.7
+VStem: 369.5 127
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 316 0 2
+Refer: 26 65 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" aacute.pcap
+Substitution2: "c2sc-1" aacute.smcp
+EndChar

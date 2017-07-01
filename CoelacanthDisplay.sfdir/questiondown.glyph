@@ -1,0 +1,16 @@
+StartChar: questiondown
+Encoding: 191 191 878
+Width: 378
+VWidth: 1159
+Flags: W
+HStem: -253.2 63.3844<179.206 306.518> 300.3 133<232.654 265.321>
+VStem: 42.137 17<-78.102 1.15006> 180.662 133.95<350.921 385.353> 242.137 14<199.348 230.8> 320.137 18.5537<-304.591 -284.459>
+LayerCount: 2
+Fore
+Refer: 74 63 N -1 0 0 -1 378.137 415.8 2
+Validated: 1
+Substitution2: "pcap-1" questiondown.pcap
+Substitution2: "smcp-1" questiondown.smcp
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=235 dh=0 dv=0
+EndChar

@@ -1,0 +1,27 @@
+StartChar: five
+Encoding: 53 53 68
+Width: 355
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+84 395 m 1
+ 152 397 242 397 258 399 c 0
+ 284 403 292 421 312 441 c 9
+ 312 441 319 437 324 435 c 1
+ 297 396 271 287 262 289 c 0
+ 231 291 156 286 94 287 c 1
+ 94 287 94 262 94 215 c 1
+ 174 217 292 177 292 49 c 3
+ 292 -95 137 -205 32 -214 c 9
+ 32 -214 32 -205 30 -199 c 1
+ 120 -196 189 -94 189 9 c 3
+ 189 31 185 117 51 108 c 1
+ 65 170 80 307 84 395 c 1
+EndSplineSet
+Substitution2: "dnom-1" five.denom
+Substitution2: "numr-1" five.numerator
+Substitution2: "tnum-1" five.tabulartext
+Substitution2: "lnum-1" five.proportionallining
+EndChar

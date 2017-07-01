@@ -1,0 +1,15 @@
+StartChar: emacron
+Encoding: 275 275 141
+Width: 414
+VWidth: 1159
+Flags: HW
+HStem: -7 35<177.694 286.248> 376 20<168.781 232.156> 481 35<119 308>
+VStem: 34 61<110.281 224.686 236 282.35> 119 189<481 516>
+LayerCount: 2
+Fore
+Refer: 101 772 N 1 0 0 1 410.5 32.3 2
+Refer: 4 101 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" emacron.smcp
+Substitution2: "case-1" Emacron
+Substitution2: "pcap-1" emacron.pcap
+EndChar

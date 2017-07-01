@@ -1,0 +1,12 @@
+StartChar: clickalveolar.smcp
+Encoding: 57796 57796 2157
+Width: 378
+VWidth: 1515
+Flags: W
+HStem: 162.87 42.2608<60 318> 283.87 42.2608<60 318>
+LayerCount: 2
+Fore
+Refer: 2155 57794 N 1 0 0 1 90 0 2
+Refer: 1971 58114 S 0.258 0 0 1.17391 60 184 2
+Refer: 1971 58114 S 0.258 0 0 1.17391 60 305 2
+EndChar

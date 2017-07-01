@@ -1,0 +1,14 @@
+StartChar: uni03F9
+Encoding: 1017 1017 1049
+Width: 666
+VWidth: 1159
+Flags: HW
+HStem: -12 26<345.649 498.05> 697 30<308.728 483.108>
+VStem: 23 90<225.853 484.692> 600 20<550.9 621.644> 625 21<128.174 155>
+AnchorPoint: "Top" 433 699 basechar 0
+AnchorPoint: "Bottom" 423 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 28 67 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

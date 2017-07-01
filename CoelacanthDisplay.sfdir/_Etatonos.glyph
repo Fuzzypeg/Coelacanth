@@ -1,0 +1,15 @@
+StartChar: Etatonos
+Encoding: 905 905 971
+Width: 1058
+VWidth: 0
+Flags: HW
+HStem: -7 22<258 311.722 836.238 882.154 1024.03 1070> 344 35<420 916> 596 159 688 20<261 316.478 503.975 509 1018.94 1066> 695 18<833 869.508>
+VStem: 27.002 177 336 85<393.875 627.104> 912 86<30.0585 342 380 676.577>
+LayerCount: 2
+Fore
+Refer: 966 900 N 1 0 0 1 0 102 2
+Refer: 982 919 N 1 0 0 1 227 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" h.pcap
+Substitution2: "c2sc-1" h.smcp
+EndChar

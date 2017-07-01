@@ -1,0 +1,15 @@
+StartChar: Iota
+Encoding: 921 921 984
+Width: 373
+Flags: HW
+HStem: -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346>
+VStem: 31 315
+AnchorPoint: "Top" 171 699 basechar 0
+AnchorPoint: "Bottom" 167 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 34 73 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" i.pcap
+Substitution2: "c2sc-1" i.smcp
+EndChar

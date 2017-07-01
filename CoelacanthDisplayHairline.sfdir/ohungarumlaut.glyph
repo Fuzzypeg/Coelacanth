@@ -1,0 +1,15 @@
+StartChar: ohungarumlaut
+Encoding: 337 337 155
+Width: 492
+VWidth: 1159
+Flags: HW
+HStem: -4 21<213.737 312.228> 394 23<183.876 282.08>
+VStem: 28 65<136.362 293.127> 399 65<114.357 282.92>
+LayerCount: 2
+Fore
+Refer: 102 779 N 1 0 0 1 449.5 27 2
+Refer: 14 111 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" ohungarumlaut.smcp
+Substitution2: "case-1" Ohungarumlaut
+Substitution2: "pcap-1" ohungarumlaut.pcap
+EndChar

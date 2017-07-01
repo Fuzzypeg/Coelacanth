@@ -1,0 +1,12 @@
+StartChar: idotaccent.smcp
+Encoding: 57751 57751 2113
+Width: 307
+VWidth: 1159
+Flags: HW
+HStem: -7.9 30.2<48.3656 110.618> 462.3 32.5<52.24 117.352>
+VStem: 135.472 67.4424<39.011 449.27>
+LayerCount: 2
+Fore
+Refer: 49 775 N 1 0 0 1 373.5 150 2
+Refer: 2040 57679 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,12 @@
+StartChar: icaron.pcap
+Encoding: 57479 57479 1789
+Width: 279
+VWidth: 657
+Flags: W
+HStem: -7 26<62.1923 106.911> 381 28<65.5 116.097> 554 162
+VStem: 68.5 205 134.425 63.9451<36.2503 369.855>
+LayerCount: 2
+Fore
+Refer: 103 780 N 1 0 0 1 341.875 20 2
+Refer: 651 57355 N 1 0 0 1 0 0 3
+EndChar

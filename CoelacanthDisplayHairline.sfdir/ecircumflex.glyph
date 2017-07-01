@@ -1,0 +1,15 @@
+StartChar: ecircumflex
+Encoding: 234 234 120
+Width: 414
+VWidth: 1159
+Flags: HW
+HStem: -7 35<177.694 286.248> 376 20<168.781 232.156> 447.3 162
+VStem: 34 61<110.281 224.686 236 282.35> 110.5 205
+LayerCount: 2
+Fore
+Refer: 93 770 N 1 0 0 1 410.5 16.3 2
+Refer: 4 101 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" ecircumflex.pcap
+Substitution2: "case-1" Ecircumflex
+Substitution2: "smcp-1" ecircumflex.smcp
+EndChar

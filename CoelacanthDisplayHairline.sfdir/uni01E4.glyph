@@ -1,0 +1,16 @@
+StartChar: uni01E4
+Encoding: 484 484 705
+Width: 749
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -9 37<374.664 581.67> 175 36<488.825 764.676> 319 32<497.562 613.119 730.522 761> 674 38<338.234 547.832> 682 20<658 689>
+VStem: 43 99<250.812 472.081> 638 87<64.334 306.866> 675 31<535.645 556.71>
+AnchorPoint: "Top" 444 699 basechar 0
+AnchorPoint: "Bottom" 421 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 455 58036 S 0.350509 0 0 1 775.892 -334 2
+Refer: 32 71 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

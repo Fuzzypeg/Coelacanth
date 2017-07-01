@@ -1,0 +1,13 @@
+StartChar: nine
+Encoding: 57 57 72
+Width: 442
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 69 54 S -0.99863 0.052336 -0.052336 -0.99863 454.72 387.013 2
+Substitution2: "dnom-1" nine.denom
+Substitution2: "numr-1" nine.numerator
+Substitution2: "tnum-1" nine.tabulartext
+Substitution2: "lnum-1" nine.proportionallining
+EndChar

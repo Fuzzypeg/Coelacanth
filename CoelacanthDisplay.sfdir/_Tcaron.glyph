@@ -1,0 +1,15 @@
+StartChar: Tcaron
+Encoding: 356 356 227
+Width: 744
+VWidth: 1159
+Flags: HW
+HStem: -12 22<223.277 267.753> 657 38<429 632.242> 695 20G<63.5 76> 718.855 147.545
+VStem: 251.495 248.01 333 90<37.5695 314.818>
+LayerCount: 2
+Fore
+Refer: 167 58028 N 1 0 0 1 235 -29 2
+Refer: 45 84 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" tcaron.pcap
+Substitution2: "c2sc-1" tcaron.smcp
+EndChar

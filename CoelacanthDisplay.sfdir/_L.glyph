@@ -1,0 +1,38 @@
+StartChar: L
+Encoding: 76 76 37
+Width: 621
+VWidth: 1159
+Flags: HW
+HStem: 0 34<201.715 484.694> 0 22<28 77.3713> 680 20<39 87.9227 235.574 290.286>
+VStem: 108 83<42.703 331.175> 112 90<374.826 665.166> 584 21<117.717 142.667>
+AnchorPoint: "Bottom" 303 -15 basechar 0
+AnchorPoint: "Top" 170 676 basechar 0
+AnchorPoint: "TopRight" 367 531 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+287 710 m 1x6c
+ 289 685 l 1
+ 223 678 204 675 200 633 c 0x6c
+ 189 469 187 263 193 86 c 0
+ 194 49 208 37 263 35 c 0
+ 322 34 354 32 393 36 c 0xb4
+ 542 51 573 92 586 151 c 1
+ 607 144 l 1
+ 595 94 579 20 558 -13 c 1
+ 521 -1 464 -3 438 -2 c 0
+ 380 -2 289 0 208 0 c 3
+ 161 0 34 -2 31 -2 c 1
+ 31 20 l 1
+ 101 31 109 40 110 92 c 0x74
+ 111 182 114 303 114 403 c 3
+ 114 478 113 560 110 621 c 0
+ 107 685 87 683 34 687 c 1
+ 36 707 l 1
+ 80 704 116 702 147 702 c 3
+ 201 702 243 704 287 710 c 1x6c
+EndSplineSet
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" l.pcap
+Substitution2: "c2sc-1" l.smcp
+EndChar

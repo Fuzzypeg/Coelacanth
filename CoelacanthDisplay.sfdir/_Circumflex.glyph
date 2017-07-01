@@ -1,0 +1,22 @@
+StartChar: Circumflex
+Encoding: 58020 58020 159
+Width: 281
+VWidth: 1159
+Flags: MW
+HStem: 751.855 147.545
+VStem: 16.4951 248.01
+AnchorPoint: "Top" 140 699 mark 0
+LayerCount: 2
+Fore
+SplineSet
+264.505 761.361 m 1
+ 251.097 751.855 l 1
+ 140.5 843.263 l 1
+ 29.9033 751.855 l 1
+ 16.4951 761.361 l 1
+ 129.846 899.4 l 1
+ 151.154 899.4 l 1
+ 264.505 761.361 l 1
+EndSplineSet
+Validated: 1
+EndChar

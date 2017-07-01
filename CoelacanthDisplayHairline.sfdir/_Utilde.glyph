@@ -1,0 +1,15 @@
+StartChar: Utilde
+Encoding: 360 360 229
+Width: 827
+VWidth: 1159
+Flags: HW
+HStem: -16 33<304.712 522.917> 688 19<24.2632 80.625 217.522 287 737.19 788> 738.053 46<390.565 507.339> 763.392 45.4463<327.026 444.191>
+VStem: 103 75<119.571 665.877> 278.694 271.866
+LayerCount: 2
+Fore
+Refer: 161 58022 N 1 0 0 1 250 -28 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" utilde.pcap
+Substitution2: "c2sc-1" utilde.smcp
+EndChar

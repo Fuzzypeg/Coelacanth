@@ -1,0 +1,24 @@
+StartChar: exclam
+Encoding: 33 33 75
+Width: 277
+VWidth: 1159
+Flags: W
+HStem: -17.5 133<116.816 149.483>
+VStem: 67.5254 133.95<30.4466 64.8792> 122 34<209 408.18>
+LayerCount: 2
+Fore
+SplineSet
+122 209 m 17xa0
+ 122 339 118 437 111 533 c 0
+ 107 580 83 604 85 654 c 1
+ 166 664 197 689 202 658 c 1
+ 186 622 188 599 182 530 c 0
+ 171 405 156 342 156 208 c 9
+ 122 209 l 17xa0
+EndSplineSet
+Refer: 48 46 N 1 0 0 1 33 0 2
+Validated: 33
+Substitution2: "pcap-1" exclam.pcap
+Substitution2: "smcp-1" exclam.smcp
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Nkreska
+Encoding: 58004 58004 1200
+Width: 897
+VWidth: 1159
+Flags: HW
+HStem: -11 20<243.349 292.7> 685 17.2427<818.699 862> 690.5 20.5<29 67.9982 632 695.908>
+VStem: 126.655 39.3449<44.7657 588.27> 738 38<153 299.352> 746.209 39.7912<396.818 626.255> 759 22<-10 12.2541>
+LayerCount: 2
+Fore
+Refer: 1193 57997 S 1 0 0 1 429 0 2
+Refer: 39 78 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2sc-1" nkreska.smcp
+Substitution2: "c2pc-1" nkreska.pcap
+EndChar

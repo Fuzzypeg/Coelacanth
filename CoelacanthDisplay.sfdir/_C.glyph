@@ -1,0 +1,33 @@
+StartChar: C
+Encoding: 67 67 28
+Width: 666
+VWidth: 1159
+Flags: HW
+HStem: -12 26<345.649 498.05> 697 30<308.728 483.108>
+VStem: 23 90<225.853 484.692> 600 20<550.9 621.644> 625 21<128.174 155>
+AnchorPoint: "Bottom" 397 -15 basechar 0
+AnchorPoint: "Top" 389 708 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+23 344 m 3
+ 23 664 285 727 417 727 c 3
+ 493 727 539 707 582 692 c 0
+ 608 682 626 686 643 691 c 1
+ 649 686 l 1
+ 635 655 625 610 620 558 c 0
+ 619 542 606 551 600 555 c 1
+ 605 617 589 632 552 654 c 0
+ 524 671 454 697 400 697 c 3
+ 228 697 113 569 113 354 c 3
+ 113 114 306 14 418 14 c 3
+ 526 14 608 78 625 157 c 1
+ 646 154 l 1
+ 637 115 619 67 608 21 c 1
+ 538 5 473 -12 397 -12 c 3
+ 190 -12 23 140 23 344 c 3
+EndSplineSet
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" c.pcap
+Substitution2: "c2sc-1" c.smcp
+EndChar

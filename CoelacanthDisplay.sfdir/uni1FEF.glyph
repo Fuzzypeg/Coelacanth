@@ -1,0 +1,23 @@
+StartChar: uni1FEF
+Encoding: 8175 8175 2387
+Width: 230
+VWidth: 1159
+Flags: W
+HStem: 494 159
+VStem: 13 177
+AnchorPoint: "TopMark" 167 410 mark 0
+AnchorPoint: "Top" 164.5 409 mark 0
+AnchorPoint: "TopMark" 168 625 basemark 0
+LayerCount: 2
+Back
+SplineSet
+190 444 m 9
+ 180 434 l 17
+ 124 490 67.037109375 532.0703125 13 560 c 1
+ 28.595703125 579.393554688 47 593 47 593 c 17
+ 94.8056640625 555.5234375 158 488 190 444 c 9
+EndSplineSet
+Fore
+Refer: 94 768 N 1 0 0 1 363 0 2
+Validated: 1
+EndChar

@@ -1,0 +1,15 @@
+StartChar: Lcommaaccent
+Encoding: 315 315 288
+Width: 621
+VWidth: 0
+Flags: HW
+HStem: -261.06 204.12 -7 44<23 88.0947> 2 50<189.846 505.493> 652 41<197.258 286.683>
+VStem: 94 88<57.6719 639.659> 239.87 116.64 562 35<122.552 159>
+LayerCount: 2
+Fore
+Refer: 275 806 N 1 0 0 1 493 0 2
+Refer: 37 76 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" lcommaaccent.pcap
+Substitution2: "c2sc-1" lcommaaccent.smcp
+EndChar

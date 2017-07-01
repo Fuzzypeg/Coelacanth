@@ -1,0 +1,16 @@
+StartChar: uni01DA
+Encoding: 474 474 715
+Width: 512
+VWidth: 0
+Flags: HW
+HStem: -11 55<171 272> 338 31<291 350> 494 84<140.194 214.806 316.194 390.806> 593.319 133.361
+VStem: 69 76<71 327> 134.5 86<499.582 572.441> 139.22 252.561 310.5 86<499.582 572.441> 358 65<36 52 75 331>
+LayerCount: 2
+Fore
+Refer: 97 776 N 1 0 0 1 462.5 51 2
+Refer: 473 58083 N 1 0 0 1 463 143 2
+Refer: 20 117 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" uni01DA.pcap
+Substitution2: "smcp-1" uni01DA.smcp
+Substitution2: "case-1" uni01D9
+EndChar

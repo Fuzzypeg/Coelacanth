@@ -1,0 +1,19 @@
+StartChar: oslash
+Encoding: 248 248 320
+Width: 506
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -14 39<198.926 326.747> 371 45<167.903 304.133> 391.747 20<427.187 468.415>
+VStem: 31 76<127.211 288.037> 394 78<104.641 273.826>
+AnchorPoint: "Top" 251 465 basechar 0
+AnchorPoint: "Bottom" 249 -15 basechar 0
+AnchorPoint: "Middle" 255 206 basechar 0
+LayerCount: 2
+Fore
+Refer: 321 823 N 1 0 0 1 504 8 2
+Refer: 14 111 N 1 0 0 1 0 0 2
+Substitution2: "pcap-1" oslash.pcap
+Substitution2: "case-1" Oslash
+Substitution2: "smcp-1" oslash.smcp
+EndChar

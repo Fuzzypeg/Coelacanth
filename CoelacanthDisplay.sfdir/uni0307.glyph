@@ -1,0 +1,19 @@
+StartChar: uni0307
+Encoding: 775 775 49
+Width: 0
+VWidth: 1159
+Flags: W
+AnchorPoint: "Top" -198.5 449 mark 0
+LayerCount: 2
+Back
+SplineSet
+-198 557 m 0
+ -176 557 -157 541 -157 519 c 0
+ -157 497 -177 479 -199 479 c 0
+ -221 479 -240 495 -240 517 c 0
+ -240 539 -220 557 -198 557 c 0
+EndSplineSet
+Fore
+Refer: 2359 57345 S 1.01727 0.216228 -0.201674 0.948803 -198 578 2
+Validated: 1
+EndChar

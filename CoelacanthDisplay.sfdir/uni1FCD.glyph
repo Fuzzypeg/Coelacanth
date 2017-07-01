@@ -1,0 +1,14 @@
+StartChar: uni1FCD
+Encoding: 8141 8141 1359
+Width: 304
+VWidth: 1043
+Flags: W
+HStem: 494 22<21.837 65.03> 618.8 74<45.838 87.461>
+VStem: 94.837 45<531.916 605.114>
+AnchorPoint: "Top" 145.501 464 mark 0
+LayerCount: 2
+Fore
+Refer: 2387 8175 S 0.984808 -0.173648 0.173648 0.984808 7.39824 86.4233 2
+Refer: 1608 8127 N 1 0 0 1 -86 0 2
+Validated: 1
+EndChar

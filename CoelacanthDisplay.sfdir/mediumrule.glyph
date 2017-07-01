@@ -1,0 +1,17 @@
+StartChar: mediumrule
+Encoding: 58114 58114 1971
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: -18 36<0 1000>
+LayerCount: 2
+Fore
+SplineSet
+0 -16 m 1
+ 0 16 l 1
+ 1000 16 l 1
+ 1000 -16 l 1
+ 0 -16 l 1
+EndSplineSet
+Validated: 1
+EndChar

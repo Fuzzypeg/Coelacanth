@@ -1,0 +1,25 @@
+StartChar: O
+Encoding: 79 79 40
+Width: 793
+VWidth: 1159
+Flags: HW
+AnchorPoint: "Top" 401 695 basechar 0
+AnchorPoint: "Ogonek" 489 -2 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+334 666 m 3
+ 227.095957891 666 173 580.820833091 173 468 c 3
+ 173 86.9634521174 424.144285536 36 459 36 c 3
+ 585.482037514 36 621 163.069712347 621 259 c 3
+ 621 423.718390992 542.705755286 666 334 666 c 3
+400 718 m 3
+ 607 718 771 552 771 349 c 3
+ 771 162 625 -16 411 -16 c 3
+ 95 -16 23 259 23 346 c 3
+ 23 566 218 718 400 718 c 3
+EndSplineSet
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" o.pcap
+Substitution2: "c2sc-1" o.smcp
+EndChar

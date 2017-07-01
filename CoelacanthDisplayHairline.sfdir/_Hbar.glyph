@@ -1,0 +1,16 @@
+StartChar: Hbar
+Encoding: 294 294 340
+Width: 856
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -15 35<213.944 278.502 591.279 647.409> 324 40<197 673> 509.5 36<37.5 823.5> 651 37<30.7353 100.641 212.767 288> 658 34<592 647.882> 662 37<775.511 825.135>
+VStem: 100 97<39.9826 323.686> 673 95<372.736 639.31>
+LayerCount: 2
+Fore
+Refer: 455 58036 S 1 0 0 1 856 0 2
+Refer: 33 72 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" hbar.pcap
+Substitution2: "c2sc-1" hbar.smcp
+EndChar

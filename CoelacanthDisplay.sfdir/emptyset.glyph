@@ -1,0 +1,13 @@
+StartChar: emptyset
+Encoding: 8709 8709 1500
+Width: 503
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -5.88965 22.9296<206.822 297.851> 369.96 22.94<182.797 275.301>
+VStem: 35.1602 65.2008<118.057 273.999> 373.968 65.032<109.211 280.086>
+LayerCount: 2
+Fore
+Refer: 911 8260 N 1 0 0 1 19 -59 2
+Refer: 63 48 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,12 @@
+StartChar: igrave.smcp
+Encoding: 57709 57709 2072
+Width: 307
+VWidth: 1159
+Flags: HW
+HStem: -7.9 30.2<48.3656 110.618> 462.3 32.5<52.24 117.352> 624 159
+VStem: 22.5 177 135.472 67.4424<39.011 449.27>
+LayerCount: 2
+Fore
+Refer: 94 768 N 1 0 0 1 360.5 70 2
+Refer: 2040 57679 N 1 0 0 1 0 0 3
+EndChar
