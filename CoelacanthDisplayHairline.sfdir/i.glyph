@@ -5,6 +5,7 @@ VWidth: 1159
 Flags: HW
 HStem: -7 33<26 80 177 247> 600 78<124.078 196.922>
 VStem: 90 71<57 330> 119 83<605.319 672.681>
+AnchorPoint: "Bottom" 142 -15 basechar 0
 AnchorPoint: "Ogonek" 221 6 basechar 0
 LayerCount: 2
 Fore
