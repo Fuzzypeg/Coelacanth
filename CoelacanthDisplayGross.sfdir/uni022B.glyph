@@ -1,5 +1,5 @@
 StartChar: uni022B
-Encoding: 555 555 787
+Encoding: 555 555 786
 Width: 492
 VWidth: 0
 Flags: HW
@@ -8,6 +8,6 @@ VStem: 32 76<130.211 291.037> 132.5 86<490.582 563.441> 308.5 86<490.582 563.441
 LayerCount: 2
 Fore
 Refer: 14 111 N 1 0 0 1 0 0 2
-Refer: 97 776 S 1 0 0 1 460.5 42 2
-Refer: 101 772 S 1 0 0 1 460.5 168.73 2
+Refer: 96 776 S 1 0 0 1 460.5 42 2
+Refer: 100 772 S 1 0 0 1 460.5 168.73 2
 EndChar

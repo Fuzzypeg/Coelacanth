@@ -7,8 +7,8 @@ HStem: 600 78<124.078 196.922>
 VStem: -46 27<-331 -293> 63 68<-160 327> 119 83<605.319 672.681>
 LayerCount: 2
 Fore
-Refer: 49 775 S 1 0 0 1 350 121 2
-Refer: 52 567 N 1 0 0 1 -19 0 2
+Refer: 48 775 S 1 0 0 1 350 121 2
+Refer: 51 567 N 1 0 0 1 -19 0 2
 Substitution2: "case-1" J
 Substitution2: "salt-1" j.alt
 Substitution2: "pcap-1" j.pcap

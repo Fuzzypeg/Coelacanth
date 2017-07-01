@@ -1,5 +1,5 @@
 StartChar: NameMe.exclam
-Encoding: 65537 -1 1395
+Encoding: 65537 -1 1394
 Width: 216
 VWidth: 1159
 Flags: HW
@@ -16,5 +16,5 @@ SplineSet
  138.62109375 300.692521738 120 254.594277099 120 161 c 5
  82 162 l 5x90
 EndSplineSet
-Refer: 48 46 N 0.929057 0 0 0.987278 8.12874 -1.7082 2
+Refer: 47 46 N 0.929057 0 0 0.987278 8.12874 -1.7082 2
 EndChar

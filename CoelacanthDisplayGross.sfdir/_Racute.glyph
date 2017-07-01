@@ -1,13 +1,13 @@
 StartChar: Racute
-Encoding: 340 340 220
+Encoding: 340 340 219
 Width: 765
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -34 18<715.141 760> -15 21<238.873 275.333> 333 25<190.186 311.406> 678 21<31 89.864> 725.3 169.7
 VStem: 106 83<27.267 311.306> 107 91<473.918 669.555> 304.5 127 469 86<439.59 588.412>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 251 -15 2
+Refer: 89 58018 N 1 0 0 1 251 -15 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" racute.pcap

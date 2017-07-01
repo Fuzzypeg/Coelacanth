@@ -1,5 +1,5 @@
 StartChar: uni1EB5
-Encoding: 7861 7861 844
+Encoding: 7861 7861 843
 Width: 385
 VWidth: 1159
 Flags: W
@@ -9,6 +9,6 @@ AnchorPoint: "Bottom" 193 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 0 97 N 1 0 0 1 0 0 2
-Refer: 100 771 S 0.994522 -0.104528 0.104528 0.994522 364.47 171.891 2
-Refer: 105 774 S 1 0 0 1 399.5 44 2
+Refer: 99 771 S 0.994522 -0.104528 0.104528 0.994522 364.47 171.891 2
+Refer: 104 774 S 1 0 0 1 399.5 44 2
 EndChar

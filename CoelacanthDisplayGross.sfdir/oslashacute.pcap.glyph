@@ -1,5 +1,5 @@
 StartChar: oslashacute.pcap
-Encoding: 57503 57503 1815
+Encoding: 57503 57503 1814
 Width: 568
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -8,6 +8,6 @@ HStem: -5 37<240.993 370.228> 378 35<202.127 322.544> 479.903 225.517
 VStem: 56 78<146.969 286.001> 256.33 169.822 428 84<111.049 270.5>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 490.941 51.9523 2
-Refer: 1651 57396 N 1 0 0 1 0 0 3
+Refer: 91 769 N 1 0 0 1 490.941 51.9523 2
+Refer: 1650 57396 N 1 0 0 1 0 0 3
 EndChar

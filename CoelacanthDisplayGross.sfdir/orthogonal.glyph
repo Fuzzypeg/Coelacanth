@@ -1,5 +1,5 @@
 StartChar: orthogonal
-Encoding: 8735 8735 1314
+Encoding: 8735 8735 1313
 Width: 562
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -7,6 +7,6 @@ Flags: HW
 HStem: 0 46<42 546>
 LayerCount: 2
 Fore
-Refer: 1971 58114 N 0 0.504 -1 0 65 36 2
-Refer: 1971 58114 N 0.504 0 0 1 42 23 2
+Refer: 1970 58114 N 0 0.504 -1 0 65 36 2
+Refer: 1970 58114 N 0.504 0 0 1 42 23 2
 EndChar

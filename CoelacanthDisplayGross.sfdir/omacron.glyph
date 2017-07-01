@@ -1,5 +1,5 @@
 StartChar: omacron
-Encoding: 333 333 154
+Encoding: 333 333 153
 Width: 492
 VWidth: 1159
 Flags: W
@@ -7,7 +7,7 @@ HStem: -10 21<213.737 312.228> 388 23<183.876 282.08> 546.326 38.3479<158.5 347.
 VStem: 28 65<130.362 287.127> 399 65<108.357 276.92>
 LayerCount: 2
 Fore
-Refer: 101 772 N 1 0 0 1 449.5 39 2
+Refer: 100 772 N 1 0 0 1 449.5 39 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" omacron.smcp
 Substitution2: "case-1" Omacron

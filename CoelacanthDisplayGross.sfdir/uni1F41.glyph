@@ -1,5 +1,5 @@
 StartChar: uni1F41
-Encoding: 8001 8001 1167
+Encoding: 8001 8001 1166
 Width: 510
 VWidth: 0
 Flags: W
@@ -7,7 +7,7 @@ HStem: 495 22<290.306 333.499> 619.8 74<266.808 309.498>
 VStem: 215.499 44<533.962 605.962>
 LayerCount: 2
 Fore
-Refer: 1616 8190 N 1 0 0 1 151.499 1 2
-Refer: 1017 959 N 1 0 0 1 0 0 3
+Refer: 1615 8190 N 1 0 0 1 151.499 1 2
+Refer: 1016 959 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

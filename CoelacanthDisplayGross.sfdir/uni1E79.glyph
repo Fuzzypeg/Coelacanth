@@ -1,5 +1,5 @@
 StartChar: uni1E79
-Encoding: 7801 7801 818
+Encoding: 7801 7801 817
 Width: 512
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 67 67<72.8435 345.445> 137.833 227.589 352 67<71.5641 319.205> 359 73<165
 AnchorPoint: "Bottom" 256 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 470 58080 N 1 0 0 1 377 117 2
-Refer: 100 771 N 1 0 0 1 460 45 2
+Refer: 469 58080 N 1 0 0 1 377 117 2
+Refer: 99 771 N 1 0 0 1 460 45 2
 Refer: 20 117 N 1 0 0 1 0 0 2
 EndChar

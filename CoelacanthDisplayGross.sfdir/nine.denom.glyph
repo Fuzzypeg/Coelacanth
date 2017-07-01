@@ -1,11 +1,11 @@
 StartChar: nine.denom
-Encoding: 58407 58407 921
+Encoding: 58407 58407 920
 Width: 310
 VWidth: 1159
 Flags: W
 LayerCount: 2
 Fore
-Refer: 918 58404 N -0.996195 0.0871557 -0.0871557 -0.996195 313.876 158.785 2
+Refer: 917 58404 N -0.996195 0.0871557 -0.0871557 -0.996195 313.876 158.785 2
 Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

@@ -1,5 +1,5 @@
 StartChar: eogonek.pcap
-Encoding: 57415 57415 1670
+Encoding: 57415 57415 1669
 Width: 468
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
@@ -19,5 +19,5 @@ SplineSet
  210.561523438 -116.866708126 245.894177668 -31.8124401555 346.931640625 36.76171875 c 5
  353.630859375 15.54296875 l 5
 EndSplineSet
-Refer: 647 57351 N 1 0 0 1 0 0 3
+Refer: 646 57351 N 1 0 0 1 0 0 3
 EndChar

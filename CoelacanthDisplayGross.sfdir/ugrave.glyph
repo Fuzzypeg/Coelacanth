@@ -1,5 +1,5 @@
 StartChar: ugrave
-Encoding: 249 249 131
+Encoding: 249 249 130
 Width: 522
 VWidth: 1159
 Flags: W
@@ -7,7 +7,7 @@ HStem: -4 43<166.512 257.959> 26 15<474.103 495.867> 347 12<11 24.3301> 360 18<2
 VStem: 67 67<72.8435 345.445> 108.5 177 352 67<71.5641 319.205> 359 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 458.5 28 2
+Refer: 93 768 N 1 0 0 1 458.5 28 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ugrave.pcap
 Substitution2: "case-1" Ugrave

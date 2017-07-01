@@ -1,5 +1,5 @@
 StartChar: gcommaaccent
-Encoding: 291 291 147
+Encoding: 291 291 146
 Width: 446
 VWidth: 1159
 Flags: W
@@ -7,7 +7,7 @@ HStem: -323 40<110.064 270.233> -89 55<147.956 371.536> 347 43<358.789 436.304> 
 VStem: 18.7773 34<-229.937 -152.098> 40.7773 49<187.132 309.988> 61.7773 68<-23.4815 21.1121> 160.182 108.5<497.068 529.976> 324.777 60<161.777 315.908> 392.777 46<-204.458 -109.454>
 LayerCount: 2
 Fore
-Refer: 112 786 N 1 0 0 1 411.277 77 2
+Refer: 111 786 N 1 0 0 1 411.277 77 2
 Refer: 6 103 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" gcommaaccent.smcp
 Substitution2: "case-1" Gcommaaccent

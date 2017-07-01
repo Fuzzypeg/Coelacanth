@@ -1,5 +1,5 @@
 StartChar: uni2075
-Encoding: 8309 8309 1326
+Encoding: 8309 8309 1325
 Width: 254
 VWidth: 1159
 Flags: W
@@ -7,6 +7,6 @@ HStem: 646.08 58.1855<76.9485 209.004>
 VStem: 151.45 54.9277<486.666 543.755>
 LayerCount: 2
 Fore
-Refer: 1398 8325 N 1 0 0 1 0 514 2
+Refer: 1397 8325 N 1 0 0 1 0 514 2
 Validated: 1
 EndChar

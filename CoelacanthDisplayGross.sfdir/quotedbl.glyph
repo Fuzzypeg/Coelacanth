@@ -1,5 +1,5 @@
 StartChar: quotedbl
-Encoding: 34 34 332
+Encoding: 34 34 331
 Width: 362
 VWidth: 1159
 Flags: HW
@@ -7,7 +7,7 @@ HStem: 445.7 254<91 107 252 268>
 VStem: 57 84<560.903 699.7> 91 16<445.7 531.412> 218 84<560.903 699.7> 252 16<445.7 531.412>
 LayerCount: 2
 Fore
-Refer: 79 39 N 1 0 0 1 0 0 2
-Refer: 79 39 N 1 0 0 1 161 0 2
+Refer: 78 39 N 1 0 0 1 0 0 2
+Refer: 78 39 N 1 0 0 1 161 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

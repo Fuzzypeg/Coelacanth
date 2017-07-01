@@ -1,5 +1,5 @@
 StartChar: acircumflex.smcp
-Encoding: 57699 57699 2063
+Encoding: 57699 57699 2062
 Width: 530
 VWidth: 1159
 Flags: HW
@@ -7,6 +7,6 @@ HStem: -4.3 29.9<23.3 61.425 342.407 372.926> 170.1 29.6<189.749 321.807> 560.6 
 VStem: 166.25 225.5 263.2 34.6<439.075 504.1>
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 476.5 138 2
-Refer: 2032 57671 N 1 0 0 1 0 0 3
+Refer: 92 770 N 1 0 0 1 476.5 138 2
+Refer: 2031 57671 N 1 0 0 1 0 0 3
 EndChar

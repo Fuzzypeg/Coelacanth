@@ -1,5 +1,5 @@
 StartChar: uni033A
-Encoding: 826 826 869
+Encoding: 826 826 868
 Width: 0
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
@@ -8,5 +8,5 @@ HStem: -178.229 35.0764<-287 -102>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore
-Refer: 695 810 N -1 0 0 -1 -389 -260.691 2
+Refer: 694 810 N -1 0 0 -1 -389 -260.691 2
 EndChar

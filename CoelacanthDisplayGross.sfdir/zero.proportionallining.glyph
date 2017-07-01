@@ -1,5 +1,5 @@
 StartChar: zero.proportionallining
-Encoding: 58388 58388 901
+Encoding: 58388 58388 900
 Width: 500
 VWidth: 1159
 Flags: W
@@ -7,7 +7,7 @@ HStem: -10 33<219.172 311.266> 620 36<184.683 286.028>
 VStem: 54 73<175.959 491.558> 367 79<157.951 499.232>
 LayerCount: 2
 Fore
-Refer: 682 58378 N 1 0 0 1 19 0 2
+Refer: 681 58378 N 1 0 0 1 19 0 2
 Validated: 1
 Substitution2: "tnum-1" zero.tabularlining
 Substitution2: "onum-1" zero

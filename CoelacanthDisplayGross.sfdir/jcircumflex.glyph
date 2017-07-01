@@ -1,5 +1,5 @@
 StartChar: jcircumflex
-Encoding: 309 309 151
+Encoding: 309 309 150
 Width: 271
 VWidth: 1159
 Flags: W
@@ -7,8 +7,8 @@ HStem: 544 162
 VStem: -27 27<-331 -293> 41.5 205 82 68<-160 327>
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 348 57 2
-Refer: 52 567 N 1 0 0 1 0 0 3
+Refer: 92 770 N 1 0 0 1 348 57 2
+Refer: 51 567 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" jcircumflex.smcp
 Substitution2: "case-1" Jcircumflex
 Substitution2: "pcap-1" jcircumflex.pcap

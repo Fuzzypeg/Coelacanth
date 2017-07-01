@@ -1,5 +1,5 @@
 StartChar: oacute
-Encoding: 243 243 127
+Encoding: 243 243 126
 Width: 492
 VWidth: 1159
 Flags: W
@@ -7,7 +7,7 @@ HStem: -10 21<213.737 312.228> 388 23<183.876 282.08> 516 159
 VStem: 28 65<130.362 287.127> 223.5 177 399 65<108.357 276.92>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 449.5 22 2
+Refer: 91 769 N 1 0 0 1 449.5 22 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" oacute.pcap
 Substitution2: "'locl' Localized Forms Polish-1" okreska

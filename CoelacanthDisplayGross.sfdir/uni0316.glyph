@@ -1,5 +1,5 @@
 StartChar: uni0316
-Encoding: 790 790 2026
+Encoding: 790 790 2025
 Width: 0
 VWidth: 1159
 Flags: HW
@@ -10,5 +10,5 @@ AnchorPoint: "Bottom" -190.652 -15.1338 mark 0
 AnchorPoint: "BottomMark" -194.152 -231.134 basemark 0
 LayerCount: 2
 Fore
-Refer: 94 768 N -1 0 0 -1 -389.152 369.866 2
+Refer: 93 768 N -1 0 0 -1 -389.152 369.866 2
 EndChar

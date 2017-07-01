@@ -1,5 +1,5 @@
 StartChar: twofifths.afrc
-Encoding: 58434 58434 1413
+Encoding: 58434 58434 1412
 Width: 463
 VWidth: 1159
 Flags: HW
@@ -7,9 +7,9 @@ HStem: 200.08 58.1855<174.948 307.004> 328 28<34 428> 419.312 54.9277<198.963 32
 VStem: 249.45 54.9277<40.6657 97.7549> 254.903 62.8506<558.545 643.683>
 LayerCount: 2
 Fore
-Refer: 1970 58113 S 0.394 0 0 0.875 34 342 2
-Refer: 1400 8322 N 1 0 0 1 90 498 2
-Refer: 1398 8325 N 1 0 0 1 98 68 2
+Refer: 1969 58113 S 0.394 0 0 0.875 34 342 2
+Refer: 1399 8322 N 1 0 0 1 90 498 2
+Refer: 1397 8325 N 1 0 0 1 98 68 2
 Ligature2: "'afrc' Nut Fractions lookup 23-1" two.numerator fraction five.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2156
 EndChar

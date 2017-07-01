@@ -1,5 +1,5 @@
 StartChar: ccedilla
-Encoding: 231 231 267
+Encoding: 231 231 266
 Width: 405
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
@@ -10,7 +10,7 @@ AnchorPoint: "Top" 233 493 basechar 0
 AnchorPoint: "Bottom" 228 -207 basechar 0
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 412 0 2
+Refer: 267 807 N 1 0 0 1 412 0 2
 Refer: 2 99 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ccedilla.pcap
 Substitution2: "case-1" Ccedilla

@@ -1,13 +1,13 @@
 StartChar: Cacute
-Encoding: 262 262 137
+Encoding: 262 262 136
 Width: 666
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -12 26<345.649 498.05> 697 30<308.728 483.108> 751.3 169.7
 VStem: 23 90<225.853 484.692> 378.5 127 600 20<550.9 621.644> 625 21<128.174 155>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 325 9 2
+Refer: 89 58018 N 1 0 0 1 325 9 2
 Refer: 28 67 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" cacute.pcap

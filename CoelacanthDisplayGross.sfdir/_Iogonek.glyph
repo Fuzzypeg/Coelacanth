@@ -1,9 +1,9 @@
 StartChar: Iogonek
-Encoding: 302 302 259
+Encoding: 302 302 258
 Width: 373
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -265.515 56.804<169.75 245.105> -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346>
 VStem: 31 315 98.5488 59.2982<-197.305 -95.6554>
 LayerCount: 2

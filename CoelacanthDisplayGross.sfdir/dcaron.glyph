@@ -1,5 +1,5 @@
 StartChar: dcaron
-Encoding: 271 271 200
+Encoding: 271 271 199
 Width: 511
 VWidth: 0
 Flags: W
@@ -8,7 +8,7 @@ VStem: 35 52<136.267 271.943> 367 61<11.5684 57 62.6121 342.5> 368 71<11.9114 56
 LayerCount: 2
 Fore
 Refer: 3 100 N 1 0 0 1 0 0 2
-Refer: 113 789 S 1 0 0 1 600 2 2
+Refer: 112 789 S 1 0 0 1 600 2 2
 Substitution2: "smcp-1" dcaron.smcp
 Substitution2: "case-1" Dcaron
 Substitution2: "pcap-1" dcaron.pcap

@@ -1,5 +1,5 @@
 StartChar: uni01DF
-Encoding: 479 479 783
+Encoding: 479 479 782
 Width: 385
 VWidth: 0
 Flags: HW
@@ -8,7 +8,7 @@ VStem: 33 64<34 133> 72.5 86<499.582 572.441> 247 65<60 164 191 321> 248.5 86<49
 LayerCount: 2
 Fore
 Refer: 0 97 N 1 0 0 1 0 0 2
-Refer: 97 776 S 1 0 0 1 400.5 51 2
-Refer: 101 772 S 1 0 0 1 400.5 177.73 2
+Refer: 96 776 S 1 0 0 1 400.5 51 2
+Refer: 100 772 S 1 0 0 1 400.5 177.73 2
 Substitution2: "case-1" uni01DE
 EndChar

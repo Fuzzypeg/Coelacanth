@@ -1,5 +1,5 @@
 StartChar: Ncommaaccent
-Encoding: 325 325 289
+Encoding: 325 325 288
 Width: 897
 VWidth: 1159
 Flags: W
@@ -7,7 +7,7 @@ HStem: -247.047 187.434 -11 20<250.349 299.7> 685 17.2427<825.699 869> 690.5 20.
 VStem: 133.655 39.3449<44.7657 588.27> 383.904 108.5<-130.636 -97.7281> 745 38<153 299.352> 753.209 39.7912<396.818 626.255> 766 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 642 0 2
+Refer: 274 806 N 1 0 0 1 642 0 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ncommaaccent.pcap

@@ -1,5 +1,5 @@
 StartChar: uni1E78
-Encoding: 7800 7800 817
+Encoding: 7800 7800 816
 Width: 844
 VWidth: 0
 Flags: W
@@ -8,8 +8,8 @@ VStem: 120 75<119.571 665.877> 300.892 127 321.694 271.867
 AnchorPoint: "Bottom" 420 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 53 85 N 1 0 0 1 0 0 2
-Refer: 161 58022 S 1 0 0 1 293 -41 2
-Refer: 90 58018 N 1 0 0 1 247.392 38.9238 2
+Refer: 52 85 N 1 0 0 1 0 0 2
+Refer: 160 58022 S 1 0 0 1 293 -41 2
+Refer: 89 58018 N 1 0 0 1 247.392 38.9238 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

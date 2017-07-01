@@ -1,5 +1,5 @@
 StartChar: obreve
-Encoding: 335 335 219
+Encoding: 335 335 218
 Width: 492
 VWidth: 1159
 Flags: W
@@ -7,7 +7,7 @@ HStem: -10 21<213.737 312.228> 388 23<183.876 282.08> 542.983 33.7656<187.847 31
 VStem: 28 65<130.362 287.127> 141.435 11.4004<613.652 620.381> 399 65<108.357 276.92>
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 449.5 39 2
+Refer: 104 774 N 1 0 0 1 449.5 39 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" obreve.smcp
 Substitution2: "case-1" Obreve

@@ -1,5 +1,5 @@
 StartChar: exclam
-Encoding: 33 33 75
+Encoding: 33 33 74
 Width: 277
 VWidth: 1159
 Flags: HW
@@ -16,7 +16,7 @@ SplineSet
  193.846153846 405 165 342 165 208 c 1
  111 209 l 1
 EndSplineSet
-Refer: 48 46 N 1 0 0 1 33 0 2
+Refer: 47 46 N 1 0 0 1 33 0 2
 Substitution2: "pcap-1" exclam.pcap
 Substitution2: "smcp-1" exclam.smcp
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100

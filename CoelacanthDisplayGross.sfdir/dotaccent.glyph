@@ -1,5 +1,5 @@
 StartChar: dotaccent
-Encoding: 729 729 1224
+Encoding: 729 729 1223
 Width: 154
 VWidth: 1159
 Flags: HW
@@ -7,5 +7,5 @@ HStem: 451 102<34.589 119.411>
 VStem: 25 104<460.438 543.599>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 275 0 2
+Refer: 48 775 N 1 0 0 1 275 0 2
 EndChar

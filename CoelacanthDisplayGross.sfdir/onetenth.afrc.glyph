@@ -1,5 +1,5 @@
 StartChar: onetenth.afrc
-Encoding: 58445 58445 1424
+Encoding: 58445 58445 1423
 Width: 463
 VWidth: 1159
 Flags: HW
@@ -34,8 +34,8 @@ SplineSet
  63.5367910607 244.266601562 65.3607432211 249.666015625 29.0205078125 252.525390625 c 1
  29.6806640625 270.82421875 l 1
 EndSplineSet
-Refer: 1970 58113 S 0.394 0 0 0.875 34 342 2
-Refer: 1399 8321 N 1 0 0 1 107 496 2
+Refer: 1969 58113 S 0.394 0 0 0.875 34 342 2
+Refer: 1398 8321 N 1 0 0 1 107 496 2
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2152
 Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction one.denom zero.denom
 Substitution2: "'zero' Slashed Zero lookup 22-1" onetenth.afrcalt
