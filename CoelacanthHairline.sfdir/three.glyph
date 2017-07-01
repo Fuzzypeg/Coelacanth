@@ -1,0 +1,31 @@
+StartChar: three
+Encoding: 51 51 66
+Width: 388
+VWidth: 1159
+Flags: HW
+HStem: -234 26<98.3077 116.651> 122 26<93 117.144> 402 52<130.681 219.829>
+VStem: 236 67<266.659 384.313> 251 72<-77.1723 66.4688>
+LayerCount: 2
+Fore
+SplineSet
+101 -217 m 1xe8
+ 237 -167 292 -71 292 7 c 3xe8
+ 292 80 221 125 162 147 c 1
+ 157 147 122 126 96 122 c 1
+ 90 145 l 1
+ 162 165 272 227 272 345 c 3
+ 272 414 211 436 188 436 c 3
+ 150 436 109 402 92 371 c 1
+ 74 385 l 1
+ 83 415 139 460 186 460 c 3
+ 245 460 296 413 296 346 c 3xf0
+ 296 227 195 166 191 162 c 1
+ 243 140 316 90 316 6 c 3
+ 316 -146 150 -233 109 -240 c 1
+ 101 -217 l 1xe8
+EndSplineSet
+Substitution2: "dnom-1" three.denom
+Substitution2: "numr-1" three.numerator
+Substitution2: "tnum-1" three.tabulartext
+Substitution2: "lnum-1" three.proportionallining
+EndChar

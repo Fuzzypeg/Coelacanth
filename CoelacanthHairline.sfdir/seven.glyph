@@ -1,0 +1,28 @@
+StartChar: seven
+Encoding: 55 55 70
+Width: 420
+VWidth: 1159
+Flags: HW
+HStem: 339 67<81.377 333.466> 407 20G<54 81>
+LayerCount: 2
+Fore
+SplineSet
+81 419 m 5
+ 79 414 78 414 114 414 c 0
+ 233 414 406 414 420 414 c 1
+ 429 394 l 1
+ 410 362 177 -61 114 -174 c 1
+ 93 -162 l 1
+ 198 28 282 182 397 387 c 0
+ 398 389 397 390 396 390 c 0
+ 297 390 285 390 135 390 c 0
+ 64 390 75 390 35 289 c 1
+ 13 297 l 1
+ 18 315 51 393 57 423 c 1
+ 81 419 l 5
+EndSplineSet
+Substitution2: "dnom-1" seven.denom
+Substitution2: "numr-1" seven.numerator
+Substitution2: "tnum-1" seven.tabulartext
+Substitution2: "lnum-1" seven.proportionallining
+EndChar

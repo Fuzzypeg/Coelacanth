@@ -1,0 +1,29 @@
+StartChar: six
+Encoding: 54 54 69
+Width: 487
+VWidth: 1159
+Flags: HW
+HStem: -10 40<223.82 328.156> 320 44<211.153 311.825>
+VStem: 68 72<129.031 347.68> 372 64<95.8203 248.065>
+LayerCount: 2
+Fore
+SplineSet
+362 635 m 1
+ 370 613 l 1
+ 196 551 92 395 92 214 c 3
+ 92 123 149 8 254 8 c 3
+ 340 8 412 98 412 178 c 3
+ 412 276 347 346 271 346 c 3
+ 218 346 169 313 143 244 c 1
+ 121 252 l 1
+ 144 321 201 370 271 370 c 3
+ 371 370 436 282 436 178 c 3
+ 436 80 350 -16 254 -16 c 3
+ 135 -16 68 107 68 214 c 3
+ 68 421 190 576 362 635 c 1
+EndSplineSet
+Substitution2: "dnom-1" six.denom
+Substitution2: "numr-1" six.numerator
+Substitution2: "tnum-1" six.tabulartext
+Substitution2: "lnum-1" six.proportionallining
+EndChar

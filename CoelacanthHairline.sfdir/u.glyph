@@ -1,0 +1,45 @@
+StartChar: u
+Encoding: 117 117 20
+Width: 506
+VWidth: 1159
+Flags: HMW
+HStem: -11 55<171 272> 338 31<291 350>
+VStem: 69 76<71 327> 358 65<36 52 75 331>
+AnchorPoint: "Bottom" 255 -15 basechar 0
+AnchorPoint: "Ogonek" 392 -3 basechar 0
+AnchorPoint: "Horn" 434 333 basechar 0
+AnchorPoint: "Top" 264 465 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+321 369 m 1
+ 353 378 387 389 412 399 c 1
+ 429 385 l 1
+ 426 341 425 175 425 137 c 3
+ 425 107 425 81 427 54 c 0
+ 430 22 435 -3 436 -3 c 3
+ 440 -3 467 13 487 24 c 1
+ 501 4 l 1
+ 484 -5 467 -14 447 -24 c 0
+ 442 -26 438 -28 434 -28 c 3
+ 411 -28 409 -6 404 46 c 1
+ 351 25 252 -12 178 -12 c 3
+ 141 -12 107 4 89 41 c 0
+ 76 68 70 96 70 148 c 3
+ 70 201 71 261 76 312 c 0
+ 81 368 l 3
+ 80 368 45 338 38 333 c 1
+ 25 353 l 1
+ 62 388 68 395 87 420 c 1
+ 111 411 l 1
+ 99 331 94 236 94 148 c 3
+ 94 75 109 12 178 12 c 3
+ 247 12 345 51 403 72 c 1
+ 398 110 402 324 402 333 c 3
+ 402 369 400 365 333 347 c 1
+ 321 369 l 1
+EndSplineSet
+Substitution2: "case-1" U
+Substitution2: "pcap-1" u.pcap
+Substitution2: "smcp-1" u.smcp
+EndChar

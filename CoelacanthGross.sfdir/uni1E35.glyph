@@ -1,0 +1,13 @@
+StartChar: uni1E35
+Encoding: 7733 7733 559
+Width: 486
+VWidth: 0
+Flags: HW
+HStem: -133 49<108 367> -6 33<17 67 297 341 441 484> 371 32<251 284 383 449>
+VStem: 88 63<55 214 237 488>
+DStem2: 215 255 161 220 0.728431 -0.685119<0 239.996>
+LayerCount: 2
+Fore
+Refer: 532 817 N 1 0 0 1 435 0 2
+Refer: 10 107 N 1 0 0 1 0 0 3
+EndChar

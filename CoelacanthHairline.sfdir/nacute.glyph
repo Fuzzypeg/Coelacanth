@@ -1,0 +1,16 @@
+StartChar: nacute
+Encoding: 324 324 152
+Width: 526
+VWidth: 0
+Flags: HW
+HStem: -7 33<21 68 170 229 308 360 454 512> 338 60<237 357> 482.951 225.517
+VStem: 95 66<44 316 330 333> 235.889 169.822 379 68<36 316>
+LayerCount: 2
+Fore
+Refer: 92 769 N 1 0 0 1 470.5 55 2
+Refer: 13 110 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" nacute.smcp
+Substitution2: "'locl' Localized Forms Polish-1" nkreska
+Substitution2: "case-1" Nacute
+Substitution2: "pcap-1" nacute.pcap
+EndChar

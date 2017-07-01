@@ -1,0 +1,31 @@
+StartChar: one
+Encoding: 49 49 64
+Width: 371
+VWidth: 1159
+Flags: HW
+HStem: 0 26<70 121.33 233.02 288> 369 23<80 132.532> 379 23<243.588 282.609>
+VStem: 151 61<44.4318 360.804>
+LayerCount: 2
+Fore
+SplineSet
+98 398 m 5xd0
+ 142 394 216 395 263 408 c 5
+ 267 384 l 5xb0
+ 199 372 193 374 193 334 c 4
+ 193 325 193 252 193 200 c 7
+ 193 141 193 64 193 47 c 4
+ 193 22 193 25 271 18 c 5
+ 269 -6 l 5
+ 207 0 150 1 88 -6 c 5
+ 87 18 l 5
+ 168 25 169 24 169 51 c 4
+ 169 61 169 86 169 200 c 7
+ 169 303 170 326 170 332 c 4
+ 170 372 170 370 98 374 c 5
+ 98 398 l 5xd0
+EndSplineSet
+Substitution2: "dnom-1" one.denom
+Substitution2: "numr-1" one.numerator
+Substitution2: "tnum-1" one.tabulartext
+Substitution2: "lnum-1" one.proportionallining
+EndChar

@@ -1,0 +1,16 @@
+StartChar: uni01E5
+Encoding: 485 485 706
+Width: 475
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -335 65<94 297> -198 38<3.21064 473.711> -106 69<153 388> 362 42<153 268>
+VStem: 45 68<155 306> 321 73<144 309> 404 48<-213 -122>
+AnchorPoint: "Top" 220 465 basechar 0
+AnchorPoint: "Bottom" 221 -318 basechar 0
+LayerCount: 2
+Fore
+Refer: 441 821 N 1.57886 0 0 1 517.919 -706 2
+Refer: 6 103 N 1 0 0 1 0 0 2
+Substitution2: "case-1" uni01E4
+EndChar

@@ -1,0 +1,15 @@
+StartChar: atilde
+Encoding: 227 227 117
+Width: 413
+VWidth: 0
+Flags: HW
+HStem: -15 43<75 181> 161 32<153 246> 364 52<128 220> 504.645 21<66.074 103.745> 517.053 60<197.537 290.863> 554.391 59.446<117.694 211.001>
+VStem: 33 64<34 133> 66.074 273.107 247 65<60 164 191 321>
+LayerCount: 2
+Fore
+Refer: 100 771 N 1 0 0 1 411 83 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" atilde.pcap
+Substitution2: "case-1" Atilde
+Substitution2: "smcp-1" atilde.smcp
+EndChar

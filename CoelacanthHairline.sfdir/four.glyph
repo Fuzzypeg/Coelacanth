@@ -1,0 +1,35 @@
+StartChar: four
+Encoding: 52 52 67
+Width: 463
+VWidth: 1159
+Flags: HW
+HStem: -7 21G<403.519 423.775> 0 46<56.3721 256 317 407.937> 402 20G<309.934 344>
+VStem: 256 61<-178.286 0 45.5 270.662> 320 24<404.437 413.313>
+LayerCount: 2
+Fore
+SplineSet
+278 22 m 1x78
+ 278 127 278 242 278 313 c 1
+ 278 313 139 135 40 22 c 1
+ 278 22 l 1x78
+341 406 m 1
+ 326 377 302 347 302 338 c 0
+ 302 217 302 160 302 23 c 1x78
+ 406 24 395 17 434 100 c 1
+ 434 100 450 92 455 90 c 1
+ 455 90 429 31 410 -7 c 1xb8
+ 394 1 333 0 302 0 c 1
+ 301 -180 290 -167 318 -180 c 1
+ 282 -204 262 -226 249 -252 c 1
+ 249 -252 229 -247 226 -244 c 1
+ 255 -163 277 -250 278 0 c 1
+ 55 0 20 1 8 -14 c 1
+ 8 -14 -6 -2 -10 1 c 1
+ 5 17 297 361 318 415 c 1
+ 341 406 l 1
+EndSplineSet
+Substitution2: "dnom-1" four.denom
+Substitution2: "numr-1" four.numerator
+Substitution2: "tnum-1" four.tabulartext
+Substitution2: "lnum-1" four.proportionallining
+EndChar

@@ -1,0 +1,32 @@
+StartChar: eight
+Encoding: 56 56 71
+Width: 468
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -7 34<188.562 300.068> 601 30<170.77 259.56>
+VStem: 55 66<92.7065 220.453> 86 44<449.749 557.966> 313 57<427.637 550.637> 339 66<77.2167 214.897>
+LayerCount: 2
+Fore
+SplineSet
+222 613 m 3xe8
+ 150 613 110 542 110 484 c 3
+ 110 351 405 322 405 155 c 3xd4
+ 405 52 321 -13 215 -13 c 3
+ 122 -13 55 48 55 133 c 3
+ 55 354 346 329 346 497 c 3
+ 346 548 310 613 222 613 c 3xe8
+222 637 m 3
+ 308 637 370 578 370 497 c 3
+ 370 308 79 338 79 133 c 3xe8
+ 79 73 122 11 215 11 c 3
+ 347 11 381 106 381 147 c 3
+ 381 237 314 267 229 321 c 0
+ 161 364 86 407 86 484 c 3
+ 86 568 145 637 222 637 c 3
+EndSplineSet
+Substitution2: "dnom-1" eight.denom
+Substitution2: "numr-1" eight.numerator
+Substitution2: "lnum-1" eight.proportionallining
+Substitution2: "tnum-1" eight.tabulartext
+EndChar

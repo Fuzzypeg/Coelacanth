@@ -1,0 +1,21 @@
+StartChar: guilsinglleft
+Encoding: 8249 8249 1289
+Width: 269
+VWidth: 1159
+Flags: HW
+VStem: 48 74.0996<134.586 267.414>
+LayerCount: 2
+Fore
+SplineSet
+70 211 m 1
+ 76 275 107 363 207 448 c 1
+ 223 430 l 1
+ 187.310317136 398 95.099609375 312.028053604 95.099609375 201 c 3
+ 95.099609375 94.9502072653 175.372380563 15.8 223 -28 c 1
+ 207 -46 l 1
+ 101.891156463 45 75.8908494274 128.280844411 70 191 c 1
+ 70 211 l 1
+EndSplineSet
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

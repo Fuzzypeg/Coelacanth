@@ -1,0 +1,18 @@
+StartChar: quotesingle
+Encoding: 39 39 79
+Width: 200
+VWidth: 1159
+Flags: W
+HStem: 451.7 242<86 110>
+VStem: 86 24<451.7 693.7>
+LayerCount: 2
+Fore
+SplineSet
+86 693.7 m 1
+ 110 693.7 l 1
+ 110 451.7 l 1
+ 86 451.7 l 1
+ 86 693.7 l 1
+EndSplineSet
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

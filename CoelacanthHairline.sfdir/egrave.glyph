@@ -1,0 +1,15 @@
+StartChar: egrave
+Encoding: 232 232 95
+Width: 409
+VWidth: 1159
+Flags: HW
+HStem: 425 168 486.175 225.516
+VStem: 53 185 78.014 169.82
+LayerCount: 2
+Fore
+Refer: 94 768 N 1 0 0 1 415.5 56 2
+Refer: 4 101 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" egrave.pcap
+Substitution2: "case-1" Egrave
+Substitution2: "smcp-1" egrave.smcp
+EndChar

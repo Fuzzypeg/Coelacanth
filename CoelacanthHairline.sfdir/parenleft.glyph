@@ -1,0 +1,20 @@
+StartChar: parenleft
+Encoding: 40 40 59
+Width: 383
+VWidth: 1515
+Flags: W
+VStem: 37 60<49.4585 379.9>
+LayerCount: 2
+Fore
+SplineSet
+332 729 m 1
+ 343 707 l 1
+ 152.838979167 609.513529762 61 416.99275 61 214 c 3
+ 61 14.1514803536 142.432841379 -169.973108055 345 -285 c 1
+ 333 -305 l 1
+ 140.854703448 -198.169337917 37 -19.8019546169 37 214 c 3
+ 37 447.264345238 148.133333333 636.048839286 332 729 c 1
+EndSplineSet
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
+EndChar

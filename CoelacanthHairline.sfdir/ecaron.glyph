@@ -1,0 +1,17 @@
+StartChar: ecaron
+Encoding: 283 283 143
+Width: 409
+VWidth: 1159
+Flags: HW
+HStem: 425 168 495.6 184.8
+VStem: 53 185 105.25 225.5
+AnchorPoint: "Bottom" 205 -15 basechar 0
+AnchorPoint: "Ogonek" 298.65 23 basechar 0
+LayerCount: 2
+Fore
+Refer: 103 780 N 1 0 0 1 415.5 64 2
+Refer: 4 101 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" ecaron.smcp
+Substitution2: "case-1" Ecaron
+Substitution2: "pcap-1" ecaron.pcap
+EndChar
