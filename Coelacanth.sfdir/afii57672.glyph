@@ -4,9 +4,10 @@ GlifName: afii57672
 Width: 519
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -12.7598 21G<41.7598 93.96> 1.16016 118.399<113.016 293.895> 459 20G<86.3601 122.111> 467 107.2<328.21 387.928>
 VStem: 47.292 34.3076<107.22 389.742> 53.3604 58.3994<62.373 251.964> 233.64 18.4805<357.223 362.991> 431.83 47.7295<267.766 412.646>
+AnchorPoint: "HbTopLeft" 59.68 619.44 basechar 0
 AnchorPoint: "HbBottom" 218 0 basechar 0
 AnchorPoint: "HbMiddle" 245 284 basechar 0
 AnchorPoint: "HbTop" 235 619.44 basechar 0

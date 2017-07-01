@@ -3,9 +3,10 @@ Encoding: 1495 1495 2466
 GlifName: afii57671
 Width: 493
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 448.52 122.001<111.234 386.446>
 VStem: 53.3604 46.707<190.728 447.698> 368.96 16.1602<-9.8723 -3.06232> 391 48.96<228.661 395.399>
+AnchorPoint: "HbTopLeft" 92.68 619.44 basechar 0
 AnchorPoint: "HbBottom" 247 0 basechar 0
 AnchorPoint: "HbMiddle" 246 284 basechar 0
 AnchorPoint: "HbTop" 246 619.44 basechar 0

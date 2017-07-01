@@ -3,8 +3,9 @@ Encoding: 1497 1497 2468
 GlifName: afii57673
 Width: 287
 VWidth: 0
-Flags: W
+Flags: HW
 VStem: 32.4805 205.72
+AnchorPoint: "HbTopLeft" 66.68 619.44 basechar 0
 AnchorPoint: "HbBottom" 150 0 basechar 0
 AnchorPoint: "HbTop" 144 611.32 basechar 0
 LayerCount: 2
