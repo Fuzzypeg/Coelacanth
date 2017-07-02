@@ -1,5 +1,5 @@
 StartChar: igrave
-Encoding: 236 236 122
+Encoding: 236 236 121
 Width: 263
 VWidth: 1159
 Flags: HW
@@ -8,8 +8,8 @@ VStem: -2.986 169.82 97 71<57 330>
 AnchorPoint: "Bottom" 127 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 334.5 56 2
-Refer: 50 305 N 1 0 0 1 0 0 3
+Refer: 93 768 N 1 0 0 1 334.5 56 2
+Refer: 49 305 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" igrave.pcap
 Substitution2: "salt-1" igrave.alt
 Substitution2: "case-1" Igrave

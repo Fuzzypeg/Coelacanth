@@ -1,5 +1,5 @@
 StartChar: gbreve
-Encoding: 287 287 145
+Encoding: 287 287 144
 Width: 475
 VWidth: 0
 Flags: HW
@@ -7,7 +7,7 @@ HStem: -335 65<94 297> -106 69<153 388> 362 42<153 268> 508.274 54.719<154.997 2
 VStem: 45 68<155 306> 92.322 28.08<604.771 621.079> 321 73<144 309> 329.598 28.081<607.635 621.079> 404 48<-213 -122>
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 422.5 72 2
+Refer: 104 774 N 1 0 0 1 422.5 72 2
 Refer: 6 103 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" gbreve.smcp
 Substitution2: "case-1" Gbreve

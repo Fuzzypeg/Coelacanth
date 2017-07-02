@@ -1,5 +1,5 @@
 StartChar: uni04E8
-Encoding: 1256 1256 1102
+Encoding: 1256 1256 1101
 Width: 845
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
@@ -10,6 +10,6 @@ AnchorPoint: "Top" 420 699 basechar 0
 AnchorPoint: "Bottom" 416 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 879 415 N 1 0 0 1 0 0 2
+Refer: 878 415 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

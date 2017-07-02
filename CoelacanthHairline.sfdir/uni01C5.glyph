@@ -1,5 +1,5 @@
 StartChar: uni01C5
-Encoding: 453 453 514
+Encoding: 453 453 513
 Width: 1245
 VWidth: 0
 Flags: H
@@ -8,7 +8,7 @@ VStem: 94.1875 82.2977<49.5582 525.672> 655 94<221.047 461.211> 912.75 225.5
 DStem2: 1106 360 929 31 0.646621 0.762811<-366.184 0>
 LayerCount: 2
 Fore
-Refer: 248 382 N 1 0 0 1 792 0 2
+Refer: 247 382 N 1 0 0 1 792 0 2
 Refer: 29 68 N 1 0 0 1 0 0 2
 Substitution2: "case-1" uni01C4
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100

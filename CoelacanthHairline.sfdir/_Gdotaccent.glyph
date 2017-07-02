@@ -1,5 +1,5 @@
 StartChar: Gdotaccent
-Encoding: 288 288 207
+Encoding: 288 288 206
 Width: 803
 VWidth: 0
 Flags: HW
@@ -7,7 +7,7 @@ HStem: -9 37<374.664 581.67> 319 32<497.562 613.119 730.522 761> 674 38<338.234 
 VStem: 43 99<250.812 472.081> 396 110<760.993 849.046> 638 87<64.334 306.866> 675 31<535.645 556.71>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 373 0 2
+Refer: 163 58025 N 1 0 0 1 373 0 2
 Refer: 32 71 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" gdotaccent.pcap

@@ -1,5 +1,5 @@
 StartChar: zcaron.pcap
-Encoding: 57465 57465 1720
+Encoding: 57465 57465 1719
 Width: 504
 VWidth: 0
 Flags: HW
@@ -7,6 +7,6 @@ HStem: -4 31<169.416 334.724> 374 29<125.908 333.172> 404 20<79.5 97> 495.6 184.
 VStem: 151.25 225.5
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 461.5 64 2
-Refer: 668 57372 N 1 0 0 1 0 0 3
+Refer: 102 780 N 1 0 0 1 461.5 64 2
+Refer: 667 57372 N 1 0 0 1 0 0 3
 EndChar

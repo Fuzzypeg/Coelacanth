@@ -1,10 +1,10 @@
 StartChar: uni2011
-Encoding: 8209 8209 884
+Encoding: 8209 8209 883
 Width: 247
 VWidth: 1159
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 47 45 N 1 0 0 1 0 0 2
+Refer: 46 45 N 1 0 0 1 0 0 2
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

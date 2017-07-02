@@ -1,5 +1,5 @@
 StartChar: uni04D8
-Encoding: 1240 1240 1122
+Encoding: 1240 1240 1121
 Width: 677
 VWidth: 1159
 Flags: HW
@@ -9,6 +9,6 @@ AnchorPoint: "Top" 335 699 basechar 0
 AnchorPoint: "Bottom" 327 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1121 399 N 1 0 0 1 0 0 2
+Refer: 1120 399 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

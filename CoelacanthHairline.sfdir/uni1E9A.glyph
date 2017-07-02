@@ -1,5 +1,5 @@
 StartChar: uni1E9A
-Encoding: 7834 7834 2455
+Encoding: 7834 7834 2454
 Width: 413
 VWidth: 1159
 Flags: HW
@@ -9,5 +9,5 @@ AnchorPoint: "Bottom" 203 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 0 97 N 1 0 0 1 0 0 2
-Refer: 2025 855 N 1 0 0 1 548 0 2
+Refer: 2024 855 N 1 0 0 1 548 0 2
 EndChar

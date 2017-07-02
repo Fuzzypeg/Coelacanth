@@ -1,5 +1,5 @@
 StartChar: plus
-Encoding: 43 43 328
+Encoding: 43 43 327
 Width: 463
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -7,7 +7,7 @@ Flags: HW
 HStem: 190 53.9999<34 428>
 LayerCount: 2
 Fore
-Refer: 1970 58113 N 0 0.364 -1.0625 0 231 35 2
-Refer: 330 8722 N 1 0 0 1 0 0 2
+Refer: 1969 58113 N 0 0.364 -1.0625 0 231 35 2
+Refer: 329 8722 N 1 0 0 1 0 0 2
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

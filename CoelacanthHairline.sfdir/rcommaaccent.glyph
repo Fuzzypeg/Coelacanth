@@ -1,5 +1,5 @@
 StartChar: rcommaaccent
-Encoding: 343 343 280
+Encoding: 343 343 279
 Width: 358
 VWidth: 0
 Flags: HW
@@ -7,7 +7,7 @@ HStem: -261.06 204.12 -5 32<30 59 177 273> 316 108<269 335>
 VStem: 84.87 116.64 91 69<53 321>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 338 0 2
+Refer: 274 806 N 1 0 0 1 338 0 2
 Refer: 17 114 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" rcommaaccent.smcp
 Substitution2: "case-1" Rcommaaccent

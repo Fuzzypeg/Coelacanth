@@ -1,5 +1,5 @@
 StartChar: uni1FEF
-Encoding: 8175 8175 2387
+Encoding: 8175 8175 2386
 Width: 230
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ AnchorPoint: "Top" 164.5 409 mark 0
 AnchorPoint: "TopMark" 168 625 basemark 0
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 363 0 2
+Refer: 93 768 N 1 0 0 1 363 0 2
 EndChar

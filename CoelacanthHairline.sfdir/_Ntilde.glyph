@@ -1,5 +1,5 @@
 StartChar: Ntilde
-Encoding: 209 209 181
+Encoding: 209 209 180
 Width: 836
 VWidth: 0
 Flags: HW
@@ -7,7 +7,7 @@ HStem: -10 44<23.3182 87.7887 186.598 270.067> 655 39<771.248 832> 663 38<600.26
 VStem: 97 55<66.539 312.678> 106.632 54.3679<242 550> 277.073 301.745 720 37<-2.08108 25.5054>
 LayerCount: 2
 Fore
-Refer: 161 58022 N 1 0 0 1 262 0 2
+Refer: 160 58022 N 1 0 0 1 262 0 2
 Refer: 39 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ntilde.pcap

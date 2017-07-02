@@ -1,5 +1,5 @@
 StartChar: otilde
-Encoding: 245 245 129
+Encoding: 245 245 128
 Width: 505
 VWidth: 1159
 Flags: HW
@@ -9,7 +9,7 @@ AnchorPoint: "Bottom" 249 -15 basechar 0
 AnchorPoint: "Middle" 255 206 basechar 0
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 462 83 2
+Refer: 99 771 N 1 0 0 1 462 83 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" otilde.pcap
 Substitution2: "case-1" Otilde

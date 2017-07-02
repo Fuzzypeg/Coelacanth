@@ -1,5 +1,5 @@
 StartChar: afii10096
-Encoding: 1102 1102 1247
+Encoding: 1102 1102 1246
 Width: 653
 VWidth: 1159
 Flags: W
@@ -36,5 +36,5 @@ SplineSet
  69 379 47 377 23 381 c 1
  25 409 l 1xde
 EndSplineSet
-Refer: 1970 58113 N 0.161 0 0 1 96 207 2
+Refer: 1969 58113 N 0.161 0 0 1 96 207 2
 EndChar

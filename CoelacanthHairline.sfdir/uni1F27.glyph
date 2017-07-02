@@ -1,5 +1,5 @@
 StartChar: uni1F27
-Encoding: 7975 7975 1343
+Encoding: 7975 7975 1342
 Width: 490
 VWidth: 1047
 UnlinkRmOvrlpSave: 1
@@ -9,6 +9,6 @@ VStem: 188.944 273.107 246.908 44<508.962 580.962>
 AnchorPoint: "Bottom" 118.409 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1615 8159 N 1 0 0 1 182.908 1 2
-Refer: 1009 951 N 1 0 0 1 0 0 3
+Refer: 1614 8159 N 1 0 0 1 182.908 1 2
+Refer: 1008 951 N 1 0 0 1 0 0 3
 EndChar

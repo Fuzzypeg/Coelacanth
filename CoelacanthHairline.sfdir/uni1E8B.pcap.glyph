@@ -1,5 +1,5 @@
 StartChar: uni1E8B.pcap
-Encoding: 57610 57610 1893
+Encoding: 57610 57610 1892
 Width: 509
 VWidth: 0
 Flags: H
@@ -7,6 +7,6 @@ HStem: -4 21<175.571 204> -1 25<297.947 322.617 448.592 483.32> 384 23<38 67.017
 VStem: 205.5 104<536.438 619.599>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 455.5 76 2
-Refer: 666 57370 N 1 0 0 1 0 0 3
+Refer: 48 775 N 1 0 0 1 455.5 76 2
+Refer: 665 57370 N 1 0 0 1 0 0 3
 EndChar

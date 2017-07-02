@@ -1,5 +1,5 @@
 StartChar: caroncombhigh
-Encoding: 58083 58083 473
+Encoding: 58083 58083 472
 Width: 0
 VWidth: 1159
 Flags: HW
@@ -7,5 +7,5 @@ HStem: 450.319 133.361
 VStem: -323.78 252.561
 LayerCount: 2
 Fore
-Refer: 471 58081 N -1 0 0 -1 -395 1034 2
+Refer: 470 58081 N -1 0 0 -1 -395 1034 2
 EndChar

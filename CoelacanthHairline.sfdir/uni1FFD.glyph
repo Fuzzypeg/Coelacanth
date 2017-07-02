@@ -1,5 +1,5 @@
 StartChar: uni1FFD
-Encoding: 8189 8189 1618
+Encoding: 8189 8189 1617
 Width: 278
 Flags: HW
 HStem: 489.951 225.517
@@ -7,5 +7,5 @@ VStem: 117.391 169.822
 AnchorPoint: "Top" 142.501 464 mark 0
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 352.002 62 2
+Refer: 91 769 N 1 0 0 1 352.002 62 2
 EndChar

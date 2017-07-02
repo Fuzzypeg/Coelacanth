@@ -1,5 +1,5 @@
 StartChar: okreska.pcap
-Encoding: 58010 58010 2363
+Encoding: 58010 58010 2362
 Width: 568
 VWidth: 1159
 Flags: HW
@@ -7,6 +7,6 @@ HStem: -5 37<240.993 370.228> 378 35<202.127 322.544>
 VStem: 56 78<146.969 286.001> 428 84<111.049 270.5>
 LayerCount: 2
 Fore
-Refer: 1192 57996 S 1 0 0 1 241 0 2
-Refer: 657 57361 N 1 0 0 1 0 0 3
+Refer: 1191 57996 S 1 0 0 1 241 0 2
+Refer: 656 57361 N 1 0 0 1 0 0 3
 EndChar

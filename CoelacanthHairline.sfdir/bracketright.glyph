@@ -1,5 +1,5 @@
 StartChar: bracketright
-Encoding: 93 93 86
+Encoding: 93 93 85
 Width: 246
 VWidth: 1515
 Flags: W
@@ -7,7 +7,7 @@ HStem: -230 33<159.267 219> 685 32<163 219>
 VStem: 37 54<-182 669>
 LayerCount: 2
 Fore
-Refer: 85 91 N -1 0 0 -1 246 487 2
+Refer: 84 91 N -1 0 0 -1 246 487 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

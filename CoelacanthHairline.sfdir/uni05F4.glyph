@@ -1,5 +1,5 @@
 StartChar: uni05F4
-Encoding: 1524 1524 2489
+Encoding: 1524 1524 2488
 Width: 266
 VWidth: 0
 Flags: W
@@ -7,6 +7,6 @@ HStem: 308.56 269.12
 VStem: 67.2803 60.3193<426.009 570.72> 184.881 60.3193<426.009 570.72>
 LayerCount: 2
 Fore
-Refer: 2488 1523 S 1 0 0 1 117.601 0 2
-Refer: 2488 1523 N 1 0 0 1 0 0 2
+Refer: 2487 1523 S 1 0 0 1 117.601 0 2
+Refer: 2487 1523 N 1 0 0 1 0 0 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: imacron
-Encoding: 299 299 149
+Encoding: 299 299 148
 Width: 263
 VWidth: 0
 Flags: HW
@@ -7,8 +7,8 @@ HStem: -7 33<33 87 184 254> 519 49<7.5 266.5>
 VStem: 97 71<57 330>
 LayerCount: 2
 Fore
-Refer: 101 772 N 1 0 0 1 334.5 72 2
-Refer: 50 305 N 1 0 0 1 0 0 3
+Refer: 100 772 N 1 0 0 1 334.5 72 2
+Refer: 49 305 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" imacron.smcp
 Substitution2: "case-1" Imacron
 Substitution2: "pcap-1" imacron.pcap

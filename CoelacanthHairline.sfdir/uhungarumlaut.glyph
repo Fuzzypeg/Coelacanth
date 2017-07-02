@@ -1,5 +1,5 @@
 StartChar: uhungarumlaut
-Encoding: 369 369 238
+Encoding: 369 369 237
 Width: 506
 VWidth: 0
 Flags: HW
@@ -7,7 +7,7 @@ HStem: -11 55<171 272> 338 31<291 350>
 VStem: 69 76<71 327> 358 65<36 52 75 331>
 LayerCount: 2
 Fore
-Refer: 102 779 N 1 0 0 1 462.5 60 2
+Refer: 101 779 N 1 0 0 1 462.5 60 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" uhungarumlaut.smcp
 Substitution2: "case-1" Uhungarumlaut

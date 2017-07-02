@@ -1,5 +1,5 @@
 StartChar: rcaron
-Encoding: 345 345 157
+Encoding: 345 345 156
 Width: 358
 VWidth: 0
 Flags: HW
@@ -7,7 +7,7 @@ HStem: -5 32<30 59 177 273> 316 108<269 335> 495.6 184.8
 VStem: 53.75 225.5 91 69<53 321>
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 364 64 2
+Refer: 102 780 N 1 0 0 1 364 64 2
 Refer: 17 114 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" rcaron.smcp
 Substitution2: "case-1" Rcaron

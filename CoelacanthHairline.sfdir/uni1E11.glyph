@@ -1,5 +1,5 @@
 StartChar: uni1E11
-Encoding: 7697 7697 538
+Encoding: 7697 7697 537
 Width: 511
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -8,6 +8,6 @@ HStem: 451 102<-225.927 -142.073>
 VStem: -236 104<460.954 543.046> 222 62.4277<-164.273 -94.0566>
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 417 0 2
+Refer: 267 807 N 1 0 0 1 417 0 2
 Refer: 3 100 N 1 0 0 1 0 0 3
 EndChar

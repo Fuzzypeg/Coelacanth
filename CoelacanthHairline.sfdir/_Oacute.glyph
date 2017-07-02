@@ -1,5 +1,5 @@
 StartChar: Oacute
-Encoding: 211 211 183
+Encoding: 211 211 182
 Width: 845
 VWidth: 0
 Flags: HW
@@ -7,7 +7,7 @@ HStem: -7 50<342.523 545.448> 657 49<304.396 495.712>
 VStem: 43 93<267.4 455.825> 701 101<222.803 442.21>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 362 0 2
+Refer: 89 58018 N 1 0 0 1 362 0 2
 Refer: 40 79 N 1 0 0 1 0 0 3
 Substitution2: "c2pc-1" oacute.pcap
 Substitution2: "c2sc-1" oacute.smcp

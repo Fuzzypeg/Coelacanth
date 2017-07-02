@@ -1,5 +1,5 @@
 StartChar: clickalveolar.pcap
-Encoding: 57472 57472 1747
+Encoding: 57472 57472 1746
 Width: 378
 VWidth: 1515
 UnlinkRmOvrlpSave: 1
@@ -7,7 +7,7 @@ Flags: HW
 HStem: 124 53.9999<60 318> 245 53.9999<60 318>
 LayerCount: 2
 Fore
-Refer: 1971 58114 N 0.258 0 0 1.17391 60 272 2
-Refer: 1971 58114 N 0.258 0 0 1.17391 60 151 2
-Refer: 1744 57470 N 1 0 0 1 90 0 2
+Refer: 1970 58114 N 0.258 0 0 1.17391 60 272 2
+Refer: 1970 58114 N 0.258 0 0 1.17391 60 151 2
+Refer: 1743 57470 N 1 0 0 1 90 0 2
 EndChar

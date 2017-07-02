@@ -1,5 +1,5 @@
 StartChar: theta
-Encoding: 952 952 1010
+Encoding: 952 952 1009
 Width: 488
 VWidth: 1039
 UnlinkRmOvrlpSave: 1
@@ -29,7 +29,7 @@ SplineSet
  118 -11 52 115.298828125 52 286 c 3
  52 478 130 697 272 697 c 3
 EndSplineSet
-Refer: 1970 58113 S 0.372444 0.00650103 -0.0185432 1.06234 68.7786 349.75 2
+Refer: 1969 58113 S 0.372444 0.00650103 -0.0185432 1.06234 68.7786 349.75 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=102
 Substitution2: "pcap-1" theta.pcap
 Substitution2: "smcp-1" theta.smcp

@@ -1,5 +1,5 @@
 StartChar: Idieresis
-Encoding: 207 207 180
+Encoding: 207 207 179
 Width: 341
 VWidth: 1159
 Flags: HW
@@ -9,7 +9,7 @@ AnchorPoint: "Bottom" 198 -15 basechar 0
 AnchorPoint: "Top" 197 806 basechar 0
 LayerCount: 2
 Fore
-Refer: 163 58024 N 1 0 0 1 21 0 2
+Refer: 162 58024 N 1 0 0 1 21 0 2
 Refer: 34 73 N 1 0 0 1 0 0 3
 Substitution2: "c2pc-1" idieresis.pcap
 Substitution2: "c2sc-1" idieresis.smcp
