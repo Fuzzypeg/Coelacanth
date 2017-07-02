@@ -118,7 +118,7 @@ KernClass2: 29 22 "kern-2 latin class kerning"
  17 X uni1E8A uni1E8C
  90 quotedbl quotesingle quoteleft quoteright quotereversed quotedblleft quotedblright uni201F
  79 comma period quotesinglbase quotedblbase onedotenleader twodotenleader ellipsis
- 5 space
+ 5 comma
  5 slash
  21 hyphen periodcentered
  9 backslash
@@ -170,7 +170,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 52 13 5
+WinInfo: 13 13 5
 BeginPrivate: 6
 StdHW 4 [56]
 StemSnapH 10 [56 70 83]
@@ -238,7 +238,7 @@ SplineSet
  39 409 54.3808197705 439.509815652 79 459 c 0
  103 478 208 525 257 525 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" A
 Substitution2: "pcap-1" a.pcap
 Substitution2: "smcp-1" a.smcp
@@ -280,7 +280,7 @@ SplineSet
  20.9013671875 609.455078125 16.0457077695 609.237279031 13 610 c 1
  0 676 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "case-1" B
 Substitution2: "pcap-1" b.pcap
 Substitution2: "smcp-1" b.smcp
@@ -308,7 +308,7 @@ SplineSet
  334.571428571 516 399.102040816 485 422 464 c 5
  398.458333333 367.191489362 415.722222222 374.638297872 309 324 c 5
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" C
 Substitution2: "pcap-1" c.pcap
 Substitution2: "smcp-1" c.smcp
@@ -386,7 +386,7 @@ SplineSet
  340.494588745 310.137142856 317.774694519 361.345436578 262 383 c 0
  237.578895185 393.432839631 199.523809524 402 182 402 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" D
 Substitution2: "pcap-1" d.pcap
 Substitution2: "smcp-1" d.smcp
@@ -421,7 +421,7 @@ SplineSet
  291 333 287 338 287 344 c 1
  289.151367188 390.049804688 248.544219628 427 220 427 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" E
 Substitution2: "pcap-1" e.pcap
 Substitution2: "smcp-1" e.smcp
@@ -465,7 +465,7 @@ SplineSet
  66 622 118.768729576 650.814983661 178 697 c 0
  208 721 261 749 298 749 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "salt-1" f.alt
 Substitution2: "case-1" F
 Substitution2: "pcap-1" f.pcap
@@ -538,7 +538,7 @@ SplineSet
  203.3671875 10 164.30859375 15.2001953125 146 18 c 1
  119.484375 12.0869140625 111 -18.6521739131 111 -26 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" G
 Substitution2: "pcap-1" g.pcap
 Substitution2: "smcp-1" g.smcp
@@ -591,7 +591,7 @@ SplineSet
  328.844726562 377.333007812 300.802816901 416 257 416 c 3
  223.458980338 416 213.728476821 411.846153846 191 407 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "case-1" H
 Substitution2: "pcap-1" h.pcap
 Substitution2: "smcp-1" h.smcp
@@ -721,7 +721,7 @@ SplineSet
  219.400390625 686.491210938 205.840988503 666.389222054 203 651 c 0
  193 596.831452546 173 424.715633903 173 319 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "case-1" K
 Substitution2: "pcap-1" k.pcap
 Substitution2: "smcp-1" k.smcp
@@ -757,7 +757,7 @@ SplineSet
  229.2 694 214.397265452 664.886054581 211 650 c 5
  195.51923077 581.9609375 183 416.441310128 183 303 c 7
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "case-1" L
 Substitution2: "pcap-1" l.pcap
 Substitution2: "smcp-1" l.smcp
@@ -879,7 +879,7 @@ SplineSet
  740 500 752 404 754 350 c 1
  756 309.024414062 756 232.926757812 756 190 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" M
 Substitution2: "pcap-1" m.pcap
 Substitution2: "smcp-1" m.smcp
@@ -967,7 +967,7 @@ SplineSet
  61 107.90625 69 171.328125 69 204 c 3
  69 236.709922239 63 392.904977376 55 417 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "case-1" N
 Substitution2: "pcap-1" n.pcap
 Substitution2: "smcp-1" n.smcp
@@ -1010,7 +1010,7 @@ SplineSet
  357.009999 81 381 105.52307656 381 200 c 3
  381 358.879271983 266.647460938 422 231 422 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "case-1" O
 Substitution2: "pcap-1" o.pcap
 Substitution2: "smcp-1" o.smcp
@@ -1084,7 +1084,7 @@ SplineSet
  388.031242374 115 388 174.938945525 388 192 c 3
  388 288.26344086 329.031312747 401 208 401 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" P
 Substitution2: "pcap-1" p.pcap
 Substitution2: "smcp-1" p.smcp
@@ -1138,7 +1138,7 @@ SplineSet
  330 -86 357 -83 357 -80 c 1
  360 -72.1138211382 360 -20.0650406504 360 17 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" Q
 Substitution2: "pcap-1" q.pcap
 Substitution2: "smcp-1" q.smcp
@@ -1206,7 +1206,7 @@ SplineSet
  208 390 201 378 200 372 c 1
  200 326.577235772 202 243.097560976 202 221 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" R
 Substitution2: "pcap-1" r.pcap
 Substitution2: "smcp-1" r.smcp
@@ -1262,7 +1262,7 @@ SplineSet
  36 104.666666667 29.6470588235 129.246376812 24 140 c 1
  82 156 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" S
 Substitution2: "pcap-1" s.pcap
 Substitution2: "smcp-1" s.smcp
@@ -1295,7 +1295,7 @@ SplineSet
  41.3333333333 425 28.2105263158 426 12 426 c 1
  10 486 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" T
 Substitution2: "pcap-1" t.pcap
 Substitution2: "smcp-1" t.smcp
@@ -1368,7 +1368,7 @@ SplineSet
  329 388.233276221 323.217391304 389.636363636 291 392 c 1
  276 464 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" U
 Substitution2: "pcap-1" u.pcap
 Substitution2: "smcp-1" u.smcp
@@ -1408,7 +1408,7 @@ SplineSet
  453.468554687 499 495.54270148 508 528 515 c 1
  539 450 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" V
 Substitution2: "pcap-1" v.pcap
 Substitution2: "smcp-1" v.smcp
@@ -1545,7 +1545,7 @@ SplineSet
  713.866210938 499 743.333007812 506.3125 765 512 c 1
  792 449 l 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "case-1" W
 Substitution2: "pcap-1" w.pcap
 Substitution2: "smcp-1" w.smcp
@@ -1600,7 +1600,7 @@ SplineSet
  75.7070707071 1 36.1717171717 -3 6 -5 c 1
  -1 61 l 1xc0
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "case-1" X
 Substitution2: "pcap-1" x.pcap
 Substitution2: "smcp-1" x.smcp
@@ -1670,7 +1670,7 @@ SplineSet
  405.158546639 317 315.870867251 178.026520482 251 43 c 0
  227.928898738 -5.025390625 214.896484376 -146 224 -175 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "case-1" Y
 Substitution2: "pcap-1" y.pcap
 Substitution2: "smcp-1" y.smcp
@@ -1732,7 +1732,7 @@ SplineSet
  507 -22 l 1
  488 -10 480 0 448 0 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "case-1" Z
 Substitution2: "pcap-1" z.pcap
 Substitution2: "smcp-1" z.smcp
@@ -1839,7 +1839,7 @@ SplineSet
  430.082597437 80.505859375 454.5703125 107.22385459 454.5703125 199.568359376 c 3
  454.5703125 264.155536209 405 321 354.439453125 319.958007812 c 0
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" b.pcap
 Substitution2: "c2sc-1" b.smcp
@@ -1874,7 +1874,7 @@ SplineSet
  582.510742188 16.5109416099 519.2421875 -15.708984375 428.0703125 -15.708984375 c 7
  201.086914062 -15.708984375 43.310546875 120.590115339 43.310546875 319.893554688 c 7
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" c.pcap
 Substitution2: "c2sc-1" c.smcp
@@ -1915,7 +1915,7 @@ SplineSet
  123.566892296 600.412088742 79.412109375 595.800318371 52.837890625 596.237304688 c 1
  54.666015625 681.967773438 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" d.pcap
 Substitution2: "c2sc-1" d.smcp
@@ -1968,7 +1968,7 @@ SplineSet
  143.131835938 591.543945312 90.502929688 590.177734375 81.6806640625 594.421875 c 1
  85.2509765625 684.215820312 l 1xf6
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" e.pcap
 Substitution2: "c2sc-1" e.smcp
@@ -2048,7 +2048,7 @@ SplineSet
  313.270690552 92.1039487464 367 93 439.220703125 89.869140625 c 1
  424.712890625 -7.5693359375 l 1xb680
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" f.pcap
 Substitution2: "c2sc-1" f.smcp
@@ -2091,7 +2091,7 @@ SplineSet
  622.692382812 18.462890625 502.770507812 -12.451171875 435.975585938 -12.451171875 c 1
  221.684570312 -12.451171875 38.2861328125 123.288436351 38.2861328125 333.548828125 c 3xbc
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" g.pcap
 Substitution2: "c2sc-1" g.smcp
@@ -2145,7 +2145,7 @@ SplineSet
  118.951207653 598.321467127 65.84765625 611.296875 64.67578125 597.958984376 c 1
  64.666015625 686.794921875 l 1xa2c0
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" h.pcap
 Substitution2: "c2sc-1" h.smcp
@@ -2181,7 +2181,7 @@ SplineSet
  140.514585046 595.407789981 42.59375 612.650888758 70.349609375 594.893554688 c 5
  76.177734375 692.708984375 l 5x30
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" i.pcap
 Substitution2: "c2sc-1" i.smcp
@@ -2214,7 +2214,7 @@ SplineSet
  140.835208505 -30.3080655379 140.497607225 15.2080055982 141.735351562 105.225585938 c 1
  142.659063735 136.07914468 128.718160824 588.075297329 123.48828125 600.533203124 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" j.pcap
 Substitution2: "c2sc-1" j.smcp
@@ -2267,7 +2267,7 @@ SplineSet
  486.013954086 601.079101562 460.715349136 605.036132812 442.171875 609.237304688 c 1
  445.913085938 680.881835938 l 1xc8
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" k.pcap
 Substitution2: "c2sc-1" k.smcp
@@ -2306,7 +2306,7 @@ SplineSet
  110.290850232 678.543945312 169.271896748 674.87890625 226.6875 674.87890625 c 3
  281.609242182 674.87890625 334.997612769 680.052734375 381.65625 687.881835938 c 1x58
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" l.pcap
 Substitution2: "c2sc-1" l.smcp
@@ -2358,7 +2358,7 @@ SplineSet
  867.176212237 96.5854339113 878.099609376 86.0262741376 936.525390624 98.041015625 c 1
  933.934570312 -6.537109375 l 1xd8
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" m.pcap
 Substitution2: "c2sc-1" m.smcp
@@ -2436,7 +2436,7 @@ SplineSet
  140.77734375 528.315423498 115.044921876 600.76171875 68.0283203125 580.92578125 c 1
  70.9423828125 683.65625 l 1x64
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" n.pcap
 Substitution2: "c2sc-1" n.smcp
@@ -2473,7 +2473,7 @@ SplineSet
  242.52734375 -16.279296875 45.8671875 100.241799899 45.8671875 330.774414062 c 3
  45.8671875 532.926524033 215.166992188 689.0859375 405.073242188 689.0859375 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" o.pcap
 Substitution2: "c2sc-1" o.smcp
@@ -2541,7 +2541,7 @@ SplineSet
  117.072995082 596.254837573 99.1074218746 603.305856021 53.2998046875 593.35546875 c 1
  56.1279296875 681.0859375 l 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" p.pcap
 Substitution2: "c2sc-1" p.smcp
@@ -2575,7 +2575,7 @@ SplineSet
  584.94921875 693.0859375 744.892221387 547.595829894 744.892221387 356.77445 c 3
  744.892221387 214.306591376 678.68110268 87.0980073554 566 42 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "salt-1" Q.alt
 Substitution2: "c2pc-1" q.pcap
@@ -2618,7 +2618,7 @@ SplineSet
  136.116210938 592.557617188 123.78515625 590.614257812 71.83203125 592.614257812 c 1
  71.83203125 674.602539062 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "salt-1" R.alt
 Substitution2: "c2pc-1" r.pcap
@@ -2687,7 +2687,7 @@ SplineSet
  77.9931640625 7.4306640625 l 1
  81.3509359774 78.4494425717 77.875 90.3740234375 57.4658203125 197.615234375 c 1x78
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" s.pcap
 Substitution2: "c2sc-1" s.smcp
@@ -2757,13 +2757,13 @@ SplineSet
  20.1786860506 598.351928275 52.343743213 679.446380638 74.2001953125 720.225585938 c 1
  107.66723947 702.904935042 142.222614717 679.601082493 163.391601562 679.672851562 c 0xec
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" t.pcap
 Substitution2: "c2sc-1" t.smcp
 EndChar
 
-StartChar: space
+StartChar: comma
 Encoding: 44 44 46
 Width: 217
 VWidth: 1159
@@ -2801,8 +2801,8 @@ SplineSet
  211.645382936 91.8428611974 219 79.3056042474 219 74 c 3
  219 37.2430212125 172.525901024 -83.8680534765 69.203125 -134.936523438 c 1
 EndSplineSet
-Validated: 2621473
-Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+Validated: 33
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14 [ddx={} ddy={} ddh={} ddv={}]
 EndChar
 
 StartChar: hyphen
@@ -2858,7 +2858,7 @@ SplineSet
  221.014603967 70.2024714596 225.31920625 66.4650651138 225.31920625 59.8297487305 c 3
  225.31920625 52.3578191474 221.212241343 43.7536799538 215.857194335 39.9049164062 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar
 
@@ -2875,7 +2875,7 @@ AnchorPoint: "TopMark" -174 768 basemark 0
 LayerCount: 2
 Fore
 Refer: 2360 57345 S 1.3 0 0 1.275 -176 649 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: dotlessi
@@ -2909,7 +2909,7 @@ SplineSet
  246 466 228.244018932 440.747715858 221 421 c 0
  205 376.666826071 199 231.000382571 199 212 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "case-1" I
 Substitution2: "pcap-1" i.pcap
 Substitution2: "smcp-1" i.smcp
@@ -3013,7 +3013,7 @@ SplineSet
  350 233.84637494 376.373037325 343.555575012 338 424 c 0
  333.747053366 432.915787499 316.639784963 425.899679856 290 428 c 0xdc80
 EndSplineSet
-Validated: 524321
+Validated: 33
 LCarets2: 1 298
 Ligature2: "liga-1" f i
 EndChar
@@ -3045,7 +3045,7 @@ SplineSet
  70 -138 57 -156 58 -175 c 5
  -36 -175 l 5
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: U
@@ -3153,7 +3153,7 @@ SplineSet
  104.676971353 679.705041596 154.480118768 676.552734375 194.428710938 676.552734375 c 3
  237.058372486 676.552734375 276.525502855 681.36328125 339.369140625 684.634765625 c 1xa0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" v.pcap
 Substitution2: "c2sc-1" v.smcp
@@ -3247,7 +3247,7 @@ SplineSet
  835.80859375 679.505859375 884.387765214 676.803710938 920.990234375 676.803710938 c 3
  963.637858889 676.803710938 1012.10017972 680.930672203 1057.625 689.688476562 c 1xb0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" w.pcap
 Substitution2: "c2sc-1" w.smcp
@@ -3342,7 +3342,7 @@ SplineSet
  81.550298224 614.297282347 39.0955081994 611.65308469 68.7783203125 614.872070312 c 1
  69.7783203125 682.946289062 l 1x50
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" x.pcap
 Substitution2: "c2sc-1" x.smcp
@@ -3418,7 +3418,7 @@ SplineSet
  239.920829094 677.553710938 272.718856724 679.666259615 294.849609375 685.602539062 c 5
  304.806640625 592.055664062 l 5xb0
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" y.pcap
 Substitution2: "c2sc-1" y.smcp
@@ -3481,7 +3481,7 @@ SplineSet
  148.486727607 585.111461016 127.049131519 563.761244781 99.392578125 511.111328124 c 1
  31.9375 532.66796875 l 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" z.pcap
 Substitution2: "c2sc-1" z.smcp
@@ -3504,7 +3504,7 @@ SplineSet
  133 -81.5925925926 37 69.8148148148 37 271 c 3
  37 472.269320843 139 629.964871194 305 714 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
 EndChar
@@ -3574,7 +3574,7 @@ SplineSet
  134 -12 51 112 51 260 c 3
  51 336 107 508 285 508 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.alt
 Substitution2: "dnom-1" zero.denom
 Substitution2: "numr-1" zero.numerator
@@ -3608,7 +3608,7 @@ SplineSet
  178.57565871 418.112222697 150.75460327 434.105704281 115.690429688 442.640625 c 1
  117.524414062 499.12109375 l 1x68
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "dnom-1" one.denom
 Substitution2: "numr-1" one.numerator
 Substitution2: "tnum-1" one.tabulartext
@@ -3641,7 +3641,7 @@ SplineSet
  211.358549985 391.373046876 151.99743379 347.474252554 126.244140625 342.372070312 c 1
  87.302734375 386.836914062 l 1xb0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "dnom-1" two.denom
 Substitution2: "numr-1" two.numerator
 Substitution2: "tnum-1" two.tabulartext
@@ -3674,7 +3674,7 @@ SplineSet
  417.740234375 -55.4290682166 213.870190824 -148.784580583 118 -177.099609375 c 1
  88.6611328125 -120.62890625 l 1xd0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "dnom-1" three.denom
 Substitution2: "numr-1" three.numerator
 Substitution2: "tnum-1" three.tabulartext
@@ -3711,7 +3711,7 @@ SplineSet
  24.8564591487 27.4549496647 376.458271332 439.777186778 405.127050536 507.017878183 c 1
  480.10923828 463.175337694 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "dnom-1" four.denom
 Substitution2: "numr-1" four.numerator
 Substitution2: "tnum-1" four.tabulartext
@@ -3742,7 +3742,7 @@ SplineSet
  281.9453125 145.593839714 244.948698908 202.598040772 97.517578125 224.197265625 c 1
  104.558112047 302.666944114 106.481063422 407.765397443 102.69921875 499.0390625 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 Substitution2: "dnom-1" five.denom
 Substitution2: "numr-1" five.numerator
 Substitution2: "tnum-1" five.tabulartext
@@ -3773,7 +3773,7 @@ SplineSet
  139.972712949 -14.0537109375 86.6972106934 148.568109432 86.6972106934 243.2464 c 3
  86.6972106934 424.075824786 176.828935856 570.397520593 383.671875 676.201171874 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "dnom-1" six.denom
 Substitution2: "numr-1" six.numerator
 Substitution2: "tnum-1" six.tabulartext
@@ -3803,7 +3803,7 @@ SplineSet
  51.4150390625 351.467773438 112.642225617 496.208422425 122.692382812 548.783203125 c 1
  194.084960938 507.116210938 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "dnom-1" seven.denom
 Substitution2: "numr-1" seven.numerator
 Substitution2: "tnum-1" seven.tabulartext
@@ -3998,7 +3998,7 @@ SplineSet
  215 697.538461538 280.366666666 732 326 732 c 0
  372.995022785 732 431.78832374 722.613426913 472 697 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "salt-1" uniFB00.alt
 LCarets2: 1 311
 Ligature2: "liga-1" f f
@@ -4030,7 +4030,7 @@ SplineSet
  114.316363572 539.36520136 86.0275454046 536.935894432 57.171875 532.322265625 c 1
 EndSplineSet
 Refer: 48 46 N 1 0 0 1 65.5254 0 2
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "smcp-1" question.smcp
 Substitution2: "pcap-1" question.pcap
@@ -4055,7 +4055,7 @@ SplineSet
  105.65535 209 l 17xa0
 EndSplineSet
 Refer: 48 46 N 1 0 0 1 36.7093 0 2
-Validated: 524321
+Validated: 33
 Substitution2: "pcap-1" exclam.pcap
 Substitution2: "smcp-1" exclam.smcp
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
@@ -4150,7 +4150,7 @@ SplineSet
  500.971423636 509.34667069 592.571690909 490.052063793 655.3116 491.43025 c 1
  646.8279 439.0652 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "pcap-1" ampersand.pcap
 Substitution2: "smcp-1" ampersand.smcp
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
@@ -4172,7 +4172,7 @@ SplineSet
  72.60235 445.700178505 l 1xa0
  68.0765460094 536.911172469 29.1021275619 630.890166251 27.172325 699.700161698 c 1xc0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar
 
@@ -4266,7 +4266,7 @@ SplineSet
  219 634.162109376 l 1x80
  131.158203124 607.1015625 l 1x40
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar
@@ -4311,7 +4311,7 @@ SplineSet
  381.594726562 356.739257812 302.126953125 310.993164062 274.888671875 318.778320312 c 1
  231.987304688 373.354492188 243.237304688 391.001953125 221 432 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: Eacute
@@ -4394,7 +4394,7 @@ SplineSet
  -66.3864957766 658.897178037 -140.216317355 618.277768662 -206.94140625 569.951171875 c 1
  -232.611328125 613.625 l 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni0302
@@ -4419,7 +4419,7 @@ SplineSet
  -150 731.80078125 l 1
  -18.2001953125 600.200195312 l 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: gravecomb
@@ -4441,7 +4441,7 @@ SplineSet
  -329.452148438 725.131835938 -300.400390625 763.379882812 -300.400390625 763.379882812 c 1
  -238.754882812 725.711914062 -157.262695312 657.84765625 -116 613.625 c 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: egrave
@@ -4487,7 +4487,7 @@ LayerCount: 2
 Fore
 Refer: 2359 57344 S 1.26 0 0 1.2307 -87 646 2
 Refer: 2359 57344 S 1.26 0 0 1.2307 -263 646 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni030A
@@ -4514,7 +4514,7 @@ SplineSet
  -232.118314303 562 -280.219726562 603.3 -280.219726562 665.25 c 3
  -280.219726562 724.222158813 -230.114088792 767.470703125 -176 767.470703125 c 3
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni031B
@@ -4562,7 +4562,7 @@ SplineSet
  -234.089762674 629.74609375 -252.489903949 597.894982291 -265 578 c 1
  -317.416015625 601.708984375 l 1x60
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni0304
@@ -4577,7 +4577,7 @@ AnchorPoint: "TopMark" -174 768 basemark 0
 LayerCount: 2
 Fore
 Refer: 1971 58114 N 0.259 0 0 1.06522 -301 627.5 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni030B
@@ -4592,7 +4592,7 @@ LayerCount: 2
 Fore
 Refer: 89 180 N 0.788276 0.141082 -0.440351 0.809203 104.233 100.115 2
 Refer: 89 180 N 0.741717 0.301891 -0.598971 0.699965 59.9409 156.814 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni030C
@@ -4608,7 +4608,7 @@ AnchorPoint: "TopMark" -179 768 basemark 0
 LayerCount: 2
 Fore
 Refer: 93 770 N -1 0 0 -1 -351 1301 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni030F
@@ -4623,7 +4623,7 @@ LayerCount: 2
 Fore
 Refer: 94 768 N 0.788276 -0.141082 0.440351 0.809203 -384.755 89.0848 2
 Refer: 94 768 N 0.741717 -0.301891 0.598971 0.699965 -343.386 132.496 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni0306
@@ -4647,7 +4647,7 @@ SplineSet
  -43.9987530778 612.458 -109.600301999 576 -175 576 c 3
  -240.467693038 576 -305.733900966 612.458 -327.15234375 685.375 c 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni030D
@@ -4661,7 +4661,7 @@ AnchorPoint: "Top" -174 537 mark 0
 LayerCount: 2
 Fore
 Refer: 1971 58114 S 0 0.177 -0.956522 0 -174 554 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni030E
@@ -4676,7 +4676,7 @@ LayerCount: 2
 Fore
 Refer: 106 781 S 1 0 0 1 67 0 2
 Refer: 106 781 N 1 0 0 1 -67 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni0310
@@ -4693,7 +4693,7 @@ LayerCount: 2
 Fore
 Refer: 2359 57344 N 1 0 0 0.976744 -175 755 2
 Refer: 105 774 N 1 0 0 1 0 0 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni0311
@@ -4709,7 +4709,7 @@ AnchorPoint: "Top" -174 537 mark 0
 LayerCount: 2
 Fore
 Refer: 105 774 S -1 0 0 -1 -349 1287.25 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni0305
@@ -4750,7 +4750,7 @@ SplineSet
  -95.0932678976 677.587524509 -92 671.341428756 -92 662 c 3
  -92 639.570364627 -132.115008847 591.731507195 -202 569 c 1
 EndSplineSet
-Validated: 1572897
+Validated: 33
 EndChar
 
 StartChar: uni0312
@@ -4766,7 +4766,7 @@ AnchorPoint: "TopMark" -179 768 basemark 0
 LayerCount: 2
 Fore
 Refer: 111 787 N -1 0 0 -1 -325 1287 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni0315
@@ -4786,7 +4786,7 @@ SplineSet
  -118 464.494140625 l 1
  -79.029296875 521.860351562 -68.2984 587.855 -59.75 657.245 c 9
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: agrave
@@ -5604,7 +5604,7 @@ SplineSet
  159.154296875 880.400390625 l 5
  289.504882812 790.361328125 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Macron
@@ -5653,7 +5653,7 @@ SplineSet
  296.146876196 791.119524493 227.933317297 753.447265625 159.9296875 753.447265625 c 7
  91.8748763968 753.447265625 24.0301523934 791.119524493 1.7646484375 836.463867188 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Uni0308
@@ -5707,7 +5707,7 @@ SplineSet
  79.0281537196 724.828125 26.3388671875 768.737109375 26.3388671875 834.600585938 c 3
  26.3388671875 900.461199171 81.2242226537 948.760742188 140.5 948.760742188 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Uni030B
@@ -7250,7 +7250,7 @@ SplineSet
  -253.438476562 -45.113824837 -216.398388483 20.1093277259 -121 56 c 1
  -95.369140625 5.54296875 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Aogonek
@@ -7335,7 +7335,7 @@ SplineSet
  -272.438476562 -46.8902506979 -230.084512246 16.2535455731 -121 51 c 1
  -95.369140625 0.54296875 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: Eogonek
@@ -7816,7 +7816,7 @@ SplineSet
  -133.981614341 -54.4427890778 -111.732421875 -67.0452836355 -111.732421875 -99.412109375 c 3
  -111.732421875 -156.423502141 -211.216141369 -187.649151884 -289.807617188 -172.787109375 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: Cedillafloating
@@ -8556,7 +8556,7 @@ SplineSet
  506.596679688 344.650390625 506.291015625 599.043945312 506.216796875 602.430664062 c 0
  506.177734375 604.212890625 502.415039062 605.4453125 494.9375 606.375976562 c 1
 EndSplineSet
-Validated: 8912929
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ae.pcap
 Substitution2: "c2sc-1" ae.smcp
@@ -8644,7 +8644,7 @@ SplineSet
  225.215393897 71 261.157521262 90.1809703142 286.413824909 114.454820685 c 1
  273.192961019 158.185537664 271.886409671 201.735676766 273.2413847 245.863003473 c 1
 EndSplineSet
-Validated: 8912929
+Validated: 33
 Substitution2: "pcap-1" ae.pcap
 Substitution2: "case-1" AE
 Substitution2: "smcp-1" ae.smcp
@@ -8866,7 +8866,7 @@ SplineSet
  233.44465 258.78636 l 1
  40.83984375 395.293945312 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar
 
@@ -8923,7 +8923,7 @@ SplineSet
  94.291015625 448.003934096 71.791015625 480.371888713 71.791015625 540.299804688 c 3
  71.791015625 675.666331002 163.505919539 713.338331003 258.639648438 710.299804688 c 1xe0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar
@@ -8974,7 +8974,7 @@ SplineSet
  134.598620047 263.291992188 95.7573578876 226.350928264 78.5592214391 203.283021586 c 1
  28.2340700037 246.486557305 l 1x40
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar
@@ -10733,7 +10733,7 @@ SplineSet
  146.555850758 503.363188244 214.602845669 415.809516854 331 381 c 0
  413.961635048 356.189647462 521 331 555 320.640625 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: dagger
@@ -11296,7 +11296,7 @@ SplineSet
  123.465820312 559.353515625 143.0625 529.604492188 170.12890625 509 c 1
  130.92578125 449.063476562 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar
 
@@ -11521,7 +11521,7 @@ SplineSet
  -179.635742188 559.680664062 l 1
  -63.2197265625 476.559570312 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: gravecombhigh
@@ -14055,7 +14055,7 @@ SplineSet
  493.260887586 1.29296875 465.989067779 2.712890625 440.481445312 2.712890625 c 3
  430.063803751 2.712890625 395.733676428 1.4150390625 369.435546875 -5.0556640625 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: b.pcap
@@ -14137,7 +14137,7 @@ SplineSet
  354.589840361 67.837890625 392.779296875 90.8574700144 392.779296875 155.471679688 c 3xca
  392.779296875 194.744742876 368.219852383 226.695521523 290.505859375 226.727539062 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: c.pcap
@@ -14196,7 +14196,7 @@ SplineSet
  427.007351238 13.3217051438 382.5078125 -14.189453125 310.719726562 -14.189453125 c 3
  136.268554688 -14.189453125 23.9560546875 84.1833236417 23.9560546875 232.048828125 c 3xe8
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: d.pcap
@@ -14262,7 +14262,7 @@ SplineSet
  106.861565961 440.997903573 94.2489749303 441 55.8271484375 442.041015625 c 1
  58.6259765625 505.870117188 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: e.pcap
@@ -14363,7 +14363,7 @@ SplineSet
  116.698706799 421.716202161 116.99144385 426.126770884 80.486328125 423.833007812 c 1
  82.5478515625 501.801757812 l 1xa480
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: f.pcap
@@ -14453,7 +14453,7 @@ SplineSet
  218.494224615 63.3334307001 231.840117768 69.1473022178 301.500976562 60.6650390625 c 1
  289.868164062 -8.2119140625 l 1xdc
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: g.pcap
@@ -14528,7 +14528,7 @@ SplineSet
  444.64504546 13.2498789299 371.585448301 -10.51171875 315.705078125 -10.51171875 c 3
  159.39722195 -10.51171875 18.283203125 82.787109375 18.283203125 236.70703125 c 3xec
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: h.pcap
@@ -14637,7 +14637,7 @@ SplineSet
  103.479492188 435.861328125 86.271484375 436.540039062 59.373046875 436.637695312 c 1
  63.6416015625 502.744140625 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: i.pcap
@@ -14702,7 +14702,7 @@ SplineSet
  137.002506702 426.699911104 134.043686327 426.699911104 65.3310546875 436.45703125 c 1
  70.3349609375 506.23828125 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: j.pcap
@@ -14759,7 +14759,7 @@ SplineSet
  108.54296875 -54.6172952212 120.135742188 -25.6073125542 122.35546875 57.0615234375 c 1
  122.897460938 78.8310546875 117.0859375 436.419921875 116.76171875 436.9140625 c 0xa0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: k.pcap
@@ -14858,7 +14858,7 @@ SplineSet
  352 437 350 439 345.323242188 438.739257812 c 1
  349.153320312 503.826171875 l 1xd8
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: l.pcap
@@ -14928,7 +14928,7 @@ SplineSet
  85.8427734375 499.736328125 127.452148438 497.051757812 159.98828125 497.051757812 c 3
  192.584960938 497.051757812 231.08984375 501.037109375 259.72265625 507.577148438 c 1x78
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: m.pcap
@@ -15042,7 +15042,7 @@ SplineSet
  649.632997788 66.006224781 649.563476562 67.79296875 691.881835938 65.1025390625 c 1
  689.083007812 -7.7744140625 l 1xca
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: n.pcap
@@ -15130,7 +15130,7 @@ SplineSet
  117.001750831 402.039465658 116.948703786 433.762776463 65.07421875 427.651367188 c 1
  67.5751953125 507.200195312 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: o.pcap
@@ -15169,7 +15169,7 @@ SplineSet
  186.229463349 -15.62109375 27.341796875 54.5537266682 27.341796875 238.302734375 c 3
  27.341796875 390.032543664 152.935653663 499.814453125 288.696289062 499.814453125 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: p.pcap
@@ -15250,7 +15250,7 @@ SplineSet
  93.262723918 432.425686147 88.388671875 433.614780871 56.3486328125 433.833984375 c 1
  60.6171875 502.268554688 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: q.pcap
@@ -15301,7 +15301,7 @@ SplineSet
  435.362931366 512.330078125 556.029296875 403.689783927 556.029296875 262.98828125 c 3
  556.029296875 155.5859375 503.90237949 58.3984375 427.333007812 26.208984375 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: r.pcap
@@ -15386,7 +15386,7 @@ SplineSet
  112.7890625 430.727539062 103.201171875 433.806640625 69.3681640625 435.276367188 c 1
  69.3681640625 498.584960938 l 1x76
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: s.pcap
@@ -15460,7 +15460,7 @@ SplineSet
  59.201171875 8.388671875 l 1
  62.5986328125 64.7511486136 59.85546875 58.3199309826 47.0576171875 142.252929688 c 1x78
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: t.pcap
@@ -15540,7 +15540,7 @@ SplineSet
  17.1923828125 437.622070312 45.62890625 498.681640625 64.3056640625 531.341796875 c 1
  79.8955078125 518.396484375 96.681640625 499.39453125 103.606445312 499.4609375 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: u.pcap
@@ -15625,7 +15625,7 @@ SplineSet
  86.5167428051 431.850888556 70.2216225886 435 46.2470703125 438.088867188 c 1
  53.017578125 504.633789062 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: v.pcap
@@ -15696,7 +15696,7 @@ SplineSet
  73.1278206957 502.096679688 103.586479679 499.515625 126.063476562 499.515625 c 3
  150.389357362 499.515625 173.173193952 502.978515625 208.518554688 505.516601562 c 1xc0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: w.pcap
@@ -15808,7 +15808,7 @@ SplineSet
  618.670128732 500.369140625 637.281072183 498.173828125 658.151367188 498.173828125 c 3
  687.647460938 498.173828125 728.278320312 498.6875 759.38671875 505.616210938 c 1xa0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: x.pcap
@@ -15914,7 +15914,7 @@ SplineSet
  100.16796875 432.009765625 85.0468750002 432.764648438 65.9208984375 436.3203125 c 1
  66.6552734375 504.15625 l 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: y.pcap
@@ -15999,7 +15999,7 @@ SplineSet
  153.486328125 498.377929688 183.794921875 500.143554688 200.029296875 505.185546875 c 1
  207.83203125 433.279296875 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: z.pcap
@@ -16066,7 +16066,7 @@ SplineSet
  118 417 113.651367188 408.872070312 99.537109375 371.880859375 c 1
  25.9736328125 392.49609375 l 1xa0
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: brokenbar
@@ -16112,7 +16112,7 @@ SplineSet
  584.090909091 694 745 548.842406877 745 354 c 3
  745 209.764195428 665.395309579 77.901310105 555 32 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
 
@@ -16183,7 +16183,7 @@ SplineSet
  136.116210938 605.557617188 123.78515625 603.614257812 71.83203125 605.614257812 c 1
  71.83203125 674.602539062 l 1x76
 EndSplineSet
-Validated: 8912929
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
 
@@ -16231,7 +16231,7 @@ SplineSet
  185.032756959 432.486238842 167.904560644 436.657344328 82.6904296875 442.640625 c 9
  84.5244140625 499.12109375 l 1xd0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "pnum-1" one
 Substitution2: "lnum-1" one.tabularlining
 Substitution2: "numr-1" one.numerator
@@ -16264,7 +16264,7 @@ SplineSet
  180.191004079 425.686523438 120.498716895 386.951728103 79.244140625 342.372070312 c 1
  40.302734375 386.836914062 l 1xb0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "pnum-1" two
 Substitution2: "lnum-1" two.tabularlining
 Substitution2: "numr-1" two.numerator
@@ -16297,7 +16297,7 @@ SplineSet
  411.740234375 -55.4290682166 207.870190824 -148.784580583 112 -177.099609375 c 1
  85.6611328125 -123.62890625 l 1xd0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "pnum-1" three
 Substitution2: "lnum-1" three.tabularlining
 Substitution2: "numr-1" three.numerator
@@ -16345,7 +16345,7 @@ SplineSet
  297.97265625 149.161897424 271.474349454 235.799020386 88.517578125 227.197265625 c 1
  95.558112047 304.810418512 97.481063422 408.7616833 93.69921875 499.0390625 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "pnum-1" five
 Substitution2: "lnum-1" five.tabularlining
 Substitution2: "numr-1" five.numerator
@@ -16438,7 +16438,7 @@ SplineSet
  92.2520325203 -12 16 147.558823529 16 338 c 3
  16 435.451612903 67.2136752137 656 230 656 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "pnum-1" zero.proportionallining
 Substitution2: "onum-1" zero.tabulartext
 Substitution2: "numr-1" zero.numerator
@@ -16473,7 +16473,7 @@ SplineSet
  186.080728663 560.486238842 169.279227321 564.657344328 85.6904296875 570.640625 c 9
  87.5244140625 627.12109375 l 1xd0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "pnum-1" one.proportionallining
 Substitution2: "onum-1" one.tabulartext
 Substitution2: "numr-1" one.numerator
@@ -16507,7 +16507,7 @@ SplineSet
  186.191004079 546.686523438 126.498716895 507.951728103 85.244140625 463.372070312 c 1
  46.302734375 507.836914062 l 1xb0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "pnum-1" two.proportionallining
 Substitution2: "onum-1" two.tabulartext
 Substitution2: "numr-1" two.numerator
@@ -16540,7 +16540,7 @@ SplineSet
  409.740234375 99.6251619418 205.870190824 10.8317266788 110 -16.099609375 c 1
  83.6611328125 37.37109375 l 1xe8
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "pnum-1" three.proportionallining
 Substitution2: "onum-1" three.tabulartext
 Substitution2: "numr-1" three.numerator
@@ -16577,7 +16577,7 @@ SplineSet
  13.9290858495 201.743302018 280.399580009 599.200970969 302.126953125 664.017578125 c 1
  381.108398438 645.17578125 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "pnum-1" four.proportionallining
 Substitution2: "onum-1" four.tabulartext
 Substitution2: "numr-1" four.numerator
@@ -16608,7 +16608,7 @@ SplineSet
  306.97265625 289.161897424 280.474349454 375.799020386 97.517578125 367.197265625 c 1
  104.558112047 444.810418512 106.481063422 548.7616833 102.69921875 639.0390625 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "pnum-1" five.proportionallining
 Substitution2: "onum-1" five.tabulartext
 Substitution2: "numr-1" five.numerator
@@ -16639,7 +16639,7 @@ SplineSet
  83.1511554189 -14.0537109375 34.697265625 148.484679242 34.697265625 243.24609375 c 3
  34.697265625 426.975536999 125.598777192 570.254382495 332.087890625 676.493164062 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "pnum-1" six.proportionallining
 Substitution2: "onum-1" six.tabulartext
 Substitution2: "numr-1" six.numerator
@@ -16670,7 +16670,7 @@ SplineSet
  12.427734375 507.1484375 68.4900200204 630.116848069 77.6923828125 674.783203125 c 1
  134.084960938 644.116210938 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "pnum-1" seven.proportionallining
 Substitution2: "onum-1" seven.tabulartext
 Substitution2: "numr-1" seven.numerator
@@ -16754,7 +16754,7 @@ SplineSet
  -52 -294 l 1xe0
 EndSplineSet
 Refer: 49 775 N 1 0 0 1 343 121 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: notequal
@@ -16783,7 +16783,7 @@ AnchorPoint: "Top" -224 414 mark 0
 LayerCount: 2
 Fore
 Refer: 462 8219 N 0.8 0 0 0.8 -318.8 79.4 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni032A
@@ -16978,7 +16978,7 @@ SplineSet
  286.481481481 499 282.070375725 503 306 503 c 3xda48
  317.954014244 503 352.769490706 500.75 375.0703125 500 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 288 578
 Ligature2: "liga-1" f f i
 EndChar
@@ -17082,7 +17082,7 @@ SplineSet
  217.760742188 548.958563703 213 529 211 498 c 1
  247.691427289 499.108665551 337.487091577 503.081054688 375.556640624 507.703125 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 1 277
 Ligature2: "liga-1" f l
 EndChar
@@ -17237,7 +17237,7 @@ SplineSet
  368.666992188 534.407226562 367 545.220703125 367 558 c 0
  367 562.902005175 367.373821681 566.678848642 368 570 c 1
 EndSplineSet
-Validated: 524325
+Validated: 37
 LCarets2: 2 293 587
 Ligature2: "liga-1" f f l
 EndChar
@@ -18060,7 +18060,7 @@ SplineSet
  -239.848 632 -242.056 609.034 -241.5 587.6 c 1
  -252.77 587.6 -282.822 587.6 -295.5 596 c 1
 EndSplineSet
-Validated: 1048609
+Validated: 33
 EndChar
 
 StartChar: Hookabovecomb
@@ -20138,7 +20138,7 @@ SplineSet
  483.575672906 322.294585395 486.180664062 342.945031694 486.180664062 371.614257812 c 3
  486.180664062 384.465995539 483.766714167 394.170902271 477.8359375 399.030273438 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=160 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -20165,7 +20165,7 @@ SplineSet
  37.4082 534.598 204.47 681.619 384.896 681.619 c 3
 EndSplineSet
 Refer: 2 99 N 0.88 0 0 0.88 165.743 120.327 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: registered
@@ -20214,7 +20214,7 @@ SplineSet
  148.763671875 276.21875 33.1962890625 372.307617188 33.1962890625 516.508789062 c 3
  33.1962890625 660.612304688 153.223632812 766.217773438 282.900390625 766.217773438 c 3
 EndSplineSet
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: plusminus
@@ -20558,7 +20558,7 @@ SplineSet
  198.512473999 560.486238842 184.651227416 564.657344328 115.690429688 570.640625 c 9
  117.524414062 627.12109375 l 1xd0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Substitution2: "tnum-1" one.tabularlining
 Substitution2: "onum-1" one
 Substitution2: "numr-1" one.numerator
@@ -20734,7 +20734,7 @@ SplineSet
  93.0299360917 -89.552734375 25.431640625 -12.5501374977 25.431640625 88.6923828125 c 3
  25.431640625 173.659179687 95.4330920091 264.321289062 187.815429688 264.321289062 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.denomalt
 EndChar
@@ -20765,7 +20765,7 @@ SplineSet
  86.3548126059 198.17021387 85.1148597117 199.754652987 40.7900390625 201.348632812 c 9
  41.74609375 257.68359375 l 1xd0
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
 
@@ -20795,7 +20795,7 @@ SplineSet
  106.211720693 191.336914062 82.7780841531 173.000518662 66.44921875 150.674804688 c 1
  20.3740234375 185.348632812 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
 
@@ -20825,7 +20825,7 @@ SplineSet
  253.948242188 -52.6747341121 98.4997124199 -96.8333907648 42.7998046875 -102.219726562 c 1
  27.9326171875 -49.1259765625 l 1xe8
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
 
@@ -20859,7 +20859,7 @@ SplineSet
  10.334669535 27.8603498108 180.849912503 245.547467068 192.825195312 279.203125 c 1
  263.021484375 267.435546875 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
 
@@ -20887,7 +20887,7 @@ SplineSet
  149.794921875 52.0880966665 123.671204484 81.9049539624 37.4033203125 76.0595703125 c 1
  44.8288630691 117.264484504 53.85424329 187.936471271 56.4697265625 252.076171875 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
 
@@ -20915,7 +20915,7 @@ SplineSet
  66.9213978556 -90.4111328125 24.939453125 -8.30317456485 24.939453125 50.6494140625 c 3
  24.939453125 163.503498641 99.1193944801 257.024142323 218.817382812 297.298828125 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
 
@@ -20943,7 +20943,7 @@ SplineSet
  22.0859375 161.029296875 58.0982661677 252.023503639 63.138671875 277.756835938 c 1
  119.216796875 268.422851562 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
 
@@ -21489,7 +21489,7 @@ SplineSet
  179.269773438 -60.775390625 198.592773438 -20.4524872329 198.592773438 17.224609375 c 3
  198.592773438 101.438559248 75.59375 155.133627286 75.59375 353.224609375 c 3
 EndSplineSet
-Validated: 524321
+Validated: 33
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=60 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -22189,7 +22189,7 @@ SplineSet
  612.5 470.5 l 1xec
 EndSplineSet
 Refer: 990 927 N 1 0 0 1 0 0 2
-Validated: 524325
+Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" theta.pcap
 Substitution2: "c2sc-1" theta.smcp
@@ -24067,7 +24067,7 @@ SplineSet
  22.6669921875 -248.967773438 47.861328125 -92.125 76 105 c 0
 EndSplineSet
 Refer: 49 775 N 1 0 0 1 383 121 2
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uni03F4
@@ -26811,7 +26811,7 @@ SplineSet
  168.000758742 307.315429688 126.634765625 266.3473881 126.634765625 215.212890625 c 4
  126.634765625 140.27552737 179.829606722 79.4267578125 242.623046875 79.4267578125 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=125 dh=0 dv=0
 EndChar
 
@@ -26938,7 +26938,7 @@ SplineSet
  229.660015085 745.703125 294.762695312 682.06127958 294.762695312 599.2578125 c 0
  294.762695312 515.4282111 225.625352612 450.9609375 147.376953125 450.9609375 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni00B2
@@ -27013,7 +27013,7 @@ SplineSet
  281 604 221 654 169 654 c 3
 EndSplineSet
 Refer: 1970 58113 N 0.237 0 0 1 60 320 2
-Validated: 524289
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar
 
@@ -28761,7 +28761,7 @@ SplineSet
  61.9638671875 425.303710938 l 1
  9.931640625 442.926757812 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: second
@@ -28796,7 +28796,7 @@ SplineSet
  67.3078234181 99.6831527218 66.6150706036 203.14672064 48 239 c 1
  48 259 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar
@@ -29077,7 +29077,7 @@ SplineSet
  324 610 328 612 283 589 c 1
 EndSplineSet
 Refer: 911 8260 N 1 0 0 1 160 81 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: afii61289
@@ -29149,7 +29149,7 @@ SplineSet
  22.4365234375 692 l 1xe930
 EndSplineSet
 Refer: 1217 186 N 1 0 0 1 743.437 0 2
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: trademark
@@ -29214,7 +29214,7 @@ SplineSet
  27.4944204462 645.298877096 40.3194654847 679.702298568 46.3857421875 694.134765625 c 1
  52.6764494199 689.543049967 59.970216273 684.439326874 83.7841796875 683.15625 c 0xdc
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: arrowleft
@@ -29539,7 +29539,7 @@ SplineSet
  428.5 213.685546875 l 1
 EndSplineSet
 Refer: 330 8722 N 1 0 0 1 0 -124 2
-Validated: 524289
+Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar
 
@@ -29562,7 +29562,7 @@ SplineSet
  35 360.314453125 l 1
 EndSplineSet
 Refer: 330 8722 N 1 0 0 1 0 -124 2
-Validated: 524289
+Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar
 
@@ -30534,7 +30534,7 @@ AnchorPoint: "Top" -198.5 393 mark 0
 LayerCount: 2
 Fore
 Refer: 1376 58087 N 0.918919 0 0 1 -344.946 -310 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni04DC
@@ -30802,7 +30802,7 @@ SplineSet
  246 373 168 396 51 389 c 1xd8
 EndSplineSet
 Refer: 48 46 N 0.929057 0 0 0.987278 39 -2 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: NameMe.exclam
@@ -30824,7 +30824,7 @@ SplineSet
  82 162 l 5x90
 EndSplineSet
 Refer: 48 46 N 0.929057 0 0 0.987278 8.12874 -1.7082 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: NameMe.ampersand
@@ -30893,7 +30893,7 @@ SplineSet
  91.974609375 -80.1904296875 26.5400390625 -23.8271484375 26.5400390625 55.115234375 c 3
  26.5400390625 136.9609375 101.23828125 195.151367188 176.01953125 195.151367188 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "'zero' Slashed Zero lookup 22-1" uni2080.alt
 EndChar
 
@@ -30921,7 +30921,7 @@ SplineSet
  122 24.0696956795 95.9700352202 39.6817641767 33.875 34.525390625 c 1
  41.396484375 66.628041594 52.197265625 128.979938012 56.412109375 186.584960938 c 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uni2081
@@ -30950,7 +30950,7 @@ SplineSet
  87.065588439 135.091119904 88.9809404769 136.028814455 50.814453125 136.525390625 c 9
  51.5517578125 192.82421875 l 1xd0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uni2082
@@ -30979,7 +30979,7 @@ SplineSet
  90.4667571233 130 76.0975442467 116.762659123 66 100 c 1
  18.1416015625 132.2265625 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uni2083
@@ -31008,7 +31008,7 @@ SplineSet
  239 -62 95.6572265625 -95 50 -95 c 1
  38 -42 l 1xe8
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2084
@@ -31041,7 +31041,7 @@ SplineSet
  16.9361702128 14.3901345291 163.462765957 187.134529148 173 213 c 1
  241 203 l 1x90
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uni2086
@@ -31068,7 +31068,7 @@ SplineSet
  81.3638258714 -82 41 -20 41 30 c 3
  41 125.135232676 110.999678308 206.216457201 209 230 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2087
@@ -31095,7 +31095,7 @@ SplineSet
  25 102 56 185 60 206 c 1
  116 202 l 1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: uni2088
@@ -31465,7 +31465,7 @@ SplineSet
 EndSplineSet
 Refer: 1970 58113 N 0.394 0 0 0.875 34 342 2
 Refer: 1399 8321 N 1 0 0 1 107 496 2
-Validated: 524321
+Validated: 33
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2152
 Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction one.denom zero.denom
 Substitution2: "'zero' Slashed Zero lookup 22-1" onetenth.afrcalt
@@ -31533,7 +31533,7 @@ SplineSet
  304 656 l 1
  286.941894707 620.721457163 283.85342525 590.406123969 280.806640625 545.62890625 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: one.proportionalliningalt
@@ -31564,7 +31564,7 @@ SplineSet
  260 656 l 1
  242.941894707 620.721457163 239.85342525 590.406123969 236.806640625 545.62890625 c 0
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: NameMe.questiondown
@@ -33488,7 +33488,7 @@ SplineSet
  64.4671532846 559.151750973 91.6642335763 642.361867704 138 721 c 1
  191 721 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2304
@@ -37128,7 +37128,7 @@ SplineSet
  108 144 l 1xa0
 EndSplineSet
 Refer: 48 46 N 0.836878 0 0 0.88855 42.8914 -4 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: question.pcap
@@ -37155,7 +37155,7 @@ SplineSet
  249 317 171 331 54 327 c 1xd8
 EndSplineSet
 Refer: 48 46 N 0.836151 0 0 0.88855 51 -5 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: exclamdown.pcap
@@ -38746,7 +38746,7 @@ SplineSet
  387.25 280.5 l 5
 EndSplineSet
 Refer: 657 57361 N 1 0 0 1 0 0 3
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: lambda.pcap
@@ -38974,7 +38974,7 @@ SplineSet
  39 336.398197 142.97473535 414 264.123046875 414 c 3
 EndSplineSet
 Refer: 651 57355 N 0.909091 0 0 1 83.455 0 2
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: psi.pcap
@@ -42133,7 +42133,7 @@ SplineSet
  -225 457 l 1
  -219 457 l 1
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni0316
@@ -42149,7 +42149,7 @@ AnchorPoint: "BottomMark" -194.152 -231.134 basemark 0
 LayerCount: 2
 Fore
 Refer: 94 768 N -1 0 0 -1 -389.152 369.866 2
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni1FE5
@@ -44915,7 +44915,7 @@ SplineSet
  108.3 163.5 l 1xa0
 EndSplineSet
 Refer: 48 46 N 0.885815 0 0 0.921985 36.924 -2.8 2
-Validated: 524321
+Validated: 33
 EndChar
 
 StartChar: question.smcp
@@ -44942,7 +44942,7 @@ SplineSet
  256.5 379.151 173.7246 403.1398 49.2 395.94 c 1xd8
 EndSplineSet
 Refer: 48 46 N 0.885306 0 0 0.921985 41.1 -3.5 2
-Validated: 524325
+Validated: 37
 EndChar
 
 StartChar: exclamdown.smcp
@@ -48388,7 +48388,7 @@ SplineSet
  61 -33.580078125 33.708984375 -61 0 -61 c 3
  -33.708984375 -61 -61 -33.580078125 -61 0.0673828125 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uniE002
@@ -48407,7 +48407,7 @@ SplineSet
  81 -44.58984375 44.76171875 -81 0.001953125 -81 c 3
  -44.76171875 -81 -81 -44.58984375 -81 0.0908203125 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: ckreska.pcap
@@ -48674,7 +48674,7 @@ VWidth: 1159
 Flags: W
 LayerCount: 2
 Fore
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: uni1E5C
@@ -48706,7 +48706,7 @@ SplineSet
  84.375 721.795898438 l 1
  97.4278056782 628.8394604 109.150595151 535.883104385 138.67578125 442.926757812 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2036
