@@ -2,9 +2,11 @@ StartChar: quoteleft
 Encoding: 8216 8216 80
 Width: 200
 VWidth: 1159
-Flags: HW
+Flags: W
 HStem: 474 252
 VStem: 29 144
 LayerCount: 2
+Fore
+Refer: 2567 44 N -1 0 0 -1 200 593 2
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar
