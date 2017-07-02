@@ -6,5 +6,7 @@ Flags: HW
 HStem: 451 252
 VStem: 27 144
 LayerCount: 2
+Fore
+Refer: 2459 44 S 1 0 0 1 0 560 2
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar
