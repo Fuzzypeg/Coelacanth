@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1498119140
+ModificationTime: 1498919246
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -118,7 +118,7 @@ KernClass2: 29 22 "kern-2 latin class kerning"
  17 X uni1E8A uni1E8C
  90 quotedbl quotesingle quoteleft quoteright quotereversed quotedblleft quotedblright uni201F
  79 comma period quotesinglbase quotedblbase onedotenleader twodotenleader ellipsis
- 5 space
+ 5 comma
  5 slash
  21 hyphen periodcentered
  9 backslash
@@ -170,7 +170,7 @@ NameList: Adobe Glyph List
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 58350 10 4
+WinInfo: 10 10 4
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
