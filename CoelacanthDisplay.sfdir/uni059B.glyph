@@ -3,10 +3,10 @@ Encoding: 1435 1435 2468
 Width: 0
 VWidth: 0
 Flags: HW
-HStem: -132 70<232.752 297.248>
-VStem: 230 70<-129.248 -64.7518>
+HStem: -144 93.0225
+VStem: 221.018 90.875
 LayerCount: 2
 Fore
-Refer: 2493 1460 N 1 0 0 1 -20 12 2
-Refer: 2463 1430 N 0 1 -1 0 156.076 110.837 2
+Refer: 2478 1445 S 1 0 0 1 42 -18 2
+Refer: 2493 1460 S 1 0 0 1 -73 12 2
 EndChar

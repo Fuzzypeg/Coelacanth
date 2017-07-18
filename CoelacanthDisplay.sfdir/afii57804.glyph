@@ -3,10 +3,9 @@ Encoding: 1473 1473 2506
 Width: 0
 VWidth: 0
 Flags: W
-HStem: 628 70<432.752 497.248>
-VStem: 430 70<630.752 695.248>
-AnchorPoint: "Top" 194.572 628 mark 0
+HStem: 670 93.0225
+VStem: 549.018 90.875
 LayerCount: 2
 Fore
-Refer: 2493 1460 N 1 0 0 1 180 772 2
+Refer: 2493 1460 S 1 0 0 1 308 826 2
 EndChar
