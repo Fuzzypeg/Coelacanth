@@ -5,3 +5,7 @@
 *.aux
 *.log
 *.synctex.gz
+
+# Interpolated font directories
+interpolations/*.sfdir
+interpolations/log.txt
