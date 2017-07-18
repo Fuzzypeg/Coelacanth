@@ -22,5 +22,5 @@ SplineSet
  168.4 43.5 154.9 -53.9502 42.7998 -115.7 c 1
 EndSplineSet
 Validated: 33
-Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar
