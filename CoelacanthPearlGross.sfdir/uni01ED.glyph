@@ -1,0 +1,14 @@
+StartChar: uni01ED
+Encoding: 493 493 704
+Width: 550
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -326 60.1279<272.366 350.024> -11 92<261.824 358.744> 422 98<185.532 283.601> 648.369 102.261<148.5 407.5>
+VStem: 20 144<205.971 346.529> 187.912 69.209<-252.6 -139.048> 381 149<152.322 307.098>
+LayerCount: 2
+Fore
+Refer: 101 772 N 1 0 0 1 449.5 72 2
+Refer: 309 491 N 1 0 0 1 0 0 3
+Substitution2: "case-1" uni01EC
+EndChar

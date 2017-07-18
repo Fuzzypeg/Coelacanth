@@ -1,0 +1,16 @@
+StartChar: ycircumflex
+Encoding: 375 375 242
+Width: 529
+VWidth: 0
+Flags: W
+HStem: 576 155.801
+VStem: 117.3 288.5
+LayerCount: 2
+Fore
+Refer: 93 770 N 1 0 0 1 436 0 2
+Refer: 24 121 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "smcp-1" ycircumflex.smcp
+Substitution2: "case-1" Ycircumflex
+Substitution2: "pcap-1" ycircumflex.pcap
+EndChar

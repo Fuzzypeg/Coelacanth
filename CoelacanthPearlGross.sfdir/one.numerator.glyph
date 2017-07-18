@@ -1,0 +1,15 @@
+StartChar: one.numerator
+Encoding: 58409 58409 923
+Width: 256
+VWidth: 1159
+Flags: W
+HStem: 259.869 55.8945<35.0605 85.1751 171.863 222.776> 547.349 56.335<41.7461 89.7413> 554.497 57.8887<170.909 220.24>
+VStem: 95.7441 69.0205<327.282 535.958>
+LayerCount: 2
+Fore
+Refer: 913 58399 N 1 0 0 1 0 346 2
+Validated: 1
+Kerns2: 911 -192 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "dnom-1" one.denom
+EndChar

@@ -1,0 +1,18 @@
+StartChar: Ebreve
+Encoding: 276 276 202
+Width: 683
+VWidth: 0
+Flags: W
+HStem: -14 55<95.7273 142.082> 1 53<201.292 550.927> 311 55<199 482.271> 623 56<85 143.092 198.915 530.427> 667 20G<558 581> 733.447 55.834<272.355 421.742>
+VStem: 144 55<54.0551 311 366 622.835> 188.765 317.471 493 50<261.16 311.781 367.967 419.612> 524 54<547 625.272>
+AnchorPoint: "Ogonek" 566 15 basechar 0
+AnchorPoint: "Bottom" 327 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 162 58023 N 1 0 0 1 187 -20 2
+Refer: 30 69 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" ebreve.pcap
+Substitution2: "c2sc-1" ebreve.smcp
+EndChar

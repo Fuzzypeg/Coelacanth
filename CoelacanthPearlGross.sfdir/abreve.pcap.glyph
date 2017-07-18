@@ -1,0 +1,13 @@
+StartChar: abreve.pcap
+Encoding: 57405 57405 1660
+Width: 549
+VWidth: 1159
+Flags: W
+HStem: -5.05566 64.1494<482.002 521> 124 66<203 336> 489.31 20G<250.267 325.404> 576 76.7188<211.397 358.886>
+VStem: 132.848 305.357
+LayerCount: 2
+Fore
+Refer: 105 774 N 1 0 0 1 460 0 2
+Refer: 643 57347 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

@@ -1,0 +1,34 @@
+StartChar: Q
+Encoding: 81 81 42
+Width: 801
+VWidth: 1361
+Flags: W
+HStem: -171 74<683.094 828.457> -12 82<334.469 436.601> 619 73<276.077 461.215>
+VStem: 42 107<247.224 459.392> 642 103<228.036 436.809>
+AnchorPoint: "Bottom" 321 -15 basechar 0
+AnchorPoint: "Top" 394 679 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+354 619 m 3
+ 255 619 149 517 149 356 c 3
+ 149 185 294 70 429 70 c 3
+ 540 70 642 175 642 321 c 3
+ 642 507 503 619 354 619 c 3
+545 27 m 1
+ 617 -56 712 -97 779 -97 c 3
+ 799 -97 816 -96 825 -96 c 1
+ 843 -150 l 1
+ 823 -159 785 -171 738 -171 c 3
+ 619 -171 512 -109 419 -12 c 1
+ 181 -12 42 150 42 332 c 3
+ 42 541 194 692 389 692 c 3
+ 585 692 745 548 745 357 c 3
+ 745 208 663 74 545 27 c 1
+EndSplineSet
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "salt-1" Q.alt
+Substitution2: "c2pc-1" q.pcap
+Substitution2: "c2sc-1" q.smcp
+EndChar

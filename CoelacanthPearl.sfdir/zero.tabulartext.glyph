@@ -1,0 +1,17 @@
+StartChar: zero.tabulartext
+Encoding: 58368 58368 672
+Width: 463
+VWidth: 1159
+Flags: W
+HStem: -12 82<200.302 347.309> 431 77<189.556 332.22>
+VStem: 31 85<162.78 347.8> 420 82<155.702 338.788>
+LayerCount: 2
+Fore
+Refer: 63 48 N 1 0 0 1 -20 0 2
+Validated: 1
+Substitution2: "pnum-1" zero
+Substitution2: "lnum-1" zero.tabularlining
+Substitution2: "numr-1" zero.numerator
+Substitution2: "dnom-1" zero.denom
+Substitution2: "'zero' Slashed Zero lookup 22-1" zero.tabulartextalt
+EndChar

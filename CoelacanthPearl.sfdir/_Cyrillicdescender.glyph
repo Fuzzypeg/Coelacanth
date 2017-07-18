@@ -1,0 +1,19 @@
+StartChar: Cyrillicdescender
+Encoding: 58088 58088 1324
+Width: 209
+VWidth: 0
+Flags: W
+HStem: 0 56<19 86.8366>
+VStem: 153 56<-240 -107.204>
+LayerCount: 2
+Fore
+SplineSet
+19 56 m 1
+ 209 56 l 1
+ 209 -240 l 1
+ 153 -240 l 1
+ 130.666666667 -54 106.472222222 0 19 0 c 1
+ 19 56 l 1
+EndSplineSet
+Validated: 1
+EndChar

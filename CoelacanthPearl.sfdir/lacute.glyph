@@ -1,0 +1,14 @@
+StartChar: lacute
+Encoding: 314 314 250
+Width: 245
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 470 58080 N 0.970143 -0.242536 0.242536 0.970143 128.605 183.553 2
+Refer: 11 108 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "smcp-1" lacute.smcp
+Substitution2: "case-1" Lacute
+Substitution2: "pcap-1" lacute.pcap
+EndChar

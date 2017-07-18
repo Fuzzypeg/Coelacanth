@@ -1,0 +1,14 @@
+StartChar: uni1E61.pcap
+Encoding: 57589 57589 1955
+Width: 436
+VWidth: 0
+Flags: W
+HStem: -10 74<164.262 302.147> -3 21G<59 132> 439 72<172.328 293.759> 484 20G<316.5 382> 582.7 132.6<182.865 293.135>
+VStem: 69 87<352.853 420.849> 170.4 135.2<594.969 703.079> 316 86<77.8862 167.982>
+AnchorPoint: "Bottom" 207 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 49 775 N 1 0 0 1 414 0 2
+Refer: 661 57365 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

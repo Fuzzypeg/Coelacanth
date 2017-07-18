@@ -1,0 +1,14 @@
+StartChar: quotedbl
+Encoding: 34 34 332
+Width: 362
+VWidth: 1159
+Flags: W
+HStem: 445.7 254<72.6024 126.312 233.602 287.312>
+VStem: 49.1721 100.57<480.008 699.7> 72.6024 53.7092<445.7 665.664> 210.172 100.57<480.008 699.7> 233.602 53.7092<445.7 665.664>
+LayerCount: 2
+Fore
+Refer: 79 39 N 1 0 0 1 0 0 2
+Refer: 79 39 N 1 0 0 1 161 0 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

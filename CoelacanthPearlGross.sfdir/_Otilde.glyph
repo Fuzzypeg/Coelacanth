@@ -1,0 +1,16 @@
+StartChar: Otilde
+Encoding: 213 213 185
+Width: 819
+VWidth: 0
+Flags: W
+HStem: -16.2793 88.0098<373.76 519.227> 598.422 90.6641<290.079 442.078> 734.408 86<424.652 500.467> 781.746 85.4463<330.91 411.756>
+VStem: 45.8672 185.133<268.197 450.24> 251.468 324.946 595 172.917<213.637 413.835>
+LayerCount: 2
+Fore
+Refer: 161 58022 N 1 0 0 1 248 -20 2
+Refer: 40 79 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" otilde.pcap
+Substitution2: "c2sc-1" otilde.smcp
+EndChar

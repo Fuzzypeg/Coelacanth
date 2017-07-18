@@ -1,0 +1,29 @@
+StartChar: greater
+Encoding: 62 62 333
+Width: 463
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+52.83965 387.29356 m 5
+ 118 477.115789062 l 5
+ 412 276.116 l 5
+ 73 60.1157890625 l 5
+ 29.9583 131.8643 l 5
+ 233.44465 258.78636 l 5
+ 52.83965 387.29356 l 5
+EndSplineSet
+Fore
+SplineSet
+40.83984375 395.293945312 m 1
+ 106 485.116210938 l 1
+ 412 276.116 l 1
+ 79 64.1162109375 l 1
+ 35.9580078125 135.864257812 l 1
+ 233.44465 258.78636 l 1
+ 40.83984375 395.293945312 l 1
+EndSplineSet
+Validated: 1
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

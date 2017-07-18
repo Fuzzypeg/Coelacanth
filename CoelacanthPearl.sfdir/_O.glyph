@@ -1,0 +1,28 @@
+StartChar: O
+Encoding: 79 79 40
+Width: 819
+VWidth: 1159
+Flags: W
+HStem: -16 72<346.672 526.99> 616 73<284.654 475.048>
+VStem: 46 119<261.919 449.449> 653 115<214.618 413.376>
+AnchorPoint: "Bottom" 418 -15 basechar 0
+AnchorPoint: "Top" 413 679 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+381 616 m 3
+ 255 616 165 528 165 381 c 3
+ 165 208 293 56 434 56 c 3
+ 568 56 653 163 653 297 c 3
+ 653 453 533 616 381 616 c 3
+405 689 m 3
+ 594 689 768 540 768 329 c 3
+ 768 131 601 -16 414 -16 c 7
+ 242 -16 46 100 46 331 c 3
+ 46 533 215 689 405 689 c 3
+EndSplineSet
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" o.pcap
+Substitution2: "c2sc-1" o.smcp
+EndChar

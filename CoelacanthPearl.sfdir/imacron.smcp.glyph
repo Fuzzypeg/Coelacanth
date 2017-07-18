@@ -1,0 +1,13 @@
+StartChar: imacron.smcp
+Encoding: 57748 57748 2110
+Width: 404
+VWidth: 1159
+Flags: W
+HStem: -8 21G<66.0556 90 318 341.471> 501 72<71.5139 148.506> 649.022 80.9567<82 341>
+VStem: 154 105<64.8722 492.53>
+LayerCount: 2
+Fore
+Refer: 101 772 N 1 0 0 1 383 62 2
+Refer: 2040 57679 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

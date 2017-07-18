@@ -1,0 +1,16 @@
+StartChar: dcroat
+Encoding: 273 273 341
+Width: 525
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 592.625 80.75<140 499>
+AnchorPoint: "Bottom" 224 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 441 821 N 1.2047 0 0 1 532.732 106 2
+Refer: 3 100 N 1 0 0 1 0 0 2
+Substitution2: "smcp-1" eth.smcp
+Substitution2: "case-1" Dcroat
+Substitution2: "pcap-1" eth.pcap
+EndChar

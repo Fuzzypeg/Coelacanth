@@ -1,0 +1,16 @@
+StartChar: Itilde
+Encoding: 296 296 209
+Width: 453
+VWidth: 0
+Flags: W
+HStem: -13 55<70.2364 197.041> 634 55<75.6538 206.152 263.766 390.218> 747.408 61<249.079 321.212> 794.746 60.4463<147.798 223.249>
+VStem: 71.4678 324.946 202 57<56.248 620.751>
+LayerCount: 2
+Fore
+Refer: 161 58022 N 1 0 0 1 68 -20 2
+Refer: 34 73 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" itilde.pcap
+Substitution2: "c2sc-1" itilde.smcp
+EndChar

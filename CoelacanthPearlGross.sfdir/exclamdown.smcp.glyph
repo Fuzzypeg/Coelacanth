@@ -1,0 +1,12 @@
+StartChar: exclamdown.smcp
+Encoding: 57799 57799 2160
+Width: 260
+VWidth: 1159
+Flags: W
+HStem: 314.588 216.037<104.369 150.211>
+VStem: 23.6829 206.961<400.64 446.195> 111.798 40.1<153.002 311.258>
+LayerCount: 2
+Fore
+Refer: 2158 57797 N -1 0 0 -1 260.198 474.758 2
+Validated: 1
+EndChar

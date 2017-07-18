@@ -1,0 +1,15 @@
+StartChar: uni01E1
+Encoding: 481 481 785
+Width: 442
+VWidth: 0
+Flags: W
+HStem: 638.175 109.65<175.002 271.998> 775.404 59.6523<99.5 358.5>
+VStem: 167.6 111.8<645.462 740.568>
+LayerCount: 2
+Fore
+Refer: 0 97 N 1 0 0 1 0 0 3
+Refer: 49 775 N 1 0 0 1 399.5 44 2
+Refer: 101 772 N 1 0 0 1 400.5 177.73 2
+Validated: 1
+Substitution2: "case-1" uni01E0
+EndChar

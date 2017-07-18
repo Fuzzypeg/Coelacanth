@@ -1,0 +1,16 @@
+StartChar: uni019F
+Encoding: 415 415 879
+Width: 819
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -16.2793 88.0098<373.76 519.227> 311.75 76.5<55.0407 754> 598.422 90.6641<290.079 442.078>
+VStem: 45.8672 185.133<268.197 450.24> 595 172.917<213.637 413.835>
+LayerCount: 2
+Fore
+Refer: 455 58036 N 0.888131 0 0 1 782.42 -177 2
+Refer: 40 79 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" obar.pcap
+Substitution2: "c2sc-1" obar.smcp
+EndChar

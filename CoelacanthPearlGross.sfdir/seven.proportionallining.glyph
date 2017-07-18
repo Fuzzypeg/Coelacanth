@@ -1,0 +1,16 @@
+StartChar: seven.proportionallining
+Encoding: 58395 58395 908
+Width: 444
+VWidth: 1159
+Flags: W
+HStem: -7.33789 21G<162.734 167.146> 556.44 80.5371<105.503 354.067> 654.783 20G<71.0912 112.47>
+VStem: 59.3057 103.429<-7.18066 33.5364>
+LayerCount: 2
+Fore
+Refer: 689 58385 N 1 0 0 1 -2 0 2
+Validated: 1
+Substitution2: "tnum-1" seven.tabularlining
+Substitution2: "onum-1" seven
+Substitution2: "numr-1" seven.numerator
+Substitution2: "dnom-1" seven.denom
+EndChar

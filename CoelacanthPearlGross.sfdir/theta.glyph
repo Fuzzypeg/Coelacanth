@@ -1,0 +1,28 @@
+StartChar: theta
+Encoding: 952 952 1010
+Width: 488
+VWidth: 1039
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -11 44<184.489 283.36> 657 40<226.149 324.426>
+VStem: 52 79<134.659 458.11> 376 78<221.369 559.965>
+AnchorPoint: "Bottom" 232 -15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+235 33 m 3
+ 346 33 376 300.327148438 376 433 c 3
+ 376 549 355 657 275 657 c 3
+ 175 657 131 464 131 258 c 3
+ 131 117.498046875 168 33 235 33 c 3
+272 697 m 3
+ 393 697 454 577 454 403 c 3
+ 454 143.506835938 340 -11 230 -11 c 3
+ 118 -11 52 115.298828125 52 286 c 3
+ 52 478 130 697 272 697 c 3
+EndSplineSet
+Refer: 1970 58113 S 0.297955 0.00520082 -0.0185432 1.06234 106.023 350.4 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=102
+Substitution2: "pcap-1" theta.pcap
+Substitution2: "smcp-1" theta.smcp
+EndChar

@@ -1,0 +1,18 @@
+StartChar: atilde
+Encoding: 227 227 117
+Width: 452
+VWidth: 1159
+Flags: W
+HStem: 582.408 86<233.331 301.951> 629.746 85.4463<148.486 221.66>
+VStem: 76.584 294.106
+AnchorPoint: "Bottom" 203 -15 basechar 0
+AnchorPoint: "Ogonek" 386 22 basechar 0
+LayerCount: 2
+Fore
+Refer: 100 771 N 1 0 0 1 394 0 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "pcap-1" atilde.pcap
+Substitution2: "case-1" Atilde
+Substitution2: "smcp-1" atilde.smcp
+EndChar

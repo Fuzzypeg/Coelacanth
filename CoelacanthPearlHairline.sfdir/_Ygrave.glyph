@@ -1,0 +1,14 @@
+StartChar: Ygrave
+Encoding: 7922 7922 727
+Width: 736
+VWidth: 1159
+Flags: W
+HStem: -15 54<271.056 360.469 417.703 508.05> 628 54<49.5556 124.998 194.747 235.491 515.709 551.343 622.354 688.769>
+VStem: 361 55<54.3129 286.214>
+LayerCount: 2
+Fore
+Refer: 96 58019 N 1 0 0 1 322 -20 2
+Refer: 57 89 N 1 0 0 1 0 0 3
+Validated: 9
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

@@ -1,0 +1,17 @@
+StartChar: Nacute
+Encoding: 323 323 215
+Width: 874
+VWidth: 0
+Flags: W
+HStem: -10 55<78.125 138.573 197.563 275.4> 625 53<71 140.683 764.722 827.075> 637 54<631.833 707.092> 720.552 134.448
+VStem: 141 57<55.8633 573> 410.163 197.837 701 56<129 316.233> 708 57<393.69 623.074>
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 386 -20 2
+Refer: 39 78 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "'locl' Localized Forms Polish-1" Nkreska
+Substitution2: "c2sc-1" nacute.smcp
+Substitution2: "c2pc-1" nacute.pcap
+EndChar

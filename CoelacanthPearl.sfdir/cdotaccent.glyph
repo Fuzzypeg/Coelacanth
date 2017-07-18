@@ -1,0 +1,16 @@
+StartChar: cdotaccent
+Encoding: 267 267 263
+Width: 444
+VWidth: 0
+Flags: W
+HStem: 582.7 132.6<194.865 305.135>
+VStem: 182.4 135.2<594.969 703.079>
+LayerCount: 2
+Fore
+Refer: 49 775 N 1 0 0 1 426 0 2
+Refer: 2 99 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "smcp-1" cdotaccent.smcp
+Substitution2: "case-1" Cdotaccent
+Substitution2: "pcap-1" cdotaccent.pcap
+EndChar

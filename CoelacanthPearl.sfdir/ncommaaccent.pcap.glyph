@@ -1,0 +1,13 @@
+StartChar: ncommaaccent.pcap
+Encoding: 57437 57437 1692
+Width: 657
+VWidth: 0
+Flags: W
+HStem: -177.1 149 -9 85<72.1765 112.48> 433 76<430.263 490.409 575.06 613.718>
+VStem: 116 78<78.6504 330> 298 102<-122.261 -42.3> 496 73<186 421.204> 500 80<1.5125 28.6626>
+LayerCount: 2
+Fore
+Refer: 275 806 N 1 0 0 1 534 0 2
+Refer: 656 57360 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

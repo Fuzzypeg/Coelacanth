@@ -1,0 +1,13 @@
+StartChar: icircumflex.smcp
+Encoding: 57711 57711 2074
+Width: 404
+VWidth: 1159
+Flags: W
+HStem: -8 21G<66.0556 90 318 341.471> 501 72<71.5139 148.506> 638 155.801
+VStem: 64.2998 288.5 154 105<64.8722 492.53>
+LayerCount: 2
+Fore
+Refer: 93 770 N 1 0 0 1 383 62 2
+Refer: 2040 57679 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

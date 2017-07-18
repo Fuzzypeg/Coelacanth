@@ -1,0 +1,31 @@
+StartChar: upsilon
+Encoding: 965 965 1023
+Width: 506
+VWidth: 1043
+Flags: HMW
+AnchorPoint: "Top" 259 465 basechar 0
+AnchorPoint: "Bottom" 241 -15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+187 333 m 3
+ 187 282 162 212 162 147 c 3
+ 162 66 220 47 259 47 c 3
+ 366 47 420 139 420 224 c 3
+ 420 337 337 347 286 347 c 1
+ 284 350 282 353 282 361 c 3
+ 282 383 312 422 319 430 c 1
+ 400 430 454 314 454 220 c 3
+ 454 109 377 -9 243 -9 c 3
+ 160 -9 88 44 88 148 c 3
+ 88 205 111 298 111 324 c 3
+ 111 345 101 359 86 359 c 3
+ 60 359 48 319 42 312 c 1
+ 20 324 l 1
+ 23 332 46 418 116 418 c 3
+ 138 418 187 407 187 333 c 3
+EndSplineSet
+Validated: 1
+Substitution2: "pcap-1" upsilon.pcap
+Substitution2: "smcp-1" upsilon.smcp
+EndChar

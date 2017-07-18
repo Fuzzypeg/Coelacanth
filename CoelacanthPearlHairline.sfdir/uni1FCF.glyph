@@ -1,0 +1,14 @@
+StartChar: uni1FCF
+Encoding: 8143 8143 1604
+Width: 278
+VWidth: 1043
+Flags: W
+HStem: 469 22<107.837 151.03> 593.8 74<131.838 173.461> 820 63.4082<219.925 284.838> 870.746 63.2539<127.642 195.767>
+VStem: 58.546 294.106 180.837 45<506.916 580.114>
+AnchorPoint: "Top" 142.501 464 mark 0
+LayerCount: 2
+Fore
+Refer: 1606 8127 N 1 0 0 1 0 -25 2
+Refer: 100 771 S 1 0 0 1 375.962 239 2
+Validated: 1
+EndChar

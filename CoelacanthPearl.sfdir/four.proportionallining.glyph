@@ -1,0 +1,16 @@
+StartChar: four.proportionallining
+Encoding: 58392 58392 905
+Width: 511
+VWidth: 1159
+Flags: W
+HStem: 176.045 72.3633<163.346 290.951 373.193 423.01>
+VStem: 290.951 82.2422<28.1841 176.045 252.395 482.587>
+LayerCount: 2
+Fore
+Refer: 686 58382 N 1 0 0 1 20 0 2
+Validated: 1
+Substitution2: "tnum-1" four.tabularlining
+Substitution2: "onum-1" four
+Substitution2: "numr-1" four.numerator
+Substitution2: "dnom-1" four.denom
+EndChar

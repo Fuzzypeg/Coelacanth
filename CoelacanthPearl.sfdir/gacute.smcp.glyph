@@ -1,0 +1,13 @@
+StartChar: gacute.smcp
+Encoding: 57821 57821 2182
+Width: 630
+VWidth: 1159
+Flags: W
+HStem: 229 74<372.622 452.143 565.983 593> 504 70<243.901 435.143> 631.951 193.429
+VStem: 25 115<188.668 382.053> 294.389 230.611 454 108<82.9993 225.607>
+LayerCount: 2
+Fore
+Refer: 92 769 N 1 0 0 1 527 62 2
+Refer: 2038 57677 N 1 0 0 1 0 0 3
+Validated: 5
+EndChar

@@ -1,0 +1,17 @@
+StartChar: ucircumflex
+Encoding: 251 251 133
+Width: 539
+VWidth: 1159
+Flags: W
+HStem: 564 167.801
+VStem: 121.3 312.5
+AnchorPoint: "Bottom" 256 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 93 770 N 1 0 0 1 452 0 2
+Refer: 20 117 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "pcap-1" ucircumflex.pcap
+Substitution2: "case-1" Ucircumflex
+Substitution2: "smcp-1" ucircumflex.smcp
+EndChar

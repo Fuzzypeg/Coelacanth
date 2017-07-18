@@ -1,0 +1,13 @@
+StartChar: ccaron.pcap
+Encoding: 57410 57410 1665
+Width: 533
+VWidth: 0
+Flags: W
+HStem: -14 70<225.77 388.056> 440 70<214.501 370.255> 569.199 155.801
+VStem: 24 107<148.163 345.732> 140.2 288.5 398 90<344.375 413.654> 445 63<115.501 149>
+LayerCount: 2
+Fore
+Refer: 103 780 S 1 0 0 1 461 0 2
+Refer: 645 57349 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

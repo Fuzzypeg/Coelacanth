@@ -1,0 +1,16 @@
+StartChar: Rho
+Encoding: 929 929 992
+Width: 671
+Flags: W
+HStem: -9.62305 86.041<86.5792 131.673> 198.131 78.9785<298.662 378.457> 605.102 81.1562<284.449 374.935>
+VStem: 132.439 167.131<86.8247 198.128 277.109 511.157> 458.721 153.736<357.972 526.167>
+AnchorPoint: "Top" 294 699 basechar 0
+AnchorPoint: "Bottom" 162 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 41 80 N 1 0 0 1 0 0 2
+Validated: 5
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" p.pcap
+Substitution2: "c2sc-1" p.smcp
+EndChar

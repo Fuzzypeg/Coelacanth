@@ -1,0 +1,15 @@
+StartChar: uni1E52
+Encoding: 7762 7762 810
+Width: 819
+VWidth: 0
+Flags: W
+HStem: -16.2793 88.0098<373.76 519.227> 598.422 90.6641<290.079 442.078> 735.525 100.558<270 581>
+VStem: 45.8672 185.133<268.197 450.24> 595 172.917<213.637 413.835>
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 339 68 2
+Refer: 160 58021 N 1 0 0 1 277 -16 2
+Refer: 40 79 N 1 0 0 1 0 0 2
+Validated: 5
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

@@ -1,0 +1,28 @@
+StartChar: zero.tabularlining
+Encoding: 58378 58378 682
+Width: 463
+VWidth: 1159
+Flags: W
+HStem: -10 33<200.172 292.266> 620 36<165.683 267.028>
+VStem: 35 73<175.959 491.558> 348 79<157.951 499.232>
+LayerCount: 2
+Fore
+SplineSet
+227 579 m 3
+ 131.205479452 579 101 418.604651163 101 337 c 3
+ 101 212.682539683 145.082840237 70 250 70 c 3
+ 313.037037037 70 365 189.370786517 365 326 c 3
+ 365 487.754098361 289.012658228 579 227 579 c 3
+230 656 m 3
+ 386.569620253 656 447 472.625 447 330 c 3
+ 447 184.909090909 380.488888889 -12 242 -12 c 3
+ 92.2520325203 -12 16 147.558823529 16 338 c 3
+ 16 435.451612903 67.2136752137 656 230 656 c 3
+EndSplineSet
+Validated: 1
+Substitution2: "pnum-1" zero.proportionallining
+Substitution2: "onum-1" zero.tabulartext
+Substitution2: "numr-1" zero.numerator
+Substitution2: "dnom-1" zero.denom
+Substitution2: "'zero' Slashed Zero lookup 22-1" zero.tabularliningalt
+EndChar

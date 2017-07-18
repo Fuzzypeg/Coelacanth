@@ -1,0 +1,29 @@
+StartChar: lambda
+Encoding: 955 955 1013
+Width: 464
+VWidth: 1038
+UnlinkRmOvrlpSave: 1
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+223 406 m 1
+ 262 310 l 1
+ 80 -16 l 1
+ 60 -18 17 3 7 20 c 1
+ 223 406 l 1
+-12 681 m 1
+ -14.462890625 688.389648438 -16 697 -16 705 c 0
+ -16 737 1.1318359375 772 21 772 c 3
+ 57 772 90 724 113 681 c 0
+ 198 521 277 291 383 106 c 0
+ 399 81 424 66 460 64 c 1
+ 468 29 469 -1 469 -26 c 1
+ 457 -29 452 -34 439 -34 c 3
+ 395 -34 366 24 345 72 c 0
+ 280 218 185 474 99 635 c 0
+ 77 678 42 683 -12 681 c 1
+EndSplineSet
+Substitution2: "pcap-1" lambda.pcap
+Substitution2: "smcp-1" lambda.smcp
+EndChar

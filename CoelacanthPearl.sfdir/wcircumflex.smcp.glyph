@@ -1,0 +1,17 @@
+StartChar: wcircumflex.smcp
+Encoding: 57784 57784 2145
+Width: 905
+VWidth: 1159
+Flags: W
+HStem: -9 21G<281 355.5 573 647> 500 72<199.39 230.972 685 735.754> 510 62<835.828 868.242> 638 155.801
+VStem: 313.3 288.5
+LayerCount: 2
+Back
+Refer: 93 770 N 1 0 0 1 614.5 138 2
+Refer: 2054 57693 N 1 0 0 1 0 0 3
+Validated: 1
+Fore
+Refer: 93 770 N 1 0 0 1 632 62 2
+Refer: 2054 57693 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

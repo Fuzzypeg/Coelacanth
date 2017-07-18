@@ -1,0 +1,15 @@
+StartChar: uni1EB1.pcap
+Encoding: 57629 57629 1912
+Width: 549
+VWidth: 1159
+Flags: W
+HStem: -5.05566 64.1494<482.002 521> 124 66<203 336> 489.31 20G<250.267 325.404> 620 76.7188<213.543 361.032>
+VStem: 134.994 305.357
+AnchorPoint: "Bottom" 234 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 94 768 S 0.782905 0.269867 0.00769009 0.706185 414.48 326.569 2
+Refer: 643 57347 N 1 0 0 1 0 0 3
+Refer: 105 774 S 1 0 0 1 462.146 44 2
+Validated: 5
+EndChar

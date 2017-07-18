@@ -1,0 +1,14 @@
+StartChar: uni01E8
+Encoding: 488 488 306
+Width: 754
+VWidth: 0
+Flags: W
+HStem: -9 54<67.3571 132.893 189.997 252.75 505.222 542.044 635.354 699> 632 53<70.4151 131.214 190.12 251 457.517 485.916> 638 54<574.067 628.944>
+VStem: 133 56<54.9606 301 377 621.02>
+LayerCount: 2
+Fore
+Refer: 167 58028 N 1 0 0 1 229 -20 2
+Refer: 36 75 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

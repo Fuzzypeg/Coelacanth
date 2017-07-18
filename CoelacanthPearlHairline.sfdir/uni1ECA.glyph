@@ -1,0 +1,14 @@
+StartChar: uni1ECA
+Encoding: 7882 7882 856
+Width: 453
+VWidth: 1159
+Flags: W
+HStem: -171.119 98.2387<189.596 276.404> -13 55<70.2364 197.041> 634 55<75.6538 206.152 263.766 390.218>
+VStem: 182.971 100.058<-164.591 -79.3825> 202 57<56.248 620.751>
+LayerCount: 2
+Fore
+Refer: 283 58031 N 1 0 0 1 427 0 2
+Refer: 34 73 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

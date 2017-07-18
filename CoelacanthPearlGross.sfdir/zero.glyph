@@ -1,0 +1,28 @@
+StartChar: zero
+Encoding: 48 48 63
+Width: 573
+VWidth: 1159
+Flags: W
+HStem: -12 108<239.407 361.775> 410 98<217.332 336.688>
+VStem: 51 114<179.344 351.311> 414 108<156.957 330.444>
+LayerCount: 2
+Fore
+SplineSet
+279 410 m 3
+ 188.800040979 410 165 312.320150317 165 258 c 3
+ 165 209.667653203 201.221083911 96 313 96 c 3
+ 354.372742893 96 414 150.384731629 414 244 c 3
+ 414 382.962777728 291.234560258 410 279 410 c 3
+285 508 m 3
+ 456 508 522 364 522 252 c 3
+ 522 140 449 -12 297 -12 c 3
+ 134 -12 51 112 51 260 c 3
+ 51 336 107 508 285 508 c 3
+EndSplineSet
+Validated: 1
+Substitution2: "'zero' Slashed Zero lookup 22-1" zero.alt
+Substitution2: "dnom-1" zero.denom
+Substitution2: "numr-1" zero.numerator
+Substitution2: "lnum-1" zero.proportionallining
+Substitution2: "tnum-1" zero.tabulartext
+EndChar

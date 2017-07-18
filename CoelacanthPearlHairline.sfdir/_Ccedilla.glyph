@@ -1,0 +1,18 @@
+StartChar: Ccedilla
+Encoding: 199 199 323
+Width: 732
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -16 56<307.203 538.098> 632 56<286.57 553.553>
+VStem: 43 56<215.879 444.931> 607 52<491.378 596.716> 636 53<131.551 187.717> 735 62.4277<-158.073 -87.8566>
+AnchorPoint: "Top" 433 699 basechar 0
+AnchorPoint: "Bottom" 423 -227 basechar 0
+LayerCount: 2
+Fore
+Refer: 281 58030 N 1 0 0 1 607 6.2 2
+Refer: 28 67 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" ccedilla.pcap
+Substitution2: "c2sc-1" ccedilla.smcp
+EndChar

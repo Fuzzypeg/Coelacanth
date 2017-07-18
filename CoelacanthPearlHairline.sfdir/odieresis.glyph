@@ -1,0 +1,18 @@
+StartChar: odieresis
+Encoding: 246 246 130
+Width: 550
+VWidth: 1159
+Flags: W
+HStem: -11 56<187.407 362.078> 461 56<198.623 363.762> 593.08 105.84<138.994 233.006 314.994 409.006>
+VStem: 20 56<152.781 332.952> 131.82 108.36<600.114 691.915> 307.82 108.36<600.114 691.915> 474 56<165.478 347.309>
+AnchorPoint: "Bottom" 249 -15 basechar 0
+AnchorPoint: "Middle" 255 206 basechar 0
+LayerCount: 2
+Fore
+Refer: 97 776 N 1 0 0 1 449 0 2
+Refer: 14 111 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "pcap-1" odieresis.pcap
+Substitution2: "case-1" Odieresis
+Substitution2: "smcp-1" odieresis.smcp
+EndChar

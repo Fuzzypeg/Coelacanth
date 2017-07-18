@@ -1,0 +1,16 @@
+StartChar: four.tabulartext
+Encoding: 58372 58372 676
+Width: 463
+VWidth: 1159
+Flags: W
+HStem: -8.63477 21G<557.871 579.186> 1.04492 56.9551<181.187 401.952 457.193 543.352> 487.018 20G<406.723 453.875>
+VStem: 401.952 55.2412<-118.833 1.04492 58.3945 369.356>
+LayerCount: 2
+Fore
+Refer: 67 52 N 1 0 0 1 15 0 2
+Validated: 1
+Substitution2: "pnum-1" four
+Substitution2: "lnum-1" four.tabularlining
+Substitution2: "numr-1" four.numerator
+Substitution2: "dnom-1" four.denom
+EndChar

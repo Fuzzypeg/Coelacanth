@@ -1,0 +1,13 @@
+StartChar: ograve.smcp
+Encoding: 57715 57715 2078
+Width: 673
+VWidth: 1159
+Flags: W
+HStem: -13 75<274.971 431.469> 497 77<238.2 401.869> 631.951 193.429
+VStem: 34 117<188.562 387.446> 170.389 230.611 525 109<172.815 368.674>
+LayerCount: 2
+Fore
+Refer: 94 768 N 1 0 0 1 517 62 2
+Refer: 2046 57685 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

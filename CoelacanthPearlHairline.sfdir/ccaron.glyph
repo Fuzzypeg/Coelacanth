@@ -1,0 +1,16 @@
+StartChar: ccaron
+Encoding: 269 269 140
+Width: 444
+VWidth: 0
+Flags: W
+HStem: 581.199 155.801
+VStem: 93.2002 312.5
+LayerCount: 2
+Fore
+Refer: 103 780 N 1 0 0 1 426 0 2
+Refer: 2 99 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "smcp-1" ccaron.smcp
+Substitution2: "case-1" Ccaron
+Substitution2: "pcap-1" ccaron.pcap
+EndChar

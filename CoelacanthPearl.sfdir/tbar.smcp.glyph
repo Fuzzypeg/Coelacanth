@@ -1,0 +1,13 @@
+StartChar: tbar.smcp
+Encoding: 57777 57777 2138
+Width: 601
+VWidth: 1159
+Flags: W
+HStem: -14 25G<174.905 194 412.5 430.278> 239.463 72.075<135 466> 494 70<95.8773 249 359 506>
+VStem: 247 110<73.0284 493>
+LayerCount: 2
+Fore
+Refer: 2051 57690 N 1 0 0 1 0 0 3
+Refer: 1970 58113 S 0.331 0 0 1.1625 135 275.5 2
+Validated: 5
+EndChar

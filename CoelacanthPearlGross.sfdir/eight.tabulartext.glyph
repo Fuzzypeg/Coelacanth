@@ -1,0 +1,16 @@
+StartChar: eight.tabulartext
+Encoding: 58376 58376 680
+Width: 463
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -12.5264 80.5264<261.846 352.963> 588.136 72.7168<226.316 307.156>
+VStem: 75.5742 125.426<134.148 239.224> 112.264 111.447<469.027 578.702> 332.527 108.473<445.606 562.278> 365 116.877<83.2988 202.845>
+LayerCount: 2
+Fore
+Refer: 71 56 N 1 0 0 1 -7 0 2
+Substitution2: "dnom-1" eight.denom
+Substitution2: "numr-1" eight.numerator
+Substitution2: "lnum-1" eight.tabularlining
+Substitution2: "pnum-1" eight
+EndChar

@@ -1,0 +1,13 @@
+StartChar: kcaron.pcap
+Encoding: 57491 57491 1801
+Width: 579
+VWidth: 1159
+Flags: W
+HStem: -8 55<492.676 544.018> 446 62<445.004 489.581> 569.199 155.801
+VStem: 101 107<291.342 434.354> 102 94<64.8141 211 289 433.658> 145.2 288.5
+LayerCount: 2
+Fore
+Refer: 103 780 N 1 0 0 1 466 0 2
+Refer: 653 57357 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

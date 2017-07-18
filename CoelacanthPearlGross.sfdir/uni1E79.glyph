@@ -1,0 +1,15 @@
+StartChar: uni1E79
+Encoding: 7801 7801 818
+Width: 539
+VWidth: 0
+Flags: W
+HStem: 627.408 86<313.331 381.951> 674.746 85.4463<228.486 301.66>
+VStem: 156.584 294.106
+AnchorPoint: "Bottom" 256 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 470 58080 N 1 0 0 1 391 117 2
+Refer: 100 771 N 1 0 0 1 474 45 2
+Refer: 20 117 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

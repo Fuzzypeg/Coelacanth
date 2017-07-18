@@ -1,0 +1,32 @@
+StartChar: J
+Encoding: 74 74 35
+Width: 401
+VWidth: 1356
+Flags: HMW
+AnchorPoint: "Top" 211 679 basechar 0
+AnchorPoint: "Bottom" 266 -65 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+153 601 m 0
+ 150 613 101 615 42 616 c 1
+ 49 691 l 1
+ 101 680 145 675 188 675 c 3
+ 243 675 295 682 361 691 c 1
+ 366 613 l 1
+ 333 613 271 611 270 603 c 0
+ 259 491 263 385 263 231 c 0
+ 263 126 269 88 267 51 c 1
+ 267 -35 204 -94 136 -136 c 0
+ 115 -149 95 -163 75 -177 c 1
+ 35 -118 l 1
+ 58 -106 76 -95 95 -82 c 0
+ 102 -77 110 -72 116 -66 c 0
+ 148 -34 161 13 163 105 c 1
+ 163 136 156 589 153 601 c 0
+EndSplineSet
+Validated: 33
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" j.pcap
+Substitution2: "c2sc-1" j.smcp
+EndChar

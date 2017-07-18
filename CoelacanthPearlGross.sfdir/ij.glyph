@@ -1,0 +1,15 @@
+StartChar: ij
+Encoding: 307 307 344
+Width: 521
+VWidth: 0
+HStem: 601.225 155.55<110.029 229.971 374.029 493.971>
+VStem: 90.7 158.6<620.246 737.827> 354.7 158.6<620.246 737.827>
+LayerCount: 2
+Fore
+Refer: 9 106 N 1 0 0 1 279 0 2
+Refer: 8 105 N 1 0 0 1 0 0 2
+Validated: 1
+Substitution2: "smcp-1" ij.smcp
+Substitution2: "case-1" IJ
+Substitution2: "pcap-1" ij.pcap
+EndChar

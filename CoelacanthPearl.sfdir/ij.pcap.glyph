@@ -1,0 +1,16 @@
+StartChar: ij.pcap
+Encoding: 57428 57428 1683
+Width: 639
+VWidth: 0
+Flags: W
+HStem: -8 66<247.449 314.53> 438 71<69.5139 135.452 252.508 318.493> 491 20G<368.356 390 589.5 616.333>
+VStem: 140 104<63.5768 428.84> 451 95<-60.7671 434.256>
+LayerCount: 2
+Back
+Refer: 652 57356 N 1 0 0 1 329 0 2
+Refer: 651 57355 N 1 0 0 1 0 0 2
+Fore
+Refer: 652 57356 N 1 0 0 1 329 0 2
+Refer: 651 57355 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

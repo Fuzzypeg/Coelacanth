@@ -1,0 +1,16 @@
+StartChar: Cdotaccent
+Encoding: 266 266 197
+Width: 732
+VWidth: 0
+Flags: W
+HStem: -15.709 93.3604<345.891 529.827> 600.343 87.9229<326.08 490.389> 715.319 139.362<365.328 472.672>
+VStem: 43.3105 174.898<223.333 447.604> 348.029 141.942<732.36 837.705>
+LayerCount: 2
+Fore
+Refer: 164 58025 N 1 0 0 1 341 -20 2
+Refer: 28 67 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" cdotaccent.pcap
+Substitution2: "c2sc-1" cdotaccent.smcp
+EndChar

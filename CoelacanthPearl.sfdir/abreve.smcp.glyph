@@ -1,0 +1,13 @@
+StartChar: abreve.smcp
+Encoding: 57729 57729 2091
+Width: 615
+VWidth: 1159
+Flags: W
+HStem: -8 68<38.3653 85.7676 173.998 196 417 423.311> 0 59<540.002 585.395> 148 64<221 382> 554 20G<286 359> 638 76.7188<247.397 394.886>
+VStem: 168.848 305.357
+LayerCount: 2
+Fore
+Refer: 105 774 N 1 0 0 1 496 62 2
+Refer: 2032 57671 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

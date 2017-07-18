@@ -1,0 +1,12 @@
+StartChar: approxequal
+Encoding: 8776 8776 1317
+Width: 463
+VWidth: 0
+Flags: W
+HStem: 91.0001 92.8028<270.937 348.166> 160.128 92.0583<115.77 201.297> 256 92.8028<270.937 348.166> 325.128 92.0583<115.77 201.297>
+LayerCount: 2
+Fore
+Refer: 1521 8764 N 1 0 0 1 0 -74 2
+Refer: 1521 8764 S 1 0 0 1 0 91 2
+Validated: 1
+EndChar

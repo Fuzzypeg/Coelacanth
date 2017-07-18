@@ -1,0 +1,15 @@
+StartChar: hbar
+Encoding: 295 295 342
+Width: 538
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 581.625 80.75<9 307>
+LayerCount: 2
+Fore
+Refer: 441 821 S 1 0 0 1 335 95 2
+Refer: 7 104 N 1 0 0 1 0 0 2
+Substitution2: "smcp-1" hbar.smcp
+Substitution2: "case-1" Hbar
+Substitution2: "pcap-1" hbar.pcap
+EndChar

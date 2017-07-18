@@ -1,0 +1,13 @@
+StartChar: uni01CC
+Encoding: 460 460 521
+Width: 738
+VWidth: 0
+HStem: 601.225 155.55<621.029 740.971>
+VStem: 601.7 158.6<620.246 737.827>
+LayerCount: 2
+Fore
+Refer: 9 106 N 1 0 0 1 526 0 2
+Refer: 13 110 N 1 0 0 1 0 0 2
+Validated: 5
+Substitution2: "case-1" uni01CA
+EndChar

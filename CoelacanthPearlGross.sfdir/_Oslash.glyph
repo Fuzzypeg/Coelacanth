@@ -1,0 +1,16 @@
+StartChar: Oslash
+Encoding: 216 216 442
+Width: 819
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -16.2793 88.0098<373.76 519.227> 598.422 90.6641<290.079 442.078>
+VStem: 45.8672 185.133<268.197 450.24> 595 172.917<213.637 413.835>
+LayerCount: 2
+Fore
+Refer: 40 79 N 1 0 0 1 0 0 3
+Refer: 443 824 N 1 0 0 1 790 -21 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" oslash.pcap
+Substitution2: "c2sc-1" oslash.smcp
+EndChar

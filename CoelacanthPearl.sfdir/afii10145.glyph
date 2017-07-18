@@ -1,0 +1,22 @@
+StartChar: afii10145
+Encoding: 1039 1039 1282
+Width: 870
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: HMW
+HStem: 0.2854 38.1836<182.013 551.91> 659 37<189.031 252.721 482.498 551.141>
+VStem: 76 105<44.4 137.74> 363 39<-240 -69.2166> 564 97<366.389 642.026>
+LayerCount: 2
+Fore
+SplineSet
+300 33 m 1
+ 483 33 l 1
+ 483 0 l 1
+ 433.567382812 0 424.4453125 -54 414 -240 c 1
+ 375 -240 l 1
+ 362.5 -54 348.958007812 0 300 0 c 1
+ 300 33 l 1
+EndSplineSet
+Refer: 1061 1055 N -1 0 0 -1 774 682 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

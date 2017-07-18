@@ -1,0 +1,13 @@
+StartChar: atilde.pcap
+Encoding: 57376 57376 1631
+Width: 549
+VWidth: 1159
+Flags: W
+HStem: -8 67<33.2113 75.9979 483.002 522> 124 66<203 336> 489 20G<246.5 325> 582.408 86<299.331 367.951> 629.746 85.4463<214.486 287.66>
+VStem: 142.584 294.106
+LayerCount: 2
+Fore
+Refer: 100 771 N 1 0 0 1 460 0 2
+Refer: 643 57347 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

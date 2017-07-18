@@ -1,0 +1,13 @@
+StartChar: obar.pcap
+Encoding: 57466 57466 1740
+Width: 591
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -12 77<238 380.814> 218.875 54.25<66 504> 433 79<207.486 352.49>
+VStem: 27 115<161.882 350.475> 453 105<152.614 330.102>
+LayerCount: 2
+Fore
+Refer: 1970 58113 S 0.438 0 0 0.875 66 246 2
+Refer: 657 57361 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,13 @@
+StartChar: obar.smcp
+Encoding: 57790 57790 2151
+Width: 673
+VWidth: 1159
+Flags: W
+HStem: -13 75<274.971 431.469> 241.938 58.125<111 549> 497 77<238.2 401.869>
+VStem: 34 117<188.562 387.446> 525 109<172.815 368.674>
+LayerCount: 2
+Fore
+Refer: 2046 57685 N 1 0 0 1 0 0 3
+Refer: 1970 58113 S 0.438 0 0 0.9375 111 271 2
+Validated: 5
+EndChar

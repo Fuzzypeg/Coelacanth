@@ -1,0 +1,16 @@
+StartChar: Tcommaaccent
+Encoding: 354 354 292
+Width: 726
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+VStem: 677 62.4277<-164.273 -94.0566>
+LayerCount: 2
+Fore
+Refer: 281 58030 S 1 0 0 1 549 0 2
+Refer: 45 84 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" tcedilla.pcap
+Substitution2: "c2sc-1" tcedilla.smcp
+Substitution2: "'locl' Localized Forms Romanian and Moldavian-1" uni021A
+EndChar

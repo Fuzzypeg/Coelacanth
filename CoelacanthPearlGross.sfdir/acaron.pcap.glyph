@@ -1,0 +1,13 @@
+StartChar: acaron.pcap
+Encoding: 57478 57478 1788
+Width: 549
+VWidth: 1159
+Flags: W
+HStem: -5.05566 64.1494<482.002 521> 124 66<203 336> 489.31 20G<250.267 325.404> 569.199 167.801
+VStem: 127.2 312.5
+LayerCount: 2
+Fore
+Refer: 103 780 N 1 0 0 1 460 0 2
+Refer: 643 57347 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

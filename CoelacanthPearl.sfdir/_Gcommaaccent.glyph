@@ -1,0 +1,16 @@
+StartChar: Gcommaaccent
+Encoding: 290 290 286
+Width: 770
+VWidth: 0
+Flags: W
+HStem: -177.1 149 -12 70<347.252 554.941> 284 70<456 538.645> 299 65<685.834 720.646> 617 71<303.793 536.554>
+VStem: 38 120<240.252 452.584> 383 102<-122.261 -42.3> 572 109<88.0959 282.279> 586 61<662.609 683>
+LayerCount: 2
+Fore
+Refer: 275 806 N 1 0 0 1 619 0 2
+Refer: 32 71 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" gcommaaccent.pcap
+Substitution2: "c2sc-1" gcommaaccent.smcp
+EndChar

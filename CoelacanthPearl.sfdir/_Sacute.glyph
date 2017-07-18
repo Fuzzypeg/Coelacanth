@@ -1,0 +1,17 @@
+StartChar: Sacute
+Encoding: 346 346 222
+Width: 588
+VWidth: 0
+Flags: W
+HStem: -14 77<229.377 400.265> -1 21G<78 143> 613 74<228.678 408.829> 700.552 154.372
+VStem: 78 63<3 24.1148> 91 97<472.587 574.953> 281.163 205.617 440 95<101.773 223.017>
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 257 -20 2
+Refer: 44 83 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" sacute.pcap
+Substitution2: "c2sc-1" sacute.smcp
+Substitution2: "'locl' Localized Forms Polish-1" Skreska
+EndChar

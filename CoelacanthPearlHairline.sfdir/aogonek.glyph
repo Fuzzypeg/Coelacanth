@@ -1,0 +1,16 @@
+StartChar: aogonek
+Encoding: 261 261 256
+Width: 442
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -176.658 56<295.703 379.801>
+VStem: 236.912 58.4385<-119.993 -43.3473>
+LayerCount: 2
+Fore
+Refer: 254 808 N 1 0 0 1 490.35 0.3418 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" aogonek.smcp
+Substitution2: "case-1" Aogonek
+Substitution2: "pcap-1" aogonek.pcap
+EndChar

@@ -1,0 +1,12 @@
+StartChar: acircumflex.pcap
+Encoding: 57375 57375 1628
+Width: 549
+VWidth: 1159
+Flags: HW
+HStem: -5.05566 64.1494<482.002 521> 124 66<203 336> 489.31 20G<250.267 325.404> 564 155.801
+VStem: 129.3 312.5
+LayerCount: 2
+Fore
+Refer: 93 770 N 1 0 0 1 460 0 2
+Refer: 643 57347 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,14 @@
+StartChar: uni1F06
+Encoding: 7942 7942 1131
+Width: 538
+VWidth: 1043
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 470 22<237.336 280.529> 594.8 74<261.337 302.96> 822.408 86<344.792 413.412> 869.746 85.4463<259.947 333.121>
+VStem: 188.045 294.106 310.336 45<507.916 581.114>
+AnchorPoint: "Bottom" 248 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1606 8143 N 1 0 0 1 129.499 1 2
+Refer: 1003 945 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,16 @@
+StartChar: Epsilontonos
+Encoding: 904 904 970
+Width: 850
+VWidth: 0
+Flags: W
+HStem: -14 55<326.727 373.082> 1 53<432.292 781.927> 311 55<430 713.271> 623 56<316 374.092 429.915 761.427> 667 20G<789 812> 676 189.38
+VStem: 20.3907 215.611 375 55<54.0551 311 366 622.835> 724 50<261.16 311.781 367.967 419.612> 755 54<547 625.272>
+LayerCount: 2
+Fore
+Refer: 966 900 N 1 0 0 1 0 102 2
+Refer: 980 917 N 1 0 0 1 231 0 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" e.pcap
+Substitution2: "c2sc-1" e.smcp
+EndChar

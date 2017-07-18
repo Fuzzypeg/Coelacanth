@@ -1,0 +1,13 @@
+StartChar: ckreska
+Encoding: 57998 57998 1194
+Width: 444
+VWidth: 1159
+Flags: W
+LayerCount: 2
+Fore
+Refer: 1192 57996 S 1 0 0 1 181 0 2
+Refer: 2 99 N 1 0 0 1 0 0 3
+Validated: 1
+Substitution2: "smcp-1" ckreska.smcp
+Substitution2: "pcap-1" ckreska.pcap
+EndChar

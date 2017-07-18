@@ -1,0 +1,14 @@
+StartChar: semicolon
+Encoding: 59 59 61
+Width: 223
+VWidth: 1159
+Flags: W
+HStem: -134.937 283.585 326.108 176.317<87.3878 135.478>
+VStem: 22.8831 174.45<36.3884 79.9558> 24.4334 174.639<389.285 436.114>
+LayerCount: 2
+Fore
+Refer: 48 46 N 1 0 0 1 2.7536 354.665 2
+Refer: 46 44 N 1 0 0 1 2.7536 0 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

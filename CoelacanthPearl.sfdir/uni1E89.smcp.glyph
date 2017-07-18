@@ -1,0 +1,13 @@
+StartChar: uni1E89.smcp
+Encoding: 57933 57933 2294
+Width: 905
+VWidth: 1159
+Flags: W
+HStem: -157.1 114.4<413.151 508.25> -9 21G<281 355.5 573 647> 500 72<199.39 230.972 685 735.754> 510 62<835.828 868.242>
+VStem: 402.4 116.6<-146.514 -53.2433>
+LayerCount: 2
+Fore
+Refer: 272 803 N 1 0 0 1 655 0 2
+Refer: 2054 57693 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

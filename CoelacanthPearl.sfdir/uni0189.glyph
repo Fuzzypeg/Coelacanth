@@ -1,0 +1,15 @@
+StartChar: uni0189
+Encoding: 393 393 447
+Width: 804
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -10 70<66.5 129.877> -5 73<225.381 515.185> 314 76<57 407> 617 71<262.927 468.084>
+VStem: 131 118<390.955 596.715> 138 108<115.517 572.23> 663 105<214.882 437.965>
+LayerCount: 2
+Fore
+Refer: 324 208 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" eth.pcap
+Substitution2: "c2sc-1" eth.smcp
+EndChar

@@ -1,0 +1,11 @@
+StartChar: uni01DD
+Encoding: 477 477 719
+Width: 464
+VWidth: 1159
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 101 S -1 0 0 -1 464 509 2
+Validated: 1
+Substitution2: "case-1" uni018E
+EndChar

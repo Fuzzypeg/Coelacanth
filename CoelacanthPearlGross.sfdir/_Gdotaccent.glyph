@@ -1,0 +1,16 @@
+StartChar: Gdotaccent
+Encoding: 288 288 207
+Width: 770
+VWidth: 0
+Flags: W
+HStem: -12.4512 84.8965<388.908 513.196> 273.012 84.3857<409.561 483.941> 294.581 59.8164<687.644 720.434> 602.082 85.7461<310.669 538.535> 715.319 139.362<372.328 479.672>
+VStem: 38.2861 182.938<249.273 452.397> 355.029 141.942<732.36 837.705> 518.277 162.984<80.0187 271.753>
+LayerCount: 2
+Fore
+Refer: 164 58025 N 1 0 0 1 348 -20 2
+Refer: 32 71 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" gdotaccent.pcap
+Substitution2: "c2sc-1" gdotaccent.smcp
+EndChar

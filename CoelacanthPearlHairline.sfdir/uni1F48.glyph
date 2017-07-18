@@ -1,0 +1,15 @@
+StartChar: uni1F48
+Encoding: 8008 8008 1543
+Width: 878
+Flags: W
+HStem: -15 56<326.35 555.401> 518.048 23.76<-2.80904 43.8394> 634 56<332.12 548.308> 652.832 79.92<23.112 68.0649>
+VStem: 76.031 48.6<558.997 638.051> 79 56<221.25 442.054> 745 56<223.429 440.074>
+AnchorPoint: "Middle" 456.697 364.853 basechar 0
+AnchorPoint: "Bottom" 455 -15 basechar 0
+AnchorPoint: "Top" 459 699 basechar 0
+LayerCount: 2
+Fore
+Refer: 990 927 N 1 0 0 1 33 0 2
+Refer: 1606 8127 S 1.08 0 0 1.08 -119.273 -15.472 2
+Validated: 1
+EndChar

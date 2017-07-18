@@ -1,0 +1,17 @@
+StartChar: Cacute
+Encoding: 262 262 137
+Width: 732
+VWidth: 0
+Flags: W
+HStem: -15.709 93.3604<345.891 529.827> 600.343 87.9229<326.08 490.389>
+VStem: 43.3105 174.898<223.333 447.604>
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 353 -20 2
+Refer: 28 67 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" cacute.pcap
+Substitution2: "c2sc-1" cacute.smcp
+Substitution2: "'locl' Localized Forms Polish-1" Ckreska
+EndChar

@@ -1,0 +1,16 @@
+StartChar: Racute
+Encoding: 340 340 220
+Width: 800
+VWidth: 0
+Flags: W
+HStem: 720.552 134.448
+VStem: 301.163 197.837
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 277 -20 2
+Refer: 43 82 N 1 0 0 1 0 0 3
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" racute.pcap
+Substitution2: "c2sc-1" racute.smcp
+EndChar
