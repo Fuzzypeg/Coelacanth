@@ -39,6 +39,7 @@ SplineSet
  179 -98 113 -281 113 -346 c 1
 EndSplineSet
 Validated: 1
+Kerns2: 46 -50 "kern-1 latin individual kerning"
 Substitution2: "case-1" Y
 Substitution2: "pcap-1" y.pcap
 Substitution2: "smcp-1" y.smcp

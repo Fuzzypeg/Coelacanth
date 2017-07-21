@@ -3,9 +3,11 @@ Encoding: 338 338 346
 GlifName: O_E_
 Width: 1081
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 49<336.528 518.419> 3.06988 37.3024<639.125 901.73> 334 36<614 882.393> 650 44<298.396 500.529>
 VStem: 37 93<266.365 448.041> 531 93<373.564 620.777> 534.995 79.0053<90.5 334 370 605.156> 906 36<248.75 306.348 394.846 442.094> 947 30<539 620.59> 1007 28<152.034 171.75>
+AnchorPoint: "Bottom" 572.957 -15 basechar 0
+AnchorPoint: "Top" 583.585 699 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -46,7 +48,6 @@ SplineSet
  886.301 -0.545565 771.508 3.06988 667.928 3.06988 c 3x7bc0
  487.932 3.06988 491.022 -7.00001 424 -7 c 3
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" oe.pcap
 Substitution2: "c2sc-1" oe.smcp

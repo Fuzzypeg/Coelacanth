@@ -3,12 +3,11 @@ Encoding: 57399 57399 1654
 GlifName: ucircumflex.pcap
 Width: 562
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -6 38<211.789 381.26> 379 25<50.16 92.7586 186.969 230.913 479.043 522.502> 486.6 184.8
 VStem: 99 72<68.5834 324.974> 183.25 225.5 427 38<73.533 350.901>
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 493.5 64 2
 Refer: 663 57367 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

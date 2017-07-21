@@ -3,12 +3,11 @@ Encoding: 57510 57510 1822
 GlifName: uni020D_.pcap
 Width: 568
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 37<240.993 370.228> 378 35<202.127 322.544>
 VStem: 56 78<146.969 286.001> 428 84<111.049 270.5>
 LayerCount: 2
 Fore
 Refer: 104 783 N 1 0 0 1 484.5 60 2
 Refer: 657 57361 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

@@ -3,9 +3,10 @@ Encoding: 57347 57347 643
 GlifName: a.pcap
 Width: 472
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 25<34 58.0979 295 312.5> 138 30<175 275.575> 395 20G<232.5 267>
 VStem: 234 31<355.154 415>
+AnchorPoint: "Ogonek" 347 27 basechar 0
 AnchorPoint: "Top" 250 465 basechar 0
 AnchorPoint: "Bottom" 239 -15 basechar 0
 LayerCount: 2
@@ -37,5 +38,4 @@ SplineSet
  423.9765625 -0.380859375 400.475585938 1.0947265625 376.567382812 1.0947265625 c 3
  345.703125 1.0947265625 314.159179688 -1.365234375 295 -7 c 1
 EndSplineSet
-Validated: 33
 EndChar
