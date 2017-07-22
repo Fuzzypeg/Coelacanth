@@ -21,4 +21,5 @@ SplineSet
  148 56 148 52 148 48 c 1
  148 39 105 -62 69 -98 c 1
 EndSplineSet
+Position2: "Extra space for context kern-1" dx=78 dy=0 dh=156 dv=0 [ddx={} ddy={} ddh={} ddv={}]
 EndChar
