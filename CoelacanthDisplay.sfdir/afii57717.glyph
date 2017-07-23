@@ -2,10 +2,12 @@ StartChar: afii57717
 Encoding: 1521 1521 2541
 Width: 551
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
 VStem: 32.4805 222.72 449.36 30.1592<-5.13976 5.91153>
 LayerCount: 2
 Fore
 Refer: 2518 1493 N 1 0 0 1 287 0 2
 Refer: 2522 1497 N 1 0 0 1 0 0 2
+Validated: 5
 EndChar

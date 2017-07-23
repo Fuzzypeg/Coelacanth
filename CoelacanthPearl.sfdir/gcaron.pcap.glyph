@@ -2,12 +2,12 @@ StartChar: gcaron.pcap
 Encoding: 57490 57490 1800
 Width: 552
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 72<235.417 388.14> 196 76<321.539 371.068 496.802 522> 439 69<211.496 374.849> 480 20G<400 470.387> 569.199 155.801
 VStem: 18 112<163.089 341.378> 153.2 288.5 388 106<79.2293 193.026>
 LayerCount: 2
 Fore
 Refer: 103 780 N 1 0 0 1 474 0 2
 Refer: 649 57353 N 1 0 0 1 0 0 3
-Validated: 5
+Validated: 1
 EndChar

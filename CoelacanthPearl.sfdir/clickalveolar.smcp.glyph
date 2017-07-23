@@ -2,6 +2,7 @@ StartChar: clickalveolar.smcp
 Encoding: 57796 57796 2157
 Width: 378
 VWidth: 1515
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 139.391 89.2172<60 318> 260.391 89.2172<60 318>
 LayerCount: 2

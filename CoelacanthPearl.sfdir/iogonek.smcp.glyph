@@ -2,12 +2,13 @@ StartChar: iogonek.smcp
 Encoding: 57750 57750 2112
 Width: 404
 VWidth: 1159
-Flags: W
+UnlinkRmOvrlpSave: 1
+Flags: HW
 HStem: -184.437 75.1279<123.766 210.378> -8 21G<66.0556 90 318 341.471> 501 72<71.5139 148.506>
 VStem: 64.8295 79.4385<-132.107 -37.7174> 154 105<64.8722 492.53>
 LayerCount: 2
 Fore
-Refer: 254 808 N 1 0 0 1 318.268 -7.4367 2
+Refer: 254 808 N 1 0 0 1 348.268 -7.4367 2
 Refer: 2040 57679 N 1 0 0 1 0 0 3
 Validated: 5
 EndChar

@@ -2,6 +2,7 @@ StartChar: afii57670
 Encoding: 1494 1494 2519
 Width: 310
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -12.7197 21G<136.6 159.15>
 VStem: 33.3203 246.52
@@ -24,4 +25,5 @@ SplineSet
  86.1201171875 604.360351562 l 1
  119.759765625 575.360351562 l 1
 EndSplineSet
+Validated: 524325
 EndChar

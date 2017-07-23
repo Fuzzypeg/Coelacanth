@@ -8,7 +8,7 @@ AnchorPoint: "Bottom" 333 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-201 -175 m 1
+201 -175 m 5
  168 -175 178 -173 117 -173 c 1
  78 -173 62 -175 29 -176 c 1
  30 -155 33 -140 26 -117 c 1
@@ -33,7 +33,7 @@ SplineSet
  524 449 l 1
  483 438 482 445 468 417 c 0
  420 319 334 177 269 43 c 0
- 244 -8 199 -128 201 -175 c 1
+ 244 -8 199 -128 201 -175 c 5
 EndSplineSet
 Validated: 33
 Substitution2: "case-1" Y

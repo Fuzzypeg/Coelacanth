@@ -2,7 +2,7 @@ StartChar: okreska
 Encoding: 58000 58000 1196
 Width: 492
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 21<213.737 312.228> 388 23<183.876 282.08>
 VStem: 28 65<130.362 287.127> 399 65<108.357 276.92>
 AnchorPoint: "Middle" 255 206 basechar 0

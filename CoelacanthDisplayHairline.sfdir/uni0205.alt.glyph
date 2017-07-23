@@ -2,7 +2,7 @@ StartChar: uni0205.alt
 Encoding: 58125 58125 1435
 Width: 414
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956>
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702>
 LayerCount: 2

@@ -2,12 +2,12 @@ StartChar: gcircumflex.pcap
 Encoding: 57417 57417 1672
 Width: 552
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -11 72<235.417 388.14> 196 76<321.539 371.068 496.802 522> 439 69<211.496 374.849> 480 20G<400 470.387> 576 155.801
 VStem: 18 112<163.089 341.378> 155.3 288.5 388 106<79.2293 193.026>
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 474 0 2
 Refer: 649 57353 N 1 0 0 1 0 0 3
-Validated: 5
+Validated: 1
 EndChar

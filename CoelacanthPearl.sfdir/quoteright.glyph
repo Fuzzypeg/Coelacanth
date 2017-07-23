@@ -9,6 +9,6 @@ LayerCount: 2
 Fore
 Refer: 46 44 S 1 0 0 1 0 584 2
 Validated: 1
-Position2: "Extra space for context kern-1" dx=35 dy=0 dh=70 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "Extra space for context kern-1" dx=35 dy=0 dh=70 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

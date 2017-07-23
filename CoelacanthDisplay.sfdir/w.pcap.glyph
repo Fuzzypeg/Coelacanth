@@ -3,6 +3,7 @@ Encoding: 57369 57369 665
 Width: 621
 VWidth: 657
 Flags: HW
+AnchorPoint: "Bottom" 313 -15 basechar 0
 AnchorPoint: "Top" 315.934 489 basechar 0
 LayerCount: 2
 Back

@@ -5,6 +5,7 @@ VWidth: 1159
 Flags: HW
 HStem: -4 21<213.737 312.228> 394 23<183.876 282.08>
 VStem: 28 65<136.362 293.127> 399 65<114.357 282.92>
+AnchorPoint: "Bottom" 254 -15 basechar 0
 AnchorPoint: "Top" 251 432 basechar 0
 AnchorPoint: "Horn" 420.5 341.8 basechar 0
 AnchorPoint: "Ogonek" 341 19.6582 basechar 0

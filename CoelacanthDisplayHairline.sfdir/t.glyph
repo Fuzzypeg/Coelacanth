@@ -5,6 +5,7 @@ VWidth: 1159
 Flags: HMW
 HStem: -6 40<169.156 248.814> 364 28<149 310> 364 9<30 34.6045>
 VStem: 81 65<56.2268 364> 151 10<471.112 477.4>
+AnchorPoint: "Bottom" 174 -15 basechar 0
 AnchorPoint: "Top" 143.5 508 basechar 0
 AnchorPoint: "TopRight" 313 531 basechar 0
 LayerCount: 2
