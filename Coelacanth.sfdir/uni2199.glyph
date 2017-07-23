@@ -2,10 +2,12 @@ StartChar: uni2199
 Encoding: 8601 8601 2613
 Width: 572
 VWidth: 1159
+UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: 454 267
 VStem: 20 289
 LayerCount: 2
 Fore
 Refer: 1302 8593 N -0.707107 0.707107 -0.707107 -0.707107 652.731 394.901 2
+Validated: 5
 EndChar

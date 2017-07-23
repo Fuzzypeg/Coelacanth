@@ -2,6 +2,7 @@ StartChar: uni26B9
 Encoding: 9913 9913 2625
 Width: 607
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: 215.662 58<23.813 584.845>
 LayerCount: 2
@@ -23,4 +24,5 @@ SplineSet
  600.537 273.662 598.537 215.662 571.537 215.662 c 9
  36.5371 215.662 l 17
 EndSplineSet
+Validated: 524325
 EndChar
