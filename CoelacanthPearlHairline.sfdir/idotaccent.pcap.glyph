@@ -2,12 +2,11 @@ StartChar: idotaccent.pcap
 Encoding: 57427 57427 1680
 Width: 377
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -8.19336 65.8105<247.235 314.293> 437.188 70.8135<69.8454 135.601 252.553 318.425> 595.175 109.65<144.002 240.998>
 VStem: 136.6 111.8<602.462 697.568> 139.763 104.737<63.4422 428.644>
 LayerCount: 2
 Fore
 Refer: 49 775 S 1 0 0 1 368.5 1 2
 Refer: 651 57355 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

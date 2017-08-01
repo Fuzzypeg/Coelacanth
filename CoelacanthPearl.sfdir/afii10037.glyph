@@ -36,5 +36,5 @@ SplineSet
  350 184 l 1
 EndSplineSet
 Validated: 37
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

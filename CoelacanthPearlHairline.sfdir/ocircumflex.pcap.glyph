@@ -2,12 +2,11 @@ StartChar: ocircumflex.pcap
 Encoding: 57393 57393 1646
 Width: 591
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -15.6211 76.5928<236.145 382.52> 421.33 78.4844<207.528 354.482> 564 155.801
 VStem: 27.3418 114.772<154.821 341.939> 147.3 312.5 453.23 105.261<145.562 321.729>
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 478 0 2
 Refer: 657 57361 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

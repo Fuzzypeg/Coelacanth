@@ -36,7 +36,7 @@ EndSplineSet
 Fore
 SplineSet
 117 437 m 0
- 117 436 81 439 35 438 c 1
+ 116 437 81 439 35 438 c 1
  41 511 l 1
  81 501 116 499 149 499 c 3
  193 499 235 504 286 511 c 1
@@ -52,5 +52,4 @@ SplineSet
  108 -55 120 -26 122 57 c 1
  123 79 117 437 117 437 c 0
 EndSplineSet
-Validated: 524321
 EndChar

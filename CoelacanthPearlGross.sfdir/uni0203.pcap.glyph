@@ -2,12 +2,11 @@ StartChar: uni0203.pcap
 Encoding: 57505 57505 1817
 Width: 549
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -5.05566 64.1494<482.002 521> 124 66<203 336> 489.31 20G<250.267 325.404> 634.531 76.7188<212.114 359.603>
 VStem: 132.795 305.357
 LayerCount: 2
 Fore
 Refer: 109 785 N 1 0 0 1 460 0 2
 Refer: 643 57347 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

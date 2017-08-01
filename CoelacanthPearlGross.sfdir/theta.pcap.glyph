@@ -2,7 +2,7 @@ StartChar: theta.pcap
 Encoding: 57530 57530 1844
 Width: 591
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -15.6211 76.5928<236.145 382.52> 199.9 80.7998<199.25 341.25> 421.33 78.4844<207.528 354.482>
 VStem: 27.3418 114.772<154.821 341.939> 453.23 105.261<145.562 321.729>
 LayerCount: 2
@@ -25,5 +25,4 @@ SplineSet
  387.25 280.5 l 5
 EndSplineSet
 Refer: 657 57361 N 1 0 0 1 0 0 3
-Validated: 33
 EndChar

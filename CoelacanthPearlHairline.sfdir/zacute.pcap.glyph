@@ -2,12 +2,11 @@ StartChar: zacute.pcap
 Encoding: 57463 57463 1716
 Width: 537
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7.74609 21G<44.0537 71.1475> 1.41309 74.1895<204.317 424.251> 423.605 75.7197<113.544 357> 574 189.38
 VStem: 224.389 215.611
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 457 0 2
 Refer: 668 57372 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar
