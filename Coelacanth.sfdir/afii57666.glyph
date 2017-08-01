@@ -6,6 +6,7 @@ VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
 VStem: 227.36 27.7998<268.048 393.079>
+AnchorPoint: "HbMiddle" 140 284 basechar 0
 AnchorPoint: "HbTopLeft" 106.68 619.44 basechar 0
 AnchorPoint: "HbBottom" 184 0 basechar 0
 AnchorPoint: "HbTop" 192 619.44 basechar 0

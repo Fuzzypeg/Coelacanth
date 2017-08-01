@@ -2,7 +2,13 @@ StartChar: afii57688
 Encoding: 1512 1512 2537
 Width: 530
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -11.4395 21G<347.4 379.071> 337.4 230.08<127.279 317.807>
+VStem: 347.4 19.0801<-7.5393 8.05364> 375.472 72.0085<145.98 286.88>
+AnchorPoint: "HbTop" 223 619.44 basechar 0
+AnchorPoint: "HbMiddle" 221 268 basechar 0
+AnchorPoint: "HbBottom" 251 0 basechar 0
+AnchorPoint: "HbTopLeft" 62.68 619.44 basechar 0
 LayerCount: 2
 Fore
 SplineSet

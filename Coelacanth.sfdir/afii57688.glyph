@@ -3,7 +3,7 @@ Encoding: 1512 1512 2483
 GlifName: afii57688
 Width: 494
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -11.7197 21G<384.2 405.536> 440.2 127.04<106.64 326.779>
 VStem: 384.2 15.04<-7.93489 2.44507> 398.046 50.1943<42.8699 369.253>
 AnchorPoint: "HbTopLeft" 62.68 619.44 basechar 0

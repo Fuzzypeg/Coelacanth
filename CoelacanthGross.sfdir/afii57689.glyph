@@ -3,6 +3,10 @@ Encoding: 1513 1513 2538
 Width: 702
 VWidth: 0
 Flags: HW
+AnchorPoint: "HbTopRight" 624 619.44 basechar 0
+AnchorPoint: "HbBottom" 292 0 basechar 0
+AnchorPoint: "HbTopLeft" 61.68 619.44 basechar 0
+AnchorPoint: "HbTop" 331 619.44 basechar 0
 AnchorPoint: "Top" 353.84 619.44 basechar 0
 LayerCount: 2
 Back

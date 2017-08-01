@@ -2,7 +2,13 @@ StartChar: afii57667
 Encoding: 1491 1491 2516
 Width: 467
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 337.039 233.681<113.813 305.788>
+VStem: 275.76 19<-7.98494 -0.0589178> 308.92 75.2002<101 275.379>
+AnchorPoint: "HbTop" 238 619.44 basechar 0
+AnchorPoint: "HbMiddle" 203 272 basechar 0
+AnchorPoint: "HbBottom" 240 0 basechar 0
+AnchorPoint: "HbTopLeft" 63.68 619.44 basechar 0
 AnchorPoint: "Top" 220.4 619.44 basechar 0
 LayerCount: 2
 Fore

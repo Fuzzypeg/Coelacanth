@@ -5,6 +5,9 @@ VWidth: 0
 Flags: HW
 HStem: 1.16016 134.669<92.7998 341.238> 407.16 21G<381.745 466.32>
 VStem: 39.4404 178.64<452.884 530.38> 317.84 31.3203<573.001 596.24>
+AnchorPoint: "HbTop" 234 619.44 basechar 0
+AnchorPoint: "HbBottom" 235 0 basechar 0
+AnchorPoint: "HbTopLeft" 46.68 619.44 basechar 0
 AnchorPoint: "Top" 248.24 619.44 basechar 0
 LayerCount: 2
 Back
