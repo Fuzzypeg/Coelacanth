@@ -2,7 +2,7 @@ StartChar: Omacron
 Encoding: 332 332 217
 Width: 819
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -16 72<346.672 526.99> 616 73<284.654 475.048> 722 79.6085<256 567>
 VStem: 46 119<261.919 449.449> 653 115<214.618 413.376>
 LayerCount: 2

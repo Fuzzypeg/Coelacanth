@@ -2,7 +2,7 @@ StartChar: Okreska
 Encoding: 58005 58005 1201
 Width: 819
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -16 72<346.672 526.99> 616 73<284.654 475.048>
 VStem: 46 119<261.919 449.449> 653 115<214.618 413.376>
 LayerCount: 2

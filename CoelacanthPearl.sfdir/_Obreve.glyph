@@ -2,14 +2,13 @@ StartChar: Obreve
 Encoding: 334 334 218
 Width: 819
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -16 72<346.672 526.99> 616 73<284.654 475.048> 713.447 78.834<326.023 496.147>
 VStem: 46 119<261.919 449.449> 252.765 317.471 653 115<214.618 413.376>
 LayerCount: 2
 Fore
 Refer: 162 58023 N 1 0 0 1 251 -20 2
 Refer: 40 79 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" obreve.pcap
 Substitution2: "c2sc-1" obreve.smcp

@@ -1,7 +1,7 @@
 StartChar: Omicron
 Encoding: 927 927 990
 Width: 819
-Flags: W
+Flags: HW
 HStem: -16 72<346.672 526.99> 616 73<284.654 475.048>
 VStem: 46 119<261.919 449.449> 653 115<214.618 413.376>
 AnchorPoint: "Top" 426 699 basechar 0

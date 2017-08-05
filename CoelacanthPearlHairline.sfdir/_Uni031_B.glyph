@@ -2,12 +2,11 @@ StartChar: Uni031B
 Encoding: 58038 58038 759
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 563.768 21.6<-138.463 -93.9946>
 VStem: -21.6043 75.2918<648.224 727.036>
 AnchorPoint: "Horn" -129.5 573 mark 0
 LayerCount: 2
 Fore
 Refer: 99 795 N 1.2 0 0 1.2 -37.0625 167.768 2
-Validated: 1
 EndChar

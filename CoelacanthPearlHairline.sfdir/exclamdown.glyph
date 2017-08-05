@@ -2,13 +2,12 @@ StartChar: exclamdown
 Encoding: 161 161 450
 Width: 266
 VWidth: 1159
-Flags: W
-HStem: 379.426 118.316<98.4998 152.176>
-VStem: 66.9714 115.64<411.767 468.115> 95.668 55.6758<-157.881 289.186>
+Flags: HW
+HStem: 350.426 176.317<101.567 149.657>
+VStem: 34.1839 150.021<-156.296 -17.6117> 37.9714 174.639<416.737 463.566> 88.6676 69.6766<64.2372 289.186>
 LayerCount: 2
 Fore
-Refer: 75 33 N -1 0 0 -1 271 498.186 2
-Validated: 1
+Refer: 75 33 N -1 0 0 -1 271 504.186 2
 Substitution2: "pcap-1" exclamdown.pcap
 Substitution2: "smcp-1" exclamdown.smcp
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100

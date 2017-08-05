@@ -3,11 +3,11 @@ Encoding: 7709 7709 799
 Width: 478
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -172 50.1914<164.034 230.203> 648 76.7188<166.897 314.386>
 VStem: 88.3477 305.357 233.175 76.4277<-122.225 -75.0357>
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 415.5 72 2
+Refer: 105 774 N 1 0 0 1 433 1 2
 Refer: 505 553 N 1 0 0 1 0 0 3
 EndChar

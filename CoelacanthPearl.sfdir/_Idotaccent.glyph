@@ -2,14 +2,13 @@ StartChar: Idotaccent
 Encoding: 304 304 212
 Width: 453
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -8 21G<69.1579 95.5 360.5 387.389> 672 20G<74.4211 102.5 362 391.026> 716.6 118.8<185.656 284.344>
 VStem: 174.5 121<727.592 824.451> 179 106<67.4773 555.247>
 LayerCount: 2
 Fore
 Refer: 164 58025 N 1 0 0 1 157 -20 2
 Refer: 34 73 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" idotaccent.pcap
 Substitution2: "c2sc-1" idotaccent.smcp

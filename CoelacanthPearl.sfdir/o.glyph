@@ -2,9 +2,11 @@ StartChar: o
 Encoding: 111 111 14
 Width: 550
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 74<225.683 365.593> 440 77<184.436 324.919>
 VStem: 20 100<179.83 346.467> 426 104<152.433 329.656>
+AnchorPoint: "Middle" 274.697 252.853 basechar 0
+AnchorPoint: "Horn" 436.5 453.8 basechar 0
 AnchorPoint: "Bottom" 278 -15 basechar 0
 AnchorPoint: "Ogonek" 413 18 basechar 0
 AnchorPoint: "Top" 275 537 basechar 0
@@ -13,7 +15,7 @@ Fore
 SplineSet
 275 517 m 3
  436 517 530 378 530 253 c 3
- 530 128 432 -11 275 -11 c 7
+ 530 128 432 -11 275 -11 c 3
  139 -11 20 97 20 237 c 3
  20 418 171 517 275 517 c 3
 258 440 m 3
@@ -22,7 +24,6 @@ SplineSet
  381 63 426 126 426 238 c 3
  426 359 328 440 258 440 c 3
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" O
 Substitution2: "pcap-1" o.pcap
 Substitution2: "smcp-1" o.smcp

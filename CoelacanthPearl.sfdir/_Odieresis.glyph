@@ -2,7 +2,7 @@ StartChar: Odieresis
 Encoding: 214 214 186
 Width: 819
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -16 72<346.672 526.99> 616 73<284.654 475.048> 731.1 107.8<272.142 361.858 464.142 553.858>
 VStem: 46 119<261.919 449.449> 262 110<741.075 828.965> 454 110<741.075 828.965> 653 115<214.618 413.376>
 AnchorPoint: "Bottom" 418 -15 basechar 0
@@ -10,7 +10,6 @@ LayerCount: 2
 Fore
 Refer: 163 58024 N 1 0 0 1 263 -20 2
 Refer: 40 79 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" odieresis.pcap
 Substitution2: "c2sc-1" odieresis.smcp
