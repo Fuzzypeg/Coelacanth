@@ -2,14 +2,13 @@ StartChar: Lacute
 Encoding: 313 313 214
 Width: 682
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -15.332 21G<597.499 626.802> -3.39746 95.0742<67.4131 123.331> 5.60254 90.1123<298.887 507.83> 667.882 19.8271G<55.1699 82.852 358.327 381.293>
 VStem: 127.584 161.674<95.0364 589.493>
 LayerCount: 2
 Fore
 Refer: 90 58018 N 1 0 0 1 143 -20 2
 Refer: 37 76 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" lacute.pcap
 Substitution2: "c2sc-1" lacute.smcp

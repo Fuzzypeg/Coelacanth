@@ -2,11 +2,10 @@ StartChar: uni0233
 Encoding: 563 563 509
 Width: 529
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 576.369 102.261<135 394>
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 436 0 2
 Refer: 24 121 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar

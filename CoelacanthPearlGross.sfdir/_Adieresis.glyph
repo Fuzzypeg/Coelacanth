@@ -2,9 +2,9 @@ StartChar: Adieresis
 Encoding: 196 196 172
 Width: 733
 VWidth: 1159
-Flags: HW
-HStem: 721.771 126.458<237.207 334.793 429.207 526.793>
-VStem: 221.481 129.038<737.234 832.825> 413.481 129.038<737.234 832.825>
+Flags: W
+HStem: 731.1 107.8<241.142 330.858 433.142 522.858>
+VStem: 231 110<741.075 828.965> 423 110<741.075 828.965>
 AnchorPoint: "Ogonek" 533 27 basechar 0
 AnchorPoint: "Bottom" 363 -15 basechar 0
 AnchorPoint: "Top" 371 823 basechar 0

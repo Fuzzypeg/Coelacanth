@@ -2,11 +2,10 @@ StartChar: uni04EF
 Encoding: 1263 1263 1385
 Width: 529
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 648.369 102.261<130 389>
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 431 72 2
 Refer: 1072 1091 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar

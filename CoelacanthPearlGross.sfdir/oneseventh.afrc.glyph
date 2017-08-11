@@ -1,16 +1,13 @@
 StartChar: oneseventh.afrc
 Encoding: 58439 58439 1418
-Width: 463
+Width: 533
 VWidth: 1159
-Flags: W
-HStem: 186 81<202.376 248.674> 312.25 59.5<34 428> 416 56.0625<151.934 193.972 274.939 319.932> 632.525 56.2988<158.552 197.816> 639.6 56.3701<276.169 316.347>
-VStem: 111 237 203.888 65.4014<480.729 625.134>
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 1970 58113 S 0.394 0 0 0.875 34 342 2
-Refer: 1404 8327 N 1 0 0 1 86 76 2
-Refer: 1399 8321 N 1 0 0 1 107 496 2
-Validated: 1
+Refer: 1970 58113 S 0.394 0 0 0.875 69 342 2
+Refer: 1404 8327 S 1 0 0 1 121 76 2
+Refer: 1399 8321 S 1 0 0 1 142 496 2
 Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction seven.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2150
 EndChar

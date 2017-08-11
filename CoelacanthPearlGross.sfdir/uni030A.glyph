@@ -2,12 +2,7 @@ StartChar: uni030A
 Encoding: 778 778 98
 Width: 0
 VWidth: 1159
-Flags: W
-HStem: 562 53.6064<-218.185 -134.971> 715.864 51.6064<-217.625 -134.424>
-VStem: -280.22 53.2266<624.785 706.198> -125.007 50.2266<625.75 706.026>
-AnchorPoint: "TopMark" -185 752 basemark 0
-AnchorPoint: "TopMark" -180 537 mark 0
-AnchorPoint: "Top" -174 537 mark 0
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -22,5 +17,4 @@ SplineSet
  -232.118314303 562 -280.219726562 603.3 -280.219726562 665.25 c 3
  -280.219726562 724.222158813 -230.114088792 767.470703125 -176 767.470703125 c 3
 EndSplineSet
-Validated: 1
 EndChar

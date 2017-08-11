@@ -1,14 +1,11 @@
 StartChar: five.proportionallining
 Encoding: 58393 58393 906
-Width: 419
+Width: 483
 VWidth: 1159
-Flags: W
-HStem: -15.0996 21G<48 125.294> 550.284 88.7549<152.652 334.372>
-VStem: 81.6992 70.7256<450.691 550.22> 285.973 81.498<172.822 310.456>
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 687 58383 N 1 0 0 1 -21 0 2
-Validated: 1
+Refer: 687 58383 N 1 0 0 1 -16.308 0 2
 Substitution2: "tnum-1" five.tabularlining
 Substitution2: "onum-1" five
 Substitution2: "numr-1" five.numerator

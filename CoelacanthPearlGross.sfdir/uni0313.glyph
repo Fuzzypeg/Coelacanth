@@ -2,12 +2,7 @@ StartChar: uni0313
 Encoding: 787 787 111
 Width: 0
 VWidth: 1159
-Flags: W
-HStem: 569 149
-VStem: -194 102<623.839 703.8>
-AnchorPoint: "Top" -174 537 mark 0
-AnchorPoint: "TopMark" -180 537 mark 0
-AnchorPoint: "TopMark" -179 768 basemark 0
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -24,5 +19,4 @@ SplineSet
  -95.0932678976 677.587524509 -92 671.341428756 -92 662 c 3
  -92 639.570364627 -132.115008847 591.731507195 -202 569 c 1
 EndSplineSet
-Validated: 33
 EndChar

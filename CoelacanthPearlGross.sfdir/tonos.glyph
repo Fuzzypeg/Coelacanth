@@ -1,12 +1,11 @@
 StartChar: tonos
 Encoding: 900 900 966
 Width: 189
-Flags: W
+Flags: HW
 HStem: 569.951 193.429
 VStem: 20.3907 230.611
 AnchorPoint: "Top" 43.501 402 mark 0
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 253.002 0 2
-Validated: 1
 EndChar

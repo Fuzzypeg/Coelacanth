@@ -2,7 +2,7 @@ StartChar: uni1E67
 Encoding: 7783 7783 813
 Width: 396
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 498.319 131.361 728.625 155.55<145.529 265.471>
 VStem: 49.2197 268.561 126.2 158.6<747.646 865.227>
 AnchorPoint: "Bottom" 162 -15 basechar 0
@@ -11,5 +11,4 @@ Fore
 Refer: 18 115 N 1 0 0 1 0 0 2
 Refer: 473 58083 S 1 0 0 1 381 24 2
 Refer: 49 775 S 1 0 0 1 381.5 157.4 2
-Validated: 5
 EndChar

@@ -2,7 +2,9 @@ StartChar: Aacute
 Encoding: 193 193 169
 Width: 733
 VWidth: 1159
-Flags: HW
+Flags: W
+HStem: 700.552 154.372
+VStem: 342.163 205.617
 AnchorPoint: "Ogonek" 533 27 basechar 0
 AnchorPoint: "Bottom" 363 -15 basechar 0
 AnchorPoint: "Top" 358 806 basechar 0

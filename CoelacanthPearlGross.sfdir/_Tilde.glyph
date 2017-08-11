@@ -2,12 +2,11 @@ StartChar: Tilde
 Encoding: 58022 58022 161
 Width: 329
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 754.408 86<176.652 252.467> 801.746 85.4463<82.9097 163.756>
 VStem: 3.46774 324.946
 AnchorPoint: "Top" 165 699 mark 0
 LayerCount: 2
 Fore
 Refer: 100 771 S 1.10486 0 0 1 354.168 172 2
-Validated: 1
 EndChar

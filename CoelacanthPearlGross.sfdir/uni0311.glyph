@@ -2,14 +2,8 @@ StartChar: uni0311
 Encoding: 785 785 109
 Width: 0
 VWidth: 1159
-Flags: W
-HStem: 634.531 76.7188<-247.886 -100.397>
-VStem: -327.205 305.357
-AnchorPoint: "TopMark" -179 768 basemark 0
-AnchorPoint: "TopMark" -180 537 mark 0
-AnchorPoint: "Top" -174 537 mark 0
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 105 774 S -1 0 0 -1 -349 1287.25 2
-Validated: 1
 EndChar

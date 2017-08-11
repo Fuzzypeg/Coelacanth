@@ -2,14 +2,13 @@ StartChar: Upsilontonos
 Encoding: 910 910 974
 Width: 893
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -11 42<396 474.062 605.394 694.814> 624 76<257.233 366.515 727.65 837.052> 671.951 193.429
 VStem: 20.3907 230.611 508.377 78.0224<61.5545 369.397>
 LayerCount: 2
 Fore
 Refer: 966 900 N 1 0 0 1 0 102 2
 Refer: 995 933 N 1 0 0 1 204 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" upsilon.pcap
 Substitution2: "c2sc-1" upsilon.smcp

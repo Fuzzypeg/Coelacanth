@@ -2,14 +2,13 @@ StartChar: Sacute
 Encoding: 346 346 222
 Width: 588
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -12.3975 100.39<224.023 383.22> 0.688477 21G<77.9932 152.401> 595.059 91.9414<240.738 385.127>
 VStem: 86.8926 138.125<488.061 574.338> 400.094 137.617<104.9 246.056>
 LayerCount: 2
 Fore
 Refer: 90 58018 N 1 0 0 1 257 -20 2
 Refer: 44 83 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" sacute.pcap
 Substitution2: "c2sc-1" sacute.smcp

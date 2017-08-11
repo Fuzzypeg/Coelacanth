@@ -1,8 +1,8 @@
 StartChar: greater
 Encoding: 62 62 333
-Width: 463
+Width: 533
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
@@ -16,14 +16,13 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-40.83984375 395.293945312 m 1
- 106 485.116210938 l 1
- 412 276.116 l 1
- 79 64.1162109375 l 1
- 35.9580078125 135.864257812 l 1
- 233.44465 258.78636 l 1
- 40.83984375 395.293945312 l 1
+60 434 m 1
+ 125.16015625 523.821289062 l 1
+ 476 282.116210938 l 1
+ 102 42.8837890625 l 1
+ 58.958984375 114.6328125 l 1
+ 297.4453125 264.787109375 l 1
+ 60 434 l 1
 EndSplineSet
-Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

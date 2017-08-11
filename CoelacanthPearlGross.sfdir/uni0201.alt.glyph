@@ -2,10 +2,9 @@ StartChar: uni0201.alt
 Encoding: 58124 58124 1434
 Width: 442
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 0 97 N 1 0 0 1 0 0 3
 Refer: 104 783 S 1 0 0 1 455.5 60 2
-Validated: 1
 EndChar

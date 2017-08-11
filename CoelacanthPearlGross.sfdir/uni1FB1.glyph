@@ -3,7 +3,7 @@ Encoding: 8113 8113 1158
 Width: 538
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 648.369 102.261<169.5 428.5>
 AnchorPoint: "Bottom" 248 -15 basechar 0
 LayerCount: 2

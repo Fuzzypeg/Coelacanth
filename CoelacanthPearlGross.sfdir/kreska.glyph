@@ -2,9 +2,8 @@ StartChar: kreska
 Encoding: 57996 57996 1192
 Width: 140
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 92 769 S 0.786478 0.628145 -0.707834 0.60853 665.77 345.646 2
-Validated: 1
 EndChar

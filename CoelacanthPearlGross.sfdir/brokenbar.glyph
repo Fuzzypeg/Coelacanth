@@ -2,12 +2,11 @@ StartChar: brokenbar
 Encoding: 166 166 669
 Width: 158
 VWidth: 1515
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 325 124 N 1 0 0 0.400216 0 -126.752 2
 Refer: 325 124 N 1 0 0 0.400216 0 429.248 2
-Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

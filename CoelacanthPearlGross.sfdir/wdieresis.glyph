@@ -2,12 +2,11 @@ StartChar: wdieresis
 Encoding: 7813 7813 624
 Width: 793
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 669.08 105.84<211.494 305.506 387.494 481.506>
 VStem: 204.32 108.36<676.114 767.915> 380.32 108.36<676.114 767.915>
 LayerCount: 2
 Fore
 Refer: 97 776 N 1 0 0 1 521.5 76 2
 Refer: 22 119 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar

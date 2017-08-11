@@ -2,7 +2,7 @@ StartChar: Igrave
 Encoding: 204 204 177
 Width: 453
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -3.31152 21G<69.4044 95.8013 360.571 387.271> 6.7168 668.642<153.972 307.858> 672.709 20G<74.9861 102.654 361.314 390.502>
 VStem: 153.011 155.869<90.577 590.006>
 AnchorPoint: "Bottom" 198 -15 basechar 0
@@ -11,7 +11,6 @@ LayerCount: 2
 Fore
 Refer: 96 58019 N 1 0 0 1 169 -20 2
 Refer: 34 73 N 1 0 0 1 0 0 3
-Validated: 5
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" igrave.pcap
 Substitution2: "c2sc-1" igrave.smcp

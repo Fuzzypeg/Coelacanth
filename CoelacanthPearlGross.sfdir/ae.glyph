@@ -3,6 +3,8 @@ Encoding: 230 230 322
 Width: 672
 VWidth: 1159
 Flags: HW
+AnchorPoint: "Bottom" 331 -15 basechar 0
+AnchorPoint: "Top" 340 537 basechar 0
 LayerCount: 2
 Back
 SplineSet
