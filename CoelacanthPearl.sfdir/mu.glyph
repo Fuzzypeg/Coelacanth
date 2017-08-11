@@ -27,7 +27,6 @@ SplineSet
  88 393 l 1
  89 404 148 425 164 410 c 1
 EndSplineSet
-Validated: 33
 Substitution2: "pcap-1" m.pcap
 Substitution2: "smcp-1" m.smcp
 EndChar

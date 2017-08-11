@@ -8,8 +8,18 @@ HStem: 1 33<183.15 299.348> 358 36<160.377 282.898>
 VStem: 35 73<109.281 280.474> 348 79<105.768 284.433>
 LayerCount: 2
 Fore
-Refer: 63 48 N 1 0 0 1 -20 0 2
-Validated: 1
+SplineSet
+214 358 m 7
+ 140 358 108 284 108 215 c 7
+ 108 118 149 34 249 34 c 7
+ 328 34 348 120 348 183 c 7
+ 348 280 314 358 214 358 c 7
+234 394 m 7
+ 341 394 427 303 427 194 c 7
+ 427 88 346 1 235 1 c 7
+ 124 1 35 88 35 194 c 7
+ 35 301 126 394 234 394 c 7
+EndSplineSet
 Substitution2: "pnum-1" zero
 Substitution2: "lnum-1" zero.tabularlining
 Substitution2: "numr-1" zero.numerator

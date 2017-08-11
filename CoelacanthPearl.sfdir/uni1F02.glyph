@@ -3,7 +3,7 @@ Encoding: 7938 7938 1127
 Width: 538
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 480 56<133.336 184.86>
 VStem: 191.336 75<544.614 607.331>
 AnchorPoint: "Bottom" 248 -15 basechar 0

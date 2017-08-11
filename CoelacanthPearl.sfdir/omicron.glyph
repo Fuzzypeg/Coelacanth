@@ -19,7 +19,6 @@ SplineSet
  458 61 356 -10 254 -10 c 3
  129 -10 52 112 52 209 c 3
 EndSplineSet
-Validated: 1
 Substitution2: "pcap-1" o.pcap
 Substitution2: "smcp-1" o.smcp
 EndChar

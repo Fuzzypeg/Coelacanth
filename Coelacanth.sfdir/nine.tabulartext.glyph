@@ -3,11 +3,10 @@ Encoding: 58377 58377 681
 GlifName: nine.tabulartext
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 72 57 N 1 0 0 1 -5 0 2
-Validated: 1
 Substitution2: "pnum-1" nine
 Substitution2: "lnum-1" nine.tabularlining
 Substitution2: "numr-1" nine.numerator

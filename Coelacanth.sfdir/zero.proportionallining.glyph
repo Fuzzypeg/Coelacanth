@@ -1,15 +1,25 @@
 StartChar: zero.proportionallining
 Encoding: 58388 58388 901
 GlifName: zero.proportionallining
-Width: 500
+Width: 502
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 33<219.172 311.266> 620 36<184.683 286.028>
 VStem: 54 73<175.959 491.558> 367 79<157.951 499.232>
 LayerCount: 2
 Fore
-Refer: 682 58378 N 1 0 0 1 19 0 2
-Validated: 1
+SplineSet
+239 620 m 3
+ 161.509765625 620 128 543.399414062 128 354 c 3
+ 128 176.61328125 185.576171875 23 259 23 c 3
+ 345.979492188 23 368 107.064453125 368 322 c 3
+ 368 487.177734375 325.647460938 620 239 620 c 3
+259 656 m 3
+ 363.227539062 656 447 551.959960938 447 333 c 3
+ 447 101.875 361.78125 -10 245 -10 c 3
+ 139.549804688 -10 55 101.875 55 333 c 3
+ 55 548.728515625 148.286132812 656 259 656 c 3
+EndSplineSet
 Substitution2: "tnum-1" zero.tabularlining
 Substitution2: "onum-1" zero
 Substitution2: "numr-1" zero.numerator

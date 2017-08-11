@@ -4,7 +4,7 @@ Width: 417
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
 InSpiro: 1
-Flags: W
+Flags: HW
 HStem: 632.951 193.429
 VStem: 230.89 230.611
 AnchorPoint: "Bottom" 207 -15 basechar 0

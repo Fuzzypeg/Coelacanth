@@ -3,7 +3,7 @@ Encoding: 58384 58384 688
 GlifName: six.tabularlining
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 40<216.589 316.29> 338 44<202.153 302.825>
 VStem: 59 72<136.697 371.449> 363 64<103.692 263.496>
 LayerCount: 2
@@ -23,7 +23,6 @@ SplineSet
  119.85546875 -9 59 132.924346924 59 232 c 3
  59 440.687345065 183 606.350961538 357 667 c 9
 EndSplineSet
-Validated: 1
 Substitution2: "pnum-1" six.proportionallining
 Substitution2: "onum-1" six.tabulartext
 Substitution2: "numr-1" six.numerator

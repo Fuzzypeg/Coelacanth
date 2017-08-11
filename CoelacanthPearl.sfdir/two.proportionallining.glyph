@@ -1,14 +1,13 @@
 StartChar: two.proportionallining
 Encoding: 58390 58390 903
-Width: 475
+Width: 623
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -6.54492 15.6328G<37.4619 56.5212 380.648 395.273> 0.992188 76.8711<140.71 306.674> 546.687 90.0449<164.098 284.535>
 VStem: 307.269 94.7588<380.89 523.511>
 LayerCount: 2
 Fore
-Refer: 684 58380 N 1 0 0 1 -2 0 2
-Validated: 1
+Refer: 684 58380 N 1 0 0 1 49 0 2
 Substitution2: "tnum-1" two.tabularlining
 Substitution2: "onum-1" two
 Substitution2: "numr-1" two.numerator
