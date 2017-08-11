@@ -2,11 +2,10 @@ StartChar: approxequal
 Encoding: 8776 8776 1317
 Width: 463
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 109.276 84.5838<291.937 369.166> 172.281 83.9053<136.77 222.297> 233.276 84.5838<291.937 369.166> 296.281 83.9053<136.77 222.297>
 LayerCount: 2
 Fore
 Refer: 1521 8764 S 1 0 0 1 0 -70 2
 Refer: 1521 8764 S 1 0 0 1 0 54 2
-Validated: 1
 EndChar

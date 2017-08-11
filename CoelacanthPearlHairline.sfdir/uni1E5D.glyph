@@ -2,12 +2,11 @@ StartChar: uni1E5D
 Encoding: 7773 7773 814
 Width: 406
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -183.825 109.65<111.502 208.498> 597.674 59.6523<51 310>
 VStem: 104.1 111.8<-176.538 -81.432>
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 352 0 2
 Refer: 584 7771 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

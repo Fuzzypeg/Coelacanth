@@ -2,12 +2,11 @@ StartChar: omacron.smcp
 Encoding: 57764 57764 2123
 Width: 673
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -15.858 74.9411<273.024 431.504> 491.323 76.6295<237.92 401.754> 743.674 59.6523<226.5 485.5>
 VStem: 34.0109 116.953<183.715 382.171> 525.047 108.837<167.936 363.427>
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 527.5 146 2
 Refer: 2044 57685 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

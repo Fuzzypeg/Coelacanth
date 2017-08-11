@@ -3,7 +3,7 @@ Encoding: 8114 8114 1159
 Width: 538
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -295 44.4951<232.881 303.245> 630 189.38
 VStem: 138.889 215.611 191.95 65.9873<-249.952 -89.5438> 205.954 71.1582<-220.355 -87.5068>
 LayerCount: 2

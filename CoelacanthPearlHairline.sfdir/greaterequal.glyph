@@ -2,7 +2,7 @@ StartChar: greaterequal
 Encoding: 8805 8805 1320
 Width: 463
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 60.131 65.739<34 428>
 LayerCount: 2
 Fore
@@ -17,6 +17,5 @@ SplineSet
  35 360.314453125 l 1
 EndSplineSet
 Refer: 330 8722 N 1 0 0 1 0 -124 2
-Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

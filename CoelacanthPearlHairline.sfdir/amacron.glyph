@@ -2,13 +2,12 @@ StartChar: amacron
 Encoding: 257 257 135
 Width: 442
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 597.674 59.6523<93 352>
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 394 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" amacron.smcp
 Substitution2: "case-1" Amacron
 Substitution2: "pcap-1" amacron.pcap

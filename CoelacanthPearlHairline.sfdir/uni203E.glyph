@@ -2,10 +2,9 @@ StartChar: uni203E
 Encoding: 8254 8254 1292
 Width: 463
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 830.217 53.5652<0 463>
 LayerCount: 2
 Fore
 Refer: 338 95 N 1 0 0 1 0 997 2
-Validated: 1
 EndChar

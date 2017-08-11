@@ -5,7 +5,7 @@ VWidth: 1159
 Flags: HMW
 AnchorPoint: "Bottom" 135 -15 basechar 0
 AnchorPoint: "Ogonek" 189 18 basechar 0
-AnchorPoint: "Top" 145 537 basechar 0
+AnchorPoint: "Top" 133 537 basechar 0
 LayerCount: 2
 Back
 SplineSet
@@ -60,7 +60,6 @@ SplineSet
  162 483 163 441.396078054 163 421 c 0
  163 376.666826071 163 231.000382571 163 212 c 3
 EndSplineSet
-Validated: 33
 Substitution2: "case-1" I
 Substitution2: "pcap-1" i.pcap
 Substitution2: "smcp-1" i.smcp

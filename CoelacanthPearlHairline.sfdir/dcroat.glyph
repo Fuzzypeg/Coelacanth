@@ -3,7 +3,7 @@ Encoding: 273 273 341
 Width: 525
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 599.75 66.5<201 499>
 AnchorPoint: "Bottom" 224 -15 basechar 0
 LayerCount: 2
