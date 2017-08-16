@@ -2,7 +2,7 @@ StartChar: uni1ECD.smcp
 Encoding: 57967 57967 2326
 Width: 673
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -183.825 109.65<281.502 378.498> -15.858 74.9411<273.024 431.504> 491.323 76.6295<237.92 401.754>
 VStem: 34.0109 116.953<183.715 382.171> 274.1 111.8<-176.538 -81.432> 525.047 108.837<167.936 363.427>
 AnchorPoint: "Top" 329 539 basechar 0
@@ -10,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 272 803 N 1 0 0 1 524 0 2
 Refer: 2044 57685 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

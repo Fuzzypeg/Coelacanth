@@ -6,7 +6,7 @@ UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -172 50.1914<157.034 244.15>
 VStem: 244.175 58.4277<-118.562 -80.38>
-AnchorPoint: "Top" 231 465 basechar 0
+AnchorPoint: "Top" 252 537 basechar 0
 AnchorPoint: "Bottom" 228 -207 basechar 0
 LayerCount: 2
 Fore

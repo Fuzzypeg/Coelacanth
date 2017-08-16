@@ -2,14 +2,13 @@ StartChar: Ldot
 Encoding: 319 319 779
 Width: 787
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -15.332 21G<597.499 626.802> -3.39746 95.0742<67.4131 123.331> 5.60254 90.1123<298.887 507.83> 156.443 234.318<668.481 720.232> 667.882 19.8271G<55.1699 82.852 358.327 381.293>
 VStem: 127.584 161.674<95.0364 589.493> 577.68 233.639<248.017 297.427>
 LayerCount: 2
 Fore
 Refer: 461 183 N 1 0 0 1 586 0 2
 Refer: 37 76 N 1 0 0 1 0 0 2
-Validated: 5
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ldot.pcap
 Substitution2: "c2sc-1" ldot.smcp

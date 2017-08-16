@@ -3,12 +3,12 @@ Encoding: 810 810 695
 Width: 0
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
-HStem: -93.9485 43.7153<-307 -82>
+Flags: HW
+HStem: -104 56.0006<-307 -82>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore
-Refer: 1968 58113 N 0 0.115 -0.875 0 -109 -163 2
-Refer: 1968 58113 N 0 0.115 -0.875 0 -280 -163 2
-Refer: 1970 58115 S 0.225 0 0 0.780631 -307 -72.0908 2
+Refer: 1968 58113 N 0 0.115 -1 0 -110 -163 2
+Refer: 1968 58113 N 0 0.115 -1 0 -279 -163 2
+Refer: 1970 58115 N 0.225 0 0 1.00001 -307 -76 2
 EndChar

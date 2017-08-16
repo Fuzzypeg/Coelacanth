@@ -1,13 +1,13 @@
 StartChar: uni01C6
 Encoding: 454 454 515
-Width: 964
+Width: 1117
 VWidth: 0
 Flags: H
 HStem: 569.199 167.801
 VStem: 664.2 312.5
 LayerCount: 2
 Fore
-Refer: 248 382 N 1 0 0 1 511 0 2
+Refer: 248 382 N 1 0 0 1 525 0 2
 Refer: 3 100 N 1 0 0 1 0 0 2
 Substitution2: "case-1" uni01C4
 EndChar

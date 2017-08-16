@@ -2,13 +2,12 @@ StartChar: uni01F5
 Encoding: 501 501 312
 Width: 467
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 574 189.38
 VStem: 172.389 215.611
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 405 0 2
 Refer: 6 103 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "case-1" uni01F4
 EndChar

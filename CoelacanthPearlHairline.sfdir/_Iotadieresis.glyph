@@ -2,14 +2,13 @@ StartChar: Iotadieresis
 Encoding: 938 938 1000
 Width: 453
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -13 55<70.2364 197.041> 634 55<75.6538 206.152 263.766 390.218> 760.429 89.1424<35.5415 114.459 227.541 306.459>
 VStem: 29.5193 90.9613<766.353 843.671> 202 57<56.248 620.751> 221.519 90.9613<766.353 843.671>
 LayerCount: 2
 Fore
 Refer: 163 58024 N 1 0 0 1 21 0 2
 Refer: 984 921 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" idieresis.pcap
 Substitution2: "c2sc-1" idieresis.smcp

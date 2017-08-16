@@ -2,12 +2,11 @@ StartChar: uni1E59
 Encoding: 7769 7769 583
 Width: 406
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 594.175 109.65<127.502 224.498>
 VStem: 120.1 111.8<601.462 696.568>
 LayerCount: 2
 Fore
 Refer: 49 775 N 1 0 0 1 352 0 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

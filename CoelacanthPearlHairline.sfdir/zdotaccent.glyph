@@ -2,14 +2,13 @@ StartChar: zdotaccent
 Encoding: 380 380 266
 Width: 592
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 594.175 109.65<261.502 358.498>
 VStem: 254.1 111.8<601.462 696.568>
 LayerCount: 2
 Fore
 Refer: 49 775 N 1 0 0 1 486 0 2
 Refer: 25 122 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" zdotaccent.smcp
 Substitution2: "case-1" Zdotaccent
 Substitution2: "pcap-1" zdotaccent.pcap
