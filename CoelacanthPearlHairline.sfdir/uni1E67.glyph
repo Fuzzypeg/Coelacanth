@@ -2,14 +2,13 @@ StartChar: uni1E67
 Encoding: 7783 7783 813
 Width: 396
 VWidth: 1159
-Flags: W
-HStem: 498.319 129.361 646.575 109.65<162.002 258.998>
-VStem: 78.2197 268.561 154.6 111.8<653.862 748.968>
+Flags: HW
+HStem: 498.319 131.361 635.1 132.6<155.365 265.635>
+VStem: 78.2197 268.561 142.9 135.2<647.369 755.479>
 AnchorPoint: "Bottom" 162 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 18 115 N 1 0 0 1 0 0 2
 Refer: 473 58083 N 1 0 0 1 410 24 2
 Refer: 49 775 N 1 0 0 1 386.5 52.4 2
-Validated: 5
 EndChar

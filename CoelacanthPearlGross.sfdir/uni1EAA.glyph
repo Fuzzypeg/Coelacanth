@@ -2,14 +2,14 @@ StartChar: uni1EAA
 Encoding: 7850 7850 831
 Width: 733
 VWidth: 1159
-Flags: HW
-HStem: 814.222 82.3499<392.652 468.467> 859.551 81.8197<298.91 379.756>
+Flags: W
+HStem: 814.222 82.3499<392.651 468.467> 859.551 81.8197<298.91 379.756>
 VStem: 219.468 324.946
 AnchorPoint: "Bottom" 363 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 161 58022 N 1 0 0 0.957557 216 91.8332 2
-Refer: 159 58020 N 1 0 0 1 230 -45 2
+Refer: 159 58020 S 1 0 0 0.933996 242 19.7899 2
+Refer: 161 58022 S 1 0 0 0.875633 228 161.276 2
 Refer: 26 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

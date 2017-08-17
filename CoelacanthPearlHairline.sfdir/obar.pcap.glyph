@@ -6,8 +6,10 @@ UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -15.6211 76.5928<236.145 382.52> 221.5 49<66 504> 421.33 78.4844<207.528 354.482>
 VStem: 27.3418 114.772<154.821 341.939> 453.23 105.261<145.562 321.729>
+AnchorPoint: "Bottom" 301 -15 basechar 0
+AnchorPoint: "Top" 304 537 basechar 0
 LayerCount: 2
 Fore
-Refer: 1968 58113 S 0.438 0 0 0.875 73 253 2
+Refer: 1968 58113 N 0.438 0 0 0.875 73 253 2
 Refer: 657 57361 N 1 0 0 1 0 0 3
 EndChar

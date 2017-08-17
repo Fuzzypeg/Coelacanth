@@ -1,12 +1,12 @@
 StartChar: uni1EF9
 Encoding: 7929 7929 724
 Width: 529
-VWidth: 0
-Flags: HW
-HStem: 665.408 86<281.831 350.451> 712.746 85.4463<196.986 270.16>
-VStem: 125.084 294.106
+VWidth: 1159
+Flags: W
+HStem: 582.408 86<275.331 343.951> 629.746 85.4463<190.486 263.66>
+VStem: 118.584 294.106
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 442.5 83 2
+Refer: 100 771 N 1 0 0 1 436 0 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 EndChar

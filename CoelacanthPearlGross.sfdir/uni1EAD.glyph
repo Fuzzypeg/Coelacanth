@@ -1,12 +1,12 @@
 StartChar: uni1EAD
 Encoding: 7853 7853 822
 Width: 442
-VWidth: 0
-Flags: HW
-HStem: -206.775 155.55<142.029 261.971> 628 167.801
-VStem: 68.7998 312.5 122.7 158.6<-187.754 -70.173>
+VWidth: 1159
+Flags: W
+HStem: -157.1 114.4<154.151 249.25> 576 155.801
+VStem: 75.2998 288.5 143.4 116.6<-146.514 -53.2433>
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 399.5 64 2
+Refer: 93 770 N 1 0 0 1 394 0 2
 Refer: 722 7841 N 1 0 0 1 0 0 3
 EndChar
