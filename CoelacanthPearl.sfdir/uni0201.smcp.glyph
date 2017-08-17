@@ -2,11 +2,10 @@ StartChar: uni0201.smcp
 Encoding: 57828 57828 2189
 Width: 615
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -8 68<38.3653 85.7676 173.998 196 417 423.311> 0 59<540.002 585.395> 148 64<221 382> 554 20G<286 359>
 LayerCount: 2
 Fore
 Refer: 104 783 N 1 0 0 1 496 62 2
 Refer: 2032 57671 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

@@ -2,14 +2,13 @@ StartChar: Ycircumflex
 Encoding: 374 374 241
 Width: 736
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -10.5371 93.9883<225.405 291.571> 588.943 88.4482<521.524 608.383> 667.688 19.0859G<48.2878 69.7002 283.784 296.978 491.004 504.359 676.979 689.45>
 VStem: 315.135 155.711<107.061 290.945>
 LayerCount: 2
 Fore
 Refer: 159 58020 N 1 0 0 1 246 -20 2
 Refer: 57 89 N 1 0 0 1 0 0 3
-Validated: 5
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ycircumflex.pcap
 Substitution2: "c2sc-1" ycircumflex.smcp

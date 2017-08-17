@@ -2,14 +2,9 @@ StartChar: uni0316
 Encoding: 790 790 2026
 Width: 0
 VWidth: 1159
-Flags: W
-HStem: -393.514 193.429
-VStem: -273.152 230.611
-AnchorPoint: "BottomMark" -193.152 -16.1338 mark 0
-AnchorPoint: "Bottom" -190.652 -15.1338 mark 0
-AnchorPoint: "BottomMark" -194.152 -231.134 basemark 0
+Flags: HW
+AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore
-Refer: 94 768 N -1 0 0 -1 -389.152 369.866 2
-Validated: 1
+Refer: 94 768 N -0.975783 -0.218741 0.218741 -0.975783 -504.262 502.093 2
 EndChar

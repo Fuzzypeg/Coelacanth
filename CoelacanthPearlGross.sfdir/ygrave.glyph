@@ -2,7 +2,7 @@ StartChar: ygrave
 Encoding: 7923 7923 728
 Width: 529
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 569.951 193.429
 VStem: 89.3887 230.611
 LayerCount: 2
