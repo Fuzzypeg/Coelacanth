@@ -2,7 +2,7 @@ StartChar: uni1E29
 Encoding: 7721 7721 797
 Width: 538
 VWidth: 1159
-Flags: W
+Flags: HW
 VStem: 273 63.126<-165.104 -94.3473>
 AnchorPoint: "Top" 120 733 basechar 0
 LayerCount: 2
