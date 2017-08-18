@@ -8,5 +8,5 @@ VStem: -273.3 158.6<-187.754 -70.173>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 -18 -778 2
+Refer: 49 775 S 1 0 0 0.879297 -18 -679.052 2
 EndChar

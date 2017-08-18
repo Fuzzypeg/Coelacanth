@@ -2,13 +2,13 @@ StartChar: uni01DC
 Encoding: 476 476 717
 Width: 539
 VWidth: 1159
-Flags: HW
+Flags: W
 HStem: 548.08 105.84<143.494 237.506 319.494 413.506>
 VStem: 136.32 108.36<555.114 646.915> 312.32 108.36<555.114 646.915>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 453.5 -45 2
-Refer: 94 768 S 0.971389 0.00670651 0.0829426 0.927082 374.002 125.716 2
+Refer: 472 58082 S 0.994853 -0.101328 0.101328 0.994853 406.624 83.6156 2
+Refer: 97 776 N 1 0 0 1 446.5 -49 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" uni01DC.pcap
 Substitution2: "smcp-1" uni01DC.smcp

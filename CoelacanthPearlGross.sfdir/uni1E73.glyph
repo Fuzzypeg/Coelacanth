@@ -2,7 +2,7 @@ StartChar: uni1E73
 Encoding: 7795 7795 598
 Width: 539
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -175.92 105.84<140.994 235.006 316.994 411.006>
 VStem: 133.82 108.36<-168.886 -77.0848> 309.82 108.36<-168.886 -77.0848>
 LayerCount: 2
