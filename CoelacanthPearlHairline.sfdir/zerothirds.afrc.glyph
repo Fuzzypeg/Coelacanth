@@ -9,7 +9,8 @@ LayerCount: 2
 Fore
 Refer: 1968 58113 N 0.394 0 0 0.875 69 342 2
 Refer: 1401 8323 N 1 0 0 1 129 82 2
-Refer: 1397 8320 N 1 0 0 1 98 496 2
+Refer: 1397 8320 S 1 0 0 1 98 496 2
+LCarets2: 2 0 0
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2189
 Ligature2: "'afrc' Nut Fractions lookup 23-1" zero.numerator fraction three.denom
 Substitution2: "'zero' Slashed Zero lookup 22-1" zerothirds.afrcalt
