@@ -1,12 +1,12 @@
 StartChar: uni1E8F
 Encoding: 7823 7823 634
 Width: 529
-VWidth: 0
-Flags: HW
-HStem: 647.225 155.55<195.029 314.971>
-VStem: 175.7 158.6<666.246 783.827>
+VWidth: 1159
+Flags: W
+HStem: 582.7 132.6<204.865 315.135>
+VStem: 192.4 135.2<594.969 703.079>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 431 76 2
+Refer: 49 775 N 1 0 0 1 436 0 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 EndChar

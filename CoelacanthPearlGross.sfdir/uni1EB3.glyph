@@ -2,13 +2,13 @@ StartChar: uni1EB3
 Encoding: 7859 7859 847
 Width: 452
 VWidth: 1159
-Flags: HW
+Flags: W
 HStem: 620 76.7188<150.897 298.386> 671 21G<229.844 288.5> 761 60<203.394 255.19>
 VStem: 72.3477 305.357 255.5 68.5<729.662 760.626>
 AnchorPoint: "Bottom" 193 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 748 777 N 1 0 0 1 428.5 94 2
+Refer: 748 777 S 1 0 0 1 428.5 94 2
 Refer: 105 774 S 1 0 0 1 425.5 -28 2
 Refer: 0 97 N 1 0 0 1 0 0 2
 EndChar

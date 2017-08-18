@@ -1,14 +1,13 @@
 StartChar: uni1E6C
 Encoding: 7788 7788 593
 Width: 726
-VWidth: 0
-Flags: HW
-HStem: -191.681 139.362<303.328 410.672>
-VStem: 286.029 141.942<-174.64 -69.2951>
+VWidth: 1159
+Flags: W
+HStem: -154.4 118.8<317.656 416.344>
+VStem: 306.5 121<-143.408 -46.5488>
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 551 0 2
+Refer: 283 58031 N 1 0 0 1 561 0 2
 Refer: 45 84 N 1 0 0 1 0 0 3
-Validated: 5
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

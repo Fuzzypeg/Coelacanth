@@ -2,7 +2,7 @@ StartChar: uni1EAA
 Encoding: 7850 7850 831
 Width: 733
 VWidth: 1159
-Flags: HW
+Flags: W
 HStem: 814.222 82.3499<392.651 468.467> 859.551 81.8197<298.91 379.756>
 VStem: 219.468 324.946
 AnchorPoint: "Bottom" 363 -15 basechar 0

@@ -9,7 +9,7 @@ AnchorPoint: "Ogonek" 566 15 basechar 0
 AnchorPoint: "Bottom" 327 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 162 58023 N 1 0 0 1 187 -20 2
+Refer: 162 58023 S 1 0 0 1 187 -20 2
 Refer: 30 69 N 1 0 0 1 0 0 3
 Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100

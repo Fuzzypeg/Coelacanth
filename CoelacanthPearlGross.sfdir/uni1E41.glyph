@@ -1,12 +1,12 @@
 StartChar: uni1E41
 Encoding: 7745 7745 569
 Width: 816
-VWidth: 0
-Flags: HW
-HStem: 647.225 155.55<369.529 489.471>
-VStem: 350.2 158.6<666.246 783.827>
+VWidth: 1159
+Flags: W
+HStem: 582.7 132.6<354.865 465.135>
+VStem: 342.4 135.2<594.969 703.079>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 605.5 76 2
+Refer: 49 775 N 1 0 0 1 586 0 2
 Refer: 12 109 N 1 0 0 1 0 0 3
 EndChar
