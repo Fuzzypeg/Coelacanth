@@ -1,12 +1,12 @@
 StartChar: uni1E91.smcp
 Encoding: 57937 57937 2298
-Width: 565
+Width: 593
 VWidth: 1159
-Flags: HW
-HStem: 0.3 33<168.7 410.092> 454.4 33.2<117.652 395.8> 702 167.801
-VStem: 157.8 312.5
+Flags: W
+HStem: -6 21G<46.8814 78.5> 1 71<208 483.545> 489 75<142 415> 638 155.801
+VStem: 174.3 288.5
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 488.5 138 2
+Refer: 93 770 N 1 0 0 1 484 42 2
 Refer: 2057 57696 N 1 0 0 1 0 0 3
 EndChar
