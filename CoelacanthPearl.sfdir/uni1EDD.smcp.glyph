@@ -1,6 +1,6 @@
 StartChar: uni1EDD.smcp
 Encoding: 57975 57975 2336
-Width: 673
+Width: 659
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -10,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 94 768 N 1 0 0 1 527.5 130 2
 Refer: 2152 57791 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar

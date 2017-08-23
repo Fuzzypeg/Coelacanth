@@ -1,13 +1,12 @@
 StartChar: uni1EF7.smcp
 Encoding: 57988 57988 2349
-Width: 610
+Width: 599
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 69<202.522 271.331 380.733 453.232> 498 71<41.589 80.8037 419.493 442.762> 672 21G<312.844 371.5> 762 60<286.394 338.19>
 VStem: 273 107<70.375 237.481> 338.5 68.5<730.662 761.626>
 LayerCount: 2
 Fore
 Refer: 748 777 N 1 0 0 1 511.5 95 2
 Refer: 2056 57695 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

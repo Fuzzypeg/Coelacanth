@@ -1,11 +1,11 @@
 StartChar: i.smcp
 Encoding: 57679 57679 2040
-Width: 404
+Width: 400
 VWidth: 1159
 Flags: W
-HStem: -8 21G<66.0556 90 318 341.471> 501 72<71.5139 148.506>
-VStem: 154 105<64.8722 492.53>
-AnchorPoint: "Top" 209 599 basechar 0
+HStem: -8 66<247.449 314.53> 438 71<69.5139 135.452 252.508 318.493>
+VStem: 140 104<63.5768 428.84>
+AnchorPoint: "Top" 209 580 basechar 0
 AnchorPoint: "Bottom" 209 -15 basechar 0
 LayerCount: 2
 Fore
@@ -28,5 +28,4 @@ SplineSet
  150 492 122 494 67 501 c 1
  72 573 l 1
 EndSplineSet
-Validated: 1
 EndChar

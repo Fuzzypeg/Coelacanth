@@ -1,13 +1,12 @@
 StartChar: uni0203.smcp
 Encoding: 57829 57829 2190
-Width: 615
+Width: 604
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -8 68<38.3653 85.7676 173.998 196 417 423.311> 0 59<540.002 585.395> 148 64<221 382> 554 20G<286 359> 696.531 76.7188<248.114 395.603>
 VStem: 168.795 305.357
 LayerCount: 2
 Fore
-Refer: 109 785 N 1 0 0 1 496 62 2
+Refer: 109 785 N 1 0 0 1 489 43 2
 Refer: 2032 57671 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

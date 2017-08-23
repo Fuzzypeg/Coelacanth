@@ -1,12 +1,12 @@
 StartChar: c.smcp
 Encoding: 57673 57673 2034
-Width: 604
+Width: 593
 VWidth: 1159
 Flags: W
-HStem: -15 72<259.739 439.914> 504 70<248.344 422.165>
-VStem: 31 110<174.191 382.462> 486 64<402.356 446.517> 512 61<130.219 163.836>
-AnchorPoint: "Top" 338 599 basechar 0
-AnchorPoint: "Bottom" 342 -15 basechar 0
+HStem: -14 70<225.77 388.056> 440 70<214.501 370.255>
+VStem: 24 107<148.163 345.732> 398 90<344.375 413.654> 445 63<115.501 149>
+AnchorPoint: "Top" 326 580 basechar 0
+AnchorPoint: "Bottom" 324 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -27,5 +27,4 @@ SplineSet
  483 14 432 -15 353 -15 c 7
  160 -15 31 98 31 264 c 3xe8
 EndSplineSet
-Validated: 33
 EndChar
