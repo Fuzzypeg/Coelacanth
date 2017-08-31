@@ -4,8 +4,8 @@ Width: 417
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: 495 22<122.336 165.529> 619.8 74<146.337 187.96>
-VStem: 195.336 45<532.916 606.114>
+HStem: 480 56<107.336 158.86>
+VStem: 165.336 75<544.614 607.331>
 AnchorPoint: "Bottom" 207 -15 basechar 0
 LayerCount: 2
 Fore

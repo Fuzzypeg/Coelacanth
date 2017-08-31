@@ -2,9 +2,9 @@ StartChar: a.pcap
 Encoding: 57347 57347 642
 Width: 472
 VWidth: 1159
-Flags: HW
-HStem: -7 25<34 58.0979 295 312.5> 138 30<175 275.575> 395 20G<232.5 267>
-VStem: 234 31<355.154 415>
+Flags: W
+HStem: -4 24<47 72.9997 365 385.073 410.171 426.474> 142 24<162 327> 395 20G<236.875 261.25>
+AnchorPoint: "Ogonek" 385 27 basechar 0
 AnchorPoint: "Top" 250 465 basechar 0
 AnchorPoint: "Bottom" 239 -15 basechar 0
 LayerCount: 2

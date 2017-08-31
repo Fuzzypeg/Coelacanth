@@ -1,11 +1,12 @@
 StartChar: iotadieresistonos
 Encoding: 912 912 1115
-Width: 292
+Width: 336
 VWidth: 0
 Flags: HW
+AnchorPoint: "Bottom" 159 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 967 901 N 1 0 0 1 2.5 63 2
+Refer: 967 901 N 1 0 0 1 42 0 2
 Refer: 1011 953 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" idieresis.smcp
 Substitution2: "pcap-1" idieresis.pcap

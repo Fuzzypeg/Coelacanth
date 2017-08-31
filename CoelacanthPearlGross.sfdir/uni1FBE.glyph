@@ -1,11 +1,9 @@
 StartChar: uni1FBE
 Encoding: 8126 8126 1609
-Width: 95
-Flags: W
-HStem: -295 44.4951<46.4591 116.823>
-VStem: 5.52832 65.9873<-249.952 -89.5438> 19.5322 71.1582<-220.355 -87.5068>
+Width: 292
+VWidth: 1043
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 961 890 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1011 953 N 1 0 0 1 0 0 3
 EndChar

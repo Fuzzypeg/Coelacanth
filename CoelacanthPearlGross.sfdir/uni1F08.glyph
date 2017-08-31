@@ -3,8 +3,8 @@ Encoding: 7944 7944 1464
 Width: 733
 VWidth: 1159
 Flags: HW
-HStem: 518.048 23.76<118.19 164.839> 652.832 79.92<144.112 189.064>
-VStem: 197.03 48.6<558.997 638.051>
+HStem: 501.848 60.48<101.99 157.637>
+VStem: 164.63 81<571.631 639.366>
 AnchorPoint: "Bottom" 353 -15 basechar 0
 AnchorPoint: "Top" 367 699 basechar 0
 LayerCount: 2
