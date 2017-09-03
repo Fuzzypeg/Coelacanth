@@ -36,7 +36,6 @@ SplineSet
  397 82 442 184 442 241 c 3
  442 324 361 427 249 427 c 3
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" P
 Substitution2: "pcap-1" p.pcap
 Substitution2: "smcp-1" p.smcp
