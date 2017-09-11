@@ -1,15 +1,14 @@
 StartChar: Eta
 Encoding: 919 919 982
 Width: 893
-Flags: W
+Flags: HW
 HStem: -7 76<69 130.81 613.132 657.07> 311 68<246 662> 617 69<604.594 656.451> 623 70<778.152 821.5>
 VStem: 136 110<69.0823 311 379 605.175> 657 120<385.053 613.034> 662 106<72.4788 312 379 499.728>
-AnchorPoint: "Top" 427 699 basechar 0
-AnchorPoint: "Bottom" 419 -15 basechar 0
+AnchorPoint: "Bottom" 455 -15 basechar 0
+AnchorPoint: "Top" 458 679 basechar 0
 LayerCount: 2
 Fore
-Refer: 33 72 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 33 72 S 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" h.pcap
 Substitution2: "c2sc-1" h.smcp

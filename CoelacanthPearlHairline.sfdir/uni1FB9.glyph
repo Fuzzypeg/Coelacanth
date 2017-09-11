@@ -3,10 +3,10 @@ Encoding: 8121 8121 1487
 Width: 733
 VWidth: 1159
 Flags: W
-HStem: 772.475 58.6589<210 521>
+HStem: 742 79.6085<210 521>
+AnchorPoint: "Bottom" 368 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 160 58021 N 1 0 0 1 217 0 2
+Refer: 160 58021 N 1 0 0 1 232 -20 2
 Refer: 976 913 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

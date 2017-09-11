@@ -1,14 +1,14 @@
 StartChar: iotatonos
 Encoding: 943 943 1107
-Width: 292
-VWidth: 1159
+Width: 345
+VWidth: 1043
 Flags: HW
-HStem: 637 189.38
-VStem: 136.89 215.611
-AnchorPoint: "Bottom" 140 -15 basechar 0
+HStem: 632.951 193.429
+VStem: 136.89 230.611
+AnchorPoint: "Bottom" 159 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 966 900 N 1 0 0 1 116.499 63 2
+Refer: 966 900 N 1 0 0 1 144 0 2
 Refer: 1011 953 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" i.smcp
 Substitution2: "pcap-1" i.pcap

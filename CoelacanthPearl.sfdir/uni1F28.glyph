@@ -4,10 +4,10 @@ Width: 1015
 Flags: HW
 HStem: -7 76<217 278.81 761.132 805.07> 311 68<394 810> 501.848 60.48<-19.0091 36.6371> 617 69<752.594 804.451> 623 70<926.152 969.5>
 VStem: 43.6309 81<571.631 639.366> 284 110<69.0823 311 379 605.175> 805 120<385.053 613.034> 810 106<72.4788 312 379 499.728>
-AnchorPoint: "Bottom" 578 -15 basechar 0
-AnchorPoint: "Top" 586 699 basechar 0
+AnchorPoint: "Top" 580 679 basechar 0
+AnchorPoint: "Bottom" 577 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 1608 8127 N 1.08 0 0 1.08 -43.2735 -43.472 2
-Refer: 982 919 N 1 0 0 1 122 0 2
+Refer: 982 919 S 1 0 0 1 122 0 2
 EndChar

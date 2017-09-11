@@ -1,14 +1,13 @@
 StartChar: uni1FCE
 Encoding: 8142 8142 1603
-Width: 278
+Width: 356
 VWidth: 1043
-Flags: W
-HStem: 500 22<40.837 84.03> 624.8 74<64.838 106.461> 637 189.38
-VStem: 113.837 45<537.916 611.114> 172.391 215.611
-AnchorPoint: "Top" 140.501 464 mark 0
+Flags: HW
+HStem: 485 56<25.8369 77.3612> 632.951 193.429
+VStem: 83.8369 75<549.614 612.331> 172.391 230.611
+AnchorPoint: "Top" 146 537 mark 0
 LayerCount: 2
 Fore
-Refer: 1616 8189 N 1 0 0 1 53 1 2
-Refer: 1606 8127 N 1 0 0 1 -67 6 2
-Validated: 1
+Refer: 1616 8189 N 0.840039 0.542525 -0.542525 0.840039 497.246 51.7856 2
+Refer: 1606 8127 N 1 0 0 1 -8 6 2
 EndChar

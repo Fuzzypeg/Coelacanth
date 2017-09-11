@@ -1,15 +1,14 @@
 StartChar: Iotatonos
 Encoding: 906 906 972
-Width: 568
+Width: 572
 VWidth: 0
 Flags: W
-HStem: -13 55<297.236 424.041> 634 55<302.654 433.152 490.766 617.218> 676 189.38
-VStem: 20.3907 215.611 429 57<56.248 620.751>
+HStem: -8 21G<296.158 322.5 587.5 614.389> 671.951 193.429 672 20G<301.421 329.5 589 618.026>
+VStem: 20.3907 230.611 406 106<67.4773 555.247>
 LayerCount: 2
 Fore
-Refer: 966 900 N 1 0 0 1 0 102 2
-Refer: 984 921 S 1 0 0 1 227 0 2
-Validated: 1
+Refer: 966 900 N 0.83205 0.5547 -0.5547 0.83205 324.204 41.0978 2
+Refer: 984 921 N 1 0 0 1 119 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" i.pcap
 Substitution2: "c2sc-1" i.smcp

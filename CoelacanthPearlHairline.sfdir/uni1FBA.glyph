@@ -1,13 +1,12 @@
 StartChar: uni1FBA
 Encoding: 8122 8122 1618
-Width: 705
+Width: 733
 VWidth: 1159
-Flags: W
-AnchorPoint: "Bottom" 363 -15 basechar 0
-AnchorPoint: "Top" 377 699 basechar 0
+Flags: HW
+AnchorPoint: "Bottom" 368 -15 basechar 0
+AnchorPoint: "Top" 382 679 basechar 0
 LayerCount: 2
 Fore
-Refer: 2387 8175 S 1.08329 -0.191013 0.191013 1.08329 -70.2958 97.955 2
-Refer: 976 913 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 2387 8175 S 0.942898 -0.566521 0.566521 0.942898 -321.995 128.56 2
+Refer: 976 913 N 1 0 0 1 0 0 3
 EndChar

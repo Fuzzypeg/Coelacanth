@@ -1,6 +1,6 @@
 StartChar: iota
 Encoding: 953 953 1011
-Width: 336
+Width: 345
 VWidth: 1043
 Flags: HMW
 AnchorPoint: "Top" 200 537 basechar 0

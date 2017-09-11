@@ -1,0 +1,13 @@
+StartChar: uni1FF9
+Encoding: 8185 8185 2434
+Width: 838
+VWidth: 0
+Flags: HW
+AnchorPoint: "Top" 445 699 basechar 0
+AnchorPoint: "Bottom" 441 -15 basechar 0
+AnchorPoint: "Middle" 442.697 364.853 basechar 0
+LayerCount: 2
+Fore
+Refer: 1618 8189 N 0.912345 0.614516 -0.614516 0.912345 337.556 -17.0538 2
+Refer: 990 927 S 1 0 0 1 19 0 2
+EndChar

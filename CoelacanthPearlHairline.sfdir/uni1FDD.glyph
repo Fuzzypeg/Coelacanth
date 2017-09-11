@@ -1,14 +1,13 @@
 StartChar: uni1FDD
 Encoding: 8157 8157 1611
-Width: 278
+Width: 337
 VWidth: 1043
-Flags: W
-HStem: 494 22<63.807 107> 618.8 74<40.309 82.999>
-VStem: -11 44<532.962 604.962>
-AnchorPoint: "Top" 143.501 464 mark 0
+Flags: HW
+HStem: 479 56<69.4757 121>
+VStem: -12 75<543.614 606.331>
+AnchorPoint: "Top" 172 537 mark 0
 LayerCount: 2
 Fore
-Refer: 2387 8175 S 0.984808 -0.173648 0.173648 0.984808 -12.6018 86.4233 2
-Refer: 1614 8190 N 1 0 0 1 -75 0 2
-Validated: 1
+Refer: 2387 8175 N 0.818983 -0.573818 0.573818 0.818983 -234.201 231.479 2
+Refer: 1614 8190 N 0.96 0.28 -0.28 0.96 154.6 -22.2 2
 EndChar

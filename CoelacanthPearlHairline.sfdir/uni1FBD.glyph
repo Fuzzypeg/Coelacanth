@@ -2,12 +2,11 @@ StartChar: uni1FBD
 Encoding: 8125 8125 1605
 Width: 198
 VWidth: 1043
-Flags: W
-HStem: 494 22<107.837 151.03> 618.8 74<131.838 173.461>
-VStem: 180.837 45<531.916 605.114>
-AnchorPoint: "Top" 142.637 465 mark 0
+Flags: HW
+HStem: 479 56<92.8369 144.361>
+VStem: 150.837 75<543.614 606.331>
+AnchorPoint: "Top" 100 537 mark 0
 LayerCount: 2
 Fore
-Refer: 1606 8127 S 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1606 8127 N 1 0 0 1 0 0 2
 EndChar

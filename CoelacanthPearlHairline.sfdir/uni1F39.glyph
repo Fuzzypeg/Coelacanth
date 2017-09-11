@@ -1,14 +1,13 @@
 StartChar: uni1F39
 Encoding: 7993 7993 1550
-Width: 522
+Width: 564
 Flags: W
-HStem: -13 55<205.236 332.041> 516.048 23.76<70.9981 117.647> 634 55<210.654 341.152 398.766 525.218> 650.832 79.92<45.6202 91.7254>
-VStem: -9.7935 47.52<558.127 635.887> 337 57<56.248 620.751>
-AnchorPoint: "Top" 312 699 basechar 0
-AnchorPoint: "Bottom" 308 -15 basechar 0
+HStem: -8 21G<207.158 233.5 498.5 525.389> 501.848 60.48<-19.0091 36.6371> 672 20G<212.421 240.5 500 529.026>
+VStem: 43.6309 81<571.631 639.366> 317 106<67.4773 555.247>
+AnchorPoint: "Top" 344 679 basechar 0
+AnchorPoint: "Bottom" 345 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 1614 8190 S 1.08 0 0 1.08 -78.9135 -17.472 2
-Refer: 984 921 N 1 0 0 1 135 0 2
-Validated: 1
+Refer: 984 921 N 1 0 0 1 111 0 2
 EndChar

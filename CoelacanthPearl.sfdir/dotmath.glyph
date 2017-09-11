@@ -2,11 +2,10 @@ StartChar: dotmath
 Encoding: 8901 8901 1528
 Width: 200
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 185.443 176.317<84.6342 132.724>
 VStem: 21.6798 174.639<248.62 295.449>
 LayerCount: 2
 Fore
 Refer: 461 183 S 1 0 0 1 0 0 2
-Validated: 1
 EndChar

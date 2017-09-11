@@ -1,10 +1,10 @@
 StartChar: uni1FF6
 Encoding: 8182 8182 1356
-Width: 697
+Width: 801
 VWidth: 1036
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: 665 63.4082<434.947 499.86> 715.746 63.2539<342.664 410.789>
+HStem: 666.408 86<430.315 498.935> 713.746 85.4463<345.47 418.644>
 VStem: 273.568 294.106
 AnchorPoint: "Bottom" 334.485 -15 basechar 0
 LayerCount: 2
