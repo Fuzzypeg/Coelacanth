@@ -2,7 +2,7 @@ StartChar: afii57666
 Encoding: 1490 1490 2401
 Width: 405
 VWidth: 0
-Flags: HWO
+Flags: HW
 VStem: 256.917 31.4138<276.089 404.871>
 AnchorPoint: "HbMiddle" 158.2 292.52 basechar 0
 AnchorPoint: "HbTopLeft" 120.549 638.023 basechar 0

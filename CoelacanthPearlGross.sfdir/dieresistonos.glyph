@@ -2,10 +2,9 @@ StartChar: dieresistonos
 Encoding: 901 901 967
 Width: 317
 Flags: HMW
-AnchorPoint: "Top" 157.5 402 mark 0
 LayerCount: 2
 Fore
-Refer: 2359 57344 N 1 0 0 0.976744 261 485 2
-Refer: 2359 57344 N 1 0 0 0.976744 53 485 2
-Refer: 966 900 N 1 0 0 1 120 100 2
+Refer: 2359 57344 N 1.4616 0 0 1.42761 258 610 2
+Refer: 2359 57344 N 1.4616 0 0 1.42761 58 610 2
+Refer: 966 900 N 1 0 0 1 102 92 2
 EndChar
