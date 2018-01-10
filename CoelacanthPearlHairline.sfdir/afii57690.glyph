@@ -1,8 +1,8 @@
 StartChar: afii57690
-Encoding: 1514 1514 2427
+Encoding: 1514 1514 2425
 Width: 633
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 453.406 130.851<188.484 438.275>
 VStem: 493.313 22.9619<-8.71025 3.27295> 519.446 52.7867<39.0545 378.369>
 AnchorPoint: "HbTopLeft" 137.498 638.023 basechar 0
