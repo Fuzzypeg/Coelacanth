@@ -1,0 +1,11 @@
+StartChar: uni26B9
+Encoding: 9913 9913 2441
+Width: 607
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1971 58114 S -0.284 0.491902 -0.866025 -0.5 447 -1.95121 2
+Refer: 1971 58114 N 0.284 0.491902 -0.866025 0.5 163 -1.95121 2
+Refer: 1971 58114 N 0.568 0 0 1 21 244 2
+EndChar
