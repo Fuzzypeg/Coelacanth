@@ -2,12 +2,11 @@ StartChar: uni2070
 Encoding: 8304 8304 1331
 Width: 344
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 433.81 58.0342<129.981 229.622> 650.84 58.3115<114.774 214.266>
 VStem: 26.54 73.6611<522.905 635.642> 243.659 70.3408<506.272 621.813>
 LayerCount: 2
 Fore
 Refer: 1397 8320 S 1 0 0 1 0 514 2
-Validated: 1
 Substitution2: "'zero' Slashed Zero lookup 22-1" uni2070.alt
 EndChar

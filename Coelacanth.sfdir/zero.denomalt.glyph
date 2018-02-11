@@ -4,7 +4,7 @@ GlifName: zero.denomalt
 Width: 344
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -86 28<154.77 236.217> 231 29<129.227 215.365>
 VStem: 30 65<2.83811 174.204> 267 69<-5.81921 179.995>
 LayerCount: 2

@@ -4,7 +4,7 @@ GlifName: zero.numeratoralt
 Width: 345
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 260 28<154.77 236.217> 577 29<129.227 215.365>
 VStem: 30 65<348.838 520.204> 267 69<340.181 525.995>
 LayerCount: 2

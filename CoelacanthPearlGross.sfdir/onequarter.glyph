@@ -2,13 +2,12 @@ StartChar: onequarter
 Encoding: 188 188 932
 Width: 570
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -15.1914 59.2734<339.626 421.19 495.039 513.638 514.006 544.095> 259.869 55.8945<35.0605 85.1751 171.863 222.776> 547.349 56.335<41.7461 89.7413> 554.497 57.8887<170.909 220.24>
 VStem: 95.7441 69.0205<327.282 535.958> 421.19 73.8486<-76.0951 -15.1914 48.0791 156.192>
 LayerCount: 2
 Fore
 Refer: 942 8543 N 1 0 0 1 0 0 2
 Refer: 916 58402 N 1 0 0 1 244 0 2
-Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
