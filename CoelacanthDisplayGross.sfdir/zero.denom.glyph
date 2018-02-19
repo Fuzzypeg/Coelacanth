@@ -7,19 +7,7 @@ HStem: -86 28<154.77 236.217> 231 29<129.227 215.365>
 VStem: 30 65<2.83811 174.204> 267 69<-5.81921 179.995>
 LayerCount: 2
 Fore
-SplineSet
-168 231 m 7
- 117 231 95 181 95 109 c 7
- 95 15 133 -58 199 -58 c 7
- 254 -58 267 0 267 73 c 7
- 267 161 239 231 168 231 c 7
-189 260 m 7
- 270 260 336 191 336 87 c 7
- 336 -24 263 -86 181 -86 c 7
- 99 -86 30 -19 30 87 c 7
- 30 193 108 260 189 260 c 7
-EndSplineSet
-Validated: 1
+Refer: 2557 58451 N 1 0 0 1 1 -80 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.denomalt
 EndChar

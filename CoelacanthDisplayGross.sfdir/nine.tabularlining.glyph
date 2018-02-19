@@ -2,11 +2,10 @@ StartChar: nine.tabularlining
 Encoding: 58387 58387 690
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 687 58384 N -0.999391 0.0348995 -0.0348995 -0.999391 480.891 631.705 2
-Validated: 1
 Substitution2: "pnum-1" nine.proportionallining
 Substitution2: "onum-1" nine.tabulartext
 Substitution2: "numr-1" nine.numerator

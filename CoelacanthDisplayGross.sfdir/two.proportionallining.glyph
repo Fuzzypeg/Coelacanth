@@ -8,7 +8,6 @@ VStem: 320 70<380.132 524.895>
 LayerCount: 2
 Fore
 Refer: 683 58380 N 1 0 0 1 -2 0 2
-Validated: 1
 Substitution2: "tnum-1" two.tabularlining
 Substitution2: "onum-1" two
 Substitution2: "numr-1" two.numerator
