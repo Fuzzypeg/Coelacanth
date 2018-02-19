@@ -2,17 +2,16 @@ StartChar: angleleft
 Encoding: 9001 9001 1438
 Width: 383
 VWidth: 1515
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-322 -293 m 1
+310 -299 m 1
  21 211 l 1
- 322 715 l 1
- 358 694 l 1
- 75 211 l 1
- 358 -272 l 1
- 322 -293 l 1
+ 310 722 l 1
+ 361 692 l 1
+ 101 211 l 1
+ 361 -270 l 1
+ 310 -299 l 1
 EndSplineSet
-Validated: 1
 EndChar

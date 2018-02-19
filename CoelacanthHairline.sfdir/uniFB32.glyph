@@ -1,0 +1,10 @@
+StartChar: uniFB32
+Encoding: 64306 64306 2619
+Width: 355
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 2459 1490 N 1 0 0 1 0 0 2
+Refer: 2532 1468 S 1 0 0 1 -134 0 2
+EndChar
