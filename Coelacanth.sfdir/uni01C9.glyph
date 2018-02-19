@@ -3,12 +3,12 @@ Encoding: 457 457 518
 GlifName: uni01C_9
 Width: 460
 VWidth: 0
+Flags: H
 HStem: -7 33<9 67 174 243> 572 102<350.589 435.411>
 VStem: 91 70<57 558> 221 27<-331 -293> 330 68<-160 327> 341 104<581.438 664.599>
 LayerCount: 2
 Fore
 Refer: 9 106 N 1 0 0 1 248 0 2
 Refer: 11 108 N 1 0 0 1 0 0 2
-Validated: 1
 Substitution2: "case-1" uni01C7
 EndChar

@@ -3,14 +3,13 @@ Encoding: 318 318 252
 GlifName: lcaron
 Width: 248
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 33<9 67 174 243> 500.494 206.751
 VStem: 91 70<57 558> 292.75 61<621.847 691.311>
 LayerCount: 2
 Fore
 Refer: 113 789 N 1 0 0 1 352.5 50 2
 Refer: 11 108 N 1 0 0 1 0 0 2
-Validated: 1
 Substitution2: "smcp-1" lcaron.smcp
 Substitution2: "case-1" Lcaron
 Substitution2: "pcap-1" lcaron.pcap
