@@ -4,8 +4,8 @@ GlifName: y
 Width: 446
 VWidth: 1159
 Flags: HMW
-HStem: 365 30<9 37 170 185 277 339 410 444>
-DStem2: 176 -32 383 308 0.447214 0.894427<-152.969 14.7689>
+HStem: -330 30<404 432 256 271 102 164 -3 31>
+DStem2: 265 97 58 -243 0.447214 0.894427<-14.7689 152.969>
 AnchorPoint: "Bottom" 291 -15 basechar 0
 AnchorPoint: "Top" 232.5 465 basechar 0
 LayerCount: 2
@@ -38,7 +38,6 @@ SplineSet
  368 283.83125 294 132.8125 223 -12 c 0
  179 -98 113 -281 113 -346 c 1
 EndSplineSet
-Validated: 1
 Kerns2: 46 -50 "kern-1 latin individual kerning"
 Substitution2: "case-1" Y
 Substitution2: "pcap-1" y.pcap

@@ -4,6 +4,7 @@ GlifName: ccedilla
 Width: 421
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
+Flags: H
 HStem: -15 52<185 333> 357 60<169 308>
 VStem: 34 71<119 282> 226 62.4277<-164.273 -94.0566>
 AnchorPoint: "Top" 231 465 basechar 0

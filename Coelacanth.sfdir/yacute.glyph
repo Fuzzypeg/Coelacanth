@@ -3,7 +3,7 @@ Encoding: 253 253 192
 GlifName: yacute
 Width: 446
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 365 30<9 37 170 185 277 339 410 444> 490.951 225.517
 VStem: 196.389 169.822
 DStem2: 176 -32 383 308 0.447214 0.894427<-152.969 14.7689>
@@ -11,7 +11,6 @@ LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 431 63 2
 Refer: 24 121 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" yacute.pcap
 Substitution2: "case-1" Yacute
 Substitution2: "smcp-1" yacute.smcp

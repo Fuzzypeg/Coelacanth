@@ -3,13 +3,13 @@ Encoding: 265 265 139
 GlifName: ccircumflex
 Width: 421
 VWidth: 0
+Flags: H
 HStem: -15 52<185 333> 357 60<169 308> 486.6 184.8
 VStem: 34 71<119 282> 119.25 225.5
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 429.5 64 2
 Refer: 2 99 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" ccircumflex.smcp
 Substitution2: "case-1" Ccircumflex
 Substitution2: "pcap-1" ccircumflex.pcap

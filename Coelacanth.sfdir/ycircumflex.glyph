@@ -3,7 +3,7 @@ Encoding: 375 375 242
 GlifName: ycircumflex
 Width: 446
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 365 30<9 37 170 185 277 339 410 444> 478.6 184.8
 VStem: 120.75 225.5
 DStem2: 176 -32 383 308 0.447214 0.894427<-152.969 14.7689>
@@ -11,7 +11,6 @@ LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 431 56 2
 Refer: 24 121 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" ycircumflex.smcp
 Substitution2: "case-1" Ycircumflex
 Substitution2: "pcap-1" ycircumflex.pcap

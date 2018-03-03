@@ -1,0 +1,19 @@
+StartChar: uni1DC7
+Encoding: 7623 7623 2744
+Width: 0
+VWidth: 1159
+Flags: HW
+AnchorPoint: "TopMark" -200.5 397 mark 0
+AnchorPoint: "TopMark" -198.5 495 basemark 0
+AnchorPoint: "Top" -198.5 393 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-363 452 m 1x80
+ -334 486.137931034 -284 532.689655172 -236 572 c 1
+ -196 531 l 1
+ -244 501.923076923 -295 464.538461538 -342 423 c 1
+ -363 452 l 1x80
+EndSplineSet
+Refer: 1971 58114 N 0.184 0 0 1.06522 -236 547.5 2
+EndChar

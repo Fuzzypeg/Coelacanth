@@ -4,6 +4,7 @@ GlifName: uni1E_09
 Width: 421
 VWidth: 0
 UnlinkRmOvrlpSave: 1
+Flags: H
 HStem: -15 52<185 333> 357 60<169 308> 490.951 225.517
 VStem: 34 71<119 282> 194.889 169.822 226 62.4277<-164.273 -94.0566>
 LayerCount: 2

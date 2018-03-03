@@ -3,13 +3,13 @@ Encoding: 267 267 263
 GlifName: cdotaccent
 Width: 421
 VWidth: 0
+Flags: H
 HStem: -15 52<185 333> 357 60<169 308> 527 102<189.089 273.911>
 VStem: 34 71<119 282> 179.5 104<536.438 619.599>
 LayerCount: 2
 Fore
 Refer: 49 775 N 1 0 0 1 429.5 76 2
 Refer: 2 99 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" cdotaccent.smcp
 Substitution2: "case-1" Cdotaccent
 Substitution2: "pcap-1" cdotaccent.pcap
