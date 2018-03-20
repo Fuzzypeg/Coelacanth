@@ -1,5 +1,5 @@
 StartChar: uni0217.smcp
-Encoding: 57839 57839 2200
+Encoding: 57839 57839 2197
 GlifName: uni0217.smcp
 Width: 637
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 99 76.5<89.2876 449.926> 205.321 28.081<585.167 598.611> 442.598 28.08<58
 LayerCount: 2
 Fore
 Refer: 109 785 N 1 0 0 1 535.5 146 2
-Refer: 2052 57691 N 1 0 0 1 0 0 3
+Refer: 2049 57691 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

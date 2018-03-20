@@ -1,5 +1,5 @@
 StartChar: uni1F2A
-Encoding: 7978 7978 1480
+Encoding: 7978 7978 1479
 GlifName: uni1F_2A_
 Width: 1114
 Flags: HW
@@ -9,7 +9,7 @@ AnchorPoint: "Bottom" 688 -15 basechar 0
 AnchorPoint: "Top" 696 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 2388 8175 N 1.08329 -0.191013 0.191013 1.08329 -40.2958 97.955 2
-Refer: 1608 8127 N 1.08 0 0 1.08 -112.273 -15.472 2
+Refer: 2385 8175 N 1.08329 -0.191013 0.191013 1.08329 -40.2958 97.955 2
+Refer: 1607 8127 N 1.08 0 0 1.08 -112.273 -15.472 2
 Refer: 982 919 N 1 0 0 1 258 0 2
 EndChar

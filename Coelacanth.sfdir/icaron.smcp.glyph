@@ -1,5 +1,5 @@
 StartChar: icaron.smcp
-Encoding: 57803 57803 2164
+Encoding: 57803 57803 2161
 GlifName: icaron.smcp
 Width: 332
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 62.25 225.5 135.472 67.4424<39.011 449.27>
 LayerCount: 2
 Fore
 Refer: 103 780 N 1 0 0 1 372.5 138 2
-Refer: 2040 57679 N 1 0 0 1 0 0 3
+Refer: 2037 57679 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

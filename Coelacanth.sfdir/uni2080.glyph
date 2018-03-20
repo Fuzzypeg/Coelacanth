@@ -1,11 +1,11 @@
 StartChar: uni2080
-Encoding: 8320 8320 1397
+Encoding: 8320 8320 1396
 GlifName: uni2080
 Width: 344
 VWidth: 1159
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 2647 58358 N 1 0 0 1 0 -80 2
+Refer: 2644 58358 N 1 0 0 1 0 -80 2
 Substitution2: "'zero' Slashed Zero lookup 22-1" uni2080.alt
 EndChar

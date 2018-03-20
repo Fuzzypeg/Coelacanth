@@ -1,12 +1,12 @@
 StartChar: uni260C
-Encoding: 9740 9740 2629
+Encoding: 9740 9740 2626
 Width: 574
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1971 58114 N 0.156272 0.131128 -0.586893 0.699432 386.864 309.436 2
+Refer: 1968 58114 N 0.156272 0.131128 -0.586893 0.699432 386.864 309.436 2
 Refer: 63 48 N 1 0 0 1 0 0 2
 Validated: 5
 EndChar

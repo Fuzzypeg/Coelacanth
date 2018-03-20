@@ -1,5 +1,5 @@
 StartChar: uni26B3
-Encoding: 9907 9907 2621
+Encoding: 9907 9907 2618
 Width: 500
 VWidth: 950
 UnlinkRmOvrlpSave: 1
@@ -46,8 +46,8 @@ SplineSet
  76 419 111 372 87 347 c 0
  54.6816 313.335 19.5 336 19 364 c 0xd8
 EndSplineSet
-Refer: 1532 9906 N 1 0 0 1 0 0 2
-Refer: 1532 9906 N 1 0 0 1 0 0 2
+Refer: 1531 9906 N 1 0 0 1 0 0 2
+Refer: 1531 9906 N 1 0 0 1 0 0 2
 Fore
 SplineSet
 81 21 m 1

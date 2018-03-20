@@ -1,5 +1,5 @@
 StartChar: uhungarumlaut.smcp
-Encoding: 57782 57782 2143
+Encoding: 57782 57782 2140
 GlifName: uhungarumlaut.smcp
 Width: 637
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 99 76.5<89.2876 449.926> 498.1 43.1<92.0078 387.382>
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 535.5 134 2
-Refer: 2052 57691 N 1 0 0 1 0 0 3
+Refer: 2049 57691 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

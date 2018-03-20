@@ -1,5 +1,5 @@
 StartChar: uni1EDB.pcap
-Encoding: 57650 57650 1921
+Encoding: 57650 57650 1918
 GlifName: uni1E_D_B_.pcap
 Width: 574
 VWidth: 1159
@@ -10,5 +10,5 @@ VStem: 56 78<146.969 286.001> 246.889 169.822 428 84<111.049 270.5> 467 86<403.4
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 481.5 63 2
-Refer: 1741 57467 N 1 0 0 1 0 0 3
+Refer: 1738 57467 N 1 0 0 1 0 0 3
 EndChar

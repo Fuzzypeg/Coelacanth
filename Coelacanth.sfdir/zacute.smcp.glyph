@@ -1,5 +1,5 @@
 StartChar: zacute.smcp
-Encoding: 57787 57787 2148
+Encoding: 57787 57787 2145
 GlifName: zacute.smcp
 Width: 565
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 253.889 169.822
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 488.5 137 2
-Refer: 2057 57696 N 1 0 0 1 0 0 3
+Refer: 2054 57696 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

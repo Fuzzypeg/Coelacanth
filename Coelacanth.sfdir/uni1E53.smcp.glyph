@@ -1,5 +1,5 @@
 StartChar: uni1E53.smcp
-Encoding: 57906 57906 2267
+Encoding: 57906 57906 2264
 GlifName: uni1E_53.smcp
 Width: 651
 VWidth: 1159
@@ -10,6 +10,6 @@ LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 527.5 122 2
 Refer: 470 58080 N 1 0 0 1 533 186 2
-Refer: 2046 57685 N 1 0 0 1 0 0 3
+Refer: 2043 57685 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

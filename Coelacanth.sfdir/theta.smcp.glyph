@@ -1,5 +1,5 @@
 StartChar: theta.smcp
-Encoding: 57854 57854 2215
+Encoding: 57854 57854 2212
 GlifName: theta.smcp
 Width: 651
 VWidth: 1159
@@ -25,6 +25,6 @@ SplineSet
  414.875 287.394142082 420.075 285.29147184 422.675 319.459863282 c 1
  448.525 318.6 l 1
 EndSplineSet
-Refer: 2046 57685 N 1 0 0 1 0 0 3
+Refer: 2043 57685 N 1 0 0 1 0 0 3
 Validated: 33
 EndChar

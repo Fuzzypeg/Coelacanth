@@ -1,5 +1,5 @@
 StartChar: zkreska.smcp
-Encoding: 58017 58017 2371
+Encoding: 58017 58017 2368
 GlifName: zkreska.smcp
 Width: 565
 VWidth: 1159
@@ -8,6 +8,6 @@ HStem: 0.3 33<168.7 410.092> 454.4 33.2<117.652 395.8>
 LayerCount: 2
 Fore
 Refer: 1192 57996 S 1 0 0 1 235 73 2
-Refer: 2057 57696 N 1 0 0 1 0 0 3
+Refer: 2054 57696 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

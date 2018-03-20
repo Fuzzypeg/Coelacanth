@@ -1,5 +1,5 @@
 StartChar: clickalveolar.smcp
-Encoding: 57796 57796 2157
+Encoding: 57796 57796 2154
 GlifName: clickalveolar.smcp
 Width: 378
 VWidth: 1515
@@ -8,7 +8,7 @@ Flags: HW
 HStem: 157 53.9999<60 318> 278 53.9999<60 318>
 LayerCount: 2
 Fore
-Refer: 2155 57794 N 1 0 0 1 90 0 2
-Refer: 1971 58114 N 0.258 0 0 1.17391 60 184 2
-Refer: 1971 58114 N 0.258 0 0 1.17391 60 305 2
+Refer: 2152 57794 N 1 0 0 1 90 0 2
+Refer: 1968 58114 N 0.258 0 0 1.17391 60 184 2
+Refer: 1968 58114 N 0.258 0 0 1.17391 60 305 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni263F
-Encoding: 9791 9791 1538
+Encoding: 9791 9791 1537
 GlifName: uni263F_
 Width: 500
 VWidth: 950
@@ -19,5 +19,5 @@ SplineSet
  103.411945745 522.327456241 48.6013403044 557.796604329 37 660 c 1
  53 663 l 1xfa80
 EndSplineSet
-Refer: 1533 9792 N 1 0 0 1 0 0 2
+Refer: 1532 9792 N 1 0 0 1 0 0 2
 EndChar

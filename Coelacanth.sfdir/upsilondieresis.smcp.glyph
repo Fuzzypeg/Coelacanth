@@ -1,5 +1,5 @@
 StartChar: upsilondieresis.smcp
-Encoding: 57863 57863 2224
+Encoding: 57863 57863 2221
 GlifName: upsilondieresis.smcp
 Width: 553
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 147.271 86<569.212 642.071> 237.386 80.5859<38.391 266.805 272.556 333.18
 LayerCount: 2
 Fore
 Refer: 97 776 N 1 0 0 1 475.271 120.63 2
-Refer: 2220 57859 N 1 0 0 1 0 0 3
+Refer: 2217 57859 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

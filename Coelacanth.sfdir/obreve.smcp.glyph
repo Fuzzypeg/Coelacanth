@@ -1,5 +1,5 @@
 StartChar: obreve.smcp
-Encoding: 57765 57765 2126
+Encoding: 57765 57765 2123
 GlifName: obreve.smcp
 Width: 651
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 52.1 82.5<180.762 335.941> 197.322 28.08<678.771 695.079> 434.598 28.081<
 LayerCount: 2
 Fore
 Refer: 105 774 N 1 0 0 1 527.5 146 2
-Refer: 2046 57685 N 1 0 0 1 0 0 3
+Refer: 2043 57685 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

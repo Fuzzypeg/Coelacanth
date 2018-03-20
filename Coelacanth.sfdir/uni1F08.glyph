@@ -1,5 +1,5 @@
 StartChar: uni1F08
-Encoding: 7944 7944 1464
+Encoding: 7944 7944 1463
 GlifName: uni1F_08
 Width: 705
 VWidth: 1159
@@ -11,6 +11,6 @@ AnchorPoint: "Bottom" 353 -15 basechar 0
 AnchorPoint: "Top" 367 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 1608 8127 S 1.08 0 0 1.08 1.72652 -15.472 2
+Refer: 1607 8127 S 1.08 0 0 1.08 1.72652 -15.472 2
 Refer: 976 913 N 1 0 0 1 0 0 3
 EndChar

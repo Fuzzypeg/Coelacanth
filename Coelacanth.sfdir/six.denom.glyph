@@ -8,6 +8,6 @@ HStem: -87 34<139.914 212.301> 88 37<146.61 201.948> 258 20<218.504 231.692>
 VStem: 36 66<-17.9148 141.332> 223 57<-32.9779 70.4194>
 LayerCount: 2
 Fore
-Refer: 2663 58457 N 1 0 0 1 -12 -84 2
+Refer: 2660 58457 N 1 0 0 1 -12 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

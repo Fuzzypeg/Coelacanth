@@ -1,5 +1,5 @@
 StartChar: questiondown.smcp
-Encoding: 57800 57800 2161
+Encoding: 57800 57800 2158
 GlifName: questiondown.smcp
 Width: 335
 VWidth: 1159
@@ -8,5 +8,5 @@ HStem: 389.163 129.078<186.93 224.872>
 VStem: 51.241 27<133.599 195.208> 142.254 124.828<434.399 475.545> 195.541 18<315.651 341.879>
 LayerCount: 2
 Fore
-Refer: 2159 57798 N -1 0 0 -1 334.741 495.379 2
+Refer: 2156 57798 N -1 0 0 -1 334.741 495.379 2
 EndChar

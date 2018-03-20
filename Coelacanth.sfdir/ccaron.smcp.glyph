@@ -1,5 +1,5 @@
 StartChar: ccaron.smcp
-Encoding: 57734 57734 2096
+Encoding: 57734 57734 2093
 GlifName: ccaron.smcp
 Width: 572
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 52.1 91.1<158.089 343.256> 224.25 225.5 465 26.7<368.086 421.637> 497.3 2
 LayerCount: 2
 Fore
 Refer: 103 780 S 1 0 0 1 534.5 138 2
-Refer: 2034 57673 N 1 0 0 1 0 0 3
+Refer: 2031 57673 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

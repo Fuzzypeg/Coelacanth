@@ -1,5 +1,5 @@
 StartChar: zcaron.smcp
-Encoding: 57789 57789 2150
+Encoding: 57789 57789 2147
 GlifName: zcaron.smcp
 Width: 565
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 178.25 225.5
 LayerCount: 2
 Fore
 Refer: 103 780 N 1 0 0 1 488.5 138 2
-Refer: 2057 57696 N 1 0 0 1 0 0 3
+Refer: 2054 57696 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

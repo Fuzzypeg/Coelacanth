@@ -1,5 +1,5 @@
 StartChar: uni0595
-Encoding: 1429 1429 2544
+Encoding: 1429 1429 2541
 GlifName: uni0595
 Width: 0
 VWidth: 0
@@ -34,6 +34,6 @@ SplineSet
  126.201171875 448.51953125 114.290039062 450.491210938 102.481445312 452.118164062 c 5
 EndSplineSet
 Fore
-Refer: 2519 1469 N 1 0 0 1 -62 882 2
-Refer: 2543 1428 N 1 0 0 1 37 6 2
+Refer: 2516 1469 N 1 0 0 1 -62 882 2
+Refer: 2540 1428 N 1 0 0 1 37 6 2
 EndChar

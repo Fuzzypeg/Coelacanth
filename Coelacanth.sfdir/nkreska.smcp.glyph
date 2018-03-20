@@ -1,5 +1,5 @@
 StartChar: nkreska.smcp
-Encoding: 58014 58014 2368
+Encoding: 58014 58014 2365
 GlifName: nkreska.smcp
 Width: 661
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 113.555 45.3446<43.1709 382.001> 531.2 31.8<142.921 251.31> 544.3 27.9<-4
 LayerCount: 2
 Fore
 Refer: 1192 57996 N 1 0 0 1 300 73 2
-Refer: 2045 57684 N 1 0 0 1 0 0 3
+Refer: 2042 57684 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

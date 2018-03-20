@@ -1,5 +1,5 @@
 StartChar: aeacute.pcap
-Encoding: 57502 57502 1814
+Encoding: 57502 57502 1811
 GlifName: aeacute.pcap
 Width: 680
 VWidth: 0
@@ -9,5 +9,5 @@ VStem: 319 64<38.5736 138.569 168 191 215 356.905> 337.889 169.822 536 23<134.17
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 572.5 63 2
-Refer: 1634 57379 N 1 0 0 1 0 0 3
+Refer: 1631 57379 N 1 0 0 1 0 0 3
 EndChar

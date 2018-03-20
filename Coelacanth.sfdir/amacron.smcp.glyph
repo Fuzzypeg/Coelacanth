@@ -1,5 +1,5 @@
 StartChar: amacron.smcp
-Encoding: 57728 57728 2090
+Encoding: 57728 57728 2087
 GlifName: amacron.smcp
 Width: 530
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 263.2 34.6<439.075 504.1>
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 476.5 146 2
-Refer: 2032 57671 N 1 0 0 1 0 0 3
+Refer: 2029 57671 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: aemacron.smcp
-Encoding: 57812 57812 2173
+Encoding: 57812 57812 2170
 GlifName: aemacron.smcp
 Width: 815
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 392.721 69.0292<45.9433 175.228 209.297 241.05 269.25 455.731> 660.6 27.5
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 643.5 146 2
-Refer: 2058 57703 N 1 0 0 1 0 0 3
+Refer: 2055 57703 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

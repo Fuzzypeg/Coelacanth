@@ -1,5 +1,5 @@
 StartChar: uni26B2
-Encoding: 9906 9906 1532
+Encoding: 9906 9906 1531
 GlifName: uni26B_2
 Width: 500
 VWidth: 950
@@ -18,5 +18,5 @@ SplineSet
  226.8 -133 226.8 -109 229 84 c 5
  274 84 l 5
 EndSplineSet
-Refer: 1531 9898 N 1 0 0 1 0 86 2
+Refer: 1530 9898 N 1 0 0 1 0 86 2
 EndChar

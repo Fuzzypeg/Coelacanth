@@ -1,5 +1,5 @@
 StartChar: uni1FDF
-Encoding: 8159 8159 1615
+Encoding: 8159 8159 1614
 GlifName: uni1F_D_F_
 Width: 278
 VWidth: 1043
@@ -9,7 +9,7 @@ VStem: 6.036 273.107 64 44<507.962 579.962>
 AnchorPoint: "Top" 133.501 464 mark 0
 LayerCount: 2
 Fore
-Refer: 1616 8190 N 1 0 0 1 0 -25 2
+Refer: 1615 8190 N 1 0 0 1 0 -25 2
 Refer: 100 771 S 1 0 0 1 350.962 239 2
 Validated: 1
 EndChar

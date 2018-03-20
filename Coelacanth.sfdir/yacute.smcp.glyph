@@ -1,5 +1,5 @@
 StartChar: yacute.smcp
-Encoding: 57725 57725 2088
+Encoding: 57725 57725 2085
 GlifName: yacute.smcp
 Width: 552
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 253.889 169.822 257.8 71<38.1823 213.999>
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 488.5 137 2
-Refer: 2056 57695 N 1 0 0 1 0 0 3
+Refer: 2053 57695 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

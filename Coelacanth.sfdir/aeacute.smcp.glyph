@@ -1,5 +1,5 @@
 StartChar: aeacute.smcp
-Encoding: 57826 57826 2187
+Encoding: 57826 57826 2184
 GlifName: aeacute.smcp
 Width: 815
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 392.721 69.0292<45.9433 175.228 209.297 241.05 269.25 455.731> 408.889 16
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 643.5 137 2
-Refer: 2058 57703 N 1 0 0 1 0 0 3
+Refer: 2055 57703 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

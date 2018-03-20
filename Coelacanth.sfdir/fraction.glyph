@@ -6,7 +6,7 @@ VWidth: 918
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1970 58113 N 0.381374 0.504738 -0.800791 0.601815 42.8131 2.63118 2
+Refer: 1967 58113 N 0.381374 0.504738 -0.800791 0.601815 42.8131 2.63118 2
 Validated: 1
 Kerns2: 912 -178 "kern-1 latin individual kerning" 913 -128 "kern-1 latin individual kerning" 914 -157 "kern-1 latin individual kerning" 915 -150 "kern-1 latin individual kerning" 916 -206 "kern-1 latin individual kerning" 917 -157 "kern-1 latin individual kerning" 918 -184 "kern-1 latin individual kerning" 919 -148 "kern-1 latin individual kerning" 920 -165 "kern-1 latin individual kerning" 921 -161 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0

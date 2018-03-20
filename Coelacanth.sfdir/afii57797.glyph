@@ -1,5 +1,5 @@
 StartChar: afii57797
-Encoding: 1464 1464 2514
+Encoding: 1464 1464 2511
 GlifName: afii57797
 Width: 0
 VWidth: 0
@@ -43,5 +43,5 @@ SplineSet
  260.165841239 -189.450761555 264.939034598 -147.142258075 265 -104 c 1
  298 -104 l 1
 EndSplineSet
-Refer: 2513 1463 N 1 0 0 1 0 0 2
+Refer: 2510 1463 N 1 0 0 1 0 0 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: nacute.smcp
-Encoding: 57760 57760 2122
+Encoding: 57760 57760 2119
 GlifName: nacute.smcp
 Width: 661
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 113.555 45.3446<43.1709 382.001> 311.889 169.822 531.2 31.8<142.921 251.3
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 546.5 137 2
-Refer: 2045 57684 N 1 0 0 1 0 0 3
+Refer: 2042 57684 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

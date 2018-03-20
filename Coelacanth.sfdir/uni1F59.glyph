@@ -1,5 +1,5 @@
 StartChar: uni1F59
-Encoding: 8025 8025 1564
+Encoding: 8025 8025 1563
 GlifName: uni1F_59
 Width: 834
 Flags: W
@@ -9,7 +9,7 @@ AnchorPoint: "Bottom" 489.165 -13 basechar 0
 AnchorPoint: "Top" 477.165 701 basechar 0
 LayerCount: 2
 Fore
-Refer: 1616 8190 N 1.08 0 0 1.08 -78.9135 -17.472 2
+Refer: 1615 8190 N 1.08 0 0 1.08 -78.9135 -17.472 2
 Refer: 995 933 N 1 0 0 1 145 2 2
 Validated: 1
 EndChar

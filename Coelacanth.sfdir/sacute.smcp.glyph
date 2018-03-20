@@ -1,5 +1,5 @@
 StartChar: sacute.smcp
-Encoding: 57771 57771 2132
+Encoding: 57771 57771 2129
 GlifName: sacute.smcp
 Width: 462
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 46.8 27<105.85 142.174> 64.3 24.3<0 11.0013> 71.5 70.8<321.413 424.247> 2
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 439.5 137 2
-Refer: 2050 57689 N 1 0 0 1 0 0 3
+Refer: 2047 57689 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

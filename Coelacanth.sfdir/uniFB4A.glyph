@@ -1,10 +1,10 @@
 StartChar: uniFB4A
-Encoding: 64330 64330 2692
+Encoding: 64330 64330 2689
 Width: 561
 VWidth: 0
 Flags: H
 LayerCount: 2
 Fore
-Refer: 2485 1514 N 1 0 0 1 0 0 2
-Refer: 2518 1468 S 1 0 0 1 48 0 2
+Refer: 2482 1514 N 1 0 0 1 0 0 2
+Refer: 2515 1468 S 1 0 0 1 48 0 2
 EndChar

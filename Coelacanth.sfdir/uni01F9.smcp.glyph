@@ -1,5 +1,5 @@
 StartChar: uni01F9.smcp
-Encoding: 57824 57824 2185
+Encoding: 57824 57824 2182
 GlifName: uni01F_9.smcp
 Width: 661
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 113.555 45.3446<43.1709 382.001> 209.014 169.82 531.2 31.8<142.921 251.31
 LayerCount: 2
 Fore
 Refer: 94 768 N 1 0 0 1 546.5 130 2
-Refer: 2045 57684 N 1 0 0 1 0 0 3
+Refer: 2042 57684 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

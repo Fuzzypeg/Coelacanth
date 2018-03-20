@@ -1,5 +1,5 @@
 StartChar: uni1DC7
-Encoding: 7623 7623 2744
+Encoding: 7623 7623 2741
 Width: 0
 VWidth: 1159
 Flags: HW
@@ -15,5 +15,5 @@ SplineSet
  -244 501.923076923 -295 464.538461538 -342 423 c 1
  -363 452 l 1x80
 EndSplineSet
-Refer: 1971 58114 N 0.184 0 0 1.06522 -236 547.5 2
+Refer: 1968 58114 N 0.184 0 0 1.06522 -236 547.5 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uring.smcp
-Encoding: 57781 57781 2142
+Encoding: 57781 57781 2139
 GlifName: uring.smcp
 Width: 637
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 99 76.5<89.2876 449.926> 260.28 32.227<611.081 677.825> 382.493 32.227<61
 LayerCount: 2
 Fore
 Refer: 98 778 N 1 0 0 1 535.5 144 2
-Refer: 2052 57691 N 1 0 0 1 0 0 3
+Refer: 2049 57691 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni1EB7.smcp
-Encoding: 57956 57956 2317
+Encoding: 57956 57956 2314
 GlifName: uni1E_B_7.smcp
 Width: 530
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 146.322 28.08<678.771 695.079> 214 104<-163.562 -80.401> 263.2 34.6<439.0
 LayerCount: 2
 Fore
 Refer: 105 774 N 1 0 0 1 476.5 146 2
-Refer: 2306 57945 N 1 0 0 1 0 0 3
+Refer: 2303 57945 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: ncommaaccent.smcp
-Encoding: 57761 57761 2123
+Encoding: 57761 57761 2120
 GlifName: ncommaaccent.smcp
 Width: 661
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 113.555 45.3446<43.1709 382.001> 272.87 116.64 531.2 31.8<142.921 251.31>
 LayerCount: 2
 Fore
 Refer: 275 806 N 1 0 0 1 526 0 2
-Refer: 2045 57684 N 1 0 0 1 0 0 3
+Refer: 2042 57684 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

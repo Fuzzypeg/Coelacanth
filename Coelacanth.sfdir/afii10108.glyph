@@ -1,13 +1,16 @@
 StartChar: afii10108
 Encoding: 1115 1115 1236
 GlifName: afii10108
-Width: 770
+Width: 531
 VWidth: 1159
-Flags: W
-HStem: 0 59<338.842 413.277> 216.5 41.8262<340.536 414.478>
-VStem: 425.75 306.641<257.793 462.35>
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -7 33<21 68 169 229 322 368 450 517> 353 50<219 349>
+VStem: 92 70<42 333 352 611> 379 68<33 322>
+AnchorPoint: "Top" 120 733 basechar 0
+AnchorPoint: "Bottom" 275 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1374 127 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 441 821 S 1.18456 0 0 1 397.168 24 2
+Refer: 7 104 N 1 0 0 1 0 0 2
 EndChar

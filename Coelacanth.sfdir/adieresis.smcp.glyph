@@ -1,5 +1,5 @@
 StartChar: adieresis.smcp
-Encoding: 57701 57701 2065
+Encoding: 57701 57701 2062
 GlifName: adieresis.smcp
 Width: 530
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 148.5 86<598.582 671.441> 263.2 34.6<439.075 504.1> 324.5 86<598.582 671.
 LayerCount: 2
 Fore
 Refer: 97 776 N 1 0 0 1 476.5 150 2
-Refer: 2032 57671 N 1 0 0 1 0 0 3
+Refer: 2029 57671 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

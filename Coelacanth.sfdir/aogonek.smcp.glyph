@@ -1,5 +1,5 @@
 StartChar: aogonek.smcp
-Encoding: 57730 57730 2092
+Encoding: 57730 57730 2089
 GlifName: aogonek.smcp
 Width: 530
 VWidth: 1159
@@ -10,5 +10,5 @@ VStem: 188.562 69.209<-240.037 -132.556> 263.2 34.6<439.075 504.1>
 LayerCount: 2
 Fore
 Refer: 254 808 N 1 0 0 1 456 -13.4367 2
-Refer: 2032 57671 N 1 0 0 1 0 0 2
+Refer: 2029 57671 N 1 0 0 1 0 0 2
 EndChar

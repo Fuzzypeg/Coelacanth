@@ -1,5 +1,5 @@
 StartChar: uogonek.smcp
-Encoding: 57783 57783 2144
+Encoding: 57783 57783 2141
 GlifName: uogonek.smcp
 Width: 637
 VWidth: 1159
@@ -10,5 +10,5 @@ VStem: 99 76.5<89.2876 449.926> 223.562 69.209<-235.337 -127.855> 498.1 43.1<92.
 LayerCount: 2
 Fore
 Refer: 254 808 N 1 0 0 1 491 -8.73651 2
-Refer: 2052 57691 N 1 0 0 1 0 0 2
+Refer: 2049 57691 N 1 0 0 1 0 0 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: cdotaccent.smcp
-Encoding: 57733 57733 2095
+Encoding: 57733 57733 2092
 GlifName: cdotaccent.smcp
 Width: 572
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 52.1 91.1<158.089 343.256> 284.5 104<610.438 693.599> 465 26.7<368.086 42
 LayerCount: 2
 Fore
 Refer: 49 775 N 1 0 0 1 534.5 150 2
-Refer: 2034 57673 N 1 0 0 1 0 0 3
+Refer: 2031 57673 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

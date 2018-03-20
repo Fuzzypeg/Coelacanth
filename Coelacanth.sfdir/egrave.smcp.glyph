@@ -1,5 +1,5 @@
 StartChar: egrave.smcp
-Encoding: 57705 57705 2068
+Encoding: 57705 57705 2065
 GlifName: egrave.smcp
 Width: 513
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 105.83 70.2702<44.7414 234.3 261.9 447.779> 126.014 169.82 377.1 26.9<168
 LayerCount: 2
 Fore
 Refer: 94 768 N 1 0 0 1 463.5 130 2
-Refer: 2036 57675 N 1 0 0 1 0 0 3
+Refer: 2033 57675 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

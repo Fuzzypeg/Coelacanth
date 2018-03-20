@@ -1,5 +1,5 @@
 StartChar: itilde.smcp
-Encoding: 57747 57747 2109
+Encoding: 57747 57747 2106
 GlifName: itilde.smcp
 Width: 332
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 39.074 273.107 135.472 67.4424<39.011 449.27>
 LayerCount: 2
 Fore
 Refer: 100 771 N 1 0 0 1 384 157 2
-Refer: 2040 57679 N 1 0 0 1 0 0 3
+Refer: 2037 57679 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

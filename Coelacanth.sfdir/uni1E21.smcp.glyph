@@ -1,5 +1,5 @@
 StartChar: uni1E21.smcp
-Encoding: 57881 57881 2242
+Encoding: 57881 57881 2239
 GlifName: uni1E_21.smcp
 Width: 620
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 52.1 87.8<163.429 346.406> 468.6 76.5<50.237 217.153> 508.4 24<370.458 38
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 545.5 146 2
-Refer: 2038 57677 N 1 0 0 1 0 0 3
+Refer: 2035 57677 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar

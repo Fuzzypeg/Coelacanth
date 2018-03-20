@@ -4,11 +4,7 @@ GlifName: afii10041
 Width: 710
 VWidth: 1159
 Flags: HW
-AnchorPoint: "Bottom" 532 -15 basechar 0
 LayerCount: 2
-Back
-Refer: 1374 127 N 1 0 0 1 12 0 2
-Validated: 1
 Fore
 SplineSet
 598 343 m 3

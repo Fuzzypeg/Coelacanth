@@ -1,5 +1,5 @@
 StartChar: ohorn.smcp
-Encoding: 57791 57791 2152
+Encoding: 57791 57791 2149
 GlifName: ohorn.smcp
 Width: 651
 VWidth: 1159
@@ -21,5 +21,5 @@ SplineSet
  443.46015625 469.86484375 466.205664062 461.1 483.3 461.1 c 3
  512.956152344 461.1 552.5 480.227441406 552.5 515.8 c 3xca
 EndSplineSet
-Refer: 2046 57685 N 1 0 0 1 0 0 3
+Refer: 2043 57685 N 1 0 0 1 0 0 3
 EndChar

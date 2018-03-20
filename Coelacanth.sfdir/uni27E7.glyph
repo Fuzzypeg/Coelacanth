@@ -1,5 +1,5 @@
 StartChar: uni27E7
-Encoding: 10215 10215 1447
+Encoding: 10215 10215 1446
 GlifName: uni27E_7
 Width: 289
 VWidth: 1515
@@ -9,5 +9,5 @@ HStem: -230 32<27 152.3> 675 42<66.7778 206> 684 33<27 166.222>
 VStem: 206 46<-188 675>
 LayerCount: 2
 Fore
-Refer: 1446 10214 N -1 0 0 -1 289 487 2
+Refer: 1445 10214 N -1 0 0 -1 289 487 2
 EndChar

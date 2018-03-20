@@ -1,5 +1,5 @@
 StartChar: ocircumflex.smcp
-Encoding: 57717 57717 2080
+Encoding: 57717 57717 2077
 GlifName: ocircumflex.smcp
 Width: 651
 VWidth: 1159
@@ -9,6 +9,6 @@ VStem: 52.1 82.5<180.762 335.941> 217.25 225.5 509.9 89.1<144.602 324.626>
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 527.5 138 2
-Refer: 2046 57685 N 1 0 0 1 0 0 3
+Refer: 2043 57685 N 1 0 0 1 0 0 3
 Validated: 1
 EndChar
