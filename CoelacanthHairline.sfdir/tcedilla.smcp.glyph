@@ -1,5 +1,5 @@
 StartChar: tcedilla.smcp
-Encoding: 57775 57775 2135
+Encoding: 57775 57775 2134
 Width: 552
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 234.3 91.5<311.565 446.1> 242.589 77.1737<65.6091 445.495> 284 62.4277<-1
 LayerCount: 2
 Fore
 Refer: 267 807 N 1 0 0 1 479 0 2
-Refer: 2050 57690 S 1 0 0 1 0 0 3
+Refer: 2049 57690 S 1 0 0 1 0 0 3
 EndChar

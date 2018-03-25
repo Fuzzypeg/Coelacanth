@@ -1,5 +1,5 @@
 StartChar: ycircumflex.smcp
-Encoding: 57785 57785 2145
+Encoding: 57785 57785 2144
 Width: 552
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 178.25 225.5 257.8 71<38.1823 79.7>
 LayerCount: 2
 Fore
 Refer: 92 770 N 1 0 0 1 488.5 138 2
-Refer: 2055 57695 N 1 0 0 1 0 0 3
+Refer: 2054 57695 N 1 0 0 1 0 0 3
 EndChar

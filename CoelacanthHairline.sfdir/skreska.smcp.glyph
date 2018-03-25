@@ -1,5 +1,5 @@
 StartChar: skreska.smcp
-Encoding: 58016 58016 2368
+Encoding: 58016 58016 2367
 Width: 462
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 46.8 27<105.85 142.174> 64.3 24.3<0 11.0013> 71.5 70.8<321.413 424.247> 3
 LayerCount: 2
 Fore
 Refer: 1191 57996 N 1 0 0 1 195 73 2
-Refer: 2049 57689 N 1 0 0 1 0 0 3
+Refer: 2048 57689 N 1 0 0 1 0 0 3
 EndChar

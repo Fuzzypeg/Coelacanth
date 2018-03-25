@@ -1,5 +1,5 @@
 StartChar: uni1E75.smcp
-Encoding: 57923 57923 2283
+Encoding: 57923 57923 2282
 Width: 637
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 99 76.5<89.2876 449.926> 185.074 273.107 498.1 43.1<92.0078 387.382>
 LayerCount: 2
 Fore
 Refer: 600 816 N 1 0 0 1 522 -1 2
-Refer: 2051 57691 N 1 0 0 1 0 0 3
+Refer: 2050 57691 N 1 0 0 1 0 0 3
 EndChar

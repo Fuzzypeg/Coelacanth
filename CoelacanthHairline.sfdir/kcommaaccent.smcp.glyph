@@ -1,5 +1,5 @@
 StartChar: kcommaaccent.smcp
-Encoding: 57754 57754 2115
+Encoding: 57754 57754 2114
 Width: 552
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 108.381 68.2189<32.0757 222.2 256.2 453.978> 219.87 116.64
 LayerCount: 2
 Fore
 Refer: 274 806 N 1 0 0 1 473 0 2
-Refer: 2041 57681 N 1 0 0 1 0 0 3
+Refer: 2040 57681 N 1 0 0 1 0 0 3
 EndChar

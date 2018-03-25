@@ -20,7 +20,7 @@ SplineSet
  30 193 108 260 189 260 c 7
 EndSplineSet
 Fore
-Refer: 2578 58451 S 1 0 0 1 2 -84 2
+Refer: 2577 58451 S 1 0 0 1 2 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.denomalt
 EndChar

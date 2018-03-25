@@ -1,5 +1,5 @@
 StartChar: uni263F
-Encoding: 9791 9791 1537
+Encoding: 9791 9791 1536
 Width: 500
 VWidth: 950
 UnlinkRmOvrlpSave: 1
@@ -34,5 +34,5 @@ SplineSet
  135 531 48.6013403044 575.438857153 37 660 c 1
  53 663 l 1xfa80
 EndSplineSet
-Refer: 1532 9792 N 1 0 0 1 0 0 2
+Refer: 1531 9792 N 1 0 0 1 0 0 2
 EndChar

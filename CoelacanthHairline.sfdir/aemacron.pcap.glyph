@@ -1,5 +1,5 @@
 StartChar: aemacron.pcap
-Encoding: 57488 57488 1797
+Encoding: 57488 57488 1796
 Width: 680
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 319 64<38.5736 138.569 168 191 215 356.905> 536 23<134.174 170.078> 558 2
 LayerCount: 2
 Fore
 Refer: 100 772 N 1 0 0 1 572.5 72 2
-Refer: 1633 57379 N 1 0 0 1 0 0 3
+Refer: 1632 57379 N 1 0 0 1 0 0 3
 EndChar

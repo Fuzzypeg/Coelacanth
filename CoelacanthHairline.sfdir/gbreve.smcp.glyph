@@ -1,5 +1,5 @@
 StartChar: gbreve.smcp
-Encoding: 57742 57742 2103
+Encoding: 57742 57742 2102
 Width: 620
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 52.1 87.8<163.429 346.406> 215.322 28.08<678.771 695.079> 452.598 28.081<
 LayerCount: 2
 Fore
 Refer: 104 774 N 1 0 0 1 545.5 146 2
-Refer: 2037 57677 N 1 0 0 1 0 0 3
+Refer: 2036 57677 N 1 0 0 1 0 0 3
 EndChar

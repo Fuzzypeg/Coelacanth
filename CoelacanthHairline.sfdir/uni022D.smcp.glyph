@@ -1,5 +1,5 @@
 StartChar: uni022D.smcp
-Encoding: 57848 57848 2208
+Encoding: 57848 57848 2207
 Width: 651
 VWidth: 1159
 Flags: HW
@@ -9,5 +9,5 @@ LayerCount: 2
 Fore
 Refer: 100 772 S 1 0 0 1 526.896 251.224 2
 Refer: 99 771 S 0.996195 -0.0871557 0.0871557 0.996195 490.076 104.68 2
-Refer: 2045 57685 N 1 0 0 1 0 0 3
+Refer: 2044 57685 N 1 0 0 1 0 0 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: jcircumflex.smcp
-Encoding: 57753 57753 2114
+Encoding: 57753 57753 2113
 Width: 318
 VWidth: 1355
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 55.25 225.5 131 78.3<-69.5039 288.531>
 LayerCount: 2
 Fore
 Refer: 92 770 N 1 0 0 1 365.5 138 2
-Refer: 2040 57680 N 1 0 0 1 0 0 3
+Refer: 2039 57680 N 1 0 0 1 0 0 3
 EndChar

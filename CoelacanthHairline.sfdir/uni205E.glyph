@@ -1,5 +1,5 @@
 StartChar: uni205E
-Encoding: 8286 8286 2376
+Encoding: 8286 8286 2375
 Width: 262
 VWidth: 1159
 Flags: HW
@@ -9,5 +9,5 @@ LayerCount: 2
 Fore
 Refer: 47 46 N 1 0 0 1 29 396 2
 Refer: 47 46 N 1 0 0 1 29 197 2
-Refer: 1723 8282 N 1 0 0 1 0 0 2
+Refer: 1722 8282 N 1 0 0 1 0 0 2
 EndChar

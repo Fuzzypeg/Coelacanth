@@ -1,5 +1,5 @@
 StartChar: uniE463
-Encoding: 58467 58467 2403
+Encoding: 58467 58467 2402
 Width: 717
 VWidth: 1159
 Flags: HW
@@ -9,5 +9,5 @@ DStem2: 108 80 166 87 0.391141 0.920331<-3.53261 211.909 245.659 524.174> 419 64
 LayerCount: 2
 Fore
 Refer: 960 890 N 1 0 0 1 291.422 0 2
-Refer: 1466 7947 N 1 0 0 1 0 0 3
+Refer: 1465 7947 N 1 0 0 1 0 0 3
 EndChar

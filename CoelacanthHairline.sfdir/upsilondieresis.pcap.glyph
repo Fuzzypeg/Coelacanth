@@ -1,5 +1,5 @@
 StartChar: upsilondieresis.pcap
-Encoding: 57539 57539 1852
+Encoding: 57539 57539 1851
 Width: 500
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 119.316 86<484.912 557.771> 212.266 75.2656<31.3438 222.15 226.938 273.27
 LayerCount: 2
 Fore
 Refer: 96 776 N 1 0 0 1 447.316 36.3301 2
-Refer: 1848 57535 N 1 0 0 1 0 0 3
+Refer: 1847 57535 N 1 0 0 1 0 0 3
 EndChar

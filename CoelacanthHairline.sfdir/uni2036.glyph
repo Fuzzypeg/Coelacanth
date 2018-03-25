@@ -1,9 +1,9 @@
 StartChar: uni2036
-Encoding: 8246 8246 2381
+Encoding: 8246 8246 2380
 Width: 288
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 2380 8245 N 1 0 0 1 140 0 2
-Refer: 2380 8245 N 1 0 0 1 0 0 2
+Refer: 2379 8245 N 1 0 0 1 140 0 2
+Refer: 2379 8245 N 1 0 0 1 0 0 2
 EndChar

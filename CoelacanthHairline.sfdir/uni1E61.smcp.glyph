@@ -1,5 +1,5 @@
 StartChar: uni1E61.smcp
-Encoding: 57913 57913 2273
+Encoding: 57913 57913 2272
 Width: 462
 VWidth: 1159
 Flags: HW
@@ -9,5 +9,5 @@ AnchorPoint: "Bottom" 207 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 48 775 N 1 0 0 1 439.5 150 2
-Refer: 2049 57689 N 1 0 0 1 0 0 3
+Refer: 2048 57689 N 1 0 0 1 0 0 3
 EndChar

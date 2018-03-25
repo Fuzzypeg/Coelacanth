@@ -1,5 +1,5 @@
 StartChar: gcircumflex.smcp
-Encoding: 57741 57741 2102
+Encoding: 57741 57741 2101
 Width: 620
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 52.1 87.8<163.429 346.406> 235.25 225.5 468.6 76.5<50.237 217.153> 508.4 
 LayerCount: 2
 Fore
 Refer: 92 770 N 1 0 0 1 545.5 138 2
-Refer: 2037 57677 N 1 0 0 1 0 0 3
+Refer: 2036 57677 N 1 0 0 1 0 0 3
 EndChar

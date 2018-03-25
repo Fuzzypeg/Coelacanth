@@ -1,5 +1,5 @@
 StartChar: itilde.smcp
-Encoding: 57747 57747 2108
+Encoding: 57747 57747 2107
 Width: 332
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 39.074 273.107 135.472 67.4424<39.011 449.27>
 LayerCount: 2
 Fore
 Refer: 99 771 N 1 0 0 1 384 157 2
-Refer: 2039 57679 N 1 0 0 1 0 0 3
+Refer: 2038 57679 N 1 0 0 1 0 0 3
 EndChar

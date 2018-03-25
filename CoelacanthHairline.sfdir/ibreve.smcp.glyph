@@ -1,5 +1,5 @@
 StartChar: ibreve.smcp
-Encoding: 57749 57749 2110
+Encoding: 57749 57749 2109
 Width: 332
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 42.322 28.08<678.771 695.079> 135.472 67.4424<39.011 449.27> 279.598 28.0
 LayerCount: 2
 Fore
 Refer: 104 774 N 1 0 0 1 372.5 146 2
-Refer: 2039 57679 N 1 0 0 1 0 0 3
+Refer: 2038 57679 N 1 0 0 1 0 0 3
 EndChar

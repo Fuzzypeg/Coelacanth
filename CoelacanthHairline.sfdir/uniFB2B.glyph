@@ -1,10 +1,10 @@
 StartChar: uniFB2B
-Encoding: 64299 64299 2612
+Encoding: 64299 64299 2611
 Width: 702
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 2482 1513 N 1 0 0 1 0 0 2
-Refer: 2538 1474 N 1 0 0 1 0 0 2
+Refer: 2481 1513 N 1 0 0 1 0 0 2
+Refer: 2537 1474 N 1 0 0 1 0 0 2
 EndChar

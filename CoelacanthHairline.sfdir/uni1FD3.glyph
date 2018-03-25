@@ -1,10 +1,10 @@
 StartChar: uni1FD3
-Encoding: 8147 8147 2029
+Encoding: 8147 8147 2028
 Width: 292
 VWidth: 1043
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1616 8174 S 1 0 0 1 16.5 0 2
+Refer: 1615 8174 S 1 0 0 1 16.5 0 2
 Refer: 1010 953 N 1 0 0 1 0 0 3
 EndChar

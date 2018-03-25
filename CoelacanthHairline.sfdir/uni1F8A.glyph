@@ -1,5 +1,5 @@
 StartChar: uni1F8A
-Encoding: 8074 8074 1569
+Encoding: 8074 8074 1568
 Width: 727
 VWidth: 1159
 Flags: HW
@@ -9,5 +9,5 @@ DStem2: 118 80 176 87 0.391141 0.920331<-3.53261 211.909 245.659 524.174> 429 64
 LayerCount: 2
 Fore
 Refer: 960 890 N 1 0 0 1 291.422 0 2
-Refer: 1465 7946 N 1 0 0 1 0 0 3
+Refer: 1464 7946 N 1 0 0 1 0 0 3
 EndChar

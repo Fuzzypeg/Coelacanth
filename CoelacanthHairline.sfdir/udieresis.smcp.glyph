@@ -1,5 +1,5 @@
 StartChar: udieresis.smcp
-Encoding: 57724 57724 2086
+Encoding: 57724 57724 2085
 Width: 637
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 99 76.5<89.2876 449.926> 207.5 86<598.582 671.441> 383.5 86<598.582 671.4
 LayerCount: 2
 Fore
 Refer: 96 776 S 1 0 0 1 535.5 150 2
-Refer: 2051 57691 N 1 0 0 1 0 0 3
+Refer: 2050 57691 N 1 0 0 1 0 0 3
 EndChar

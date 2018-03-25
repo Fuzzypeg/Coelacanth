@@ -1,5 +1,5 @@
 StartChar: uni1E1D.pcap
-Encoding: 57555 57555 1868
+Encoding: 57555 57555 1867
 Width: 468
 VWidth: 0
 Flags: H
@@ -8,5 +8,5 @@ VStem: 110.134 66.8664<38.1614 192 216 368.351> 111.322 28.08<604.771 621.079> 2
 LayerCount: 2
 Fore
 Refer: 104 774 N 1 0 0 1 441.5 72 2
-Refer: 1835 57522 N 1 0 0 1 0 0 3
+Refer: 1834 57522 N 1 0 0 1 0 0 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: ckreska.smcp
-Encoding: 58013 58013 2365
+Encoding: 58013 58013 2364
 Width: 572
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 52.1 91.1<158.089 343.256> 465 26.7<368.086 421.637> 497.3 22.8<109.945 1
 LayerCount: 2
 Fore
 Refer: 1191 57996 S 1 0 0 1 286 73 2
-Refer: 2033 57673 N 1 0 0 1 0 0 3
+Refer: 2032 57673 N 1 0 0 1 0 0 3
 EndChar

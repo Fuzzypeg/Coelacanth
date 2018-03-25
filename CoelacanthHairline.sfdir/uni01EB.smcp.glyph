@@ -1,5 +1,5 @@
 StartChar: uni01EB.smcp
-Encoding: 57816 57816 2176
+Encoding: 57816 57816 2175
 Width: 651
 VWidth: 1159
 Flags: HW
@@ -9,5 +9,5 @@ AnchorPoint: "Top" 329 539 basechar 0
 LayerCount: 2
 Fore
 Refer: 253 808 N 1 0 0 1 492.968 -7.13592 2
-Refer: 2045 57685 N 1 0 0 1 0 0 3
+Refer: 2044 57685 N 1 0 0 1 0 0 3
 EndChar
