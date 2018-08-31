@@ -3,7 +3,7 @@ Encoding: 1241 1241 1119
 GlifName: afii10846
 Width: 409
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -196 168
 VStem: 165 185
 AnchorPoint: "Top" 205 465 basechar 0
@@ -11,5 +11,4 @@ AnchorPoint: "Bottom" 201 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 880 601 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
