@@ -1,31 +1,30 @@
 StartChar: t
 Encoding: 116 116 19
-Width: 336
+Width: 354
 VWidth: 1159
 Flags: HMW
-AnchorPoint: "Top" 160 629 basechar 0
-AnchorPoint: "Bottom" 174 -15 basechar 0
+AnchorPoint: "Top" 178 629 basechar 0
+AnchorPoint: "Bottom" 192 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-10 490 m 1
- 68 511 86 545 109 632 c 1
- 169 620 l 1
- 167 580 165 542 163 501 c 1
- 218 502 272 503 322 505 c 1
- 321 431 l 1
- 269 433 216 434 161 436 c 1
- 160 426 157 213 157 128 c 3
- 157 92 178 71 207 71 c 3
- 245 71 281 77 307 90 c 1
- 307 90 330 37 330 36 c 1
- 296 9 248 -16 182 -16 c 3
- 151 -16 62 -5 62 121 c 3
- 62 231 67 330 69 433 c 1
- 50 432 33 432 12 432 c 1
- 10 490 l 1
+28 490 m 1
+ 86 511 104 545 127 632 c 1
+ 187 620 l 1
+ 185 580 183 542 181 501 c 1
+ 236 502 290 503 340 505 c 1
+ 339 431 l 1
+ 287 433 234 434 179 436 c 1
+ 178 426 175 213 175 128 c 3
+ 175 92 196 71 225 71 c 3
+ 263 71 299 77 325 90 c 1
+ 325 90 348 37 348 36 c 1
+ 314 9 266 -16 200 -16 c 3
+ 169 -16 80 -5 80 121 c 3
+ 80 231 85 330 87 433 c 1
+ 68 432 51 432 30 432 c 1
+ 28 490 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" T
 Substitution2: "pcap-1" t.pcap
 Substitution2: "smcp-1" t.smcp

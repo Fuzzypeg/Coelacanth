@@ -1,6 +1,6 @@
 StartChar: f
 Encoding: 102 102 5
-Width: 330
+Width: 334
 VWidth: 1159
 Flags: HMW
 AnchorPoint: "Bottom" 145 -15 basechar 0
@@ -8,7 +8,7 @@ AnchorPoint: "Top" 208 735 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-298 749 m 3
+298 749 m 7
  335 749 378 741 410 721 c 1
  415 688 385 651 364 637 c 1
  329 657 294 670 266 670 c 3
@@ -34,9 +34,8 @@ SplineSet
  33 502 60 500 82 499 c 1
  80 534 79 545 79 558 c 3
  79 614 126 656 178 697 c 0
- 208 721 261 749 298 749 c 3
+ 208 721 261 749 298 749 c 7
 EndSplineSet
-Validated: 33
 Substitution2: "salt-1" f.alt
 Substitution2: "case-1" F
 Substitution2: "pcap-1" f.pcap

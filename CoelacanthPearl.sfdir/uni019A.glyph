@@ -1,12 +1,12 @@
 StartChar: uni019A
-Encoding: 410 410 2480
-Width: 245
+Encoding: 410 410 2475
+Width: 263
 VWidth: 1159
-Flags: W
-HStem: -7 33<9 67 174 243>
-VStem: 91 70<57 558>
+Flags: HW
+HStem: -7 33<18 76 183 252>
+VStem: 100 70<57 558>
 LayerCount: 2
 Fore
-Refer: 441 821 S 0.832215 0 0 1 271.302 -264 2
+Refer: 441 821 S 0.832215 0 0 1 280.302 -264 2
 Refer: 11 108 N 1 0 0 1 0 0 3
 EndChar
