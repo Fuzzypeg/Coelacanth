@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1416444197
-ModificationTime: 1535760125
+ModificationTime: 1537416971
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -152,7 +152,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 27 10
+WinInfo: 756 27 10
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 13 [26 32 37 43]
@@ -1177,7 +1177,7 @@ Flags: HMW
 HStem: -79 29<283.571 314.227> 399 20G<145.175 160.675>
 VStem: 319.175 68<-39.3516 32.8313>
 AnchorPoint: "Bottom" 180.23 -15 basechar 0
-AnchorPoint: "Top" 250.666 465 basechar 0
+AnchorPoint: "Top" 245.666 465 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2560,23 +2560,22 @@ StartChar: zero
 Encoding: 48 48 64
 Width: 503
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 1 33<171.288 282.897> 375 36<225.567 341.745>
 LayerCount: 2
 Fore
 SplineSet
-279.390625 375 m 7
- 203.82049591 375 152.439469981 298.412587413 135.000976562 227 c 0
- 111.495124354 123.569060773 131.285902488 34 229.20703125 34 c 3
- 309.369873094 34 351.261735967 126.926174497 367.081054688 195 c 0
- 390.292810667 294.771428571 376.08266846 375 279.390625 375 c 7
-308.299804688 411 m 7
- 413.062947002 411 475.215386947 317.725 448.8046875 206 c 0
- 422.35246193 93.4093264249 318.966927371 1 207.041015625 1 c 3
- 97.4992746538 1 30.9159295141 93.4093264249 56.8046875 206 c 0
- 83.6038579068 315.675 198.99595613 411 308.299804688 411 c 7
+263.017578125 375 m 3
+ 187.447265625 375 139.41015625 298.412109375 125.08984375 227 c 0
+ 106.099609375 123.569335938 129.801757812 34 227.72265625 34 c 3
+ 307.885742188 34 345.719726562 126.92578125 358.567382812 195 c 0
+ 377.422851562 294.771484375 359.709960938 375 263.017578125 375 c 3
+290.35546875 411 m 3
+ 395.118164062 411 461.342773438 317.724609375 439.810546875 206 c 0
+ 418.274414062 93.4091796875 318.922851562 1 206.997070312 1 c 3
+ 97.4560546875 1 26.837890625 93.4091796875 47.810546875 206 c 0
+ 69.8212890625 315.674804688 181.051757812 411 290.35546875 411 c 3
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" zero.denom
 Substitution2: "numr-1" zero.numerator
 Substitution2: "lnum-1" zero.proportionallining
@@ -2587,29 +2586,28 @@ StartChar: one
 Encoding: 49 49 65
 Width: 370
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 26<32.9482 88.0461 199.587 246.514> 369 23<135.525 181.129> 379 23<293.338 336.308>
 VStem: 28.5137 311.486
 LayerCount: 2
 Fore
 SplineSet
-135.525390625 392 m 1xd0
- 187.989257812 387.885742188 279.708007812 388.837890625 340 402 c 9
- 336.307617188 379 l 1xb0
- 273.337890625 367 272.111328125 358 258.439453125 327 c 0
- 255.211914062 318 232.135742188 249 220.009765625 200 c 24
- 206.3984375 145 192.342773438 68 191.8671875 58 c 0
- 191.185546875 31 218.690429688 29 254.196289062 27 c 9
+118.41015625 392 m 1xd0
+ 171.053710938 387.885742188 262.731445312 388.837890625 322.448242188 402 c 9
+ 319.759765625 379 l 1xb0
+ 257.314453125 367 256.48046875 358 244.162109375 327 c 0
+ 241.328125 318 221.264648438 249 211.27734375 200 c 24
+ 200.067382812 145 189.374023438 68 189.334960938 58 c 0
+ 189.83203125 31 217.423828125 29 253.017578125 27 c 9
  246.513671875 0 l 1
- 173.626953125 6.4775390625 105.043945312 7.2900390625 28.513671875 0 c 9
- 32.9482421875 26 l 1
- 66.9384765625 30 95.43359375 32 114.858398438 62 c 0
- 121.084960938 71 132.77734375 94 159.009765625 200 c 0
- 183.262695312 298 184.459960938 319 184.944335938 325 c 0
- 186.86328125 357 192.842773438 365 128.833007812 369 c 9
- 135.525390625 392 l 1xd0
+ 173.34375 6.4775390625 104.725585938 7.2900390625 28.513671875 0 c 9
+ 31.8134765625 26 l 1
+ 65.62890625 30 94.0361328125 32 112.151367188 62 c 0
+ 117.985351562 71 128.672851562 94 150.27734375 200 c 0
+ 170.251953125 298 170.532226562 319 170.754882812 325 c 0
+ 171.276367188 357 176.90625 365 112.721679688 369 c 9
+ 118.41015625 392 l 1xd0
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" one.denom
 Substitution2: "numr-1" one.numerator
 Substitution2: "tnum-1" one.tabulartext
@@ -2620,28 +2618,27 @@ StartChar: two
 Encoding: 50 50 66
 Width: 445
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 21G<298.803 322.51> 2 64<83.8779 312.382> 405 53<170.634 274.758>
 LayerCount: 2
 Fore
 SplineSet
-93.3681640625 367 m 1x60
- 131.692382812 414.314453125 181.868164062 458 249.888671875 458 c 0
- 325.888671875 458 374.772460938 405 357.44921875 335 c 0
- 329.484375 222 106.5703125 89 83.8779296875 66 c 9x60
- 301.620117188 69 l 2
- 333.620117188 69 366.272460938 108 395.697265625 138 c 1
- 411.490234375 121 l 1
- 411.490234375 121 331.196289062 39 313.823242188 -11 c 1xa0
- 283.782226562 5 208.0390625 2 134.0390625 2 c 0
- 44.0390625 2 -15.455078125 0 -20.455078125 0 c 1
- -22 18 l 1
- 34.10546875 75 252.823242188 187 286.975585938 325 c 0
- 301.081054688 382 259.772460938 405 215.772460938 405 c 0
- 169.772460938 405 136.833984375 381 109.904296875 353 c 1
- 93.3681640625 367 l 1x60
+77.3447265625 367 m 1x60
+ 113.602539062 414.314453125 161.87109375 458 229.891601562 458 c 0
+ 305.891601562 458 357.08984375 405 342.823242188 335 c 0
+ 319.791992188 222 102.684570312 89 80.99609375 66 c 9x60
+ 298.607421875 69 l 2
+ 330.607421875 69 361.556640625 108 389.671875 138 c 1
+ 406.20703125 121 l 1
+ 406.20703125 121 329.493164062 39 314.303710938 -11 c 1xa0
+ 283.563476562 5 207.952148438 2 133.952148438 2 c 0
+ 43.9521484375 2 -15.455078125 0 -20.455078125 0 c 1
+ -22.7861328125 18 l 1
+ 30.8310546875 75 244.658203125 187 272.786132812 325 c 0
+ 284.40234375 382 242.08984375 405 198.08984375 405 c 0
+ 152.08984375 405 120.19921875 381 94.4921875 353 c 1
+ 77.3447265625 367 l 1x60
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" two.denom
 Substitution2: "numr-1" two.numerator
 Substitution2: "tnum-1" two.tabulartext
@@ -2652,501 +2649,27 @@ StartChar: three
 Encoding: 51 51 67
 Width: 388
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 122 26<79.667 113.413> 402 52<194.151 270.167>
 LayerCount: 2
-Back
-Image: 108 87 2 324 0 ffffffff -719.388 635.028 12.7638 13.7813 0
-m-<-flIG4beEcAKlKH^^kgSh\e*6&DlKH^^kgSh\e*H8JlKH^^kgSeZdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorCmH`?ek0_c0^U^hJPEC6/C/n;65>tEA?sZERHtT%@LW799j5J5Gk0`GVdd$&F
-lKH^^kgSk^eEcAKlflpbl.#"^e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/Glflpbl.#"^e*?/G
-lKH^^kgSh\e*?/GkiU:WkL/YZe*?/GlflpakgSh\e*6&DlKH^^kgSh\e*?/GlKH^]kL/VXdcfi@
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCkiU:WkL/YZe*6&Dl0$LZkL/VXdd$&Fl0$LZkL/VXdcorC
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCm-<-flIG7dea)JLlflpakgSh\e*?/GlKH^^kgSh\e*?/G
-lKH^]kL/VXdcfi@l0$LZkL/VXdcorCl0$LZkL/SVdHK`?l0$LWjNlQ4_o'<lSt(RWEElXJ6<7&M
-?sZESI;#=HMTEfBjl=YNkL/SVdHTiBl0$LZkL/YZe*?/GlflpakgSh\e*?/GlKH^^kgSh\e*?/G
-lKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*6&Dl0$LZkL/VXdcorC
-lKH^^kgSh\e*?/GlKH^]kL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/YZe*?/G
-l0$LZkL/VXdd$&Fl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCm-<-flIG7dea2SO
-lflpbl.#%`eEZ8Hlflpbl.#"^e*?/Gl0$LYk0`ARd-'N;kiU:WkL/VXdcorCl0$LYk0`DTdHBW<
-kiU:Sj3HK8`llK2VPK8rFC/0P6<7&M?sZEUIqkdRNQ]GNkN1(TkL/PTd-0W>kiU:Vk0`GVdd$&F
-lKH^^kgSh\e*6&Dl0$LZkL/VXdcorCl0$LZkL/VXdcorClKH^^kgSh\e*?/GlKH^^kgSh\e*?/G
-lflpbl."t\dcfi@kiU:Vk0`DTdHK`?l0$LZkL/VXdd$&FlKH^^kgSh\e*?/Gl0$LZkL/VXdcorC
-l0$LZkL/VXdcorCl0$L[kgSh\e*?/Gl0$LYk0`GVdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorCm-<-flIG7dea2SOlflpbl.#%`eEcAKlflpbl.#"^e*6&DkiU:Ujj</NcfX<7
-kiU:Vk0`GVdcorCl0$LYk0`ARd-'N;k2akJi60m.`6?B3VkoJtF'_sL6!%&O?X63SJ8;$XO3GbS
-k2akPk0`ARd-'N;kiU:WkL/VXdd$&FlKH^^kgSeZdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-lKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlflpakgSeZdcfi@kiU:Vk0`DTdHK`?kiU:Vk0`GVdcorC
-lKH^^kgSh\e*?/Gl0$LZkL/VXdcorCl0$LZkL/VXdcorClKH^^kgSh\e*?/Gl0$LYk0`DTdHTiB
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCm-<-flIG7dea2SOm-<-el.#%`eEcAK
-m-<-el."t\dc]`=k2akNjNluLcfX<7kiU:WkL/VXdd$&Fl0$LYk0`ARd-'N;j5J5>h8n:$_T^01
-VkoJtF'`!N6<[JY?X63UJo.H`Oj(tUjPnGHjNm#Nd-0W>lKH^^kgSk^eEcAKlKH^^kgSeZdcfi@
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorClKH^^kgSh\e*?/GlKH^^kgSk^eEcAK
-lKH^^kgSeZdcorCkN1(Sk0`DTdHTiBlKH^^kgSh\e*?/Gl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-lKH^^kgSh\e*?/Gl0$LYk0`DTdHTiBl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-m-<-flIG7dea)JLlflpbl.#%`eEcAKlflpakgSbXdH9N9jl=YJj3HcHcK=36kiU:WkL/YZe*?/G
-lKH^]kL/SVdHBW<kN1(Oim$B:aNr,@WMbo%F'_pJ5ZUiK@UMiaKlF)lPg.C[j5J5EjNm#Nd-9`A
-lflpclIG7dea)JLlflpakgSeZdcfi@l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-l0$LYk0`DTdHK`?lKH^^kgSk^eElJNm-<-el.#%`eEZ8HkN1(Sk0`DTdHTiBlKH^^kgSh\e*?/G
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$L[kgSh\e*?/Gl0$LYk0`GVdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorCl0$LZkL/VXdcorClflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpakgS_Vd,j<5
-jPnGFim$TFcK=36l0$L[kgSk^eEcAKlflp`kL/SVdHBW<lKH^]kL/AJbKnGCVkoJsEa;^F5?(ND
-AReJoMKQ/+RF0?ljl=YKjNm#Nd-9`Alflpbl.#(bea2SOlflpakgSeZdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorCl0$LZkL/SVdHK`?kiU:Ujj<2Pd-'N;kiU:Vk0`DTdHK`?l0$LZkL/VXdcorC
-kN1(Sk0`DTdHTiBlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/Gl0$LZkL/YZe*?/G
-l0$LZkL/VXdd$&Fl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorClflpbl.#%`eEcAK
-lflpbl.#"^e*?/Glflp`kL/PTd,j<5jPnGFim$TFcK=36l0$L[kgSk^eElJNlflpakgSbXdHBW<
-kiU:TjNl]<a3)K0UnWikF'`$P6WmJWBP(,'Nd8";S^c*$kN1(Rjj<5RdHTiBlKH^_l.#%`eEcAK
-lflpakgSh\e*6&Dl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/SVdHK`?kN1(Rjj</NcfX<7
-k2akMj3HcHcK+!0jPnGGj3HfJcfX<7kiU:Vk0`DTdHTiBl0$L[kgSh\e*?/GlKH^^kgSh\e*?/G
-lKH^^kgSh\e*?/GkiU:WkL/YZe*6&Dl0$LZkL/VXdd$&Fl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorClKH^^kgSh\e*?/GlKH^^kgSk^eElJNlflp_k0`>PcfaE:kN1(QjNluLcfjN=
-kiU:WkL/YZe*?/Gl0$LYk0`DTdHBW<kiU:Sj3HE4`5fj$U7dEdEa;jN6WdATChZq7OaagJU=Rf/
-l/pIZk0rSWe*6#DlK?[_l.#(bea)JLlKH^]kKrMXdH]rClKH^^kgSh\e*?/Gl0$LZkL/VXdcorC
-l0$F[lIG(Zd,X*/kN1(RjO*&IcK=06j5J5BiQU06a4o:ch:os+grJ:,a5Z%#kiU:Yl."qZdH]rE
-lKH^\k0`MZeEH&BlKH^^kgSh\e*H8JlKH^^kgSh\e*?/Gl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorCl0$LZkL/SVdHK`?l0$LZkL/VXdcorCl0$L[kgSh\e*H8Jlflpbl.#%`eEcAK
-mH`?gkgS_Vd,sE8jl=YIim$WHcfsW@l0$L[kgSh\e*6&DkiU:Ujj<2Pd-'N;kiU:Sj3HH6`Q6'(
-UnWimF^SKZ7Trn]An+YuN-Vb6S^Ys!k2XhOjO*/OdHK]?l/pI[kgSk^eEcAKlKH^]kL/YZdH]rC
-lKH^^kgSh\e*6&Dl0$LZkL/VXdd$&FkiU4UkL/PTd,j<5l0$L\kgeq[e*6#Dk2akJi60m.`7EGQ
-f@@[feA'Ye_;<tfiSVfAk0`DTdH]rEl0$LYk0`P\e`uAIl0$L[kgSh\e*?/GlKH^^kgSh\e*?/G
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcfi@kiU:Vk0`DTdHK`?
-l0$L[kgSh\e*H8Jlflpbl.#%`eEcAKm-<-dkgSeZdcfi@kN1(RjO*2Qdd-,IkiL7VjjNASdc]]=
-k2XhMim6`GcfX97k2XhLiQg31`Q,p%US*ThEaMpK6;p]D?sQB^LNKc&RaB<jjPeDHj3ZuMdHK]?
-l/pI[kLAh^eEcAKlKH^^kgSh\e*?/El0$LZkL/VXdcorCl0$LZkL/YZe*?/GlKHXZk0`ARd,sE8
-jPnGDhosp1a48VQccruAa0NFlVn':2\@/*@[\:FJVocubdEfD]h8na>cfsW@kiU:Ujj<AZe`l8F
-l0$LZkL/VXdcorClKH^^kgSh\e*?/Gl0$LZkL/SVdHK`?kiU:Vk0`GVdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcfi@kiU:Vk0`DTdHK`?lKH^^kgSh\e*?/GlflpclIG4beEcAKl0$LZk0rVYeEZ5H
-l/pIYjjNASdcooClK?[^kLAe[eEZ5Hl/pIYjjNASdcooCk2XhMim6H7a3)H0VPB5sFCA9O6;^K>
-?<]sWL3'Q"REs*fjPeDJjjNDUe*6#Dl/pIZk0rVYeEZ5HlKH^^kgSh\e*?/Gl0$LZkL/SVdHK`?
-l0$LZkL/YZe*6&Dlflj]k0`GVdc]`=gtK`rd(RH:YdUm2V5''@RY?i`H&.2pLP9]&KlE08HD-sg
-\[S<YbdZE_`oZ7+k2akOjj<>XeE5i<l0$LZkL/VXdcorCl0$LZkL/YZe*?/Gl0$LZkL/SVdHBW<
-kN1(Sk0`GVdcorCl0$LZkL/YZe*?/Gl0$LZkL/VXdcorCkiU:Vk0`DTdHK`?lKH^^kgSeZdcorC
-lKH^_l.#(bea2SOl/pIZk0rSWe*6#Dl/pO[jj`JSe)fT:kN(+Sj3m&KdH0B8jPeJFhp16=cK4'5
-j5%u>gs"L%`5og$VP'#sFC\QS6rH]@?X-0[LNKc&RaB<jjl4VNk0rVYeEQ,EkiL7VjjNDUe*6#D
-lKH^_l.#%`eEZ8Hl0$LYk0`DTdHTiBl0$L[kgSeZdcfi@kiU4OiQU<>bM1^gb/gp#\"ot!P*M2[
-LP0YtI;3kD?>F4SBOt(SA5R>a>Ch6=R[8]5YFN\QZJ!gHinquAim6oQeE5f<l0$LZkL/VXdcorC
-l0$LZkL/YZe*?/Gl0$LYk0`ARd-'N;kN1(Rjj<5RdHTiBl0$LZkL/YZe*?/GlKH^]kL/VXdcorC
-kiU:Vk0`DTdHK`?lKHX[kKrGTcfjN;lKHX]l-en^dd-/Gl/pIZk0rMSdHBT>l/pO^kh57af]V>G
-inr&;g<&(#`n8h[e^D:^cb@oV^t7)Rg=4'nd_aAR]"beTTULa^EFE$M6rH]@?X-6^Lj-,,S^>Wo
-jPeJMk1/_Ye`c,EkiL=WjO*2QdcooClK?[_kgf"`eEZ8Hki^CWk0`ASdHKcAl0-U\kgS_WdH0H8
-j5J/8fu21[\%B2HUnWj1NI$&#BQ.flFE(W/EF*Nu=Ckr;?X-0-=[le)8o&*?H$3\YN-VD"PJtDB
-f[[juhotBKeEH#BlKH^^kgSeZdcorCl0$LZkL/YZe*?/Gl0$LYk0`DTdHBW<kN1(Sk0`DTdHTiB
-l0$L[kgSh\e*?/GlKH^]kL/VXdcorCl0$LZkL/VXdcorCkiU4Sjj*&NcKXN=lfljalI5%^dHTi@
-kiL7UjO*,MdcTT<kiLCZjjrGJdbEBsdE]MK`j`duYIqEG\$W!=Z(e\5Uq=.9_S!%f]</WMV5g>W
-P)Oj1CgL@I868YU?X-6^Lj-/.T$Y`pjPeJMk1/_Ye`Z#BkN(+TjO<;QdHK]?lK?[_kgf"_e`uAI
-kN:1Tk0`ASdHTlDlKQg_kgS\Ud,X-1hqc<$dCcutTph@$KnF8eFCB*(=`/"WH['+SJ8KmfCj:)3
-ChZpX>tS7#6WmGW@UDfLDd80TFKV[3bK.*GfZ!(9dd$#Flflpbl.#"^e*6&Dl0$LZkL/YZe*?/G
-l0$LZkL/SVdHK`?kiU:Vk0`GVdcorClKH^^kgSh\e*?/GlKH^]kL/VXdcorCl0$LZkL/VXdcorC
-k2aeLjNZlLcKaW@m-<'dlI5"\d-'N9kiL7VjjN;OdcKK9jPePDg<S'h^r4$qZEKq!Um7I<MNj6T
-NJ`(>L3JW7H]sPBR?N>mPD,6]J;T#'H?<b.>Y\6n5Z:BA?X-6_M0QA2T?tiqjl4\Pk1/_Ye`Z#B
-kN(+TjO<;Qe*,oAlK?[_kgf"_e`uAIkN:1Tk0`DUdcouElKQg_kgSYScf3p-gtKZkbdX^TQAg]D
-Isl!ZHYA(`DNBa%TUgtAWKs]fR%U"-N/;_$F'rNe:0^pk=&_Ip?VGZc@@isE_7lu#d_Fr)d-BfD
-m-<-flIG1`e*6&Dl0$LZkL/YZe*?/Gl0$LZkL/VXdcorCl0$LZkL/VXdcorClKH^^kgSh\e*?/G
-lKH^^kgSeZdcorCl0$LZkL/VXdcorCjl=YKjNm#Nd-KrGmH`?hl.#"^e*6&DkiL7Zl.5._eEQ,G
-f[[pbb.Fm[SsP[qJq%`_F(Aus=(G`;@9u`:>YAF/94D7'ARA5I@oI#K;.*R">#[me905m>3)N=1
-@pi)lMKuV8U!V&slK?a\j3m/QeEQ,GkiL7VjjNASdcooClfcmcl.54cf'DPMkN:1Tk0`DUdd$)H
-lg!$cl."hUcf*g*gY0Wlc+'UGO,/R3O,\COQ@Yj+NP2s$c-!NGd_F5V]Z7sqYH4.RNI#bh?sd/1
-<)Gh[;a=u+;2pHWYcXA?bdlotdHBT<l0$L\l.#(be`l8FkN1(Sk0`GVdd$&Fl0$FYkgA\ZdH]rE
-l0$LYk0`GVdcorCl0$L[kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GkiU:Vk0`JXe*H8J
-lflpakgSbXdHBW<kiL7Wk0rAKc.q!n`PSmcYFq,BJpr&_E,AorB38\Q;Ia*3@pi)A?VY!79OM."
-?<Ka(=[lRp6<-iF<)5VR9K>pB3)i[9@pi#kMg2Y8T?k`lkiL7Sim6fKdHK]?l/pIYjjNASdcooC
-lfcmcl.51ae`u>Ik2jtQk0`DUdd$)Hlg!$cl."kWd,X-1gY0WpdCcuuU8OlNZETh1\YR-ZXOP\3
-g"+'ugr\L1b1t[ib/^lnXdYB4HZ!V$=&_Ib;*J>l8V)>+V4s$l`NnUbcfjK=l0$L\l.#%`eEH&B
-kN1(Sk0`GVdd$&Fl0$FYkgA\ZdH]rEl0$LYk0`GVdcorCl0$L[kgSh\e*?/GlKH^^kgSh\e*?/G
-lKH^^kgSh\e*?/GlflpclIG7de`uAIkiU:TjNlrJcK+!0jPeDAgr\!j]YhOgW25`@NdlA!BQ%]m
-G&q2@G\M\VDM3R]M2$/2Lj+]1FbPEeI!9+DE*[0g;.3^$?!'Nr;*IlP3`Jm;A785pNI&(@U!Cik
-k2XhKi6CHGdHK]?lK?[^kLAbYe*?,GlK?[_kget]eEQ,Ek2jtQk0`DUdd$)Hlg!$dlIG+]dcKQ9
-i8;]3g;VC`\]W%$da5VYf"p1s`oH%%jPeDGim6fKdHK]?h:fomaL/"EPBh=]>?F<m:d%o\6?dN[
-SXP>O^ocYTc0+08kiU:WkL/YZe*#i>k2akPk0`JXe*?/Gl0$FXkKrMXdHTiBl0$LYk0`GVdcorC
-l0$L[kgSh\e*?/GlKH^^kgSeZdcorClKH^^kgSh\e*?/GlflpclIG7de`c/Cjl=YIim$QDc/R[)
-h:foscF^ZsUnXKAMhlS(G\MADAUf)ENJ`(NQA;?4Pc^sRZ*'Y)Z(SD+Suo#ZTq$t,PCSLCEIN1F
-F)G2m?VFX'6<[AUAR\H!OF=^LUsI8qjl4VIiQgZKdcooClflpbl.#"^e*?/GlKH^]kL/VXdcfi@
-k2jtQk0`DUdd$)Hlg!$dlIG._e*,uCkN:1Pim$B;akbamhqcB6iQUKHd-0W>l/pIVim6]EcK=06
-hV6-#d(Q]eRsB0e?!9`t;*J)^6?mW^SstPS_62hVc/ms2kN1(Sk0`DTdHBW<k2akPk0`JXe*?/G
-l0$FXkKrMXdHTiBl0$LYk0`GVdcorCl0$LZkL/YZe*?/GlKH^]kL/VXdcorClKH^^kgSh\e*?/G
-kN1(UkgSh\e)o`;jPnGHjNluLcf3m+f$hFM]rIZnLk1"lF`Lo4EFOWRF.JbXZ`p.?^TPr.][P6B
-e'PkZdD"&T]["^1bJpm,^T=lKSu/3AO,A.%D-C:M7pK+`B4Ol+P_$T^WRB,*k2XhMim6oQeEc>K
-lflpbl.#%`eEZ8Hl0$LZkL/SVdHK`?kN:1Tk0`DUdcouElKQg`l.#"_eEQ2Gki^CUjNm#OdH9Q;
-jPnGIjj<AZea2SOlfcm]j3ZlGcK*s0gXsKlc+:*[R<EXZ>$"*k;*J5f7Xf\tUnNgj`j=ddcfX97
-kN1(Sk0`DTdH9N9k2akPk0`JXe*?/GkiU4UkKrJVd-9`Al0$LYk0`GVdcorCl0$LZkL/YZe*?/G
-l0$LZkL/VXdcfi@lKH^^kgSh\e*?/Gj5J5Gk0`GVdcTW:k2akQkL/JPcJI?saMkHdWKr6iDe`oc
-Ec597I;YUEMn6BreBu(ih9>0If'DPOl/pIZk0rSWe*#f>ki:"LhTFHu^;I[bU7I-dFC8HZ7U&n[
-BP(,3RYA\sXk)":kiU:Ujj<>XeEcAKlKH^^kgSk^eEZ8Hl0$LYk0`DTdHK`?ki^CXkL/SWdcouE
-l0-U\kgSe[e*6)Fki^CWk0`JYeEZ;JkN1(Rjj<;Ve*6&Dl/pIZk0rPUdcTT:gXsKfa0__=OE,8E
-<`;7`;EnVt9S\:@XJqN2bIHctdcff@kiU:Vk0`DTdH9N9kN1(TkL/YZe*6&DkiU4UkKrJVd-9`A
-kiU:Vk0`GVdcorCl0$LZkL/VXdcorCl0$LZkL/SVdHK`?l0$LZkL/VXdcorCi82T=jj<;Ve*#i>
-kN1(QjNlZ:`mE#AYH4.TO*kk^=^k`5K7Im3RuG%lX45P6gXsR)h9>!?dHBT>kN(%SjjNASdc]]=
-jPS/>grS-s^W+*lUn<QjFC8HZ7U9+aC1pP=Sr(S0ZJ!jHlKH^[jj<;Ve*6&Dl0$L[kgSh\e*?/G
-l0$LZkL/VXdcorCl0-U\kgSe[e*,uCki^CXkL/SWdcflBlKQg_kgSe[e*,uCkiU:Ujj</NcfF*1
-k2XhSkgeq[e)fT8g"+'W^8m]hKPP7$<Dl%b=%$tC=dPA(\[J9`d_G)1eEH#Bl0$LZkL/SVdHBW<
-kN1(TkL/YZe*6&DkiU4Tk0N;Td-9`AkiU:Vk0`GVdcorCl0$LZkL/VXdcorCl0$LYk0`DTdHK`?
-l0$LZkL/VXdcorCi82T>k0`MZeEH&Bjl=YGi60Ts]YhReR?iJSHY?kq9OhI+QBQp3\#@m,`9?=6
-jPeJHiR$ZEd,j95k2XhOjO*,Md,a02lfQXYim-B4`6#s%V4`ckEaE!P6X!JUCM?bBTSq%:[G0BQ
-lKH^[jj<8Tdc]`=kiU4UkKrMXdH]rCl0$FXkKrJVd-BiBlKQg`l."t]e*,uCkN:1Tk0`ASdHKcA
-lg!$bkgSYScfO66lKH^^kgS\TcfO34k2XhTl.5([dc991e^D4D\"o+FH=gY`=&_Io?;#WiAYl,^
-`PSh5fZ!1?e`Z#@l0$LZkL/SVdHBW<kN1(TkL/YZe*6&DkiU4Tk0N;Td-9`AkiU:Vk0`GVdcorC
-l0$LZkL/VXdcorCl0$LYk0`DTdHBW<kiU:Vk0`DTdHK`?j5J5Cim$`Ndcfi@j5J5=grIRYZ`L0l
-KRn#RA5QiE9ltA]V4s%"d(e>fa6;X7iSMi;h9=j7c/dj/kiL7Wk0rMSdH'93k2FSHi69s,_T9Wu
-VkT,qFC&3R6!d\]EGnsPSqkM2ZJ*sIlKH^ZjNlrJcKXN?lflpakgSeZdcorClKH^^kgSh\e*?/G
-m-<-el.#"^e*,uCki^CXkL/PUdH9Q;kNC1TkL/PUdH0H8lKH^cm+L^ge`5T4kN(%XlIY:_e)]K5
-c-!MpVNZgiEbAo[?sQBIEaOibGdFWFeBu"ji6CQMeEQ,El0$LZkL/VXdcorCkiU:Vk0`DTdHK`?
-kiU4Tk0N8RcfsW@l0$LZkL/VXdd$&Fl0$L[kgSh\e*?/Gl0$LZkL/SVdHBW<kiU:Vk0`GVdcorC
-jPnGGj3HlNdH9N9i82T-e\Jo3Vk0E6E,Ac_=@Hk5;1X13YcXAJf>ce+c0X]IiSMi<hTb';cK=06
-lK?[^kLA_WdcKK7kMjeKi69p*_8jEqVP/omF'W*T6XX+eE,JaKS;#)*Yh@XDlKH^[jj</NcfsW@
-lflpakgSeZdcorClKH^_l.#%`eEZ8HlKH^]kL/VXdcflBki^CXkL/SWdc]c?jlObLjj</Od,j?7
-l0$L]l.5._eE,]9k2XhQk0r;GbLb7[]==]$OF;M%Ao;BdEc53BMKc"qP/kMGhV6-5im6oQeEH#B
-kiU:WkL/VXdcorCl0$LYk0`DTdHK`?kiU4Tk0N8RcfsW@l0$LZkL/VXdcorCl0$LZkL/VXdcorC
-l0$LYk0`ARd-'N;kN1(Sk0`DTdHK`?jl=YJj3HfJcfF*1hV?/ucFL3`RZ<>N@pi#1;*Jr9>*G%r
-]!nKjfuW./c0=B@jPeJHiR$ZEd,sB8l/pI[kLAbYe*#f>l/^4RiQ^*,_8a<nUn<KfEa2mP6=F+g
-DJW=DRtSl&YLqF@lKH^[jj</NcfsW@lKH^]kL/VXdcorClKH^_l.#%`eEcAKkiU:Vk0`DTdHBZ>
-ki^CXkL/SWdcflBjlObLjj<2QdHBZ>l0$LYjjNASdc]]=l/pIWj3Z<'^;.F^SXP=TE*[-g;K6SY
-MMH;RVj,0;YM%LEjl4VKj3[#Odc]]=kiU:Vk0`GVdcorCl0$LYk0`DTdHBW<kiU4Tk0N8RcfsW@
-l0$LZkL/VXdcorCkiU:Vk0`GVdcfi@kiU:Ujj<2Pd,sE8kN1(Rjj<5RdHK`?jPnGFim$NBbi.I%
-h:ornb-e1FObA='@9uT+;*K5I@\&sC^:U>ufZ2k'b2hO.lK?a^jj`DOdH0B6k2XhPjjNASdc]]=
-l/^4Sim-<0_Ss<lURm9bEEc^N6=="dDf&OJSqkS6[+j9Nlflp^jj</NcfjN=lKH^^kgSeZdd$&F
-lKH^^kgSh\e*?/GkiU:Ujj<2Pd-'Q=ki^CXkL/SWdcflBjlObLjj<2QdHKcAkiU:Sim6`GcfX97
-inqu6f>PM>X/DbUNJ_q$E*[[0@?Q\!VkfHn_62D>_;X7ok2XhOjO*8UeEH#BkiU:Vk0`GVdcorC
-l0$LYk0`DTdHBW<kiU4Tk0N8RcfjN=l0$LZkL/VXdcorCl0$LZkL/SVdHK`?kiU:Vk0`ARd-'N;
-kN1(Rjj<5RdHK`?j5J5BiQU9<b2;$rgtK`g`j)/,LjODX>?F<l:HWlE@\90I_7lu,gWJL3c/ms4
-l/pO[jj`GQdcTT:kN(%RjO*/OdHBT<ki:"OiQ^*,_8X3kURm9bEEcaP6Xj=kF)bB\UlEjN]&2>`
-lflp]jNlrJcKOE<lKH^^kgSh\e*?/Gl0$LZkL/VXdcorCkiU:Vk0`ARd-'Q=kN:1UkL/PUdHBZ>
-jQ+PHjNm#OdHKcAkN1(Ni6C9=bi@X+eBu"L_QTf1O,8U4Isbs\I;4t-IC-8Nai:[BfuE%/biIa.
-kN(%Tk0r__fB_YNkiU:Vk0`DTdHTiBkiU:Vk0`DTdHBW<kiU4Tk0N8RcfjN=l0$LZkL/VXdcorC
-l0$LZkL/VXdcfi@kiU:Vk0`DTdHK`?kiU:Vk0`DTdHTiBio&#@im$H>b2;$rgtK`c_QB,gIrfU7
-<`;7\:-3ZA@@isE_n`D6hp19?cfaB<jPeJIimHrMe*6#DlK?[]k0rMSdH9K9k2FSHi69p*_8X3k
-URm9dF'W3Z7V6(%G]mGoW0,WZ]\hPblKH^ZjNluLcfjN=l0$L[kgSh\e*?/Gl0$LYk0`DTdHK`?
-l0$LYk0`DTdHBZ>kN:1UkL/PUdH9Q;k2stPk0`DUdc]c?jPnGAgr\7#_q!2M^V$PEV36XgEc5bs
-FE(WFLioVkOiPDFhV6-8jjN;Od,j95kN(%SjjNM[f';GJkiU:Vk0`DTdHK`?kiU:Vk0`DTdHK`?
-kiU4Tk0N8RcfjN=kiU:WkL/VXdcorCl0$LZkL/VXdcfi@kiU:Vk0`DTdHK`?kiU:Vk0`GVdcorC
-iSVf?jNllFbi.I%h:orc^T*?SG\h+p<`;7b<'beQA"&a;_7lu0hp16=cKOB>jPeJIimHrMe*6#D
-lK?[^kLAbYe*,oAl/^4Sim-<0_Ss<lURm9eFC&H`88;^3I!T;'WKP]V\_>]PkiU:Ujj<2Pd-0W>
-kN1(TkL/YZe*6&DkiU:Ujj<2Pd-0W>l0$LYk0`DTdHBZ>ki^CXkL/SWdc]c?kNC1Sk0`8McJ@9r
-f@@[^bIGC&X0o7*R[8\YIVWh:=CY`5F)YEMP(0mFT@(rrgtB^0j3ZrKd-'K;kiL7Sim6fKdHBT<
-l0$LYk0`DTdHBW<kN1(Rjj<5RdHK`?kiU4Tk0N8RcfjN=kiU:WkL/VXdcorCl0$LYk0`DTdHBW<
-kN1(Sk0`DTdHK`?kiU:Vk0`DTdHK`?iSVf@jj</Ncf=!.hqcAh^8[*MG%kSe=B.[m=[m^]A<i=-
-^:U?&hTb';cKsfJkiL=WjO<;Qe)o];kN(%SjjNGWeEc>KmHE'bjjDl8_oBNpURm9dF'W<`8S_p7
-Iskq0WKPQN[FWj@k2akPk0`DTdHTiBk2akPk0`GVdcorCkiU:Ujj<2Pd-0W>l0$LYk0`DTdHBZ>
-ki^CXkL/SWdcflBk2stMj3HK9a3`/D`P\jg[A'LlO-GcUI<oO;@S^3179Wb\CM6_+LioPgO1r6)
-da,S`gr\X9cKaTBlK?[XiQgTGd-0T>l0$LZkL/PTd-'N;k2akOjj<5RdHTiBkN1"Qk0N8RcfjN=
-kiU:WkL/VXdcorCkiU:Vk0`ARd-'N;kN1(Rjj<2Pd-0W>kN1(Rjj<5RdHK`?io%r>ilgQJcf3m+
-hqcAm_leuWG&D+t>ZsR#=[[IU@?Q\!]Xauof#?\-dHg#Lk2XnOimHlIdH9K9l/pI\kget]eE>o?
-m,uj^jNuZ4_Sa*fSX>(KC0"P>6=aFrH$<_pUlWdD[b00Il0$LYk0`DTdHTiBkiU4UkKrMXdHTi@
-kiU4Sjj*&NcKOE:kiU:Vk0`GVdcouEl0-U\kgSbYdc]c?kNC1Pj3Grp\@8o?US3X+MKaPtBm+Q*
-B4Ok>;En#R4&Ja7>ZjO9DHhdFDP*GU['?4Od(SN!cKXK?l/pITi6C9=biIa.kiU:WkL/SVdH0E6
-jPnGIjj<;Ve*?/GkiU4Sjj*&NcKF<9kN1(Sk0`DTdHK`?kiU:Ujj<2Pd,sE8k2akNjNm#Nd-'N;
-kN1(Rjj<5RdHK`?i82N7iQC<Dc/R[)i82Ss`j(_iHusC7?sZE/=[[@O?AjV^['?:OcFr&fbNIs:
-jl4\Mj3m,Oe*6#Flfcmcl.5._eE>o?kMjeKi69g$^;%7VR?W5<B2_i.4^M8[F)bHZTSq"8[+EjD
-kiU:Ujj<5RdHg&Hl0$L[kgSh\e*6&DkiU:Ujj<5RdHK`?kiU:WkL/YZe*6)Fl0-U\kgSbYdc]c?
-jQ+PBhT<gXZ*1<uR[A_^K5c3`Ap/6'D/*-Z>Y/.%79EPV=]Rmu?;#$G<.0(*Q^!'1[%Ydg\DQ)`
-kN(%Ni6C<?c/dj/kiU:Vk0`ARd,a32jPnGIjj<8Tdd$&FkiU4Tk0N8RcfjN=kiU:Vk0`DTdHK`?
-kN1(Rjj</NcfX<7k2akNjNm#Nd-'N;kN1(Sk0`DTdHK`?i82N6i5t*@bi7R(i82T!ag@V.L4+D\
-An4\B>"*=E=Fbg7VkfNr_m7nD`T?+.jl4\NjO<;Qe)o]=kN(%SjjN>QdH'93l/^4Sim-3*^V@@W
-R[&G@BN/#04^1rRDf&UKSVYJ2[+NsGkiU:Ujj<5RdHg&HlKH^^kgSh\e*6&DkiU:Ujj<5RdHTiB
-l0$LZkL/YZe*6)Fl0-U\kgSbYdcflBkigCSj3Grp\@K,EWi2,PRYRE$L7FZdQ'-WNJo>mV@V94K
-=]Rmg:d%iX5[n(oF`LiPO*n.4REWd]hV6-0h9+d9c/dj/kiU:Vk0`>PcfF*1jPnGIjj<8TdcorC
-kiU4UkKrJVd-9`Al0$LYk0`DTdHBW<kN1(QjNluLcfX<7k2akNjNm#Nd-'N;kiU:Vk0`DTdHK`?
-j5J/Bj36WFbi@[+i82T$bdXLHOGAO/Df&T_>XrF;;0-\^Q^!-2Z_G[c]&;DikiLC\kLSn[e`Po?
-jl4\NjO*2Qdc]]=lfQ[[j3ZH-^qR@VR[&JECfstC6XO"eDJWCFRtf#(Z.RXDlKH^[jj</NcfsW@
-lKH^^kgSeZdcfi@kiU:Vk0`DTdHTiBlKH^^kgSh\e*6)Fl0-U[kL/SWdcflBjlObKjNlB+^WFR'
-_SE4c\u3H]XiSJe^:U>HX-f6<JUD`T@pi#/:HVBF3)ia=@9uTLEaOrhHa^8RccirQf#-M)biRj1
-kiU:Ujj<,LcK+!0jl=YLjj<5RdHK`?l0$FXkKrMXdH]rEl0$LYk0`ARd-'N;k2akNjNlrJcK4*3
-k2akNjNm#Nd-'N;kiU:Vk0`DTdHK`?jl=SKk0N5PcK+!0hqcB$capHfS<T1bG'%(t>Xr.+8Ru7)
-Jq%[1S;XnbVU3T%gXsX-hpCNGeE,];jl4\Ojj`MUeE>o?kMjhJhTO9h\?i?-PE(!-Bi\G=6XX+h
-ChZq;Q%HlfXOYb6lK?[]k0rMSdHK]?lKH^]kL/SVdHBW<kiU:Vk0`GVdcorClKH^^kgSh\e*6)F
-ki^CXkL/PUdHBZ>jQ+PIjj;i=a4T"\f$qI_cb.u``8B@lf@7X]b."piUS+08JUVBH@o-6+5uCB=
-<`;7m?VGciA>#KN^V$PncF`)nbiRj1kN1(QjNlrJcK4*3k2akOjj<2Pd-0W>l0$FXkKrMXdH]rE
-l0$LYk0`ARd-'N;k2akNjNlrJcK4*3k2akNjNm#Nd-0W>kiU:Vk0`DTdHK`?jPnAGjj*#Lc/n!2
-hqcB(e%W]7X/)JLH$<_'>=M[n5upoLDJNF1K6!QQN460j`PSt1d)"YrcK4'7kN(+Ujj`GQdc000
-iS;Q0f#,G@XJMSLL4O5S@89j#5$M&TBkC;.Oab$VW7'#)lfcmbkgeq[e*?,GkiL7UjO*,Md-'K;
-kiL7Wk0rSWe*6#DlKH^^kgSeZdcflBkN:1Tk0`ASdH9Q;kigC[ldk7]dH9Q;kN1(Mhot9EdHg#H
-l/pIUiQfp!]t_4ZU7[BpI;3G,;HHg`;,02R;a=u+;2^6QXJqN+`3J4TalMF+kN1(Pj3HcHcKF<9
-kiU:Vk0`ARd-'N;kiU4UkKrJVd-9`Al0$LYk0`DTdHBW<k2akNjNluLcfX<7k2akOjj<5RdHTiB
-l0$LZkL/SVdHK`?hV?*2ilgEBbN7d0hqcB-fYc+_]!eu<Lk]n_Al2c778coD?sQHCC0>t2CQjj2
-Wi)5t\uX3&^=^uUg=O?tf#?.d^s1$4`kegn];Va+P)Y9?F`:Vl=@H+^3`o<GBkC;-OF=dPVU*Js
-kN(%Qj3ZoIcfaB:k2XhMim6`GcfX97kiL7Wk0rSWe*6#DlKH^]kL/VXdc]c?kN:1Sjj</Od,sH:
-k2stSl."nYdHTlDlflp]j3[#Odd-,IlfcmakLA>Aa3i2E\[J9"P_"4-An5=F<Dl%Z:HVc\6Zd<S
-P`^F)[A)@*_r'7kkN1(Pj3HcHcKOE<lKH^]kL/PTd,sE8kiU4Tk0N8RcfjN=kiU:Vk0`DTdHK`?
-k2akNjNluLcfX<7kN1(Sk0`GVdcorCl0$LZkL/VXdcfi@g"4$thT+X6alVR.i82T4grJ1&`5BEm
-T:LdbH":T";H?^]=B.am=%6Y+:igSaM2$5FRZ"DPT")2*\@&3BZ_F\+S>`9KT:(P+QA19MFEDD,
-A6r#2:Hq]L4'P]RBOt)(NdJ@HUs$iehqZ?/fuDe!`ST@jjPeDFiQgNCcK=06kiL7XkLAbYe*6#D
-lKH^]kL/SVdHBZ>k2jtPjj<,McfO66k2stRkgSYScfsZBlflp\im6`GcfaB:jPeDLkLAVQcf<s.
-da,S2Y+(W:I<K[>?!9`s:d%ZN4(MbpJUVC8W0PfW]\D)XkN1(Pj3HfJcfsW@lflp`kL/PTd,sE8
-kiU4Sjj*&NcKF<9kN1(Sk0`DTdHK`?k2akNjNluLcfX<7kN1(Sk0`GVdd$&Fl0$LZkL/VXdcorC
-_7uknc*Z6Y_Va1hj5J/Bj36?6`mN,DY,dqUPCRt'A7f=L=B.gf:-VWO6<R;[Ch[('I;Y+)I?]kG
-PE:?VN.$S=G_q0!K7IlsL38)tDKKc&BOXkB;aXGV4B>9D?X-6RHu#CGN3KFS]t12Y]r\u]X3]#%
-g=O:&hot9EdHBT<kN(%Tk0rVYeEH#Bki^CXkL/PUdH9Q;k2jtPjj</Od,sH:jlFbNk0`GWe*,uC
-kiU:Vk0`>Pcf=!.j5A2Ej3[&Qe*6#DgXsK`_60`5P(S:%B4Ok=;*I`J3*f]XD/*.ES;GA-Ze<pI
-k2akNjNm#Nd-0W>lKH^^kgSbXdH9N9kiU.Rk0N5PcKF<7k2akNjNluLcfX<7jl=YJj3HfJcfaE:
-kiU:Vk0`GVdcorCl0$LZkL/SVdHBW<PEC*jWKP6<XObn7io%rBk0`8Lc.^gfcHE`*ZCdDFIsH3K
-AR\S><(0\[6;pZI?sQN@AQEPY=Cu&B@pi/B?;G*?;JTrKH['1_MKtJMJW>Y7IsGa=?;=9f3D;n#
-;GTJf@SqAmA:JuBMhlSBP(B3oMRKjceBu"dg;i=7cfX97kN(%Tk0rVYeEH#BkN:1Tk0`>Qd,sH:
-k2jtPjj</Od,sH:kN:1Tk0`DUdcflBkN1(QjNlrJcK4*3k2XhPjjNASdcooCi8)Q'cF^NkTTG.Z
-Ec52c<^TPP2HEaA@pi#qOab-\X4,G/k2akNjNluLcfaE:kiU:WkL/SVdHBW<l0$FXkKrGTcfaE8
-k2akNjNlrJcK4*3jl=YJj3HfJcfX<7kN1(Sk0`GVdcorCkiU:Vk0`ARd,sE8IXG^qR";o]UXRW%
-io%rCkL/PTd,<d&gtB]jaL/7SR[97kJq%ZXDI6j[:g$gh>ZjU'>"Mjt79!,L;c#\Y;F+Yp95J<E
-LP0f@RZ"5FRAQaDP)Oj/C0Xb75uC9<91V!@;*\Gl8n27)E,Aj0Hu"h'I&s<7ccirQf#-P+c0"'5
-k2XhPjjNASdc]]=k2jtPjj</Od,sH:jlFbMjj</Od,sH:kN:1Sjj<2QdHKcAkN1(Oim$QDc04<;
-kN(%SjjN;Od,sB8j5A2=gW7FRZ(IPCIsbs;>Y.RZ2,I".>?F=QM0?G<UWgigk2akNjNlrJcK4*3
-k2akOjj<5RdHK`?lKHX[kKrGTcfaE:k2akMj3H`Fc/dm/jPnGGj3HcHcK=36kN1(Sk0`DTdHK`?
-kN1(Rjj</NcfX<7O,\=ZUQ!"&Vps/,i82T<jNm#Nd,X*/iSMc5fuDC`]"u+_Z*'XiS;W2WFEV_9
-DerWpC0>4]<,#rEDerX%FCU,\FISYQZa$7A^Tb_q[(3WCS!]%TDdcaG6rZoH9hIEB9fuNX6sa(i
-Ch["$Hu"t/J?Q&Dda,S]fuE.5cfaB:k2XhMim6cId,sB8jlFbLjNlrKcfO66jlFbMjj</Od,sH:
-k2jtOjNm#OdH]uGkiU:QiQUEDcKj`Ek2XhPjjN5KcJma*inqu?i6BZp];hcnLP0YX@89Eb1f$e*
->$"+LLNL&6U<L`fjl=YJj3HcHcK4*3jl=YKjNm#Nd-0W>l0$LZkL/SVdHBW<k2akMj3H`Fc/dm/
-jPnGGj3HcHcK=36k2akOjj<5RdHK`?kN1(Rjj</NcfX<7XK%Jo[\(X\YLV+9hqcB9jNm&PdHBT<
-k2XhOjO*&IcJ7*mda,YE^TOZ;R$j7oNf/4>KlhrtDhWd_Nf/4PQ\MWBRDQ_Ad*BDZf>uRo`lc?3
-Y,e(GJT>=2;dim)?sQH7?;5-G<Gu\XI<oUiNd[e"P.nQ.g=O:%hTP*CdHK]?k2XhMim6cId-'K;
-jlFeMjO!#Ld,j?8jlFeNjjE5PdH9Q<k2k"PjO!,Re*H;Ml/pIUiQgNCcKaTBkN(%UkLAYSd,Ns,
-iSMc=iQg!%^TX`,NJ_pk@S]Qb1J^\)>ZjOUMKc\BV9mJujl4VJim6cId,sB8kN(%RjO*/OdHBT<
-kiU:Vk0`DTdHBW<kN1(QjNlrJcK4*3jPnGGj3HcHcK=36k2akOjj<5RdHK`?kiU:Ujj<2Pd,sE8
-cH`lHdCe,`_Va4ljQ"PLkL8YXe*#lAjlFeNjjE/Lcf*g+h;$*&e\TGO[_TYY]"+`J[\U::TshA(
-]Xt/Z^okl'\CfEPgtTs.hTXa.aO/AK^:UD6Q\L$=Cj^MAJ:D?hKlNBBJ=`<gW2Gij\Y[BfZe![C
-i8;`=j3QoNdcflCk2k"QjjE8RdcflCk2k"QjjE5PdH9Q<jlFeNjjE5PdH9Q<kN:4Uk0iMXeEZ;K
-l/pIUiQgNCcKF99l/pI]l.5([dcBB4inqu?i6Bd!^9F`.Nf/-m@89B`1Jpn/@UDfmOF=pXWn#P4
-k2XhMim6`GcfaB:l/pIZk0rMSdH9K9k2XhNj3ZuMdHBT<kN1(Rjj</NcfO34jl=YJj3HfJcfX<7
-kN1(Rjj<5RdHK`?kiU:Vk0`ARd-'N;kN:1Tk0`ASdHTlDl0-U[kL8VVdcTZ=kN:4TjjE2Nd,j?8
-k2k"QjjE/Lcf*g+i8;`;iQ^?>bi@^.kN:4TjjE2Nd-BlGlKQj`kg\VNc.^jic-!N$YFM5TM4gDs
-V503VY+!2BXN8GgbfdKJf>HJ$alDC+jlFeNjjE8RdcflCki^FXk0iJVe*6)GkN:4Uk0iDRdH9Q<
-k2k"QjjE5PdH9Q<k2k"Rk0iGTdc]c@k2XhMim6`GcfO04kiL7Wk0rJQd,j95j5A2@hTO<l]</*"
-N/;^g@89Nh2dBKTE,AdNS;G>+ZJ4$NkiL7Tj3ZoIcfaB:lK?[_kgeq[e)o];k2XnPj3ZuMdHBT<
-kN(%Rjj</NcfO34jl=YKjNluLcfaE:kN1(Sk0`DTdHK`?kiU:Vk0`ARd-'N;l0-U[kL/SWdcflB
-ki^FXk0iJVe*6)Gl0-X[k0iGTdcflCkN:4TjjE/Lcf=$1iS_r>iQ^<<bM_:$jQ"SJjO!#Ld-9cD
-jlFeNjjE2Nd,sH;io///c+:j0Y0"\iaN(X5cFVfca4]+`f%%UohTFp>cfX?:ki^FXk0iJVe*,uD
-ki^FXk0iGTdc]c@ki^FYkL8VVdcTZ=k2k"QjjE5PdH9Q<jQ"SJjO!#Ld,X-2jPeDIjO*/OdH9K9
-jl4VJim6WAbi@X+inqu;gr[g`\#H6gLkTk[@89`t4_\M,Isbt2W0P`S]&2;blK?[[jO*)KcfaB:
-lK?[`l.5._eE>o?k2XnPj3m,OdHBT<kN(%Rjj</NcfO34k2akNjNluLcfaE:kN1(Sk0`DTdHK`?
-kiU:Vk0`ARd-'N;ki^FYkL8YXe*,uDki^FYkL8YXe*6)GkN:4Uk0iJVe*,uDki^FYkL8VVdc]c@
-k2k"QjjE2Nd,j?8k2k"Rk0iJVe*,uDkN:4SjO!)Pdd-2LlKQj[j3Q]Bbi7U+jlFeQkg\q`f');G
-jQ"SJjO!&NdHBZ?jlFeNjjE;Te*,uDki^FXk0iGTdc]c@k2k"QjjE5PdH9Q<k2k"QjjE5PdH9Q<
-k2k"QjjE2Nd,X-2j5A2CiQgWIdH]oEl/pITi6CEEd,sB8i8)Q1fYtbDXe)#<I!K=3>tS0t6$@<W
-Q^!'.Z(BIm^>e%olK?[]k0rMSdHBT<l/pIZk0rPUdc]]=kiL7UjO*/OdH9K9k2akNjNluLcfX<7
-k2akNjNm#Nd-'N;kiU:Vk0`DTdHK`?kiU:Vk0`DTdHK`?ki^FYkL8YXe*,uDki^FYkL8YXe*,uD
-k2k"Rk0iGTdcflCki^FYkL8YXe*,uDkN:4Uk0iGTdc]c@kN:4Uk0iJVe*,uDk2k"Oj3QlLdH]uH
-lKQj]jjE/LcfO67kN:4Xl.,(`e`Z)Cj5SAEim-WFcfF-4jlFeNjjE;Te*,uDki^FXk0iGTdc]c@
-k2k"QjjE8Rdc]c@kN:4TjjE5PdH9Q<jlFeMjO!#Ld,j?8kN(%SjjNGWeEc>Kl/pIUiQgZKdcff@
-iSMc/e%iK$U6(@\E,Ac`=[l\#7tZ>/WMYlt_62YLaQMX3l/pIYjjN;Od-'K;kiL7Wk0rPUdcTT:
-kN(%Qj3ZrKd,j95jl=YKjNluLcfaE:kN1(Rjj<2Pd-'N;kiU:Vk0`DTdHK`?kiU:Vk0`DTdHK`?
-ki^FYkL8YXe*,uDki^FYkL8YXe*,uDk2k"QjjE8Rdc]c@ki^FYkL8YXe*,uDki^FYkL8YXe*,uD
-ki^FYkL8YXe*,uDkN:4TjjE8Rdd$)IlKQj^k0iDRdHBZ?l0-X^l.,(`e`Z)CjQ"SHim-WFcfO67
-k2k"Rk0iJVe*,uDki^FXk0iGTdc]c@kN:4Uk0iGTdc]c@kN:4Uk0iDRdH9Q<k2k"PjO!#Ld,sH;
-kiL7Wk0rSWe*6#Dm-3*ajO*5Se*,oAgXsKd`NlA9OFMXlAn+YE>Y/[C<0`Vr]==]ccb/>tcKOB<
-kiL7UjO*,Md-'K;kiL7VjjN>QdH9K9kN(%Qj3ZoIcfO04jl=YKjNm#Nd-'N;kiU:Vk0`DTdHK`?
-kiU:Vk0`DTdHK`?kiU:Vk0`DTdHTiBki^FYkL8YXe*,uDki^FYkL8YXe*,uDkN:4Uk0iGTdc]c@
-kN:4Uk0iGTdc]c@ki^FYkL8YXe*,uDki^FYkL8\ZeEQ2Hlg!'ckg\hZe*6)Gl0-XZjjE5PdHBZ?
-l0-X^l.,(`e`l;Iki^FXk0iJVe*,uDk2k"Rk0iJVe*,uDki^FYkL8YXe*,uDkN:4VkL8YXe*,uD
-kN:4Uk0iGTdcTZ=k2k"Rk0iGTdcTZ=k2XhNj3ZrKd,sB8l/pIUiQgKAc/.3rcHE`+Z_3YLJU)EK
-B4OkWCKQ.:CT+(mai:[?f#-V/cfX97kiL7UjO*/OdHBT<kiL7VjjN>QdHBT<kiL7UjO*,Md,j95
-jl=YKjNm#Nd-0W>l0$LZkL/VXdcorCkiU:Vk0`DTdHK`?kiU:Vk0`GVdcorCki^FYkL8YXe*,uD
-ki^FYkL8YXe*,uDl0-X\kL8YXe*,uDkN:4Uk0iGTdc]c@kN:4Uk0iJVe*,uDl0-X]kg\k\eEQ2H
-m-E9gl.,%^eEQ2Hki^FXk0iGTdcflCki^FYkL8_\ea)MOlg!'dl.,%^eEQ2HkN:4VkL8\ZeEQ2H
-ki^FYkL8YXe*6)Gki^FYkL8YXe*,uDki^FXk0iGTdc]c@kN:4VkL8\ZeEH)Ek2XhLiQgQEcfaB:
-jPeD@gW8(!_p?Q;]!nK-S;DrODfp)-DJN@+Ir(UAKtY'qe^D4igr\a?dHBT<kiL7VjjNASdcooC
-l/pIZk0rPUdcff@lK?[]k0rMSdH9K9k2akNjNm&PdHK`?l0$LZkL/VXdcorCl0$LYk0`DTdHK`?
-kiU:WkL/VXdcorCl0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2HlKQjal.,%^eEH)EkN:4Uk0iGTdc]c@
-kN:4Uk0iJVe*6)Gl0-X]kg\n^e`uDLlg!'dl.,%^eEH)Eki^FYkL8\ZeEZ;Kki^FXk0iJVe*?2J
-lKQj`kg\eXdc]c@ki^FYkL8\ZeEQ2Hki^FYkL8\ZeEQ2Hl0-X]kg\k\eEQ2Hki^FYkL8VVdc]c@
-k2k"SkL8\ZeEH)EkN(%Pim6]EcK4'3inqu5f#,\P[CN`@SstOfIr'(@>&7nRH$3\bQ%H?HS^#<d
-hV6-4iQg]Me*6#DkiL7Wk0rVYeEZ5HlK?[^kLAbYe*6#DlK?[^kLA_Wdc]]=kN1(Rjj<5RdHK`?
-l0$LZkL/VXdcorCkiU:Vk0`DTdHK`?l0$LZkL/VXdd$&FlKQjal.,(`e`uDLlKQj`kg\k\eEQ2H
-lg!'dl.,%^eEH)Eki^FYkL8YXe*,uDki^FYkL8\ZeEZ;KlKQjal.,(`e`uDLl0-X]kg\hZe*#lA
-ki^FZkg\n^ea)MOl0-X[k0iDRdHBZ?l0-X[k0iDRdHBZ?ki^FZkg\k\eEQ2Hki^FYkL8\ZeEZ;K
-l0-X]kg\k\eEQ2Hl0-X\kL8YXe*#lAkN:4TjjE5PdH0H9jPeDBh9+L)`RiVUd*9/<^8n?7QC4%k
-Kn=5bEF*^*?%.-6QBQj-Z_5Oa[bB?OjPeDHj3[#Odcff@kiL7Wk0rVYeEc>KlK?[^kLAe[eEQ,E
-l/pIZk0rPUdc]]=kN1(Rjj<5RdHK`?kiU:Vk0`DTdHK`?kiU:Vk0`DTdHK`?l0$LZkL/VXdd$&F
-lg!'elIP7be`uDLlKQjal.,(`e`uDLlKQjal.,%^eEQ2Hki^FYkL8\ZeEQ2Hl0-X^l.,(`ea)MO
-lg!'dl.,(`e`l;Il0-X]kg\hZe*#lAki^FZkg\n^e`uDLlKQj]jjE/LcfX?:ki^FXk0iJVe*6)G
-ki^FZkg\k\eEQ2Hki^FYkL8\ZeEZ;KlKQjal.,(`e`l;Il0-X\kL8YXe*#lAki^FVjNuoFc/IU)
-i8)Q0f>Q"Z\]2OkYH4.`RtulSEdW.EG]dJ@G%6GdFebUh\$VjYdD"Ppb2_F)kN(%RjO*2Qdcff@
-kiL7Wk0rVYeEc>KlK?[^kLAbYe*6#DkiL7VjjN>QdHBT<kN1(Sk0`DTdHK`?kiU:Vk0`DTdHK`?
-kiU:Vk0`DTdHK`?l0$LZkL/YZe*?/GlKQjal.,(`e`uDLlKQjblIP:df'DVPlKQjal.,%^eEQ2H
-l0-X]kg\n^e`uDLlKQjal.,(`e`l;Il0-X]kg\k\eEQ2HlKQjal.,(`e`uDLlg!'elIP:df'DVP
-kN:4Uk0iDRdH9Q<k2k"Rk0iMXeEZ;Kl0-X]kg\k\eEQ2Hl0-X]kg\n^e`uDLl0-X]kg\k\eEQ2H
-l0-X\kL8YXe*#lAk2k"SkL8>Fb1P=`dEfDD`36e`UoUJZQ'6ZJIqj"C>B=dhI=#RcMfu%rOi"o7
-f[dmrh8nd@d-BiDkN1(Pj3HiLd-9`Al0$LYk0`DTdHTiBlKH^^kgSeZdcorCkiU:Ujj</NcfX<7
-kN1(Sk0`DTdHK`?kN1(Sk0`DTdHK`?l0$LZkL/VXdcfi@l0$LZkL/YZe*?/GlKQjal.,(`e`uDL
-lKQjal.,(`e`uDLlKQj`kg\k\eEQ2Hl0-X]kg\k\eEZ;KlKQjal.,(`e`l;Il0-X]kg\k\eEH)E
-lKQjal.,(`e`uDLlg!'dl.,(`e`l;IkN:4Uk0iGTdc]c@ki^FZkg\k\eEZ;Kl0-X\kL8YXe*,uD
-ki^FZkg\k\eEQ2Hl0-X]kg\k\eEQ2Hl0-X\kL8VVdc]c@kN:4SjNuN0_T9d([BlHtSr&SjH@pcb
-H[0.FFC0<;@YfbYR[A`0X-U`BY1_FDiSVf<iQUHFcfaE:k2akNjNm#Nd-0W>l0$LYk0`DTdHK`?
-l0$LZkL/VXdcorCkiU:Ujj<2Pd-'N;kiU:Vk0`DTdHK`?kN1(Rjj<2Pd-0W>kiU:Vk0`GVdcorC
-l0$L[kgSh\e*?/Gl0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2H
-lKQjal.,(`e`l;Il0-X]kg\k\eEQ2HlKQj`kg\n^e`uDLlKQjal.,"\e*#lAki^FYkL8YXe*6)G
-l0-X]kg\k\eEQ2Hki^FYkL8YXe*,uDki^FYkL8YXe*6)Gl0-X]kg\k\eEQ2Hki^FYkL8VVdc]c@
-ki^FUj3Q6(^VIUbUS3X$KPu-[@WHElF`Ul;HY/:sGGV'p]""NYagBgU`9-.,kiU:Ujj<,LcK4*3
-k2akOjj<5RdHK`?l0$LYk0`DTdHK`?kiU:WkL/VXdcorCkN1(Rjj<2Pd-'N;kiU:Vk0`DTdHBW<
-kN1(Rjj<2Pd-'N;kN1(Sk0`GVdcorClKH^^kgSh\e*?/Gl0-X]kg\k\eEQ2Hl0-X\kL8YXe*,uD
-l0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2Hl0-X]kg\k\eEZ;K
-lg!'dl.,"\e*#lAki^FYkL8YXe*,uDl0-X]kg\k\eEQ2Hki^FYkL8VVdc]c@ki^FYkL8YXe*,uD
-l0-X]kg\k\eEQ2Hki^FYkL8VVdc]c@kN:4Rj3Q<,_8O6pVkoK5M0+H(DMEg_OcOgZRte,KR)-P;
-ccruSfu2n.bN@m3lKH^[jj<,LcK4*3kN1(TkL/YZe*?/Gl0$LYk0`ARd-'N;kiU:WkL/VXdcorC
-kN1(Rjj<2Pd-0W>l0$LZkL/SVdHBW<kN1(QjNluLcfX<7kN1(Sk0`GVdd$&FlKH^^kgSh\e*?/G
-l0-X]kg\k\eEQ2Hl0-X\kL8YXe*,uDl0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2HkN:4VkL8YXe*6)G
-l0-X^l.,(`ea)MOki^FZkg\k\eEZ;Klg!'elIP4`eEH)El0-X\kL8VVdc]c@kN:4VkL8\ZeEQ2H
-ki^FYkL8YXe*,uDki^FYkL8YXe*6)Gki^FYkL8YXe*,uDki^FXk0iGTdcTZ=k2k"Oj3QE2`6?E6
-[^;["Sr'27Ml<M8[BlI?^8]B#[b''FhV?05j3HiLd-'N;kN1(Sk0`DTdHK`?l0$LZkL/YZe*?/G
-lKH^\k0`ARd-'N;kiU:WkL/VXdcorCkN1(Rjj<2Pd-0W>l0$LZkL/SVdHBW<kN1(Rjj</NcfX<7
-kN1(Sk0`GVdcorCl0$LZkL/VXdcorCl0-X]kg\k\eEH)Eki^FYkL8YXe*,uDki^FZkg\k\eEQ2H
-l0-X]kg\k\eEH)EkN:4Uk0iJVe*,uDl0-X^l.,(`ea)MOki^FYkL8\ZeEZ;Klg!'elIP7be`l;I
-l0-X\kL8VVdcTZ=k2k"Rk0iJVe*6)Gki^FYkL8VVdc]c@ki^FYkL8YXe*,uDki^FYkL8YXe*,uD
-ki^FXk0iDRdH9Q<k2k"PjNu`<aOf"[bK7-*]ViZ`XNAMgccruNeA'kqa5Z%#k2akPk0`DTdHBW<
-kN1(Sk0`JXe*H8Jl0$LYk0`DTdHK`?lKH^]kL/SVdHK`?l0$LZkL/YZe*6&DkiU:Ujj<2Pd-0W>
-l0$LZkL/SVdHK`?kN1(Rjj<2Pd-'N;kN1(Sk0`DTdHTiBl0$LZkL/SVdHK`?ki^FYkL8YXe*,uD
-kN:4Uk0iGTdc]c@kN:4Uk0iJVe*,uDki^FYkL8VVdc]c@ki^FYkL8YXe*6)Gl0-X]kg\n^e`uDL
-l0-X\kL8YXe*6)GlKQjal.,%^eEH)El0-X\kL8VVdc]c@k2k"Rk0iGTdcflCkN:4Uk0iGTdc]c@
-kN:4Uk0iJVe*,uDki^FYkL8YXe*,uDkN:4Uk0iDRdH9Q<k2k"Rk0i8Jc/R^,hqcB-fYcV&aPbps
-hqcB5i613@c0"*5kN1(Sk0`ARd,sE8kiU:WkL/VXdcorCl0$LYk0`DTdHK`?lKH^]kL/VXdcorC
-lKH^^kgSh\e*6&DkiU:Vk0`ARd-'N;kiU:WkL/VXdcfi@kiU:Vk0`DTdHK`?kiU:Vk0`DTdHK`?
-kiU:Vk0`DTdHK`?ki^FYkL8VVdc]c@kN:4TjjE5PdH9Q<k2k"QjjE8Rdc]c@kN:4Uk0iDRdH9Q<
-l0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2Hl0-X]kg\hZe*,uDki^FYkL8YXe*#lAki^FYkL8YXe*,uD
-kN:4Uk0iGTdc]c@k2k"QjjE5PdH9Q<k2k"QjjE8Rdc]c@ki^FYkL8YXe*,uDkN:4Uk0iDRdH9Q<
-kN:4Uk0i;LcK=69kiU:TjNm)RdcTW:kiU:Ujj<2Pd-'N;l0$LZkL/VXdcorCl0$LYk0`ARd-'N;
-kiU:WkL/VXdcorCl0$LZkL/VXdd$&FlKH^_l.#"^e*6&Dl0$LYk0`ARd-'N;kiU:WkL/VXdcorC
-kiU:WkL/VXdcorCkiU:Vk0`DTdHBW<kN1(Rjj<2Pd-'N;ki^FYkL8YXe*,uDki^FYkL8YXe*,uD
-ki^FYkL8YXe*,uDki^FYkL8YXe*,uDki^FYkL8\ZeEQ2Hl0-X]kg\n^e`uDLl0-X]kg\k\eEQ2H
-l0-X]kg\k\eEH)Eki^FYkL8YXe*#lAkN:4Uk0iGTdcflCkN:4Uk0iGTdc]c@kN:4VkL8YXe*6)G
-ki^FYkL8YXe*,uDki^FYkL8YXe*,uDkN:4TjjE5PdH9Q<k2akOjj<2Pd-'N;kN1(Sk0`DTdHTiB
-l0$LZkL/VXdcorCkiU:Vk0`DTdHK`?kiU:Vk0`DTdHK`?lKH^^kgSh\e*H8Jlflpbl.#%`eEcAK
-l0$LYk0`DTdHK`?l0$LZkL/VXdcorCkiU:Vk0`DTdHK`?kiU:Vk0`ARd-'N;kN1(Rjj<2Pd-'N;
-ki^FYkL8YXe*,uDki^FYkL8YXe*,uDki^FYkL8YXe*,uDki^FYkL8YXe*,uDki^FZkg\k\eEQ2H
-l0-X]kg\n^e`uDLlKQjal.,(`e`l;Il0-X]kg\k\eEH)Eki^FYkL8YXe*#lAkN:4VkL8YXe*,uD
-ki^FYkL8VVdc]c@kN:4VkL8YXe*,uDki^FYkL8YXe*,uDki^FYkL8YXe*,uDkN:4Uk0iGTdcTZ=
-kN1(Rjj<2Pd-0W>kiU:WkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-lKH^^kgSk^eEcAKlflpbl.#%`eEcAKlKH^]kL/VXdcorCl0$L[kgSeZdcorCkiU:Vk0`DTdHK`?
-kiU:Vk0`ARd-'N;kN1(Rjj<5RdHK`?l0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2Hl0-X]kg\hZe*,uD
-ki^FYkL8YXe*,uDki^FZkg\k\eEQ2Hl0-X^l.,(`e`uDLlg!'elIP7be`uDLl0-X]kg\k\eEH)E
-ki^FYkL8YXe*,uDki^FYkL8\ZeEQ2Hl0-X]kg\hZe*,uDki^FYkL8YXe*,uDl0-X]kg\k\eEQ2H
-l0-X]kg\k\eEQ2Hl0-X\kL8YXe*,uDkiU:WkL/VXdcorClKH^^kgSh\e*?/GlKH^^kgSeZdcorC
-l0$LZkL/VXdcorCl0$LZkL/VXdcorClKH^^kgSk^eEcAKm-<-flIG7dea2SOlflpakgSeZdcorC
-lKH^^kgSeZdcorCl0$LYk0`DTdHBW<kN1(Rjj<5RdHK`?kiU:Vk0`DTdHK`?lKQjal.,(`e`uDL
-lKQjal.,(`e`uDLl0-X]kg\k\eEQ2Hki^FYkL8YXe*,uDl0-X]kg\k\eEQ2Hl0-X^l.,(`e`uDL
-m-E9hlIP:df';MMlKQj`kg\k\eEQ2Hki^FYkL8YXe*,uDki^FZkg\k\eEZ;KlKQjal.,%^eEQ2H
-ki^FYkL8YXe*,uDl0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2HlKQj`kg\k\eEQ2HlKH^^kgSh\e*?/G
-lflpbl.#%`eEcAKlKH^^kgSh\e*6&DlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^_l.#%`eElJN
-m-<-flIG7dea2SOm-<-el.#"^e*?/GlKH^^kgSeZdcorCl0$LYk0`DTdHBW<kN1(Rjj<5RdHK`?
-kiU:WkL/VXdcorClKQjal.,(`e`uDLlKQjal.,(`e`uDLl0-X]kg\k\eEQ2Hl0-X]kg\hZe*,uD
-l0-X]kg\k\eEQ2HlKQjal.,(`e`uDLm-E9hlIP:df'DVPlKQjal.,%^eEQ2Hki^FYkL8YXe*,uD
-l0-X]kg\n^e`uDLlKQjal.,%^eEQ2Hki^FYkL8YXe*,uDl0-X]kg\k\eEQ2Hl0-X]kg\k\eEZ;K
-lKQjal.,(`e`l;IlKH^^kgSh\e*?/Glflpbl.#%`eEcAKlflpakgSh\e*?/GlKH^^kgSh\e*?/G
-lKH^^kgSh\e*?/GlKH^^kgSk^eEcAKm-<-flIG7dea2SOm-<-el.#"^e*?/GlKH^^kgSeZdcorC
-l0$LYk0`DTdHBW<kN1(Rjj<5RdHK`?l0$LZkL/VXdcorClKQjal.,(`e`uDLlKQjal.,(`e`uDL
-l0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2HlKQjal.,(`e`uDLlg!'elIP:df';MM
-lKQjal.,(`e`l;Il0-X]kg\k\eEQ2Hl0-X]kg\n^e`uDLlKQjal.,%^eEQ2Hki^FYkL8YXe*,uD
-ki^FYkL8YXe*6)Gl0-X]kg\k\eEQ2HlKQjal.,%^eEQ2HlKH^^kgSh\e*?/Glflpbl.#%`eEcAK
-lflpbl.#"^e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*H8Jlflpbl.#%`eEcAK
-lflpakgSh\e*?/GlKH^^kgSh\e*6&Dl0$LYk0`DTdHBW<kN1(Rjj<5RdHK`?l0$LZkL/VXdcorC
-lKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,%^eEQ2Hl0-X]kg\k\eEQ2Hl0-X]kg\k\eEZ;K
-lKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,%^eEQ2Hl0-X]kg\n^e`uDL
-l0-X]kg\hZe*,uDki^FYkL8YXe*,uDki^FYkL8YXe*,uDl0-X]kg\k\eEQ2HlKQj`kg\k\eEQ2H
-lKH^^kgSh\e*?/GlKH^^kgSk^eEcAKlflpbl.#%`eEcAKlKH^^kgSh\e*?/GlKH^^kgSh\e*?/G
-l0$L[kgSh\e*?/Glflpbl.#%`eEcAKlKH^^kgSeZdcorClKH^^kgSh\e*6&DkiU:Vk0`DTdHK`?
-kiU:Vk0`ARd-'N;l0$LZkL/VXdcorClKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,(`e`l;I
-l0-X]kg\k\eEQ2Hl0-X]kg\k\eEZ;KlKQjal.,(`e`uDLl0-X]kg\k\eEQ2HlKQjal.,(`e`uDL
-lKQjal.,(`e`l;Il0-X]kg\k\eEZ;Kl0-X\kL8YXe*,uDki^FYkL8YXe*,uDkN:4Uk0iJVe*,uD
-ki^FZkg\k\eEQ2Hl0-X]kg\k\eEH)El0$LZkL/VXdd$&FlKH^^kgSh\e*H8Jlflpbl.#%`eEcAK
-lKH^^kgSh\e*?/GlKH^^kgSh\e*?/Gl0$LZkL/YZe*?/GlKH^^kgSh\e*?/GlKH^]kL/VXdcorC
-lKH^^kgSh\e*6&DkiU:Vk0`DTdHK`?kiU:Vk0`ARd-'N;kiU:Vk0`GVdcorClKQjal.,(`e`uDL
-lKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQj`kg\k\eEQ2Hl0-X]kg\k\eEZ;KlKQjal.,(`ea)MO
-l0-X]kg\k\eEQ2Hl0-X^l.,(`ea)MOlKQjal.,(`e`uDLlKQj`kg\k\eEH)Eki^FYkL8VVdc]c@
-kN:4Uk0iJVe*,uDkN:4VkL8YXe*,uDki^FYkL8YXe*,uDki^FYkL8VVdc]c?kiU:WkL/YZe*?/E
-lK?[^kLAe[eEZ5HlK?[^kLAe[eEZ5HlflpakgSh\e*?/GlKH^]kL/VXdcorClKH^^kgSh\e*6&D
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$L[kgSh\e*?/Gl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorClKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQj`kg\k\eEQ2H
-l0-X]kg\n^e`uDLlKQjal.,+bf'DVPl0-X]kg\k\eEQ2Hl0-X^l.,(`ea)MOlKQjal.,(`e`uDL
-lKQj`kg\k\eEH)Eki^FYkL8YXe*,uDki^FYkL8YXe*,uDki^FYkL8YXe*,uDki^FYkL8YXe*,uD
-ki^FYkL8YXe*,uCl0$LZkL/VXdd$&DlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/G
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdd$&F
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0-X]kg\n^e`uDLlKQjal.,(`e`uDL
-lKQjal.,(`e`uDLlKQj`kg\k\eEQ2Hl0-X]kg\n^e`uDLlKQjal.,(`e`uDLl0-X]kg\k\eEQ2H
-l0-X^l.,(`e`uDLlKQjal.,(`e`uDLlKQj`kg\k\eEQ2Hl0-X]kg\hZe*,uDki^FYkL8\ZeEQ2H
-l0-X]kg\k\eEQ2Hl0-X\kL8YXe*,uDki^FYkL8YXe*,uClKH^]kL/VXdcorAlKHX\kgA\ZdH]rC
-lKHX\kgA\ZdH]rCl0$FXkKrJVd-9`?l0$FWk0N8RcfjN;kiU4Tk0N8RcfjN;l0$FXkKrJVd-9`?
-kiU:WkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-l0-X]kg\k\eEQ2HlKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQj`kg\k\eEQ2Hl0-X]kg\k\eEQ2H
-l0-X]kg\n^e`uDLlKQj`kg\k\eEQ2Hl0-X^l.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,%^eEQ2H
-l0-X]kg\k\eEQ2Hl0-X]kg\k\eEQ2HlKQjal.,(`e`uDLl0-X]kg\hZe*,uDkN:4Uk0iJVe*6)F
-lKH^^kgSh\e*?/ElKHX\kgA\ZdH]rClKHX\kgA\ZdH]rCl0$FXkKrJVd-0W<kiU4Tk0N8RcfaE8
-kN1"Pjj*)PcfjN;kiU4UkKrJVd-9`?kiU:Vk0`DTdHTiBl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCki^FZkg\k\eEQ2Hl0-X^l.,(`e`uDLlKQjal.,(`e`uDL
-lKQj`kg\k\eEQ2Hki^FYkL8YXe*,uDl0-X]kg\k\eEQ2HlKQjal.,(`e`l;IlKQjal.,(`e`uDL
-lKQjal.,(`e`uDLlKQjal.,%^eEQ2HlKQj`kg\k\eEQ2Hl0-X]kg\k\eEZ;Klg!'elIP7be`uDL
-l0-X]kg\k\eEQ2Hk2k"Rk0iJVe*6)Flflpbl.#%`eEcAIlKHX\kgA\ZdH]rClKHX\kgA\ZdH]rC
-l0$FXkKrJVd-0W<kiU4Tk0N8RcfjN;kN1"Pjj*&NcKOE:kiU4UkKrJVd-9`?kiU:WkL/VXdcorC
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCki^FYkL8YXe*6)G
-l0-X^l.,(`e`uDLlfcmbkgf"_ea)GLlfcmakLAe[eEZ5Hl/pIZk0rSWe*6#Dl/pI[kLAe[eEZ5H
-lKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,(`e`uDLlfcmakLAe[eEZ5H
-lK?[^kLAe[eEc>Klfcmbkgf"_ea)GLlK?[^kLAe[eEZ5HkN:4Uk0iJVe*6)Flflpbl.#%`eEcAI
-lKHX\kgA\ZdH]rClKHX\kgA\ZdH]rClKHX\kgAYXd-9`?l0$FXkKrGTcfjN;kN1"Qk0N8RcfjN;
-kiU4Tk0N;Td-9`?l0$LZkL/VXdcorCl0$LZkL/YZe*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/G
-l0$LZkL/VXdcorCki^FYkL8YXe*6)Gl0-X]kg\n^e`uDLlfcmbkgf"_ea)GLlfcmakLAe[eEZ5H
-lK?[^kLAe[eEZ5HlK?[^kLAe[eEZ5HlKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,(`e`uDL
-lKQjal.,(`e`uDLlK?[^kLAe[eEZ5HlK?[^kLAe[eEZ5HlK?[^kLAe[eEZ5HlK?[^kLAe[eEZ5H
-l0-X]kg\k\eEQ2GlKH^^kgSk^eEcAIlKH^^kgSh\e*?/GlKH^^kgSh\e*?/Glflpbl.#"^e*?/G
-lKH^^kgSeZdcorCkiU:Vk0`DTdHK`?kiU:Vk0`DTdHK`?l0$LZkL/YZe*?/GlKH^^kgSh\e*?/G
-lKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/Gki^FYkL8YXe*,uDl0-X]kg\n^e`uDL
-lfcmbkgf"_ea)GLlfcmakLAe[eEZ5Hlfcmbkgf"_ea)GLlfcmbkgf"_ea)GLlg!'dl.,(`e`uDL
-lKQjal.,(`e`uDLlKQjal.,(`e`uDLlKQjal.,(`e`uDLlK?[^kLAe[eEZ5HlK?[^kLAe[eEZ5H
-lK?[^kLAe[eEZ5HlK?[^kLAh]ea)GLlg!'dl.,%^eEQ2GlKH^^kgSh\e*?/ElK?[^kLAe[eEZ5H
-lK?[^kLAe[eEZ5Hlflpbl.#%`eEcAKlKH^^kgSh\e*?/Gl0$LZkL/VXdcorCl0$LYk0`DTdHK`?
-lKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/G
-l0$LZkL/VXdcorClKH^^kgSk^eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAK
-lflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEZ8HlKH^^kgSk^eEcAK
-lKH^]kL/VXdcorCl0$L[kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/Glflpbl.#"^e*?/G
-lKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/G
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCkiU:WkL/VXdd$&FlKH^^kgSh\e*?/GlKH^^kgSh\e*?/G
-lKH^^kgSh\e*?/GlKH^^kgSh\e*?/GkiU:Vk0`DTdHTiBl0$L[kgSk^eEcAKlflpbl.#%`eEcAK
-lflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAK
-lflpbl.#%`eEZ8HlKH^^kgSh\e*H8JlKH^^kgSh\e*6&DlKH^^kgSh\e*H8JlKH^^kgSh\e*?/G
-lKH^^kgSh\e*?/GlflpakgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/G
-lKH^^kgSh\e*?/GlKH^^kgSh\e*6&Dl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/YZe*?/G
-lKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GkN1(Rjj<5RdHK`?
-l0$L[kgSk^eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAK
-lflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEZ8HlKH^^kgSh\e*H8JlKH^^kgSh\e*?/G
-lKH^^kgSk^eEcAKlflpakgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSk^eEcAK
-lflpakgSh\e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^]kL/VXdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorClKH^^kgSh\e*?/GlKH^^kgSeZdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-l0$LZkL/VXdcorCk2akOjj<2Pd-0W>l0$L[kgSk^eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAK
-lflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#"^e*?/G
-lKH^^kgSh\e*?/Glflpbl.#"^e*?/Glflpbl.#%`eEcAKlflpbl.#"^e*?/GlKH^^kgSh\e*?/G
-lKH^^kgSh\e*H8Jlflpbl.#%`eEcAKlflpbl.#"^e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*6&D
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorClKH^^kgSh\e*?/GlKH^]kL/VXdcfi@
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCkN1(Rjj<2Pd-0W>l0$L[kgSk^eElJN
-lflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAK
-lflpbl.#%`eEcAKlflpbl.#"^e*?/GlKH^^kgSh\e*?/Glflpbl.#%`eEcAKlflpbl.#%`eElJN
-lflpbl.#%`eEZ8HlKH^^kgSh\e*?/GlKH^^kgSk^eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEZ8H
-lKH^^kgSh\e*?/Gl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$L[kgSh\e*?/G
-lKH^^kgSh\e*?/GlKH^]kL/VXdcfi@l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-kiU:Vk0`DTdHTiBlKH^_l.#%`eElJNlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAK
-lflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#"^e*?/GlKH^^kgSh\e*?/G
-lflpbl.#"^e*?/Glflpbl.#%`eEcAKlflpbl.#%`eEZ8HlKH^^kgSh\e*?/GlKH^_l.#%`eElJN
-m-<-flIG4beEcAKlflpbl.#%`eEZ8HlKH^^kgSh\e*?/Gl0$LZkL/VXdcorCl0$LZkL/VXdcfi@
-l0$LZkL/VXdcorClKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^]kL/VXdcfi@l0$LZkL/VXdcorC
-l0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$L[kgSh\e*?/Glflpbl.#(bea2SOlflpbl.#%`eEcAK
-lflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAKlflpbl.#%`eEcAK
-lflpbl.#"^e*?/GlKH^^kgSh\e*?/GlKH^^kgSh\e*?/GlKH^_l.#%`eEcAKm-<-el.#%`eEZ8H
-lKH^^kgSh\e*?/Glflpbl.#(bea2SOm-<-flIG4beEZ8Hm-<-el.#%`eEZ8HlKH^^kgSh\e*?/G
-l0$LZkL/VXdcorCl0$LYk0`DTdHK`?l0$LZkL/VXdcorClKH^^kgSh\e*?/GlKH^^kgSh\e*?/G
-lKH^]kL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorCl0$LZkL/VXdcorC
-EndImage
 Fore
 SplineSet
--4 -208 m 1
- 127.116210938 -155 184.211914062 -94 205.7421875 -7 c 0
- 224.303710938 68 179.182617188 116 137.37890625 137 c 1
- 133.37890625 137 100.666992188 122 79.6669921875 122 c 1
- 77.1015625 148 l 1
- 141.555664062 166 247.663085938 223 274.390625 331 c 0
- 288.744140625 389 246.9609375 402 229.9609375 402 c 3
- 188.9609375 402 164.268554688 379 139.061523438 362 c 1
- 129.516601562 380 l 1
- 147.930664062 414 225.830078125 454 261.830078125 454 c 3
- 320.830078125 454 360.693359375 409 344.607421875 344 c 0
- 320.849609375 248 206.03125 176 201.041015625 172 c 1
- 246.5859375 154 302.986328125 95 280.959960938 6 c 0
- 244.333984375 -142 45.2978515625 -227 -0.4345703125 -234 c 1
- -4 -208 l 1
+5.0810546875 -208 m 1
+ 133.883789062 -155 188.31640625 -94 206.047851562 -7 c 0
+ 221.334960938 68 174.118164062 116 131.397460938 137 c 1
+ 127.397460938 137 95.3408203125 122 74.3408203125 122 c 1
+ 70.6396484375 148 l 1
+ 134.307617188 166 237.926757812 223 259.938476562 331 c 0
+ 271.759765625 389 229.409179688 402 212.409179688 402 c 3
+ 171.409179688 402 147.720703125 379 123.255859375 362 c 1
+ 112.92578125 380 l 1
+ 129.85546875 414 206.0078125 454 242.0078125 454 c 3
+ 301.0078125 454 342.8359375 409 329.587890625 344 c 0
+ 310.021484375 248 198.346679688 176 193.53125 172 c 1
+ 239.862304688 154 298.838867188 95 280.698242188 6 c 0
+ 250.534179688 -142 55.208984375 -227 9.7822265625 -234 c 1
+ 5.0810546875 -208 l 1
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" three.denom
 Substitution2: "numr-1" three.numerator
 Substitution2: "tnum-1" three.tabulartext
@@ -3157,32 +2680,31 @@ StartChar: four
 Encoding: 52 52 68
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 21G<368.231 392.247> 0 45.5<31.5176 221.258 293.518 377.541> 402.3 20G<372.957 410.6>
 LayerCount: 2
 Fore
 SplineSet
-233.517578125 45.5 m 17x60
- 254.182617188 129 283.780273438 221.055664062 288.932617188 277.5 c 9
- 288.932617188 277.5 135.56640625 130.26953125 31.517578125 45.5 c 9
- 233.517578125 45.5 l 17x60
-410.599609375 409.5 m 25
- 396.723632812 383.370117188 379.86328125 359.635742188 375.018554688 342.5 c 0
- 342.930664062 229 328.877929688 174.200195312 293.517578125 45.5 c 1x60
- 360.146484375 44 376.641601562 46 427.119140625 104.5 c 9
- 427.119140625 104.5 441.791015625 97.83984375 445.891601562 95.5 c 9
- 445.891601562 95.5 405.967773438 32.974609375 378.525390625 -7 c 1xa0
- 357.9375 2.591796875 310.291992188 1.060546875 282.505859375 1 c 1
- 263.82421875 -73.654296875 246.595703125 -154.471679688 244.834960938 -179.5 c 1
- 200.01953125 -203 172.081054688 -227 151.76953125 -252.5 c 9
- 151.76953125 -252.5 131.534179688 -239.349609375 129.471679688 -233.5 c 1
- 178.958984375 -179 192.067382812 -116.307617188 221.2578125 0 c 1
- 37.2578125 0 -1.494140625 1 -33.94921875 -17 c 9
- -33.94921875 -17 -45.9912109375 -1.2900390625 -50 3 c 1
- -31.0400390625 19 355.646484375 367.799804688 390.267578125 422.299804688 c 9
- 410.599609375 409.5 l 25
+231.53125 45.5 m 17x60
+ 248.55078125 129 274.12890625 221.055664062 276.81640625 277.5 c 9
+ 276.81640625 277.5 129.87890625 130.26953125 29.53125 45.5 c 9
+ 231.53125 45.5 l 17x60
+392.720703125 409.5 m 25
+ 379.985351562 383.370117188 364.161132812 359.635742188 360.064453125 342.5 c 0
+ 332.932617188 229 321.272460938 174.200195312 291.53125 45.5 c 1x60
+ 358.225585938 44 374.6328125 46 422.556640625 104.5 c 9
+ 422.556640625 104.5 437.51953125 97.83984375 441.721679688 95.5 c 9
+ 441.721679688 95.5 404.528320312 32.974609375 378.831054688 -7 c 1xa0
+ 357.82421875 2.591796875 310.24609375 1.060546875 282.461914062 1 c 1
+ 267.040039062 -73.654296875 253.33984375 -154.471679688 252.671875 -179.5 c 1
+ 208.8828125 -203 181.9921875 -227 162.793945312 -252.5 c 9
+ 162.793945312 -252.5 141.984375 -239.349609375 139.666992188 -233.5 c 1
+ 186.774414062 -179 197.145507812 -116.307617188 221.2578125 0 c 1
+ 37.2578125 0 -1.5380859375 1 -33.20703125 -17 c 9
+ -33.20703125 -17 -45.9345703125 -1.2900390625 -50.130859375 3 c 1
+ -31.869140625 19 339.587890625 367.799804688 371.829101562 422.299804688 c 9
+ 392.720703125 409.5 l 25
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" four.denom
 Substitution2: "numr-1" four.numerator
 Substitution2: "tnum-1" four.tabulartext
@@ -3193,26 +2715,25 @@ StartChar: five
 Encoding: 53 53 69
 Width: 362
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -215 32<-49.2719 13.0882> 326.5 72<149.687 327.791>
 LayerCount: 2
 Fore
 SplineSet
-146.853515625 393.5 m 9
- 211.686523438 395.450195312 296.973632812 396 313.091796875 398.5 c 0
- 340.557617188 402.759765625 360.653320312 428.610351562 377.465820312 448.5 c 9
- 377.465820312 448.5 393.899414062 436.83984375 398 434.5 c 9
- 360.276367188 392.379882812 318.649414062 326 301.272460938 326.5 c 0
- 270.965820312 327.372070312 217.541015625 323.5 155.530273438 323.5 c 9
- 155.530273438 323.5 136.389648438 264.299804688 121.298828125 217.5 c 1
- 205.40625 224 306.069335938 176.166015625 274.473632812 48.5 c 0
- 238.814453125 -95.595703125 55.4912109375 -206 -54.7353515625 -215 c 9
- -54.7353515625 -215 -47.9248046875 -188.849609375 -48.81640625 -183 c 1
- 35.9267578125 -180 176.6796875 -92.1005859375 206.400390625 28 c 0
- 221.018554688 87.0654296875 196.55859375 164 62.0888671875 152 c 1
- 85.447265625 208 121.3515625 305.161132812 146.853515625 393.5 c 9
+129.672851562 393.5 m 9
+ 194.420898438 395.450195312 279.68359375 396 295.693359375 398.5 c 0
+ 322.97265625 402.759765625 341.939453125 428.610351562 357.883789062 448.5 c 9
+ 357.883789062 448.5 374.826171875 436.83984375 379.029296875 434.5 c 9
+ 343.14453125 392.379882812 304.416015625 326 287.017578125 326.5 c 0
+ 256.672851562 327.372070312 203.416992188 323.5 141.40625 323.5 c 9
+ 141.40625 323.5 124.849609375 264.299804688 111.802734375 217.5 c 1
+ 195.625976562 224 298.377929688 176.166015625 272.356445312 48.5 c 0
+ 242.98828125 -95.595703125 64.4853515625 -206 -45.3486328125 -215 c 9
+ -45.3486328125 -215 -39.6796875 -188.849609375 -40.826171875 -183 c 1
+ 43.7861328125 -180 180.701171875 -92.1005859375 205.177734375 28 c 0
+ 217.216796875 87.0654296875 189.3984375 164 55.4521484375 152 c 1
+ 76.3662109375 208 108.028320312 305.161132812 129.672851562 393.5 c 9
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" five.denom
 Substitution2: "numr-1" five.numerator
 Substitution2: "tnum-1" five.tabulartext
@@ -3223,26 +2744,25 @@ StartChar: six
 Encoding: 54 54 70
 Width: 496
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 40<191.044 287.179> 320 44<252.671 341.98>
 LayerCount: 2
 Fore
 SplineSet
-478.692382812 630 m 9
- 478.692382812 630 482.452148438 612.459960938 485 607 c 1
- 314.924804688 538 199.060546875 413.28515625 157.166992188 244 c 24
- 132.053710938 142.525390625 150.08984375 30 252.20703125 30 c 3
- 300.432617188 30 349.142578125 82.2705078125 363.923828125 142 c 0
- 389.608398438 245.787109375 356.575195312 320 290.975585938 320 c 3
- 263.594726562 320 243.014648438 304 217.571289062 282 c 1
- 200.03515625 296 l 1
- 227.934570312 336 279.709960938 364 334.86328125 364 c 3
- 409.86328125 364 461.258789062 276.702148438 436.833007812 178 c 0
- 411.578125 75.951171875 296.330078125 -10 208.306640625 -10 c 3
- 83.162109375 -10 54.9521484375 121.913085938 77.7421875 214 c 0
- 127.131835938 413.572265625 290.338867188 572 478.692382812 630 c 9
+451.185546875 630 m 9
+ 451.185546875 630 455.711914062 612.459960938 458.498046875 607 c 1
+ 291.435546875 538 181.016601562 413.28515625 146.513671875 244 c 24
+ 125.831054688 142.525390625 148.780273438 30 250.897460938 30 c 3
+ 299.123046875 30 345.55078125 82.2705078125 357.723632812 142 c 0
+ 378.876953125 245.787109375 342.603515625 320 277.00390625 320 c 3
+ 249.623046875 320 229.7421875 304 205.258789062 282 c 1
+ 187.111328125 296 l 1
+ 213.264648438 336 263.817382812 364 318.970703125 364 c 3
+ 393.970703125 364 449.177734375 276.702148438 429.061523438 178 c 0
+ 408.26171875 75.951171875 296.766601562 -10 208.743164062 -10 c 3
+ 83.5986328125 -10 49.62890625 121.913085938 68.3984375 214 c 0
+ 109.075195312 413.572265625 265.365234375 572 451.185546875 630 c 9
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" six.denom
 Substitution2: "numr-1" six.numerator
 Substitution2: "tnum-1" six.tabulartext
@@ -3253,26 +2773,25 @@ StartChar: seven
 Encoding: 55 55 71
 Width: 420
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 339 67<140.9 371.666>
 LayerCount: 2
 Fore
 SplineSet
-140.661132812 422 m 17
- 145.69140625 410 155.555664062 406.586914062 169.701171875 406 c 24
- 288.502929688 401.072265625 463.20703125 404 478.196289062 408 c 9
- 478.196289062 408 480.844726562 390.900390625 483 387 c 1
- 439.575195312 357 62.55859375 -132 57.154296875 -170 c 9
- 57.154296875 -170 11.021484375 -167.219726562 -13.3515625 -168 c 1
- 128.225585938 0 234.4140625 122.745117188 380.676757812 317 c 0
- 386.072265625 324.166992188 382.9765625 334.358398438 375.129882812 335 c 0
- 300.23046875 341.12109375 291.110351562 343 174.120117188 339 c 0
- 127.869140625 337.418945312 90.595703125 328.799804688 64.26171875 283 c 9
- 64.26171875 283 45.5908203125 291.440429688 39.736328125 293 c 9
- 39.736328125 293 104.2265625 396 117.8984375 427 c 9
- 140.661132812 422 l 17
+122.236328125 422 m 17
+ 127.790039062 410 137.803710938 406.586914062 151.974609375 406 c 24
+ 270.9921875 401.072265625 445.568359375 404 460.3828125 408 c 9
+ 460.3828125 408 463.77734375 390.900390625 466.103515625 387 c 1
+ 423.98828125 357 68.322265625 -132 64.576171875 -170 c 9
+ 64.576171875 -170 18.322265625 -167.219726562 -6.0166015625 -168 c 1
+ 128.225585938 0 229.0546875 122.745117188 366.8359375 317 c 0
+ 371.918945312 324.166992188 368.377929688 334.358398438 360.50390625 335 c 0
+ 285.336914062 341.12109375 276.134765625 343 159.319335938 339 c 0
+ 113.13671875 337.418945312 76.240234375 328.799804688 51.9052734375 283 c 9
+ 51.9052734375 283 32.8662109375 291.440429688 26.943359375 293 c 9
+ 26.943359375 293 86.9365234375 396 99.2548828125 427 c 9
+ 122.236328125 422 l 17
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" seven.denom
 Substitution2: "numr-1" seven.numerator
 Substitution2: "tnum-1" seven.tabulartext
@@ -3284,27 +2803,27 @@ Encoding: 56 56 72
 Width: 461
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7 34<153.502 258.846> 601 30<271.638 356.797>
 LayerCount: 2
 Fore
 SplineSet
-312.555664062 601 m 3
- 274.31640625 601 220.727539062 557.240234375 211.758789062 521 c 0
- 171.853515625 359.752929688 440.366210938 333.541992188 396.181640625 155 c 24
- 372.083007812 57.6220703125 274.467773438 -7 166.08984375 -7 c 3
- 83.1748046875 -7 18.095703125 41.5078125 40.7373046875 133 c 0
- 90.5234375 334.173828125 347.981445312 331.985351562 383.62109375 476 c 0
- 394.55859375 520.192382812 384.748046875 601 312.555664062 601 c 3
-323.98046875 631 m 3
- 372.862304688 631 406.530273438 621.931640625 432.03515625 586.771484375 c 0
- 445.1640625 568.669921875 456.370117188 539.63671875 445.818359375 497 c 0
- 406.462890625 337.97265625 156.311523438 333.3203125 116.63671875 173 c 0
- 98.755859375 100.75 132.647460938 27 202.504882812 27 c 3
- 288.587890625 27 316.859375 101.166992188 324.737304688 133 c 0
- 343.686523438 209.573242188 313.873046875 244.362304688 258.146484375 296 c 0
- 200.2890625 349.612304688 138.353515625 402.180664062 158.6015625 484 c 0
- 178.5859375 564.750976562 268.229492188 631 323.98046875 631 c 3
+286.315429688 601 m 3
+ 248.076171875 601 196.397460938 557.240234375 189.01171875 521 c 0
+ 156.146484375 359.752929688 425.803710938 333.541992188 389.4140625 155 c 24
+ 369.567382812 57.6220703125 274.7734375 -7 166.395507812 -7 c 3
+ 83.48046875 -7 16.283203125 41.5078125 34.9306640625 133 c 0
+ 75.9326171875 334.173828125 333.486328125 331.985351562 362.838867188 476 c 0
+ 371.846679688 520.192382812 358.5078125 601 286.315429688 601 c 3
+296.430664062 631 m 3
+ 345.3125 631 379.375976562 621.931640625 406.416015625 586.771484375 c 0
+ 420.334960938 568.669921875 432.80859375 539.63671875 424.119140625 497 c 0
+ 391.70703125 337.97265625 141.758789062 333.3203125 109.083007812 173 c 0
+ 94.357421875 100.75 131.46875 27 201.326171875 27 c 3
+ 287.409179688 27 312.442382812 101.166992188 318.930664062 133 c 0
+ 334.536132812 209.573242188 303.204101562 244.362304688 245.22265625 296 c 0
+ 185.024414062 349.612304688 120.793945312 402.180664062 137.469726562 484 c 0
+ 153.928710938 564.750976562 240.6796875 631 296.430664062 631 c 3
 EndSplineSet
 Substitution2: "dnom-1" eight.denom
 Substitution2: "numr-1" eight.numerator
@@ -3316,11 +2835,10 @@ StartChar: nine
 Encoding: 57 57 73
 Width: 473
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 70 54 S -0.99863 0.052336 -0.052336 -0.99863 505.14 379.013 2
-Validated: 1
 Substitution2: "dnom-1" nine.denom
 Substitution2: "numr-1" nine.numerator
 Substitution2: "tnum-1" nine.tabulartext
@@ -3408,20 +2926,19 @@ StartChar: exclam
 Encoding: 33 33 76
 Width: 266
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-125.248046875 209 m 17
- 157.419921875 339 179.673828125 437 196.430664062 533 c 0
- 204.0625 580 186.000976562 604 200.375 654 c 1
- 283.850585938 664 333.779296875 692 331.107421875 661 c 1
- 306.198242188 625 302.506835938 602 279.430664062 533 c 0
- 237.495117188 408 203.162109375 342 170.000976562 208 c 9
- 125.248046875 209 l 17
+112.46484375 209 m 17
+ 136.685546875 339 152.9453125 437 163.831054688 533 c 0
+ 168.587890625 580 149.05859375 604 160.375 654 c 1
+ 243.23828125 664 291.455078125 692 290.678710938 661 c 1
+ 267.971679688 625 265.686523438 602 246.831054688 533 c 0
+ 212.541015625 408 182.244140625 342 157.279296875 208 c 9
+ 112.46484375 209 l 17
 EndSplineSet
 Refer: 49 46 N 1 0 0.0349208 1 11.5253 0 2
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar
 
@@ -3652,29 +3169,28 @@ StartChar: asterisk
 Encoding: 42 42 88
 Width: 362
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 402 21G<319.41 343.975> 540 74<175.026 230.788> 561 74<408.881 459.683>
 LayerCount: 2
 Fore
 SplineSet
-298.171875 522 m 1xa0
- 258.80859375 468 259.869140625 444 213.763671875 387 c 1
- 189.7734375 383 163.940429688 416 163.39453125 434 c 1
- 213.510742188 487 233.510742188 487 281.895507812 533 c 1
- 223.626953125 540 200.657226562 528 140.626953125 540 c 1
- 134.318359375 563 168.712890625 605 182.940429688 614 c 1xc0
- 240.485351562 596 241.536132812 576 291.338867188 555 c 1
- 294.940429688 614 278.405273438 628 287.243164062 692 c 1
- 306.203125 708 352.966796875 703 365.997070312 691 c 1
- 351.158203125 627 333.435546875 616 314.833984375 557 c 1
- 375.258789062 587 387.456054688 608 453.137695312 635 c 1
- 467.405273438 628 473.258789062 587 457.82421875 561 c 1
- 392.626953125 540 379.349609375 551 318.637695312 536 c 1
- 352.243164062 494 374.995117188 493 407.364257812 446 c 1
- 400.4140625 426 355.474609375 402 332.474609375 402 c 1
- 306.344726562 454 318.045898438 473 298.171875 522 c 1xa0
+266.245117188 522 m 1xa0
+ 230.184570312 468 232.712890625 444 190.09375 387 c 1
+ 166.348632812 383 138.497070312 416 136.849609375 434 c 1
+ 183.724609375 487 203.724609375 487 249.295898438 533 c 1
+ 190.599609375 540 168.36328125 528 107.599609375 540 c 1
+ 99.8837890625 563 131.709960938 605 145.38671875 614 c 1xc0
+ 204.032226562 596 206.306640625 576 257.393554688 555 c 1
+ 257.38671875 614 239.995117188 628 244.918945312 692 c 1
+ 262.900390625 708 309.969726562 703 323.733398438 691 c 1
+ 312.809570312 627 295.759765625 616 280.766601562 557 c 1
+ 339.356445312 587 350.26953125 608 414.299804688 635 c 1
+ 428.995117188 628 437.356445312 587 423.51171875 561 c 1
+ 359.599609375 540 345.649414062 551 285.854492188 536 c 1
+ 322.029296875 494 344.841796875 493 380.0859375 446 c 1
+ 374.358398438 426 330.887695312 402 307.887695312 402 c 1
+ 278.577148438 454 289.116210938 473 266.245117188 522 c 1xa0
 EndSplineSet
-Validated: 33
 EndChar
 
 StartChar: Eacute
@@ -6272,7 +5788,7 @@ HStem: -79 29<283.571 314.227> 399 20<145.175 160.675> 495.6 184.801
 VStem: 209.558 225.5 319.175 68<-39.3516 32.8313>
 LayerCount: 2
 Fore
-Refer: 104 780 N 1 0 0 1 396.44 64 2
+Refer: 104 780 N 1 0 0 1 358.931 64 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 Substitution2: "case-1" Zcaron
 EndChar
@@ -7942,13 +7458,13 @@ Encoding: 35 35 336
 Width: 463
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 326 124 N 0.894737 0 0.241167 0.683927 109.195 152.516 2
-Refer: 326 124 N 0.894737 0 0.241167 0.683927 230.195 152.516 2
-Refer: 453 -1 N 0.934875 0.0832063 0.513148 1.45952 360.545 -100.304 2
-Refer: 453 -1 N 0.934875 0.0832063 0.513148 1.45952 298.958 -264.304 2
+Refer: 326 124 N 0.894737 0 0.199336 0.683927 99.8667 152.516 2
+Refer: 326 124 N 0.894737 0 0.199336 0.683927 220.867 152.516 2
+Refer: 453 -1 N 0.929786 0.0832063 0.42388 1.45952 366.68 -100.304 2
+Refer: 453 -1 N 0.929786 0.0832063 0.42388 1.45952 315.124 -264.304 2
 EndChar
 
 StartChar: braceleft
@@ -9900,14 +9416,13 @@ StartChar: uni2042
 Encoding: 8258 8258 441
 Width: 770
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 58.785 74<292.646 343.448> 79.785 74<521.541 577.303> 270.785 21<408.354 432.919>
 LayerCount: 2
 Fore
 Refer: 88 42 N 0.5 -0.866025 0.866025 0.5 -359.626 44.5226 2
 Refer: 88 42 N -1 0 0 -1 752.329 693.785 2
 Refer: 88 42 N -0.994522 0.104528 -0.104528 -0.994522 623.599 998.568 2
-Validated: 5
 EndChar
 
 StartChar: uni0335
@@ -10065,11 +9580,10 @@ StartChar: exclamdown
 Encoding: 161 161 451
 Width: 266
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 76 33 S -1 0 0 -1 271 416.186 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=235 dh=0 dv=0
 EndChar
@@ -14872,12 +14386,11 @@ StartChar: zero.tabulartext
 Encoding: 65620 -1 700
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 1 33<157.288 268.897> 375 36<211.567 327.745>
 LayerCount: 2
 Fore
 Refer: 64 48 N 1 0 0 1 -14 0 2
-Validated: 1
 Substitution2: "dnom-1" zero.denom
 Substitution2: "numr-1" zero.numerator
 Substitution2: "lnum-1" zero.tabularlining
@@ -14984,12 +14497,11 @@ StartChar: four.tabulartext
 Encoding: 65624 -1 704
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 21<378.231 402.247> 0 45.5<41.5176 231.258 303.518 387.541> 402.3 20<382.957 420.6>
 LayerCount: 2
 Fore
 Refer: 68 52 N 1 0 0 1 10 0 2
-Validated: 1
 Substitution2: "dnom-1" four.denom
 Substitution2: "numr-1" four.numerator
 Substitution2: "lnum-1" four.tabularlining
@@ -15030,12 +14542,11 @@ StartChar: six.tabulartext
 Encoding: 65626 -1 706
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 40<179.099 275.234> 320 44<240.726 330.035>
 LayerCount: 2
 Fore
 Refer: 70 54 N 1 0 0 1 -11.945 0 2
-Validated: 1
 Substitution2: "dnom-1" six.denom
 Substitution2: "numr-1" six.numerator
 Substitution2: "lnum-1" six.tabularlining
@@ -15046,12 +14557,11 @@ StartChar: seven.tabulartext
 Encoding: 65627 -1 707
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 339 67<162.404 393.17>
 LayerCount: 2
 Fore
 Refer: 71 55 N 1 0 0 1 21.504 0 2
-Validated: 1
 Substitution2: "dnom-1" seven.denom
 Substitution2: "numr-1" seven.numerator
 Substitution2: "lnum-1" seven.tabularlining
@@ -15063,7 +14573,7 @@ Encoding: 65628 -1 708
 Width: 463
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7 34<161.221 266.566> 601 30<279.357 364.516>
 LayerCount: 2
 Fore
@@ -15078,11 +14588,10 @@ StartChar: nine.tabulartext
 Encoding: 65629 -1 709
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 73 57 N 1 0 0 1 -5 0 2
-Validated: 1
 Substitution2: "dnom-1" nine.denom
 Substitution2: "numr-1" nine.numerator
 Substitution2: "lnum-1" nine.tabularlining
@@ -15201,12 +14710,11 @@ StartChar: four.tabularlining
 Encoding: 65634 -1 714
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 204 21<386.231 410.247> 211 45.5<49.5176 239.258 311.518 395.541> 613.3 20<390.957 428.6>
 LayerCount: 2
 Fore
 Refer: 704 -1 S 1 0 0 1 8 211 2
-Validated: 1
 Substitution2: "dnom-1" four.denom
 Substitution2: "numr-1" four.numerator
 Substitution2: "onum-1" four.tabulartext
@@ -15233,12 +14741,11 @@ StartChar: six.tabularlining
 Encoding: 65636 -1 716
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 40<179.099 275.234> 320 44<240.726 330.035>
 LayerCount: 2
 Fore
 Refer: 706 -1 S 1 0 0 1 0 0 2
-Validated: 1
 Substitution2: "dnom-1" six.denom
 Substitution2: "numr-1" six.numerator
 Substitution2: "onum-1" six.tabulartext
@@ -15280,7 +14787,7 @@ Encoding: 65638 -1 718
 Width: 463
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7 34<161.221 266.566> 601 30<279.357 364.516>
 LayerCount: 2
 Fore
@@ -15295,11 +14802,10 @@ StartChar: nine.tabularlining
 Encoding: 65639 -1 719
 Width: 463
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 709 -1 N 1 0 0 1 64.2318 254 2
-Validated: 1
 Substitution2: "dnom-1" nine.denom
 Substitution2: "numr-1" nine.numerator
 Substitution2: "onum-1" nine.tabulartext
@@ -18796,12 +18302,11 @@ StartChar: four.proportionallining
 Encoding: 65644 -1 933
 Width: 514
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 204 21<409.231 433.247> 211 45.5<72.5176 262.258 334.518 418.541> 613.3 20<413.957 451.6>
 LayerCount: 2
 Fore
 Refer: 714 -1 N 1 0 0 1 23 0 2
-Validated: 1
 Substitution2: "dnom-1" four.denom
 Substitution2: "numr-1" four.numerator
 Substitution2: "onum-1" four
@@ -18828,12 +18333,11 @@ StartChar: six.proportionallining
 Encoding: 65646 -1 935
 Width: 469
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 40<161.155 257.29> 320 44<222.782 312.091>
 LayerCount: 2
 Fore
 Refer: 716 -1 N 1 0 0 1 -17.9441 0 2
-Validated: 1
 Substitution2: "dnom-1" six.denom
 Substitution2: "numr-1" six.numerator
 Substitution2: "onum-1" six
@@ -18861,7 +18365,7 @@ Encoding: 65648 -1 937
 Width: 474
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7 34<172.221 277.566> 601 30<290.357 375.516>
 LayerCount: 2
 Fore
@@ -18876,11 +18380,10 @@ StartChar: nine.proportionallining
 Encoding: 65649 -1 938
 Width: 478
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 719 -1 N 1 0 0 1 11.0001 0 2
-Validated: 1
 Substitution2: "dnom-1" nine.denom
 Substitution2: "numr-1" nine.numerator
 Substitution2: "onum-1" nine
@@ -20163,14 +19666,13 @@ StartChar: Upsilontonos
 Encoding: 910 910 1002
 Width: 893
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -17 42<405.958 485.454> -11 43<630.64 703.443> 529.951 225.517 623.534 76.2021<424.415 513.59 868.225 981.498>
 VStem: 113.749 205.956 599.206 45.6387<373.316 517.273>
 LayerCount: 2
 Fore
 Refer: 994 900 N 1 0 0 1 0 102 2
 Refer: 1023 933 N 1 0 0 1 204 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar
 
@@ -20178,14 +19680,13 @@ StartChar: Omegatonos
 Encoding: 911 911 1003
 Width: 834
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -12 21<185.977 189.284 738.82 750.987> 0.754883 75.3525<252.013 356.578 607.605 725.983> 529.951 225.517 663 49<519.743 694.06>
 VStem: 113.749 205.956 221.506 41.2373<84.2582 196>
 LayerCount: 2
 Fore
 Refer: 994 900 N 1 0 0 1 0 102 2
 Refer: 1027 937 N 1 0 0 1 103 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar
 
@@ -20221,33 +19722,32 @@ StartChar: Gamma
 Encoding: 915 915 1006
 Width: 572
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -14 56<237.154 328.871> -9 35<46.626 103.34> 654 31<200.376 248.083>
 VStem: 644.264 31.7422<534 583.343>
-AnchorPoint: "Top" 495.841 699 basechar 0
-AnchorPoint: "Bottom" 181.143 -15 basechar 0
+AnchorPoint: "Top" 471.432 699 basechar 0
+AnchorPoint: "Bottom" 181.667 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-326.388671875 -14 m 1xb0
- 227.823242188 12 179.823242188 12 46.6259765625 -9 c 1
- 45.2880859375 26 l 1x70
- 100.762695312 36 128.979492188 49 135.909179688 77 c 1
- 158.96484375 154 250.768554688 529 265.556640625 613 c 0
- 271.239257812 640 257.239257812 640 187.703125 654 c 1
- 200.375976562 685 l 1
- 396.900390625 675 693.375976562 685 704.087890625 700 c 1
- 733.137695312 680 713.920898438 667 676.005859375 534 c 1
- 644.263671875 531 l 1
- 642.172851562 567 657.8046875 614 624.526367188 625 c 0
- 565.981445312 643 466.9609375 651 383.486328125 641 c 0
- 364.991210938 639 357.784179688 622 352.329101562 604 c 0
- 324.036132812 508.69140625 319.276367188 486.603515625 281.015625 332 c 0
- 270.745117188 290.497070312 236.233398438 147 231.8984375 81 c 0
- 231.692382812 64 234.248046875 42 346.248046875 42 c 1
- 326.388671875 -14 l 1xb0
+326.877929688 -14 m 1xb0
+ 227.404296875 12 179.404296875 12 46.9404296875 -9 c 1
+ 44.3798828125 26 l 1x70
+ 99.505859375 36 127.268554688 49 133.220703125 77 c 1
+ 153.586914062 154 232.295898438 529 244.150390625 613 c 0
+ 248.889648438 640 234.889648438 640 164.865234375 654 c 1
+ 176.455078125 685 l 1
+ 373.329101562 675 669.455078125 685 679.643554688 700 c 1
+ 709.391601562 680 690.62890625 667 657.358398438 534 c 1
+ 625.720703125 531 l 1
+ 622.373046875 567 636.36328125 614 602.701171875 625 c 0
+ 543.52734375 643 444.227539062 651 361.102539062 641 c 0
+ 342.676757812 639 336.063476562 622 331.237304688 604 c 0
+ 306.272460938 508.69140625 302.284179688 486.603515625 269.421875 332 c 0
+ 260.600585938 290.497070312 231.099609375 147 229.0703125 81 c 0
+ 229.45703125 64 232.78125 42 344.78125 42 c 1
+ 326.877929688 -14 l 1xb0
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=22
 EndChar
 
@@ -20335,23 +19835,23 @@ AnchorPoint: "Top" 523.103 699 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-617.366210938 470.5 m 1
- 601.616210938 415.1640625 578.666992188 320.51171875 570.64453125 261.5 c 9
- 541.1484375 259.5 l 1
- 546.750976562 325.9609375 538.341796875 324.853515625 511.967773438 331.5 c 0
- 503.640625 332.5 439.384765625 338.5 392.69921875 338.5 c 27
- 340.0234375 338.5 265.040039062 333.5 254.967773438 331.5 c 0
- 225.611328125 325.5 216.618164062 297.5 205.64453125 261.5 c 9
- 173.890625 262.5 l 1
- 198.296875 334.940429688 215.663085938 401.831054688 226.356445312 474.5 c 9
- 257.8515625 476.5 l 1
- 254.467773438 446.211914062 250.163085938 420.513671875 278.270507812 409.5 c 0
- 285.889648438 405.5 306.404296875 399.5 407.794921875 399.5 c 3
- 501.090820312 399.5 522.073242188 403.5 528.033203125 404.5 c 0
- 561.518554688 410.5 568.528320312 406.5 588.614257812 471.5 c 9
- 617.366210938 470.5 l 1
+613.935546875 470.5 m 1
+ 600.118164062 415.1640625 580.474609375 320.51171875 574.512695312 261.5 c 9
+ 545.086914062 259.5 l 1
+ 548.368164062 325.9609375 539.998046875 324.853515625 513.391601562 331.5 c 0
+ 505.029296875 332.5 440.564453125 338.5 393.87890625 338.5 c 27
+ 341.203125 338.5 266.393554688 333.5 256.391601562 331.5 c 0
+ 227.244140625 325.5 219.229492188 297.5 209.512695312 261.5 c 9
+ 177.723632812 262.5 l 1
+ 199.600585938 334.940429688 214.630859375 401.831054688 222.786132812 474.5 c 9
+ 254.211914062 476.5 l 1
+ 251.885742188 446.211914062 248.478515625 420.513671875 276.970703125 409.5 c 0
+ 284.729492188 405.5 305.453125 399.5 406.84375 399.5 c 3
+ 500.139648438 399.5 520.982421875 403.5 526.908203125 404.5 c 0
+ 560.18359375 410.5 567.333007812 406.5 585.149414062 471.5 c 9
+ 613.935546875 470.5 l 1
 EndSplineSet
-Refer: 40 79 S 1 0 0 1 7.10543e-015 0 2
+Refer: 40 79 N 1 0 0 1 7.10543e-015 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=22
 EndChar
 
@@ -20445,49 +19945,48 @@ EndChar
 StartChar: Xi
 Encoding: 926 926 1017
 Width: 642
-Flags: W
+Flags: HW
 HStem: -12 21G<33.6445 606.521> 325.5 61<267.462 555.476> 485 21G<695.451 729.264> 678 20G<206.466 772.125>
 VStem: 79.7236 41.2363<90.2742 209> 158.502 42.0098<494.333 554.167> 237.711 25.4941<402.724 461.5> 556.771 23.4951<241.5 306.893> 605.968 22.7529<428.012 457.5> 688.026 41.2373<490 601.742>
-AnchorPoint: "Top" 504.986 699 basechar 0
-AnchorPoint: "Bottom" 326.288 -15 basechar 0
+AnchorPoint: "Top" 480.576 699 basechar 0
+AnchorPoint: "Bottom" 326.812 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-158.501953125 495 m 1
- 183.90234375 574.702148438 199.004882812 630.799804688 213.927734375 698 c 1
- 246.259765625 682 734.756835938 680 772.125 698 c 1
- 750.846679688 624.162109375 734.357421875 548.845703125 729.263671875 490 c 1
- 688.026367188 485 l 1
- 702.875976562 545 719.470703125 602 678.475585938 604 c 0
- 559.720703125 614 355.340820312 613 257.981445312 602 c 0
- 228.5703125 598 217.575195312 544 200.51171875 491 c 9
- 158.501953125 495 l 1
-666.485351562 204 m 1
- 631.068359375 119.194335938 613.198242188 59.50390625 599.842773438 -12 c 1
- 566.990234375 4 71.4853515625 6 33.64453125 -12 c 1
- 56.064453125 66.453125 73.71875 146.475585938 79.7236328125 209 c 1
- 120.959960938 214 l 1
- 104.489257812 147.4453125 85.8427734375 84.21875 135.29296875 82 c 0
- 254.048828125 72 458.428710938 73 555.788085938 84 c 0
- 592.89453125 88.46875 604.823242188 148.79296875 624.475585938 208 c 9
- 666.485351562 204 l 1
-628.720703125 457.5 m 1
- 612.510742188 400.310546875 588.778320312 302.48828125 580.265625 241.5 c 9
- 556.770507812 239.5 l 1
- 563.971679688 312.422851562 555.53515625 311.208007812 529.321289062 318.5 c 0
- 520.569335938 319.5 453.0546875 325.5 404.0546875 325.5 c 27
- 349.0546875 325.5 270.81640625 320.5 260.321289062 318.5 c 0
- 230.817382812 311.900390625 221.130859375 281.099609375 209.265625 241.5 c 9
- 183.513671875 242.5 l 1
- 208.509765625 317.33203125 226.422851562 386.431640625 237.7109375 461.5 c 9
- 263.205078125 463.5 l 1
- 259.821289062 433.211914062 255.517578125 407.513671875 283.624023438 396.5 c 0
- 291.634765625 392.5 313.150390625 386.5 419.150390625 386.5 c 3
- 517.150390625 386.5 539.139648438 390.5 545.387695312 391.5 c 0
- 578.872070312 397.5 585.881835938 393.5 605.967773438 458.5 c 9
- 628.720703125 457.5 l 1
+141.215820312 495 m 1
+ 163.833007812 574.702148438 176.9765625 630.799804688 189.552734375 698 c 1
+ 222.443359375 682 711.010742188 680 747.75 698 c 1
+ 729.05078125 624.162109375 715.19140625 548.845703125 712.15234375 490 c 1
+ 671.08984375 485 l 1
+ 683.84375 545 698.448242188 602 657.383789062 604 c 0
+ 538.279296875 614 333.934570312 613 236.958984375 602 c 0
+ 207.6875 598 198.578125 544 183.365234375 491 c 9
+ 141.215820312 495 l 1
+659.361328125 204 m 1
+ 626.90625 119.194335938 611.120117188 59.50390625 600.26171875 -12 c 1
+ 566.850585938 4 71.275390625 6 34.0634765625 -12 c 1
+ 53.744140625 66.453125 68.603515625 146.475585938 72.4248046875 209 c 1
+ 113.487304688 214 l 1
+ 99.3408203125 147.4453125 82.9013671875 84.21875 132.4296875 82 c 0
+ 251.534179688 72 455.879882812 73 552.854492188 84 c 0
+ 589.8046875 88.46875 599.626953125 148.79296875 617.211914062 208 c 9
+ 659.361328125 204 l 1
+612.744140625 457.5 m 1
+ 598.53125 400.310546875 578.21484375 302.48828125 571.83203125 241.5 c 9
+ 548.407226562 239.5 l 1
+ 553.061523438 312.422851562 544.66796875 311.208007812 518.19921875 318.5 c 0
+ 509.412109375 319.5 441.6875 325.5 392.6875 325.5 c 27
+ 337.6875 325.5 259.624023438 320.5 249.19921875 318.5 c 0
+ 219.92578125 311.900390625 211.314453125 281.099609375 200.83203125 241.5 c 9
+ 175.044921875 242.5 l 1
+ 197.428710938 317.33203125 212.928710938 386.431640625 221.594726562 461.5 c 9
+ 247.01953125 463.5 l 1
+ 244.693359375 433.211914062 241.287109375 407.513671875 269.778320312 396.5 c 0
+ 277.928710938 392.5 299.653320312 386.5 405.653320312 386.5 c 3
+ 503.653320312 386.5 525.502929688 390.5 531.715820312 391.5 c 0
+ 564.991210938 397.5 572.140625 393.5 589.95703125 458.5 c 9
+ 612.744140625 457.5 l 1
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=22
 EndChar
 
@@ -20509,40 +20008,39 @@ EndChar
 StartChar: Pi
 Encoding: 928 928 1019
 Width: 775
-Flags: W
+Flags: HW
 HStem: -14 37<222.639 278.425 508.949 584.515 694.976 740.737> -12 42<31.5741 108.486> 643.531 38.1836<367.579 735.673> 654 38<201.969 259.516> 662 37<853.22 912.83>
-AnchorPoint: "Top" 567.986 699 basechar 0
-AnchorPoint: "Bottom" 395.288 -15 basechar 0
+AnchorPoint: "Top" 537.477 699 basechar 0
+AnchorPoint: "Bottom" 395.942 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-214.34375 62 m 0x60
- 207.017578125 25.9794921875 260.424804688 30 290.69140625 23 c 1
- 290.69140625 23 281 0 276.53515625 -14 c 1xa0
- 184.495117188 2 112.237304688 5 29.0302734375 -12 c 1
- 29.0302734375 -12 29.9697265625 12 32.4248046875 30 c 1
- 69.9091796875 36 109.909179688 36 117.34375 62 c 0
- 175.952148438 250.333007812 263.918945312 585.5859375 262.168945312 627 c 0
- 260.61328125 649 228.61328125 649 191.849609375 654 c 1
- 204.25390625 692 l 1x50
- 239.03515625 687.40625 271.109375 683.858398438 304.318359375 682.159179688 c 1
- 446.322265625 682.954101562 663.759765625 682.123046875 811.208984375 681.71484375 c 1x20
- 841.770507812 683.813476562 874.81640625 689.405273438 915.986328125 699 c 1
- 912.830078125 662 l 1x08
- 860.860351562 650 850.35546875 652 841.426757812 624 c 0
- 787.982421875 452.494140625 687.076171875 113.447265625 692.374023438 50 c 0
- 695.186523438 25 722.939453125 24 752.444335938 22 c 1
- 752.444335938 22 742.495117188 2 740.030273438 -12 c 1
- 672.7421875 3 598.237304688 5 508.288085938 -15 c 1
- 508.288085938 -15 507.979492188 8 508.94921875 20 c 1
- 558.424804688 30 588.286132812 31.974609375 596.6015625 59 c 0
- 654.803710938 248.15625 692.8984375 401.911132812 738.208984375 611 c 0
- 741.987304688 627.709960938 722.999023438 642.413085938 685.759765625 643.53125 c 0
- 615.474609375 646.889648438 506.73046875 646.584960938 421.477539062 646.43359375 c 0
- 392.97265625 646.610351562 370.805664062 639.114257812 367.40625 632 c 0
- 325.852539062 516.765625 243.236328125 204.048828125 214.34375 62 c 0x60
+211.637695312 62 m 0x60
+ 205.883789062 25.9794921875 259.115234375 30 289.6875 23 c 1
+ 289.6875 23 281 0 277.146484375 -14 c 1xa0
+ 184.407226562 2 112.018554688 5 29.5537109375 -12 c 1
+ 29.5537109375 -12 29.4462890625 12 31.115234375 30 c 1
+ 68.337890625 36 108.337890625 36 114.637695312 62 c 0
+ 165.025390625 250.333007812 238.359375 585.5859375 234.801757812 627 c 0
+ 232.28515625 649 200.28515625 649 163.3046875 654 c 1
+ 174.049804688 692 l 1x50
+ 209.03125 687.40625 241.260742188 683.858398438 274.543945312 682.159179688 c 1
+ 416.512695312 682.954101562 633.986328125 682.123046875 781.454101562 681.71484375 c 1x20
+ 811.923828125 683.813476562 844.725585938 689.405273438 885.477539062 699 c 1
+ 883.935546875 662 l 1x08
+ 832.489257812 650 821.897460938 652 814.190429688 624 c 0
+ 768.231445312 452.494140625 682.124023438 113.447265625 690.19140625 50 c 0
+ 694.095703125 25 721.892578125 24 751.483398438 22 c 1
+ 751.483398438 22 742.407226562 2 740.553710938 -12 c 1
+ 672.611328125 3 598.018554688 5 508.942382812 -15 c 1
+ 508.942382812 -15 507.630859375 8 508.076171875 20 c 1
+ 557.115234375 30 586.890625 31.974609375 594.026367188 59 c 0
+ 643.971679688 248.15625 675.35546875 401.911132812 711.540039062 611 c 0
+ 714.58984375 627.709960938 694.958984375 642.413085938 657.670898438 643.53125 c 0
+ 587.239257812 646.889648438 478.508789062 646.584960938 393.26171875 646.43359375 c 0
+ 364.75 646.610351562 342.91015625 639.114257812 339.8203125 632 c 0
+ 303.296875 516.765625 234.330078125 204.048828125 211.637695312 62 c 0x60
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=22
 EndChar
 
@@ -20562,38 +20060,37 @@ EndChar
 StartChar: Sigma
 Encoding: 931 931 1021
 Width: 656
-Flags: W
+Flags: HW
 HStem: 1 40<164.146 494.137> 659 31<235.76 246.265>
-AnchorPoint: "Top" 486.986 699 basechar 0
-AnchorPoint: "Bottom" 307.288 -15 basechar 0
+AnchorPoint: "Top" 456.467 699 basechar 0
+AnchorPoint: "Bottom" 307.943 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-22.248046875 1 m 1
- 18.9287109375 28 l 1
- 63.1259765625 49 104.903320312 85.3349609375 137.70703125 116 c 0
- 226.264648438 198.784179688 315.732421875 282.678710938 404.81640625 367 c 1
- 365.913085938 437.495117188 320.752929688 518.478515625 282.5625 588.299804688 c 0
- 264.908203125 620.576171875 247.9296875 652.299804688 223.087890625 659 c 1
- 235.759765625 690 l 1
- 421.069335938 680 706.5703125 687 732.501953125 693 c 1
- 757.573242188 665 732.3046875 672 688.390625 539 c 1
- 657.6484375 536 l 1
- 655.556640625 572 686.188476562 619 652.91015625 630 c 1
- 589.513671875 647.236328125 466.122070312 652.551757812 374.420898438 644.193359375 c 1
- 413.458007812 573.795898438 451.58984375 504.499023438 491.25 433 c 0
- 499.658203125 417.841796875 512.056640625 399 526.45703125 391 c 1
- 519.526367188 363 l 1
- 501.057617188 355.162109375 484.090820312 342.178710938 472.568359375 331 c 0
- 367.46875 229.038085938 267.038085938 137.86328125 164.146484375 41 c 1
- 242.469726562 41 321.329101562 39 399.65234375 39 c 0
- 422.056640625 39 452.215820312 43.2998046875 488.353515625 58 c 0
- 551.467773438 83.673828125 567.995117188 101 625.802734375 177 c 1
- 652.071289062 170 l 1
- 619.737304688 104 598.34375 62 571 0 c 1
- 338.57421875 -1.208984375 237.354492188 5.2880859375 22.248046875 1 c 1
+22.2041015625 1 m 1
+ 17.7060546875 28 l 1
+ 60.986328125 49 101.177734375 85.3349609375 132.642578125 116 c 0
+ 217.5859375 198.784179688 303.390625 282.678710938 388.79296875 367 c 1
+ 346.811523438 437.495117188 298.115234375 518.478515625 256.876953125 588.299804688 c 0
+ 237.813476562 620.576171875 219.44921875 652.299804688 194.315429688 659 c 1
+ 205.633789062 690 l 1
+ 391.379882812 680 676.575195312 687 702.245117188 693 c 1
+ 728.5390625 665 702.96484375 672 664.857421875 539 c 1
+ 634.24609375 536 l 1
+ 630.583007812 572 659.162109375 619 625.403320312 630 c 1
+ 561.254882812 647.236328125 437.630859375 652.551757812 346.294921875 644.193359375 c 1
+ 388.405273438 573.795898438 429.5625 504.499023438 472.344726562 433 c 0
+ 481.415039062 417.841796875 494.635742188 399 509.385742188 391 c 1
+ 503.677734375 363 l 1
+ 485.55078125 355.162109375 469.151367188 342.178710938 458.116210938 331 c 0
+ 357.46875 229.038085938 261.018554688 137.86328125 162.356445312 41 c 1
+ 240.6796875 41 319.625976562 39 397.94921875 39 c 0
+ 420.353515625 39 450.325195312 43.2998046875 485.821289062 58 c 0
+ 547.814453125 83.673828125 563.584960938 101 618.075195312 177 c 1
+ 644.649414062 170 l 1
+ 615.196289062 104 595.63671875 62 571 0 c 1
+ 338.626953125 -1.208984375 237.124023438 5.2880859375 22.2041015625 1 c 1
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=22
 EndChar
 
@@ -20612,34 +20109,33 @@ StartChar: Upsilon
 Encoding: 933 933 1023
 Width: 689
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -17 42<201.958 281.454> -11 43<426.64 499.443> 623.534 76.2021<220.415 309.59 664.225 777.498>
 VStem: 395.206 45.6387<373.316 517.273>
-AnchorPoint: "Top" 505.151 699 basechar 0
-AnchorPoint: "Bottom" 340.453 -15 basechar 0
+AnchorPoint: "Top" 492.95 699 basechar 0
+AnchorPoint: "Bottom" 340.715 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-488.958984375 379 m 0xb0
- 450.8125 286.059570312 431.18359375 163.954101562 420.963867188 80 c 0
- 416.212890625 40.98828125 435.07421875 36 515.083984375 32 c 1
- 499.443359375 -11 l 1x70
- 399.907226562 3 313.392578125 9 201.958007812 -17 c 1
- 200.3515625 25 l 1
- 282.817382812 39 322.573242188 52.001953125 334.913085938 100 c 0
- 347.866210938 150.383789062 394.20703125 339.19921875 395.206054688 380 c 0
- 397.400390625 472.659179688 368.79296875 623.534179688 235.451171875 623.534179688 c 3
- 217.692382812 623.534179688 197.328125 610.516601562 174.0234375 582 c 1
- 158.56640625 611.370117188 l 1
- 181.463867188 658.056640625 239.989257812 699.736328125 277.749023438 699.736328125 c 3
- 465.435546875 699.736328125 438.5625 498.013671875 440.844726562 371.123046875 c 1
- 500.004882812 498.013671875 569.864257812 699.736328125 733.028320312 699.736328125 c 3
- 768.0703125 699.736328125 803.336914062 654.138671875 812.684570312 627.370117188 c 1
- 782.69140625 598 l 1
- 768.6171875 615.53125 753.4921875 623.534179688 737.610351562 623.534179688 c 3
- 623.298828125 623.534179688 525.086914062 473.685546875 488.958984375 379 c 0xb0
+482.34375 379 m 0xb0
+ 445.819335938 286.059570312 428.321289062 163.954101562 419.567382812 80 c 0
+ 415.497070312 40.98828125 434.446289062 36 514.525390625 32 c 1
+ 499.635742188 -11 l 1x70
+ 399.854492188 3 313.235351562 9 202.254882812 -17 c 1
+ 199.915039062 25 l 1
+ 282.13671875 39 321.666015625 52.001953125 333.16796875 100 c 0
+ 345.241210938 150.383789062 388.286132812 339.19921875 388.573242188 380 c 0
+ 389.150390625 472.659179688 357.909179688 623.534179688 224.567382812 623.534179688 c 3
+ 206.80859375 623.534179688 186.671875 610.516601562 163.864257812 582 c 1
+ 147.89453125 611.370117188 l 1
+ 169.977539062 658.056640625 227.775390625 699.736328125 265.53515625 699.736328125 c 3
+ 453.221679688 699.736328125 429.870117188 498.013671875 434.3671875 371.123046875 c 1
+ 491.3125 498.013671875 557.650390625 699.736328125 720.814453125 699.736328125 c 3
+ 755.856445312 699.736328125 791.918945312 654.138671875 801.733398438 627.370117188 c 1
+ 772.252929688 598 l 1
+ 757.873046875 615.53125 742.608398438 623.534179688 726.7265625 623.534179688 c 3
+ 612.415039062 623.534179688 516.818359375 473.685546875 482.34375 379 c 0xb0
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=22
 EndChar
 
@@ -20649,23 +20145,23 @@ Width: 700
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -2 40<153.028 257.152 361.444 438.028> 103.5 42.9443<258.023 457.09> 545.254 44.2461<316.38 502.515> 656 43<325.749 402.816 509.316 602.028>
-AnchorPoint: "Top" 482.267 699 basechar 0
-AnchorPoint: "Bottom" 282.333 -15 basechar 0
+AnchorPoint: "Top" 470.065 699 basechar 0
+AnchorPoint: "Bottom" 282.595 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-405.78125 545.25390625 m 1
- 293.979492188 545.25390625 185.422851562 471.870117188 160.27734375 370.262695312 c 1
- 131.461914062 253.826171875 219.317382812 146.444335938 355.3515625 146.444335938 c 1
- 477.8125 146.444335938 578.133789062 231.6328125 601.890625 327.629882812 c 1
- 630.403320312 442.841796875 542.860351562 545.25390625 405.78125 545.25390625 c 1
-447.520507812 589.5 m 1
- 619.775390625 589.5 731.147460938 477.982421875 697.396484375 341.606445312 c 1
- 664.864257812 210.14453125 506.9921875 103.5 328.912109375 103.5 c 1
- 150.83203125 103.5 33.09765625 209.474609375 65.7958984375 341.606445312 c 1
- 98.548828125 473.951171875 272.76953125 589.5 447.520507812 589.5 c 1
+396.263671875 545.25390625 m 1
+ 284.461914062 545.25390625 177.186523438 471.870117188 153.814453125 370.262695312 c 1
+ 127.03125 253.826171875 216.760742188 146.444335938 352.794921875 146.444335938 c 1
+ 475.255859375 146.444335938 574.090820312 231.6328125 596.171875 327.629882812 c 1
+ 622.673828125 442.841796875 533.342773438 545.25390625 396.263671875 545.25390625 c 1
+437.23046875 589.5 m 1
+ 609.485351562 589.5 722.8046875 477.982421875 691.43359375 341.606445312 c 1
+ 661.196289062 210.14453125 505.185546875 103.5 327.10546875 103.5 c 1
+ 149.025390625 103.5 29.44140625 209.474609375 59.8330078125 341.606445312 c 1
+ 90.2763671875 473.951171875 262.479492188 589.5 437.23046875 589.5 c 1
 EndSplineSet
-Refer: 34 73 S 1 0 0 1 160.028 0 2
+Refer: 34 73 N 1 0 -0.0174551 1 160.028 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=22
 EndChar
 
@@ -20685,34 +20181,33 @@ EndChar
 StartChar: Psi
 Encoding: 936 936 1026
 Width: 699
-Flags: W
+Flags: HW
 HStem: -10 40<195.05 307.477 413.978 501.397> 320.818 31.1953<376.858 393.648> 637.704 34<840.813 853.757> 652 43<394.238 457.097 561.75 645.238>
 LayerCount: 2
 Fore
 SplineSet
-396.62109375 695 m 1xd0
- 489.548828125 674 546.12109375 677 653.87890625 692 c 1
- 645.23828125 649 l 1
- 596.603515625 647 568.165039062 656.947265625 554.0703125 616 c 0
- 531.982421875 548.486328125 505.252929688 461.061523438 476.765625 351.192382812 c 1
- 652.279296875 400.744140625 651.85546875 671.704101562 820.231445312 671.704101562 c 3
- 857.061523438 671.704101562 868.452148438 655.91796875 872.817382812 637.704101562 c 1xe0
- 692.4375 554.15234375 674.393554688 353.360351562 468.971679688 320.90625 c 1
- 450.12890625 245.981445312 430.255859375 161.252929688 409.958007812 66 c 0
- 402.362304688 27 457.043945312 32 512.049804688 30 c 1
- 501.397460938 -9 l 1
- 403.120117188 2 280.615234375 4 190.149414062 -10 c 1
- 195.049804688 30 l 1
- 256.5625 30 313.020507812 27.0634765625 328.680664062 77 c 0
- 348.528320312 144.84765625 371.817382812 232.9921875 393.6484375 320.818359375 c 1
- 206.3359375 354.014648438 286.814453125 553.758789062 148.267578125 637 c 1
- 161.6484375 655.213867188 180.8515625 671 217.681640625 671 c 3
- 385.568359375 671 252.724609375 402.770507812 401.334960938 352.013671875 c 1
- 426.278320312 453.989257812 448.270507812 552.208984375 459.576171875 614 c 0
- 465.350585938 650 422.284179688 647 381.98046875 652 c 1
- 396.62109375 695 l 1xd0
+372.3515625 695 m 1xd0
+ 466.012695312 674 522.479492188 677 629.713867188 692 c 1
+ 622.57421875 649 l 1
+ 574.009765625 647 545.223632812 656.947265625 532.559570312 616 c 0
+ 512.829101562 548.486328125 489.15234375 461.061523438 464.501953125 351.192382812 c 1
+ 638.28515625 400.744140625 628.399414062 671.704101562 796.775390625 671.704101562 c 3
+ 833.60546875 671.704101562 845.546875 655.91796875 850.547851562 637.704101562 c 1xe0
+ 673.0859375 554.15234375 662.053710938 353.360351562 457.765625 320.90625 c 1
+ 441.5390625 245.981445312 424.625 161.252929688 407.653320312 66 c 0
+ 401.419921875 27 455.926757812 32 511.001953125 30 c 1
+ 501.711914062 -9 l 1
+ 403.049804688 2 280.475585938 4 190.499023438 -10 c 1
+ 194.001953125 30 l 1
+ 255.514648438 30 312.075195312 27.0634765625 325.9921875 77 c 0
+ 343.469726562 144.84765625 363.680664062 232.9921875 382.4453125 320.818359375 c 1
+ 193.973632812 354.014648438 267.4765625 553.758789062 126.0234375 637 c 1
+ 138.767578125 655.213867188 157.419921875 671 194.25 671 c 3
+ 362.13671875 671 238.659179688 402.770507812 389.041992188 352.013671875 c 1
+ 410.424804688 453.989257812 428.987304688 552.208984375 438.134765625 614 c 0
+ 442.65234375 650 399.690429688 647 359.211914062 652 c 1
+ 372.3515625 695 l 1xd0
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=22
 EndChar
 
@@ -20720,36 +20215,35 @@ StartChar: Omega
 Encoding: 937 937 1027
 AltUni2: 002126.ffffffff.0
 Width: 731
-Flags: W
+Flags: HW
 HStem: -12 21G<82.9766 86.2837 635.82 647.987> 0.754883 75.3525<149.013 253.578 504.605 622.983> 663 49<416.743 591.06>
 VStem: 118.506 41.2373<84.2582 196>
-AnchorPoint: "Top" 536.986 699 basechar 0
-AnchorPoint: "Bottom" 358.268 -7 basechar 0
-AnchorPoint: "Middle" 451.99 364.853 basechar 0
+AnchorPoint: "Top" 518.682 699 basechar 0
+AnchorPoint: "Bottom" 358.451 -7 basechar 0
+AnchorPoint: "Middle" 442.436 364.853 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-285.1875 0.7548828125 m 1x70
- 185.463867188 0.4677734375 90.30859375 -3.5751953125 75.64453125 -12 c 1xb0
- 96.9228515625 61.837890625 113.411132812 137.154296875 118.505859375 196 c 1
- 159.743164062 201 l 1
- 144.89453125 141 127.788085938 84 177.29296875 82 c 1
- 198.401367188 79.150390625 223.981445312 77.193359375 251.215820312 76.107421875 c 1x70
- 277.567382812 200.907226562 93.1357421875 230.873046875 140.930664062 424 c 0
- 178.981445312 577.755859375 362.203125 712 542.203125 712 c 0
- 724.296875 712 839.140625 582.440429688 799.930664062 424 c 0
- 752.469726562 232.223632812 543.30078125 190.892578125 504.60546875 76.056640625 c 1
- 540.850585938 77.3857421875 573.913085938 80.0546875 597.788085938 84 c 0
- 634.778320312 88 645.141601562 142 663.2578125 195 c 1
- 705.268554688 191 l 1
- 671.115234375 111.297851562 654.1328125 55.2001953125 641.841796875 -12 c 1xb0
- 629.798828125 -4.513671875 535.8984375 -0.0927734375 436.15234375 0.6552734375 c 1
- 516.581054688 244.831054688 641.094726562 190.298828125 693.981445312 404 c 0
- 727.9140625 541.1171875 638.399414062 663 493.077148438 663 c 0
- 382.489257812 663 272.529296875 579.96875 244.077148438 465 c 0
- 190.467773438 248.374023438 327.913085938 254.213867188 285.1875 0.7548828125 c 1x70
+285.16796875 0.7548828125 m 1x70
+ 185.451171875 0.4677734375 90.40234375 -3.5751953125 75.958984375 -12 c 1xb0
+ 95.3037109375 61.837890625 109.819335938 137.154296875 113.373046875 196 c 1
+ 154.479492188 201 l 1
+ 141.202148438 141 125.588867188 84 175.145507812 82 c 1
+ 196.329101562 79.150390625 221.959960938 77.193359375 249.22265625 76.107421875 c 1x70
+ 272.306640625 200.907226562 87.08984375 230.873046875 129.828125 424 c 0
+ 163.852539062 577.755859375 343.55859375 712 523.55859375 712 c 0
+ 705.65234375 712 823.888671875 582.440429688 788.828125 424 c 0
+ 746.388671875 232.223632812 538.301757812 190.892578125 502.614257812 76.056640625 c 1
+ 538.82421875 77.3857421875 571.81640625 80.0546875 595.588867188 84 c 0
+ 632.473632812 88 641.422851562 142 658.151367188 195 c 1
+ 700.266601562 191 l 1
+ 668.201171875 111.297851562 652.6875 55.2001953125 642.15625 -12 c 1xb0
+ 629.916992188 -4.513671875 535.900390625 -0.0927734375 436.134765625 0.6552734375 c 1
+ 510.169921875 244.831054688 636.111328125 190.298828125 683.40234375 404 c 0
+ 713.744140625 541.1171875 621.038085938 663 475.715820312 663 c 0
+ 365.127929688 663 257.341796875 579.96875 231.900390625 465 c 0
+ 183.963867188 248.374023438 321.255859375 254.213867188 285.16796875 0.7548828125 c 1x70
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=22
 EndChar
 
@@ -20770,14 +20264,13 @@ EndChar
 StartChar: Upsilondieresis
 Encoding: 939 939 1029
 Width: 689
-Flags: W
+Flags: HW
 HStem: -17 42<201.958 281.454> -11 43<426.64 499.443> 623.534 76.2021<220.415 309.59 664.225 777.498> 756.321 97.359<383.012 451.015 575.012 643.015>
 VStem: 367.177 99.6735<772.096 837.904> 395.206 45.6387<373.316 517.273> 559.177 99.6735<772.096 837.904>
 LayerCount: 2
 Fore
 Refer: 164 -1 N 1 0 0 1 182.165 0 2
 Refer: 1023 933 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar
 
@@ -22309,7 +21802,7 @@ StartChar: afii10020
 Encoding: 1043 1043 1084
 Width: 572
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 56<237.154 328.871> -9 35<46.626 103.34> 654 31<200.376 248.083>
 VStem: 644.264 31.7422<534 583.343>
 AnchorPoint: "Bottom" 185 -15 basechar 0
@@ -22317,7 +21810,6 @@ AnchorPoint: "Top" 323 699 basechar 0
 LayerCount: 2
 Fore
 Refer: 1006 915 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar
 
@@ -22377,12 +21869,11 @@ StartChar: afii10033
 Encoding: 1055 1055 1089
 Width: 775
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 37<222.639 278.425 508.949 584.515 694.976 740.737> -12 42<31.5741 108.486> 643.531 38.1836<367.579 735.673> 654 38<201.969 259.516> 662 37<853.22 912.83>
 LayerCount: 2
 Fore
 Refer: 1019 928 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar
 
@@ -23169,14 +22660,13 @@ StartChar: afii10052
 Encoding: 1027 1027 1136
 Width: 572
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 56<237.154 328.871> -9 35<46.626 103.34> 654 31<200.376 248.083>
 VStem: 644.264 31.7422<534 583.343>
 LayerCount: 2
 Fore
 Refer: 91 -1 N 1 0 0 1 258.859 0 2
 Refer: 1084 1043 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar
 
@@ -26707,7 +26197,7 @@ Encoding: 1062 1062 1293
 Width: 795
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -17 37<40.8649 90.8566> -10 38<682.514 752.553> 0 37<592 662.217> 0.285156 38.1836<204.013 573.91> 652 42<686.997 753> 659 37<212.08 273 504.498 575.312>
 VStem: 114.973 88.027<236.174 312.508 368.312 647.898> 588.64 94.3604<362.739 642.026> 736 39<-240 -124.031>
 LayerCount: 2
@@ -27567,12 +27057,11 @@ StartChar: exclamdbl
 Encoding: 8252 8252 1323
 Width: 532
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 76 33 N 1 0 0 1 266 0 2
 Refer: 76 33 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uni203E
@@ -27852,23 +27341,21 @@ EndChar
 StartChar: product
 Encoding: 8719 8719 1341
 Width: 775
-Flags: W
+Flags: HW
 HStem: -14 37<222.639 278.425 508.949 584.515 694.976 740.737> -12 42<31.5741 108.486> 643.531 38.1836<367.579 735.673> 654 38<201.969 259.516> 662 37<853.22 912.83>
 LayerCount: 2
 Fore
 Refer: 1019 928 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: summation
 Encoding: 8721 8721 1342
 Width: 656
-Flags: W
+Flags: HW
 HStem: 1 40<164.146 494.137> 659 31<235.76 246.265>
 LayerCount: 2
 Fore
 Refer: 1021 931 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: uni2215
@@ -28930,35 +28417,35 @@ Encoding: 36 36 1406
 Width: 463
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -20 34<169.463 293.861> 634 26<342.468 445.875>
 LayerCount: 2
 Fore
 SplineSet
-396.045898438 712 m 1
- 426.045898438 712 l 1
- 210.77734375 -73 l 1
- 180.024414062 -72 l 1
- 396.045898438 712 l 1
-546.359375 588 m 1
- 515.678710938 554.166992188 496.467773438 530 466.829101562 501 c 1
- 450.551757812 512 l 1
- 461.767578125 525 468.33203125 535.356445312 472.450195312 552 c 0
- 484.552734375 600.899414062 448.26171875 634 400.743164062 634 c 3
- 335.966796875 634 264.952148438 586.356445312 248.53125 520 c 0
- 228.340820312 438.41796875 294.567382812 409.427734375 354.171875 365 c 0
- 428.467773438 309.622070312 476.73046875 262.197265625 452.428710938 164 c 0
- 426.491210938 59.1904296875 315.201171875 -20 210.893554688 -20 c 3
- 126.543945312 -20 69.5546875 54.025390625 58.4892578125 140 c 1
- 81.8603515625 162.013671875 113.379882812 186.633789062 140.307617188 212 c 1
- 158.842773438 198 l 1
- 143.897460938 184.888671875 136.924804688 161.958984375 131.2421875 139 c 0
- 114.525390625 71.4521484375 160.188476562 14 225.307617188 14 c 3
- 307.600585938 14 376.162109375 78.064453125 392.479492188 144 c 0
- 411.700195312 221.665039062 367.293945312 243.120117188 304.848632812 295 c 0
- 234.010742188 353.852539062 152.76171875 391.629882812 178.590820312 496 c 0
- 202.052734375 590.802734375 307.71875 660 407.177734375 660 c 3
- 474.768554688 660 522.270507812 621.051757812 546.359375 588 c 1
+352.498046875 712 m 5
+ 382.498046875 712 l 5
+ 215.2421875 -73 l 5
+ 184.427734375 -72 l 5
+ 352.498046875 712 l 5
+510.395507812 588 m 5
+ 481.784179688 554.166992188 464.051757812 530 436.186523438 501 c 5
+ 419.236328125 512 l 5
+ 429.657226562 525 435.587890625 535.356445312 438.688476562 552 c 4
+ 447.799804688 600.899414062 409.484375 634 361.965820312 634 c 7
+ 297.189453125 634 229.088867188 586.356445312 216.7265625 520 c 4
+ 201.526367188 438.41796875 269.525390625 409.427734375 331.84765625 365 c 4
+ 409.530273438 309.622070312 460.693359375 262.197265625 442.3984375 164 c 4
+ 422.87109375 59.1904296875 316.424804688 -20 212.1171875 -20 c 7
+ 127.767578125 -20 66.25 54.025390625 49.9267578125 140 c 5
+ 71.951171875 162.013671875 101.96484375 186.633789062 127.340820312 212 c 5
+ 146.732421875 198 l 5
+ 132.588867188 184.888671875 127.018554688 161.958984375 122.740234375 139 c 4
+ 110.155273438 71.4521484375 159.33203125 14 224.451171875 14 c 7
+ 306.744140625 14 371.387695312 78.064453125 383.671875 144 c 4
+ 398.142578125 221.665039062 352.423828125 243.120117188 286.805664062 295 c 4
+ 212.368164062 353.852539062 128.80859375 391.629882812 148.25390625 496 c 4
+ 165.91796875 590.802734375 267.3515625 660 366.810546875 660 c 7
+ 434.401367188 660 484.28515625 621.051757812 510.395507812 588 c 5
 EndSplineSet
 EndChar
 
@@ -29716,13 +29203,12 @@ StartChar: uni0090
 Encoding: 144 144 1437
 Width: 649
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -17 42<152.182 231.678> -11 43<376.864 449.667> 623.534 76.2021<170.638 259.814 614.449 727.722>
 VStem: 345.43 45.6387<373.316 517.273>
 LayerCount: 2
 Fore
 Refer: 1023 933 N 1 0 0 1 -49.7761 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0091
