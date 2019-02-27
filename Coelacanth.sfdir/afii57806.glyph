@@ -3,9 +3,9 @@ Encoding: 1465 1465 2512
 GlifName: afii57806
 Width: 0
 VWidth: 0
-Flags: HW
-HStem: 682 70<40.752 105.248>
-VStem: 38 70<684.752 749.248>
+Flags: W
+HStem: 670 93.0225
+VStem: 29.018 90.875
 LayerCount: 2
 Back
 SplineSet
@@ -34,4 +34,5 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 2507 1460 S 1 0 0 1 -212 826 2
+Validated: 1
 EndChar

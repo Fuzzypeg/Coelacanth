@@ -3,8 +3,8 @@ Encoding: 1511 1511 2479
 GlifName: afii57687
 Width: 483
 VWidth: 0
-Flags: HW
-HStem: 431.52 139.001<107.557 379.768>
+Flags: W
+HStem: 442.52 128.001<94.2996 362.108>
 AnchorPoint: "HbTopLeft" 74.68 619.44 basechar 0
 AnchorPoint: "HbTop" 224 619.44 basechar 0
 LayerCount: 2
@@ -63,4 +63,5 @@ SplineSet
  89.080078125 596.240234375 l 1
  126.200195312 562.599609376 118.573242188 570.520507812 193.669921875 570.520507812 c 3
 EndSplineSet
+Validated: 33
 EndChar

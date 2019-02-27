@@ -3,8 +3,8 @@ Encoding: 410 410 2702
 Width: 248
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -7 33<9 67 174 243>
+Flags: W
+HStem: -7 33<9 67 174 243> 244 38<-9e-005 248>
 VStem: 91 70<57 558>
 LayerCount: 2
 Fore

@@ -3,8 +3,11 @@ Encoding: 8322 8322 1399
 GlifName: uni2082
 Width: 319
 VWidth: 1159
-Flags: HW
+Flags: W
+HStem: -89.5566 21G<228.969 241.167> -78.6875 54.9277<108.963 238.959> 155.184 41.6133<69.1749 154.365>
+VStem: 164.903 62.8506<60.5454 145.683>
 LayerCount: 2
 Fore
 Refer: 2646 58360 N 1 0 0 1 0 -80 2
+Validated: 1
 EndChar

@@ -3,9 +3,9 @@ Encoding: 602 602 2755
 Width: 562
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -196 168
-VStem: 165 185
+Flags: W
+HStem: -8 47<151.396 249.472> 95.5635 52.5<451.248 526.714> 367 50<103.846 228.806>
+VStem: 292 75<121.285 301.589> 412.039 57.4753<159.337 277.443>
 LayerCount: 2
 Fore
 SplineSet

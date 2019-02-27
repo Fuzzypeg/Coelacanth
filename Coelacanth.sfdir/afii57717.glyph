@@ -4,8 +4,9 @@ GlifName: afii57717
 Width: 551
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: HW
-VStem: 32.4805 222.72 449.36 30.1592<-5.13976 5.91153>
+Flags: W
+HStem: 405.24 21G<459.306 472.133>
+VStem: 32.4805 205.72 427.36 21.1592<-8.30522 1.9646> 454.04 36.2002<219.702 423.349>
 LayerCount: 2
 Fore
 Refer: 2461 1493 N 1 0 0 1 287 0 2

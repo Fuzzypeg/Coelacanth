@@ -3,12 +3,13 @@ Encoding: 1091 1091 1072
 GlifName: afii10085
 Width: 446
 VWidth: 0
-Flags: HW
-HStem: 365 30<9 37 170 185 277 339 410 444>
-DStem2: 176 -32 383 308 0.447214 0.894427<-152.969 14.7689>
+Flags: W
+HStem: -330 30<404 432 256 271 102 164 -3 31>
+DStem2: 265 97 58 -243 0.447214 0.894427<-14.7689 152.969>
 AnchorPoint: "Top" 232.5 465 basechar 0
 AnchorPoint: "Bottom" 291 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 24 121 N 1 0 0 1 0 0 3
+Validated: 1
 EndChar

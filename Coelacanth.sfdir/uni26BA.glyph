@@ -3,7 +3,8 @@ Encoding: 9914 9914 2623
 Width: 607
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
+HStem: 113 46<21 589>
 LayerCount: 2
 Fore
 Refer: 1968 58114 N -0.155 0.268468 -0.866025 -0.5 310.5 125.766 2

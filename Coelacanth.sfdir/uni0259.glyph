@@ -3,11 +3,12 @@ Encoding: 601 601 880
 GlifName: uni0259
 Width: 409
 VWidth: 1159
-Flags: HW
-HStem: -196 168
+Flags: W
+HStem: -187 168
 VStem: 165 185
 LayerCount: 2
 Fore
 Refer: 4 101 S -1 0 0 -1 403 406 2
+Validated: 1
 Substitution2: "case-1" uni018F
 EndChar

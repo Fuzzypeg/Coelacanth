@@ -2,7 +2,9 @@ StartChar: seven.small
 Encoding: 58458 58458 2661
 Width: 315
 VWidth: 1159
-Flags: HW
+Flags: W
+HStem: -1.08 21G<153.74 154.52> 280.72 56.34<84.3159 221.16>
+VStem: 28.06 274.04
 LayerCount: 2
 Fore
 SplineSet
@@ -20,4 +22,5 @@ SplineSet
  28.06 243.74 60.5 330.34 64.86 353.14 c 1
  83.94 348.96 l 1
 EndSplineSet
+Validated: 33
 EndChar

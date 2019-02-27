@@ -3,12 +3,13 @@ Encoding: 58410 58410 924
 GlifName: two.numerator
 Width: 330
 VWidth: 1159
-Flags: HW
-HStem: 264 56<106 240.903 241 264.858> 560 44<81.1582 175.854>
-VStem: 193 64<446.047 543.981>
+Flags: W
+HStem: 252.184 21G<253.455 266.967> 263.436 56.5607<105.73 264.414> 559.971 43.6629<81.5659 175.803>
+VStem: 193.181 64.1375<445.464 543.525>
 LayerCount: 2
 Fore
 Refer: 914 58400 N 1 0 0 1 0 346 2
+Validated: 1
 Kerns2: 911 -143 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "dnom-1" two.denom

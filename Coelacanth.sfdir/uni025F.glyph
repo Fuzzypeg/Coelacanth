@@ -4,8 +4,8 @@ GlifName: uni025F_
 Width: 330
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 98 38<16 314>
+Flags: W
+HStem: 0 38<16 314>
 VStem: 23 27<-331 -293> 132 68<-160 327>
 LayerCount: 2
 Fore

@@ -3,11 +3,12 @@ Encoding: 58403 58403 917
 GlifName: five.denom
 Width: 277
 VWidth: 1159
-Flags: HW
-HStem: 189 64<86.3379 234.248>
-VStem: 171 57<-7.97193 66.5899>
+Flags: W
+HStem: -99.2296 25.4832<22.6592 79.8006> 192.236 60.6721<90.2197 234.669>
+VStem: 171.289 56.3807<-8.16837 65.5666>
 LayerCount: 2
 Fore
 Refer: 2659 58456 N 1 0 0 1 -6 -84 2
+Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

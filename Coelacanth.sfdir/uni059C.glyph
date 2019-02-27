@@ -3,9 +3,9 @@ Encoding: 1436 1436 2548
 GlifName: uni059C_
 Width: 0
 VWidth: 0
-Flags: HW
-HStem: 308.56 269.12
-VStem: 67.2803 60.3193<426.009 570.72>
+Flags: W
+HStem: 641.686 158.826
+VStem: 242.367 23.9492<644.49 687.654>
 AnchorPoint: "HbTop" 264 628 mark 0
 LayerCount: 2
 Back
@@ -41,4 +41,5 @@ SplineSet
  363.147460938 763.6640625 l 1
  303.052708061 743.55410559 278.313537442 712.172788598 266.31640625 641.685546875 c 1
 EndSplineSet
+Validated: 1
 EndChar

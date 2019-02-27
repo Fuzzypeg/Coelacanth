@@ -2,8 +2,9 @@ StartChar: uni1EFE
 Encoding: 7934 7934 2700
 Width: 735
 VWidth: 1159
-Flags: HW
-HStem: -9 95<166.08 278.459> 652 40<9.3 83.6462 482.65 539.818 655.274 729>
+Flags: W
+HStem: -9 82<178.869 277.778> 202 64<158.16 255.023> 652 40<9.3 82.3375 482.65 539.818 655.274 729>
+VStem: 83 69<101.236 197.419>
 AnchorPoint: "Top" 387 699 basechar 0
 AnchorPoint: "Bottom" 339 -15 basechar 0
 LayerCount: 2
@@ -38,4 +39,5 @@ SplineSet
  313.524537322 465.611064954 407.146583308 348.323327973 434 316 c 1
  379.408203125 226 l 1
 EndSplineSet
+Validated: 37
 EndChar

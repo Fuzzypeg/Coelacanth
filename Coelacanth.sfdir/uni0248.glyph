@@ -3,7 +3,8 @@ Encoding: 584 584 2716
 Width: 337
 VWidth: 1356
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
+HStem: 329 46<15.0001 327>
 LayerCount: 2
 Fore
 Refer: 452 58035 S 0.891429 0 0 1 374.246 0 2

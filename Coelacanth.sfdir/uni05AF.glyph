@@ -3,9 +3,9 @@ Encoding: 1455 1455 2561
 GlifName: uni05A_F_
 Width: 0
 VWidth: 0
-Flags: HW
-HStem: -0.0384962 141.038<45.887 465.861> 433 141<106.82 385.491>
-VStem: 38.938 506.242<6.11042 135.78>
+Flags: W
+HStem: 658 34<237.849 305.097> 780 34<237.251 305.037>
+VStem: 194 34<701.6 770.956> 315 34<701.892 770.143>
 AnchorPoint: "HbTop" 273 628 mark 0
 LayerCount: 2
 Back
@@ -46,4 +46,5 @@ SplineSet
  349 697 317.597402597 658 271 658 c 0
  230 658 194 692 194 736 c 0
 EndSplineSet
+Validated: 1
 EndChar

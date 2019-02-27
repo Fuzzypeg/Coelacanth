@@ -3,11 +3,12 @@ Encoding: 1477 1477 2524
 GlifName: uni05C_5
 Width: 0
 VWidth: 0
-Flags: HW
-HStem: -184.131 107.547<180.309 238.406>
-VStem: 155.584 107.547<-159.406 -101.309>
+Flags: W
+HStem: -185.934 124.132
+VStem: 150.595 118.885
 AnchorPoint: "HbBottom" 213 0 mark 0
 LayerCount: 2
 Fore
 Refer: 2523 1476 N 1 0 0 1 -70 -850 2
+Validated: 1
 EndChar

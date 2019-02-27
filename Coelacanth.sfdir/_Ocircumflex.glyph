@@ -3,13 +3,14 @@ Encoding: 212 212 184
 GlifName: O_circumflex
 Width: 845
 VWidth: 0
-Flags: HW
-HStem: -7 50<342.523 545.448> 657 49<304.396 495.712>
-VStem: 43 93<267.4 455.825> 701 101<222.803 442.21>
+Flags: W
+HStem: -13 50<350.825 545.448> 660 49<304.396 495.712>
+VStem: 43 93<264.284 455.257> 701 101<219.4 441.786>
 LayerCount: 2
 Fore
 Refer: 159 58020 N 1 0 0 1 286 0 2
 Refer: 40 79 N 1 0 0 1 0 0 3
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ocircumflex.pcap
 Substitution2: "c2sc-1" ocircumflex.smcp

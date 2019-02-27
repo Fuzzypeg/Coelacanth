@@ -3,11 +3,12 @@ Encoding: 58401 58401 915
 GlifName: three.denom
 Width: 276
 VWidth: 1159
-Flags: HW
-HStem: -99 21<43 79.8831> 71 20<66 94.4641> 220 41<76.2062 165.194>
-VStem: 175 59<142.744 209.813> 186 65<-16.0378 59.2427>
+Flags: W
+HStem: -98.18 21.08<43.36 79.8209> 71.36 20.26<65.94 96.5181> 220.44 41.54<76.2497 165.676>
+VStem: 174.76 59.16<143.039 210.447> 185.92 64.98<-15.6881 60.3078>
 LayerCount: 2
 Fore
 Refer: 2657 58454 S 1 0 0 1 -16 -83 2
+Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

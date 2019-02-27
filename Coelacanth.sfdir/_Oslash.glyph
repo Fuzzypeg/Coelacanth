@@ -4,9 +4,9 @@ GlifName: O_slash
 Width: 845
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -7 50<342.523 545.448> 657 49<304.396 495.712>
-VStem: 43 93<267.4 455.825> 701 101<222.803 442.21>
+Flags: W
+HStem: -13 50<350.825 545.448> 660 49<304.396 495.712>
+VStem: 43 93<264.284 455.257> 701 101<219.4 441.786>
 LayerCount: 2
 Fore
 Refer: 40 79 N 1 0 0 1 0 0 3

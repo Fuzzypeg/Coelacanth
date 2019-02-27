@@ -2,7 +2,9 @@ StartChar: uni0188
 Encoding: 392 392 2749
 Width: 436
 VWidth: 1159
-Flags: HW
+Flags: W
+HStem: -11 51<192.173 325.805> 353 60<173.984 299.966> 700 67<459.415 535.5>
+VStem: 34 72<128.38 275.205> 326 65<402.094 635.179>
 AnchorPoint: "Top" 231 465 basechar 0
 AnchorPoint: "Bottom" 228 -15 basechar 0
 LayerCount: 2
@@ -36,4 +38,5 @@ SplineSet
  288.419040385 413 310.0419809 408.824125351 330.098590995 402.094279916 c 1
  327.895664018 449.381977843 326 491.259296685 326 511 c 0
 EndSplineSet
+Validated: 1
 EndChar

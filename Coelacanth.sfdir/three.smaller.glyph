@@ -2,9 +2,9 @@ StartChar: three.smaller
 Encoding: 58361 58361 2647
 Width: 285
 VWidth: 1159
-Flags: HW
+Flags: W
 HStem: -15 20<50 94.012> 118 19<76 105.373> 239 41<80.9178 162.291>
-VStem: 167 57<175.363 232.584> 176 63<49.1954 111.294>
+VStem: 167 57<175.363 232.584> 176 63<49.1954 111.295>
 LayerCount: 2
 Fore
 SplineSet
@@ -24,4 +24,5 @@ SplineSet
  239 18 95.6572265625 -15 50 -15 c 1
  42 5 l 1xe8
 EndSplineSet
+Validated: 1
 EndChar

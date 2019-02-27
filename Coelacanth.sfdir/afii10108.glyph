@@ -4,8 +4,8 @@ GlifName: afii10108
 Width: 531
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -7 33<21 68 169 229 322 368 450 517> 353 50<219 349>
+Flags: W
+HStem: -7 33<21 68 169 229 322 368 450 517> 353 50<219 349> 532 38<11.0014 364>
 VStem: 92 70<42 333 352 611> 379 68<33 322>
 AnchorPoint: "Top" 120 733 basechar 0
 AnchorPoint: "Bottom" 275 -15 basechar 0

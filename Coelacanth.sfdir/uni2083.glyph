@@ -3,8 +3,11 @@ Encoding: 8323 8323 1400
 GlifName: uni2083
 Width: 285
 VWidth: 1159
-Flags: HW
+Flags: W
+HStem: -95 20<50 94.012> 38 19<76 105.373> 159 41<80.9178 162.291>
+VStem: 167 57<95.3628 152.584> 176 63<-30.8046 31.2945>
 LayerCount: 2
 Fore
 Refer: 2647 58361 N 1 0 0 1 0 -80 2
+Validated: 1
 EndChar

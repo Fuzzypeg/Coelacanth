@@ -3,8 +3,8 @@ Encoding: 78 78 39
 GlifName: N_
 Width: 836
 VWidth: 1159
-Flags: HW
-HStem: -10 44<23.3182 87.7887 186.598 270.067> 655 39<771.248 832> 663 38<600.263 678.466>
+Flags: W
+HStem: -10 44<23.3182 87.7887 186.598 270.067> 651 39<771.248 832> 659 38<600.263 678.466>
 VStem: 97 55<66.539 312.678> 106.632 54.3679<242 550> 720 37<-2.08108 25.5054>
 AnchorPoint: "Bottom" 431 -15 basechar 0
 AnchorPoint: "Top" 427 699 basechar 0
@@ -40,6 +40,7 @@ SplineSet
  104 614 69 649 12 648 c 1
  14 692 l 1xcc
 EndSplineSet
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" n.pcap
 Substitution2: "c2sc-1" n.smcp

@@ -2,8 +2,10 @@ StartChar: uni26E7
 Encoding: 9959 9959 2616
 Width: 873
 VWidth: 879
-Flags: HW
+Flags: W
+HStem: 220 37<139 330 385 495 549 738>
 LayerCount: 2
 Fore
 Refer: 2613 9956 N -1 0 0 -1 873 688 2
+Validated: 1
 EndChar

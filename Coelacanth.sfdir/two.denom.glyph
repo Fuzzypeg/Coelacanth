@@ -3,9 +3,12 @@ Encoding: 58400 58400 914
 GlifName: two.denom
 Width: 330
 VWidth: 1159
-Flags: HW
+Flags: W
+HStem: -93.8164 21G<253.455 266.967> -82.5637 56.5607<105.73 264.414> 213.971 43.6629<81.5659 175.803>
+VStem: 193.181 64.1375<99.4638 197.525>
 LayerCount: 2
 Fore
 Refer: 2656 58453 S 1 0 0 1 0 -84 2
+Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

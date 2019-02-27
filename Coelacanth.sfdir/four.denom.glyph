@@ -3,11 +3,12 @@ Encoding: 58402 58402 916
 GlifName: four.denom
 Width: 326
 VWidth: 1159
-Flags: HW
-HStem: -9 29G<4 30.5 286 299> 7 40<68.3667 170 226 293.238>
-VStem: 170 56<-71.4662 7 47 167.537> 219 20<260.81 268.5>
+Flags: W
+HStem: 7.14 40.17<68.6543 170.24 225.5 293.198>
+VStem: 170.24 55.26<-70.756 7.14 47.31 167.976> 218.75 19.81<261.759 269.142>
 LayerCount: 2
 Fore
 Refer: 2658 58455 S 1 0 0 1 -4 -83 2
+Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

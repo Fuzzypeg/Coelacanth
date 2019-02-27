@@ -3,13 +3,14 @@ Encoding: 325 325 289
 GlifName: N_commaaccent
 Width: 836
 VWidth: 0
-Flags: HW
-HStem: -261.06 204.119 -10 44<23.3182 87.7887 186.598 270.067> 655 39<771.248 832> 663 38<600.263 678.466>
+Flags: W
+HStem: -261.06 204.119 -10 44<23.3182 87.7887 186.598 270.067> 651 39<771.248 832> 659 38<600.263 678.466>
 VStem: 97 55<66.539 312.678> 106.632 54.3679<242 550> 370.87 116.64 720 37<-2.08108 25.5054>
 LayerCount: 2
 Fore
 Refer: 275 806 N 1 0 0 1 624 0 2
 Refer: 39 78 N 1 0 0 1 0 0 3
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ncommaaccent.pcap
 Substitution2: "c2sc-1" ncommaaccent.smcp

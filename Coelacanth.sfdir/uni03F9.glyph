@@ -3,13 +3,14 @@ Encoding: 1017 1017 1049
 GlifName: uni03F_9
 Width: 743
 VWidth: 1159
-Flags: HW
-HStem: -9 42<347.099 553.906> 659 40<323.855 545.759>
-VStem: 43 103<245.223 465.81> 633 33<522.188 588.436> 673 27<150.932 169.074>
+Flags: W
+HStem: -13 42<347.099 553.906> 670 40<327.101 545.759>
+VStem: 43 103<243.914 469.499> 633 33<533.188 599.436> 673 27<146.932 165.074>
 AnchorPoint: "Top" 433 699 basechar 0
 AnchorPoint: "Bottom" 423 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 28 67 N 1 0 0 1 0 0 2
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

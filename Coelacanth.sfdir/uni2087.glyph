@@ -3,8 +3,11 @@ Encoding: 8327 8327 1403
 GlifName: uni2087
 Width: 283
 VWidth: 1159
-Flags: HW
+Flags: W
+HStem: -80 21G<151.5 152> 137 54<78.3757 189.923>
+VStem: 25 242
 LayerCount: 2
 Fore
 Refer: 2651 58365 N 1 0 0 1 0 -80 2
+Validated: 1
 EndChar

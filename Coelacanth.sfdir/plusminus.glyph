@@ -4,8 +4,8 @@ GlifName: plusminus
 Width: 463
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 7e-005 53.9999<34 428> 265 53.9999<34 428>
+Flags: W
+HStem: 0 53.9999<34 428> 265 53.9999<34 428>
 LayerCount: 2
 Fore
 Refer: 330 8722 N 1 0 0 1 0 -190 2

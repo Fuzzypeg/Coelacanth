@@ -3,11 +3,12 @@ Encoding: 58399 58399 913
 GlifName: one.denom
 Width: 256
 VWidth: 1159
-Flags: HW
-HStem: -84 22<35 81.2419 170.125 222> 234 19<42 86.7566> 243 20<184.979 218.7>
-VStem: 103 55<-51.0271 228.375>
+Flags: W
+HStem: -83 21.1313<33.996 80.8599> 234.251 18.965<41.8124 88.4091> 244.012 19.3835<184.25 218.862>
+VStem: 102.908 54.7691<-50.7258 228.761>
 LayerCount: 2
 Fore
 Refer: 2655 58452 N 1 0 0 1 -19 -83 2
+Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
