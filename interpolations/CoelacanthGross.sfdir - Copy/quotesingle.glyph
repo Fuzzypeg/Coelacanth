@@ -1,0 +1,17 @@
+StartChar: quotesingle
+Encoding: 39 39 79
+Width: 200
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+32 705.700195312 m 1
+ 168 705.700195312 l 1
+ 166.670571428 567.768195312 135.427714286 622.368195313 132 439.700195312 c 1
+ 68 439.700195312 l 1
+ 64.4136285714 622.122195313 33.5292285714 568.080195312 32 705.700195312 c 1
+EndSplineSet
+Position2: "Extra space for context kern-1" dx=35 dy=0 dh=70 dv=0
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

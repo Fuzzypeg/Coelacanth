@@ -1,0 +1,18 @@
+StartChar: acutecomb
+Encoding: 769 769 92
+Width: 0
+VWidth: 1159
+Flags: HW
+AnchorPoint: "TopMark" -216 403 mark 0
+AnchorPoint: "Top" -198.5 402 mark 0
+AnchorPoint: "TopMark" -191 616 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+-237.222 452.25 m 5
+ -216.2935625 513.283085 -172.712875 601.563 -143.688 658.936 c 5
+ -143.688 658.936 -88.6934 641.772 -45.5782 605.24 c 5
+ -95.313328125 565.93837 -152.341828125 499.70444 -203.882 420.902 c 5
+ -237.222 452.25 l 5
+EndSplineSet
+EndChar

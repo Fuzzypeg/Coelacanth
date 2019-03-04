@@ -1,0 +1,26 @@
+StartChar: zero.denom
+Encoding: 58398 58398 912
+Width: 366
+VWidth: 1159
+Flags: W
+HStem: -86 28<154.77 236.217> 231 29<129.227 215.365>
+VStem: 30 65<2.83811 174.204> 267 69<-5.81921 179.995>
+LayerCount: 2
+Back
+SplineSet
+168 231 m 3
+ 117 231 95 181 95 109 c 3
+ 95 15 133 -58 199 -58 c 3
+ 254 -58 267 0 267 73 c 3
+ 267 161 239 231 168 231 c 3
+189 260 m 3
+ 270 260 336 191 336 87 c 3
+ 336 -24 263 -86 181 -86 c 3
+ 99 -86 30 -19 30 87 c 3
+ 30 193 108 260 189 260 c 3
+EndSplineSet
+Fore
+Refer: 2565 58451 S 1 0 0 1 2 -84 2
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "'zero' Slashed Zero lookup 22-1" zero.denomalt
+EndChar

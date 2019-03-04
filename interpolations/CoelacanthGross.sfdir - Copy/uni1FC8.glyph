@@ -1,0 +1,11 @@
+StartChar: uni1FC8
+Encoding: 8136 8136 2387
+Width: 746
+Flags: HW
+AnchorPoint: "Bottom" 423 -15 basechar 0
+AnchorPoint: "Top" 426 699 basechar 0
+LayerCount: 2
+Fore
+Refer: 2396 8175 S 1.08329 -0.191013 0.191013 1.08329 -180.296 97.955 2
+Refer: 980 917 N 1 0 0 1 127 0 2
+EndChar

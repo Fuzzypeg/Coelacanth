@@ -1,0 +1,40 @@
+StartChar: b
+Encoding: 98 98 1
+Width: 507
+VWidth: 1159
+Flags: HMW
+AnchorPoint: "Bottom" 248 -15 basechar 0
+AnchorPoint: "Top" 104 749 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+187 340 m 1
+ 188 263 186 218 186 141 c 3
+ 186 127 193 109 202 97 c 0
+ 223 76 248 63 274 63 c 3
+ 329 63 361 99 361 150 c 3
+ 361 241 323 344 220 344 c 3
+ 206 344 190 341 187 340 c 1
+-1 686 m 1
+ 68 696 115 724 201 759 c 1
+ 221 737 l 1
+ 215 717 204 686 201 667 c 0
+ 197 643 187 444 187 381 c 1
+ 223 394 258 406 306 406 c 3
+ 404 406 475 319 475 236 c 3
+ 475 103 333 -3 201 -3 c 3
+ 162 -3 152 7 137 7 c 3
+ 98 7 78 -5 70 -10 c 1
+ 56 3 l 1
+ 56 3 61 14 62 21 c 0
+ 68 49 75 62 76 145 c 0
+ 78 288 80 367 80 510 c 3
+ 80 584 74 597 70 608 c 0
+ 57 642 46 650 11 650 c 3
+ 7 650 -1 650 -3 650 c 1
+ -1 686 l 1
+EndSplineSet
+Substitution2: "case-1" B
+Substitution2: "pcap-1" b.pcap
+Substitution2: "smcp-1" b.smcp
+EndChar
