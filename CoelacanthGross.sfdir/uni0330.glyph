@@ -1,5 +1,5 @@
 StartChar: uni0330
-Encoding: 816 816 601
+Encoding: 816 816 314
 Width: 0
 VWidth: 1159
 Flags: HW
@@ -8,5 +8,5 @@ VStem: -336.926 273.107
 AnchorPoint: "Bottom" -201 -14 mark 0
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 8 -606 2
+Refer: 97 771 N 1 0 0 1 8 -606 2
 EndChar

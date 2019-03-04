@@ -1,5 +1,5 @@
 StartChar: Aring
-Encoding: 197 197 173
+Encoding: 197 197 121
 Width: 705
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
@@ -12,7 +12,7 @@ AnchorPoint: "Top" 377 812 basechar 0
 AnchorPoint: "Bottom" 363 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 165 58026 N 1 0 0 1 235 -64 2
+Refer: 118 58026 S 1 0 0 1 235 -64 2
 Refer: 26 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" aring.pcap

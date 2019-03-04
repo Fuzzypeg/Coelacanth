@@ -1,5 +1,5 @@
 StartChar: eight.denom
-Encoding: 58406 58406 920
+Encoding: 58406 58406 442
 Width: 308
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
@@ -26,6 +26,6 @@ SplineSet
  38.81640625 232.405834446 112.946075436 262 151.45703125 262 c 3
 EndSplineSet
 Fore
-Refer: 2573 58459 N 1 0 0 1 -7 -84 2
+Refer: 1262 58459 N 1 0 0 1 -7 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

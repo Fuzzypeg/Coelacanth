@@ -1,8 +1,9 @@
 StartChar: e.pcap
-Encoding: 57351 57351 647
+Encoding: 57351 57351 321
 Width: 468
 VWidth: 1159
 Flags: HW
+AnchorPoint: "Ogonek" 375 27 basechar 0
 AnchorPoint: "Bottom" 243 -15 basechar 0
 AnchorPoint: "Top" 243 465 basechar 0
 LayerCount: 2

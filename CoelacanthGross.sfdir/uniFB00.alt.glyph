@@ -1,5 +1,5 @@
 StartChar: uniFB00.alt
-Encoding: 58121 58121 1432
+Encoding: 58121 58121 794
 Width: 641
 VWidth: 1159
 Flags: HW
@@ -116,5 +116,5 @@ SplineSet
  299.501542102 706.806178316 330.696296296 725 398 725 c 0
  413.76871519 725 464.658912648 718.094899116 492 690 c 1
 EndSplineSet
-Kerns2: 1437 10 "kern-1 latin individual kerning" 1436 52 "kern-1 latin individual kerning" 1435 13 "kern-1 latin individual kerning" 1434 13 "kern-1 latin individual kerning" 1433 20 "kern-1 latin individual kerning" 1431 39 "kern-1 latin individual kerning"
+Kerns2: 799 10 "kern-1 latin individual kerning" 798 52 "kern-1 latin individual kerning" 797 13 "kern-1 latin individual kerning" 796 13 "kern-1 latin individual kerning" 795 20 "kern-1 latin individual kerning" 793 39 "kern-1 latin individual kerning"
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uniE2CA
-Encoding: 58058 58058 2670
+Encoding: 58058 58058 1359
 Width: 705
 VWidth: 0
 Flags: HW
@@ -9,6 +9,6 @@ DStem2: 96 80 154 87 0.391141 0.920331<-3.53261 211.909 245.659 524.174> 407 642
 AnchorPoint: "Top" 371 699 mark 0
 LayerCount: 2
 Fore
-Refer: 96 58019 N 1 0 0 1 310 10 2
-Refer: 162 58023 N 1 0 0 1 209 -75 2
+Refer: 93 58019 N 1 0 0 1 310 10 2
+Refer: 115 58023 N 1 0 0 1 209 -75 2
 EndChar

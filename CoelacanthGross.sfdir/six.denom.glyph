@@ -1,5 +1,5 @@
 StartChar: six.denom
-Encoding: 58404 58404 918
+Encoding: 58404 58404 440
 Width: 310
 VWidth: 1159
 Flags: W
@@ -23,6 +23,6 @@ SplineSet
  35.8115234375 151.977539062 111.831054688 249.212890625 227.8359375 277.75 c 1
 EndSplineSet
 Fore
-Refer: 2571 58457 N 1 0 0 1 -12 -84 2
+Refer: 1260 58457 N 1 0 0 1 -12 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

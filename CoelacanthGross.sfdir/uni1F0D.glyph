@@ -1,5 +1,5 @@
 StartChar: uni1F0D
-Encoding: 7949 7949 1469
+Encoding: 7949 7949 819
 Width: 712
 VWidth: 1159
 Flags: HW
@@ -10,7 +10,7 @@ AnchorPoint: "Bottom" 370 -15 basechar 0
 AnchorPoint: "Top" 384 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 1618 8189 S 1.08329 0.191013 -0.191013 1.08329 144.276 7.15895 2
-Refer: 1616 8190 N 1.01487 0.369382 -0.369382 1.01487 143.03 -40.8887 2
-Refer: 976 913 N 1 0 0 1 7 0 2
+Refer: 925 8189 S 1.08329 0.191013 -0.191013 1.08329 144.276 7.15895 2
+Refer: 923 8190 N 1.01487 0.369382 -0.369382 1.01487 143.03 -40.8887 2
+Refer: 498 913 N 1 0 0 1 7 0 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: breve.cyrillic
-Encoding: 58086 58086 1377
+Encoding: 58086 58086 754
 Width: 0
 VWidth: 1159
 Flags: W
@@ -10,6 +10,6 @@ AnchorPoint: "TopMark" -202 541 basemark 0
 AnchorPoint: "Top" -198.5 393 mark 0
 LayerCount: 2
 Fore
-Refer: 1376 58087 N 0.918919 0 0 1 -344.946 -310 2
+Refer: 753 58087 N 0.918919 0 0 1 -344.946 -310 2
 Validated: 1
 EndChar

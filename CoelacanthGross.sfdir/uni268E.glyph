@@ -1,11 +1,11 @@
 StartChar: uni268E
-Encoding: 9870 9870 355
+Encoding: 9870 9870 184
 Width: 746
 VWidth: 0
 Flags: HW
 HStem: 24 66<30.0001 293 453 716.001> 190 66<30 716>
 LayerCount: 2
 Fore
-Refer: 352 9867 N 1 0 0 1 0 0 2
-Refer: 351 9866 S 1 0 0 1 0 166 2
+Refer: 181 9867 N 1 0 0 1 0 0 2
+Refer: 180 9866 S 1 0 0 1 0 166 2
 EndChar

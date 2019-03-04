@@ -1,5 +1,5 @@
 StartChar: four.denom
-Encoding: 58402 58402 916
+Encoding: 58402 58402 438
 Width: 326
 VWidth: 1159
 Flags: W
@@ -29,6 +29,6 @@ SplineSet
  239 265 l 5x90
 EndSplineSet
 Fore
-Refer: 2569 58455 S 1 0 0 1 -4 -83 2
+Refer: 1258 58455 S 1 0 0 1 -4 -83 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

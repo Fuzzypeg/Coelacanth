@@ -1,5 +1,5 @@
 StartChar: uni0594
-Encoding: 1428 1428 2463
+Encoding: 1428 1428 1152
 Width: 0
 VWidth: 0
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 244 70<668.752 733.248 760.752 825.248>
 AnchorPoint: "Top" 281 628 mark 0
 LayerCount: 2
 Fore
-Refer: 2491 1456 N 1 0 0 1 -6 902 2
+Refer: 1180 1456 N 1 0 0 1 -6 902 2
 EndChar

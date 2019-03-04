@@ -1,5 +1,5 @@
 StartChar: female
-Encoding: 9792 9792 1533
+Encoding: 9792 9792 877
 Width: 500
 VWidth: 950
 UnlinkRmOvrlpSave: 1
@@ -19,5 +19,5 @@ SplineSet
  81 -81 l 1
  81 57 l 1
 EndSplineSet
-Refer: 1532 9906 N 1 0 0 1 0 0 2
+Refer: 876 9906 N 1 0 0 1 0 0 2
 EndChar

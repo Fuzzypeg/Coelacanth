@@ -1,9 +1,10 @@
 StartChar: afii57803
-Encoding: 1474 1474 2509
+Encoding: 1474 1474 1198
 Width: 0
 VWidth: 0
 Flags: HW
+AnchorPoint: "HbTopLeft" 66.68 619.44 mark 0
 LayerCount: 2
 Fore
-Refer: 2495 1460 S 1 0 0 1 -185 826 2
+Refer: 1184 1460 N 1 0 0 1 -185 826 2
 EndChar

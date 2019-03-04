@@ -1,5 +1,5 @@
 StartChar: theta.pcap
-Encoding: 57530 57530 1844
+Encoding: 57530 57530 1019
 Width: 568
 VWidth: 1159
 Flags: HW
@@ -24,5 +24,5 @@ SplineSet
  311.386363636 236.455384212 314.295454545 235.285258279 315.75 254.299804688 c 1
  340.25 253.5 l 1
 EndSplineSet
-Refer: 657 57361 N 1 0 0 1 0 0 3
+Refer: 331 57361 N 1 0 0 1 0 0 3
 EndChar

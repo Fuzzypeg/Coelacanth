@@ -1,5 +1,5 @@
 StartChar: uni03D9
-Encoding: 985 985 1037
+Encoding: 985 985 556
 Width: 510
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
@@ -13,5 +13,5 @@ SplineSet
  177 -205.909949717 195.899285996 -70.4606068634 204.48046875 10.400390625 c 1
  310.07421875 6.400390625 l 1
 EndSplineSet
-Refer: 1017 959 N 1 0 0 1 -4.375e-007 0 2
+Refer: 536 959 N 1 0 0 1 -4.375e-007 0 2
 EndChar

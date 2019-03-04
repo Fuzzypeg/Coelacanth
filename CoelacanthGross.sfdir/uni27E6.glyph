@@ -1,5 +1,5 @@
 StartChar: uni27E6
-Encoding: 10214 10214 1446
+Encoding: 10214 10214 808
 Width: 289
 VWidth: 1515
 UnlinkRmOvrlpSave: 1
@@ -17,5 +17,5 @@ SplineSet
  262 677 l 1
  105 657 l 1
 EndSplineSet
-Refer: 1970 58113 N 0 -0.927 0.875 0 160 704 2
+Refer: 1034 58113 N 0 -0.927 0.875 0 160 704 2
 EndChar

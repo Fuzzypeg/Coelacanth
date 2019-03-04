@@ -1,5 +1,5 @@
 StartChar: afii57686
-Encoding: 1510 1510 2535
+Encoding: 1510 1510 1224
 Width: 476
 VWidth: 0
 Flags: HW
@@ -8,7 +8,6 @@ VStem: 39.4404 178.64<452.884 530.38> 317.84 31.3203<573.001 596.24>
 AnchorPoint: "HbTop" 234 619.44 basechar 0
 AnchorPoint: "HbBottom" 235 0 basechar 0
 AnchorPoint: "HbTopLeft" 46.68 619.44 basechar 0
-AnchorPoint: "Top" 248.24 619.44 basechar 0
 LayerCount: 2
 Back
 SplineSet

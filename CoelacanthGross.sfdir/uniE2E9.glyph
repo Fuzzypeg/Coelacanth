@@ -1,5 +1,5 @@
 StartChar: uniE2E9
-Encoding: 58089 58089 2629
+Encoding: 58089 58089 1318
 Width: 562
 VWidth: 1159
 Flags: HW
@@ -8,6 +8,6 @@ VStem: 99 72<68.5834 324.974> 165.5 86<499.582 572.441> 341.5 86<499.582 572.441
 AnchorPoint: "Top" 295 465 mark 0
 LayerCount: 2
 Fore
-Refer: 101 772 N 1 0 0 1 493.5 177.73 2
-Refer: 97 776 N 1 0 0 1 493.5 51 2
+Refer: 98 772 N 1 0 0 1 493.5 177.73 2
+Refer: 94 776 N 1 0 0 1 493.5 51 2
 EndChar
