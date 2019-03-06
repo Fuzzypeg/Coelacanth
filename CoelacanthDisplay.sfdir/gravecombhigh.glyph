@@ -2,7 +2,8 @@ StartChar: gravecombhigh
 Encoding: 58082 58082 472
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
+AnchorPoint: "Top" -198.5 410 mark 0
 LayerCount: 2
 Back
 SplineSet
@@ -13,6 +14,5 @@ SplineSet
  -270.434570312 546.732421875 -192.345703125 517.067382812 -149.356445312 493.592773438 c 9
 EndSplineSet
 Fore
-Refer: 94 768 N 0.86012 0.45148 -0.351495 0.861865 155.508 189.031 2
-Validated: 1
+Refer: 94 768 S 0.910008 0.339892 -0.240479 0.899183 101.837 107.492 2
 EndChar

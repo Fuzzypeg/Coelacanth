@@ -2,20 +2,19 @@ StartChar: circumcombhigh
 Encoding: 58081 58081 471
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 450.319 133.361
 VStem: -323.78 252.561
 LayerCount: 2
 Fore
 SplineSet
--71.2197 465.56 m 1
- -93.3955 450.319 l 1
- -197.5 518.507 l 1
- -301.604 450.319 l 1
- -323.78 465.56 l 1
- -215.364 583.681 l 1
- -179.636 583.681 l 1
- -71.2197 465.56 l 1
+-87 456 m 1
+ -98 450 l 1
+ -197.5 538.345703125 l 1
+ -297 450 l 1
+ -308 456 l 1
+ -209 584 l 1
+ -186 584 l 1
+ -87 456 l 1
 EndSplineSet
-Validated: 1
 EndChar
