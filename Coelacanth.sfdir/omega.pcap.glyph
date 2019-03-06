@@ -5,6 +5,7 @@ Width: 520
 Flags: HW
 HStem: 1.29395 68.0957<106.417 171.927 351.58 413.84> 379.325 34.6748<184.72 304.427>
 VStem: 58 81.5293<180.817 318.804> 384.177 79.8232<181.045 308.426> 419.071 36.4492<76.4568 113.074>
+AnchorPoint: "Middle" 261.697 229.853 basechar 0
 AnchorPoint: "Bottom" 258 -15 basechar 0
 AnchorPoint: "Top" 265 465 basechar 0
 LayerCount: 2
