@@ -1,5 +1,5 @@
 StartChar: uni1FCE
-Encoding: 8142 8142 915
+Encoding: 8142 8142 908
 Width: 278
 VWidth: 1043
 Flags: W
@@ -8,6 +8,6 @@ VStem: 113.837 45<537.916 611.114> 170.351 169.822
 AnchorPoint: "Top" 140.501 464 mark 0
 LayerCount: 2
 Fore
-Refer: 925 8189 N 1 0 0 1 53 1 2
-Refer: 918 8127 N 1 0 0 1 -67 6 2
+Refer: 918 8189 N 1 0 0 1 53 1 2
+Refer: 911 8127 N 1 0 0 1 -67 6 2
 EndChar

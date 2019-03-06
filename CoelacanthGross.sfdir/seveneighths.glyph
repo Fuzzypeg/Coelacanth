@@ -1,5 +1,5 @@
 StartChar: seveneighths
-Encoding: 8542 8542 473
+Encoding: 8542 8542 468
 Width: 581
 VWidth: 0
 UnlinkRmOvrlpSave: 1
@@ -8,8 +8,8 @@ HStem: -89 28<401.072 473.211> 235 25<386.002 446.643> 543 56<84.3764 221.462>
 VStem: 28 274 307 57<-34.3188 49.7737> 328 45<157.194 229.31> 472 50<141.922 220.084> 489 60<-45.9945 44.4187>
 LayerCount: 2
 Fore
-Refer: 442 58406 N 1 0 0 1 273 0 2
-Refer: 451 58415 N 1 0 0 1 0 0 2
-Refer: 433 8260 N 1 0 0 1 34 0 2
+Refer: 437 58406 N 1 0 0 1 273 0 2
+Refer: 446 58415 N 1 0 0 1 0 0 2
+Refer: 428 8260 N 1 0 0 1 34 0 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

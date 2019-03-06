@@ -1,12 +1,12 @@
 StartChar: percent
-Encoding: 37 37 455
+Encoding: 37 37 450
 Width: 689
 VWidth: 1159
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 433 8260 N 1 0 0 1 117 -51 2
-Refer: 759 8320 N 1 0 0 1 345 0 2
-Refer: 759 8320 N 1 0 0 1 0 279 2
+Refer: 428 8260 N 1 0 0 1 117 -51 2
+Refer: 752 8320 N 1 0 0 1 345 0 2
+Refer: 752 8320 N 1 0 0 1 0 279 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

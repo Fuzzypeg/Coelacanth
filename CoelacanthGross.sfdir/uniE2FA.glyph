@@ -1,5 +1,5 @@
 StartChar: uniE2FA
-Encoding: 58106 58106 1335
+Encoding: 58106 58106 1324
 Width: 472
 VWidth: 1159
 Flags: HW
@@ -9,5 +9,5 @@ AnchorPoint: "Top" 250 465 mark 0
 LayerCount: 2
 Fore
 Refer: 97 771 N 1 0 0 1 463 177 2
-Refer: 295 58081 N 1 0 0 1 446 -10 2
+Refer: 292 58081 N 1 0 0 1 446 -10 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: iogonek.pcap
-Encoding: 57426 57426 940
+Encoding: 57426 57426 932
 Width: 329
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
@@ -19,5 +19,5 @@ SplineSet
  79.5615234375 -116.866708126 114.894177668 -31.8124401555 215.931640625 36.76171875 c 5
  222.630859375 15.54296875 l 5xf0
 EndSplineSet
-Refer: 325 57355 N 1 0 0 1 0 0 3
+Refer: 321 57355 N 1 0 0 1 0 0 3
 EndChar

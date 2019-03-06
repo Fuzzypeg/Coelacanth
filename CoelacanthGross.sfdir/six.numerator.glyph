@@ -1,5 +1,5 @@
 StartChar: six.numerator
-Encoding: 58414 58414 450
+Encoding: 58414 58414 445
 Width: 310
 VWidth: 1159
 Flags: HW
@@ -7,8 +7,8 @@ HStem: 259 34<139.914 212.301> 434 37<146.61 201.948> 604 20<218.504 231.692>
 VStem: 36 66<328.085 487.332> 223 57<313.022 416.419>
 LayerCount: 2
 Fore
-Refer: 440 58404 N 1 0 0 1 0 346 2
-Kerns2: 433 -233 "kern-1 latin individual kerning"
+Refer: 435 58404 N 1 0 0 1 0 346 2
+Kerns2: 428 -233 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "dnom-1" six.denom
 EndChar

@@ -1,5 +1,5 @@
 StartChar: Lslash
-Encoding: 321 321 388
+Encoding: 321 321 384
 Width: 614
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
@@ -10,7 +10,7 @@ AnchorPoint: "Top" 177 699 basechar 0
 AnchorPoint: "Bottom" 320 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1035 58114 N 0.313047 0.219217 -0.498971 0.712665 25.4765 213.392 2
+Refer: 1026 58114 N 0.313047 0.219217 -0.498971 0.712665 25.4765 213.392 2
 Refer: 37 76 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" lslash.smcp

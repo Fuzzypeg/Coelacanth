@@ -1,11 +1,11 @@
 StartChar: uniE2BE
-Encoding: 58046 58046 1347
+Encoding: 58046 58046 1336
 Width: 619
 VWidth: 1159
 Flags: MW
 AnchorPoint: "Top" 303 699 mark 0
 LayerCount: 2
 Fore
-Refer: 113 58021 N 1 0 0 1 149 -24 2
+Refer: 112 58021 N 1 0 0 1 149 -24 2
 Refer: 93 58019 N 1 0 0 1 245 81 2
 EndChar

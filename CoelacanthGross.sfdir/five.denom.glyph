@@ -1,5 +1,5 @@
 StartChar: five.denom
-Encoding: 58403 58403 439
+Encoding: 58403 58403 434
 Width: 277
 VWidth: 1159
 Flags: W
@@ -23,6 +23,6 @@ SplineSet
  54 121 66 188 70 249 c 5
 EndSplineSet
 Fore
-Refer: 1259 58456 N 1 0 0 1 -6 -84 2
+Refer: 1248 58456 N 1 0 0 1 -6 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

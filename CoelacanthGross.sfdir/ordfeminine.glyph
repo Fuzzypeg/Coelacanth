@@ -1,5 +1,5 @@
 StartChar: ordfeminine
-Encoding: 170 170 628
+Encoding: 170 170 621
 Width: 306
 VWidth: 1159
 Flags: HW
@@ -41,6 +41,6 @@ SplineSet
  38 633 44 645 59 655 c 4
  88 675 142 694 160 694 c 7
 EndSplineSet
-Refer: 1034 58113 N 0.237 0 0 1 36 320 2
+Refer: 1025 58113 N 0.237 0 0 1 36 320 2
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

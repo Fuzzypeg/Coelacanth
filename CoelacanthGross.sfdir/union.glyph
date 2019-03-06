@@ -1,9 +1,9 @@
 StartChar: union
-Encoding: 8746 8746 732
+Encoding: 8746 8746 725
 Width: 580
 VWidth: 1159
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 726 8745 N -1 0 0 -1 580 680.323 2
+Refer: 719 8745 N -1 0 0 -1 580 680.323 2
 EndChar

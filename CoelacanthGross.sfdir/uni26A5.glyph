@@ -1,11 +1,11 @@
 StartChar: uni26A5
-Encoding: 9893 9893 885
+Encoding: 9893 9893 878
 Width: 661
 VWidth: 950
 UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 877 9792 N 1 0 0 1 0 -86 2
-Refer: 878 9794 N 1 0 0 1 1 -1 2
+Refer: 870 9792 N 1 0 0 1 0 -86 2
+Refer: 871 9794 N 1 0 0 1 1 -1 2
 EndChar

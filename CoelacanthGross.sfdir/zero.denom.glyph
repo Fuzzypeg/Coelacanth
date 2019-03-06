@@ -1,5 +1,5 @@
 StartChar: zero.denom
-Encoding: 58398 58398 434
+Encoding: 58398 58398 429
 Width: 366
 VWidth: 1159
 Flags: W
@@ -20,7 +20,7 @@ SplineSet
  30 193 108 260 189 260 c 3
 EndSplineSet
 Fore
-Refer: 1254 58451 S 1 0 0 1 2 -84 2
+Refer: 1243 58451 S 1 0 0 1 2 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.denomalt
 EndChar

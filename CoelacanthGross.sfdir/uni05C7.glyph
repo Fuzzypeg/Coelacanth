@@ -1,11 +1,11 @@
 StartChar: uni05C7
-Encoding: 1479 1479 1203
+Encoding: 1479 1479 1192
 Width: 0
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1086 57344 N 1 0 0 1 281 -238 2
-Refer: 1033 58112 N 0 0.1455 -1.25 0 282 -245 2
-Refer: 1187 1463 N 1 0 0 1 0 0 2
+Refer: 1075 57344 N 1 0 0 1 281 -238 2
+Refer: 1024 58112 N 0 0.1455 -1.25 0 282 -245 2
+Refer: 1176 1463 N 1 0 0 1 0 0 2
 EndChar

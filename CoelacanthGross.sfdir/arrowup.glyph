@@ -1,11 +1,11 @@
 StartChar: arrowup
-Encoding: 8593 8593 713
+Encoding: 8593 8593 706
 Width: 329
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1035 58114 S 0 0.494 -0.934783 0 164.5 0 2
-Refer: 879 8963 N 1 0 0 1 0 0 2
+Refer: 1026 58114 S 0 0.494 -0.934783 0 164.5 0 2
+Refer: 872 8963 N 1 0 0 1 0 0 2
 EndChar

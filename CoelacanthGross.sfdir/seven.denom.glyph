@@ -1,5 +1,5 @@
 StartChar: seven.denom
-Encoding: 58405 58405 441
+Encoding: 58405 58405 436
 Width: 307
 VWidth: 1159
 Flags: W
@@ -23,6 +23,6 @@ SplineSet
  84 265 l 5
 EndSplineSet
 Fore
-Refer: 1261 58458 N 1 0 0 1 0 -84 2
+Refer: 1250 58458 N 1 0 0 1 0 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

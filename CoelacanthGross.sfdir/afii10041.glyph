@@ -1,12 +1,12 @@
 StartChar: afii10041
-Encoding: 1063 1063 677
+Encoding: 1063 1063 670
 Width: 710
 VWidth: 1159
 Flags: HW
 AnchorPoint: "Bottom" 532 -15 basechar 0
 LayerCount: 2
 Back
-Refer: 751 127 N 1 0 0 1 0 0 2
+Refer: 744 127 N 1 0 0 1 0 0 2
 Validated: 1
 Fore
 SplineSet
