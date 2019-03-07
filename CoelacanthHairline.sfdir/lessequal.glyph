@@ -17,14 +17,14 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-422 184 m 5
- 415 161 l 5
- 37 274.857421875 l 5
- 35 297.767578125 l 5
- 417 411 l 5
- 424 388.487304688 l 5
- 81 286 l 5
- 422 184 l 5
+422 184 m 1
+ 415 161 l 1
+ 37 274.857421875 l 1
+ 35 297.767578125 l 1
+ 417 411 l 1
+ 424 388.487304688 l 1
+ 81 286 l 1
+ 422 184 l 1
 EndSplineSet
 Refer: 329 8722 N 1 0 0 1 0 -124 2
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
