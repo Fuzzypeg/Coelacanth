@@ -1,8 +1,7 @@
 StartChar: period
 Encoding: 46 46 48
 Width: 217
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -28.557 176.317<84.6342 132.724>
 VStem: 21.6798 174.639<34.62 81.4493>
 LayerCount: 2
@@ -22,7 +21,6 @@ SplineSet
  192.358909571 71.0388023437 196.319271094 65.9263436523 196.319271094 58.8294251465 c 3
  196.319271094 51.7325066406 192.416031446 42.9890297363 186.857308105 39.9046066406 c 0
 EndSplineSet
-Validated: 1
 Position2: "Extra space for context kern-1" dx=78 dy=0 dh=156 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

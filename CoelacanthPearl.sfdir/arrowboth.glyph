@@ -1,9 +1,8 @@
 StartChar: arrowboth
 Encoding: 8596 8596 1305
 Width: 821
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1303 8594 N 1 0 0 1 60 0 2

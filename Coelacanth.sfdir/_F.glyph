@@ -2,8 +2,7 @@ StartChar: F
 Encoding: 70 70 31
 GlifName: F_
 Width: 566
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 35<33 79.5176> 332 39<186 389.616> 654 31<17 81.7781> 680 20G<514.477 525.182>
 VStem: 104.705 81.2945<84.0664 332 371 638.375> 451 36<246.75 303.707 394.284 440.094> 499 31<534 596.775>
 AnchorPoint: "Bottom" 171 -15 basechar 0
@@ -41,7 +40,6 @@ SplineSet
  202 64 210 42 322 42 c 1
  316 -11 l 1xde
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" f.pcap
 Substitution2: "c2sc-1" f.smcp

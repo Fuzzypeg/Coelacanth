@@ -1,7 +1,6 @@
 StartChar: j.smcp
 Encoding: 57680 57680 2041
 Width: 306
-VWidth: 842
 Flags: HW
 AnchorPoint: "Top" 166 539 basechar 0
 AnchorPoint: "Bottom" 173 -94 basechar 0

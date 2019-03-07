@@ -2,8 +2,7 @@ StartChar: exclam
 Encoding: 33 33 75
 GlifName: exclam
 Width: 266
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -21 140<100.678 143.536>
 VStem: 53 141<25.3087 69.9365> 109 45<209 415.199>
 LayerCount: 2
@@ -18,7 +17,6 @@ SplineSet
  109 209 l 21xa0
 EndSplineSet
 Refer: 48 46 N 1 0 0 1 23 0 2
-Validated: 33
 Substitution2: "pcap-1" exclam.pcap
 Substitution2: "smcp-1" exclam.smcp
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100

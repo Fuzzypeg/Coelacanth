@@ -2,8 +2,7 @@ StartChar: ccaron
 Encoding: 269 269 140
 GlifName: ccaron
 Width: 421
-VWidth: 0
-Flags: H
+Flags: HW
 HStem: -15 52<185 333> 357 60<169 308> 495.6 184.8
 VStem: 34 71<119 282> 119.25 225.5
 LayerCount: 2

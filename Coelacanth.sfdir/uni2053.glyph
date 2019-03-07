@@ -2,8 +2,7 @@ StartChar: uni2053
 Encoding: 8275 8275 1444
 GlifName: uni2053
 Width: 461
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 180.053 64<241.441 360.836> 229.392 63.4463<105.772 220.808>
 LayerCount: 2
 Fore
@@ -18,5 +17,4 @@ SplineSet
  120.688110122 229.391601562 72.1480350131 198.770413704 50.168 179.645 c 1
  18.1337890625 197.353515625 l 1x40
 EndSplineSet
-Validated: 1
 EndChar

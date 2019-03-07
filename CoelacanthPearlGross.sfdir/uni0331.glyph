@@ -1,9 +1,8 @@
 StartChar: uni0331
 Encoding: 817 817 532
 Width: 0
-VWidth: 1159
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 101 772 S 1 0 0 1 -23 -730 2
+Refer: 101 772 N 1 0 0 1 -23 -730 2
 EndChar

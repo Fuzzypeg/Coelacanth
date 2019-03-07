@@ -1,7 +1,6 @@
 StartChar: two.denom
 Encoding: 58400 58400 913
 Width: 330
-VWidth: 1159
 Flags: HW
 LayerCount: 2
 Back
@@ -23,6 +22,6 @@ SplineSet
  33 183 l 1
 EndSplineSet
 Fore
-Refer: 2579 58453 S 1 0 0 1 0 -84 2
+Refer: 2579 58453 N 1 0 0 1 0 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

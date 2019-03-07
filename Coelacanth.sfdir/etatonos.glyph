@@ -2,9 +2,8 @@ StartChar: etatonos
 Encoding: 942 942 1106
 GlifName: etatonos
 Width: 490
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 490.951 225.517
 VStem: 291.299 169.822
 AnchorPoint: "Bottom" 118.409 -15 basechar 0

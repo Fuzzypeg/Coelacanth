@@ -1,9 +1,8 @@
 StartChar: Euro
 Encoding: 8364 8364 1296
 Width: 503
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -6 51<236.339 345.555> 269 46<63 300> 384 46<63 348> 624 47<247.565 364.92>
 VStem: 74 68<184.493 379.669>
 LayerCount: 2

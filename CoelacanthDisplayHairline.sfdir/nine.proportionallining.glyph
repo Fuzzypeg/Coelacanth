@@ -1,11 +1,10 @@
 StartChar: nine.proportionallining
 Encoding: 58397 58397 910
 Width: 478
-VWidth: 1159
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 691 58387 S 1 0 0 1 11.0001 0 2
+Refer: 691 58387 N 1 0 0 1 11.0001 0 2
 Substitution2: "tnum-1" nine.tabularlining
 Substitution2: "onum-1" nine
 Substitution2: "numr-1" nine.numerator

@@ -1,12 +1,10 @@
 StartChar: uni4DFE
 Encoding: 19966 19966 427
 Width: 746
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -110 38<30 716> 56 38<30.0001 293 453 716.001> 220 38<30 716> 382 38<30.0001 293 453 716.001> 548 38<30 716> 712 38<30.0001 293 453 716.001>
 LayerCount: 2
 Fore
-Refer: 359 9778 S 1 0 0 1 0 -148 2
-Refer: 362 9781 S 1 0 0 1 0 344 2
-Validated: 1
+Refer: 359 9778 N 1 0 0 1 0 -148 2
+Refer: 362 9781 N 1 0 0 1 0 344 2
 EndChar

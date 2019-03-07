@@ -2,9 +2,8 @@ StartChar: uni26A8
 Encoding: 9896 9896 2376
 GlifName: uni26A_8
 Width: 499
-VWidth: 950
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -6.19043 45.9102<187.066 334.55> 409.24 41.9502<168.346 309.235>
 VStem: 23.3037 72.2705<141.177 322.529> 404.455 71.2812<126.822 309.69>
 LayerCount: 2

@@ -2,8 +2,7 @@ StartChar: Gamma
 Encoding: 915 915 978
 GlifName: G_amma
 Width: 570
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 35<45 91.758> 645.356 35.6184<205.338 410.346> 654 31<29 93.7781> 680 20G<526.477 537.182>
 VStem: 115 82<84.1495 638.851> 511 31<534 596.689>
 AnchorPoint: "Top" 321 699 basechar 0
@@ -34,7 +33,6 @@ SplineSet
  214 64 222 42 334 42 c 1
  328 -14 l 1xcc
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" gamma.pcap
 Substitution2: "c2sc-1" gamma.smcp

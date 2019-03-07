@@ -1,8 +1,7 @@
 StartChar: cedillafloating
 Encoding: 58084 58084 135
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 VStem: -195 63.126<-165.104 -94.3473>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
@@ -16,5 +15,4 @@ SplineSet
  -199.113 -38.5203 -131.874 -44.0724 -131.874 -109.349 c 3
  -131.874 -179.786 -219.751 -230.116 -289.175 -200.003 c 1
 EndSplineSet
-Validated: 33
 EndChar

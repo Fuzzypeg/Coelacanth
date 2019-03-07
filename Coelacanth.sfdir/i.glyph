@@ -2,17 +2,15 @@ StartChar: i
 Encoding: 105 105 8
 GlifName: i
 Width: 263
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<33 87 184 254> 572 102<98.589 183.411>
 VStem: 89 104<581.438 664.599> 97 71<57 330>
 AnchorPoint: "Bottom" 113 -15 basechar 0
 AnchorPoint: "Ogonek" 196 6 basechar 0
 LayerCount: 2
 Fore
-Refer: 49 775 S 1 0 0 1 339 121 2
+Refer: 49 775 N 1 0 0 1 339 121 2
 Refer: 50 305 N 1 0 0 1 0 0 2
-Validated: 1
 Substitution2: "'locl' Localized Forms Turkic-1" idotaccent
 Substitution2: "case-1" I
 Substitution2: "pcap-1" i.pcap

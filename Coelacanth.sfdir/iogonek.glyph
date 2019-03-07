@@ -2,9 +2,8 @@ StartChar: iogonek
 Encoding: 303 303 260
 GlifName: iogonek
 Width: 263
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -326 60.1279<121.017 198.674> -7 33<33 87 184 254> 572 102<98.589 183.411>
 VStem: 36.5625 69.209<-252.6 -120.517> 89 104<581.438 664.599> 97 71<57 330>
 LayerCount: 2

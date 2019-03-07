@@ -1,8 +1,7 @@
 StartChar: uniFB4F
 Encoding: 64335 64335 1232
 Width: 537
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 423.4 21G<375.26 387.866> 480.24 21G<82.9328 127.154>
 VStem: 59.1602 68.4395<596.294 625.24> 437.32 46.3994<29 78.5593>
 AnchorPoint: "TopRight" 475.6 574.2 basechar 0

@@ -2,8 +2,7 @@ StartChar: guilsinglleft
 Encoding: 8249 8249 1289
 GlifName: guilsinglleft
 Width: 269
-VWidth: 1159
-Flags: W
+Flags: HW
 VStem: 48 74.0996<134.586 267.414>
 LayerCount: 2
 Fore
@@ -17,7 +16,6 @@ SplineSet
  71.0263671875 53.89453125 70.2001953125 155.715820312 48 191 c 1
  48 211 l 1
 EndSplineSet
-Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

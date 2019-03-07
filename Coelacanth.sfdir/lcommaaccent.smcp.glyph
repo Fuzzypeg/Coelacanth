@@ -2,13 +2,11 @@ StartChar: lcommaaccent.smcp
 Encoding: 57756 57756 2115
 GlifName: lcommaaccent.smcp
 Width: 503
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -261.06 204.119 -5.6 32.8<53.8 94.2768> 1.3 39.5<188.841 395.744> 461.6 30.5<195.578 254.397>
 VStem: 101.8 79.5<45.2558 452.768> 190.87 116.64 445.1 26.6<100.136 124.7>
 LayerCount: 2
 Fore
 Refer: 275 806 N 1 0 0 1 444 0 2
-Refer: 2040 57682 S 1 0 0 1 0 0 3
-Validated: 1
+Refer: 2040 57682 N 1 0 0 1 0 0 3
 EndChar

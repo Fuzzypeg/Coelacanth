@@ -1,7 +1,6 @@
 StartChar: e
 Encoding: 101 101 4
 Width: 478
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Bottom" 250 -15 basechar 0
 AnchorPoint: "Ogonek" 378 18 basechar 0
@@ -27,7 +26,6 @@ SplineSet
  341 327 342 330 342 333 c 1
  339 393 291 444 246 444 c 3
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" E
 Substitution2: "pcap-1" e.pcap
 Substitution2: "smcp-1" e.smcp

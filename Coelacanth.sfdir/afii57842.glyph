@@ -2,19 +2,18 @@ StartChar: afii57842
 Encoding: 1472 1472 2519
 GlifName: afii57842
 Width: 172
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
 SplineSet
 103.5 -135.5 m 6
  103.5 -145.16 95.6602 -153 86 -153 c 4
  76.3398 -153 68.5 -145.16 68.5 -135.5 c 6
- 68.5 772.5 l 6
+ 68.5 772.5 l 2
  68.5 782.16 76.3398 790 86 790 c 4
  95.6602 790 103.5 782.16 103.5 772.5 c 6
  103.5 -135.5 l 6
 EndSplineSet
 Fore
 Refer: 1967 58113 N 0 0.935 -1 0 86 -149 2
-Validated: 1
 EndChar

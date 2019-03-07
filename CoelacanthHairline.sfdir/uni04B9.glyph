@@ -1,10 +1,9 @@
 StartChar: uni04B9
 Encoding: 1209 1209 2645
 Width: 477
-VWidth: 1159
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1968 58113 S 0 0.189 -1 0 223 72 2
+Refer: 1968 58113 N 0 0.189 -1 0 223 72 2
 Refer: 1240 1095 N 1 0 0 1 0 0 2
 EndChar

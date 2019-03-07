@@ -1,7 +1,7 @@
 StartChar: dagger
 Encoding: 8224 8224 437
 Width: 442
-Flags: W
+Flags: HW
 HStem: 481 109<21.3637 150.953 293.047 421.716>
 VStem: 165 114<601.625 728.221> 193 57<-18 200.354>
 LayerCount: 2
@@ -32,5 +32,4 @@ SplineSet
  250 509 l 1
  256.829268293 452.673202614 261.097560976 435.411764706 285 370 c 1xa0
 EndSplineSet
-Validated: 1
 EndChar

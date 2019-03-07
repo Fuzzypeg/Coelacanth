@@ -1,7 +1,6 @@
 StartChar: scedilla.smcp
 Encoding: 57773 57773 2134
 Width: 426
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -7.2 34.6<167.118 302.038> 470.4 28.9<184.718 303.126>
@@ -10,5 +9,4 @@ LayerCount: 2
 Fore
 Refer: 268 807 N 1 0 0 1 417 0 2
 Refer: 2050 57689 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar

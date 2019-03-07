@@ -1,8 +1,7 @@
 StartChar: parenleft
 Encoding: 40 40 59
 Width: 351
-VWidth: 1515
-Flags: W
+Flags: HW
 VStem: 37 99<120.902 422.905>
 LayerCount: 2
 Fore
@@ -15,7 +14,6 @@ SplineSet
  133 -81.5925925926 37 69.8148148148 37 271 c 3
  37 472.269320843 139 629.964871194 305 714 c 1
 EndSplineSet
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
 EndChar

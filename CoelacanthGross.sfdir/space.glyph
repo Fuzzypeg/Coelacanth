@@ -1,7 +1,6 @@
 StartChar: space
 Encoding: 32 32 1085
 Width: 205
-VWidth: 1159
 Flags: HW
 LayerCount: 2
 EndChar

@@ -1,8 +1,7 @@
 StartChar: quotereversed
 Encoding: 8219 8219 462
 Width: 200
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 451 252
 VStem: 29 141
 LayerCount: 2

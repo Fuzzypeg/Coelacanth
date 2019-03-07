@@ -1,9 +1,8 @@
 StartChar: proportional
 Encoding: 8733 8733 1528
 Width: 606
-VWidth: 950
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 65.2119 67.7881<484.256 553> 69.376 36.5605<116.319 231.589> 309.707 56.0605<111.819 220.386> 324 38<475.242 553>
 VStem: 42.8672 34.1533<148.295 267.229>
 LayerCount: 2

@@ -1,8 +1,7 @@
 StartChar: uni1E7F.smcp
 Encoding: 57928 57928 2289
 Width: 583
-VWidth: 807
-Flags: W
+Flags: HW
 HStem: 466.2 26.1<16.5916 53.9989 172.288 213 429.1 478.646>
 VStem: 290.6 35.5<-23.5 31.5587>
 LayerCount: 2

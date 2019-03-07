@@ -2,8 +2,7 @@ StartChar: uni0315
 Encoding: 789 789 113
 GlifName: uni0315
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 450.494 206.751
 VStem: -59.75 61<571.847 641.311>
 AnchorPoint: "TopRight" -110.5 531 mark 0
@@ -16,5 +15,4 @@ SplineSet
  -126 464.494 l 1
  -87.0294 521.86 -68.2984 587.855 -59.75 657.245 c 9
 EndSplineSet
-Validated: 1
 EndChar

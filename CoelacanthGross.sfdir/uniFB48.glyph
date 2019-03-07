@@ -1,10 +1,9 @@
 StartChar: uniFB48
 Encoding: 64328 64328 1300
 Width: 494
-VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 1215 1512 N 1 0 0 1 0 0 2
-Refer: 1181 1468 S 1 0 0 1 -35 0 2
+Refer: 1181 1468 N 1 0 0 1 -35 0 2
 EndChar

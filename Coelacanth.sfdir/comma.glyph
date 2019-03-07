@@ -2,8 +2,7 @@ StartChar: comma
 Encoding: 44 44 46
 GlifName: comma
 Width: 200
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -133 252
 VStem: 27 144
 LayerCount: 2
@@ -22,7 +21,6 @@ SplineSet
  168 60 171 55 171 49 c 3
  171 43 161 -68 43 -133 c 1
 EndSplineSet
-Validated: 33
 Position2: "Extra space for context kern-1" dx=78 dy=0 dh=156 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

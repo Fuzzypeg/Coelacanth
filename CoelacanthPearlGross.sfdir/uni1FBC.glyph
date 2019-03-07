@@ -1,8 +1,7 @@
 StartChar: uni1FBC
 Encoding: 8124 8124 1488
 Width: 733
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -295 44.4951<337.881 408.245>
 VStem: 296.95 65.9873<-249.952 -89.5438> 310.954 71.1582<-220.355 -87.5068>
 LayerCount: 2

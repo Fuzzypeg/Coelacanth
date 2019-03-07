@@ -2,14 +2,12 @@ StartChar: five.numerator
 Encoding: 58413 58413 927
 GlifName: five.numerator
 Width: 277
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 246.77 25.4832<22.6592 79.8006> 538.236 60.6721<90.2197 234.669>
 VStem: 171.289 56.3807<337.832 411.567>
 LayerCount: 2
 Fore
 Refer: 917 58403 N 1 0 0 1 0 346 2
-Validated: 1
 Kerns2: 911 -185 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "dnom-1" five.denom

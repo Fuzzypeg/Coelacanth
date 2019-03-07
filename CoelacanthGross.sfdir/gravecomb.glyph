@@ -1,7 +1,6 @@
 StartChar: gravecomb
 Encoding: 768 768 92
 Width: 0
-VWidth: 1159
 Flags: HW
 AnchorPoint: "TopMark" -195 625 basemark 0
 AnchorPoint: "Top" -198.5 409 mark 0

@@ -1,8 +1,7 @@
 StartChar: exclam
 Encoding: 33 33 75
 Width: 277
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -17.5 133<116.816 149.483>
 VStem: 67.5254 133.95<30.4466 64.8792> 122 34<209 408.18>
 LayerCount: 2
@@ -17,7 +16,6 @@ SplineSet
  122 209 l 17xa0
 EndSplineSet
 Refer: 48 46 N 1 0 0 1 33 0 2
-Validated: 33
 Substitution2: "pcap-1" exclam.pcap
 Substitution2: "smcp-1" exclam.smcp
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100

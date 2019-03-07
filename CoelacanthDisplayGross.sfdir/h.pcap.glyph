@@ -1,8 +1,7 @@
 StartChar: h.pcap
 Encoding: 57354 57354 649
 Width: 603
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -2 23<63.2076 86.6559 196.288 228 386 410.38 514.132 539> 189 28<183 431> 384 25<64.44 101.921 193.638 233.538>
 VStem: 114.144 68.8559<37.3924 189 217 377.097> 431 63.9076<31.1521 189 218 372.971>
 AnchorPoint: "Bottom" 307 -15 basechar 0
@@ -46,5 +45,4 @@ SplineSet
  105 380 85 381 63 384 c 1
  65 409 l 1
 EndSplineSet
-Validated: 33
 EndChar

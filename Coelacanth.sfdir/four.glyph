@@ -2,8 +2,7 @@ StartChar: four
 Encoding: 52 52 67
 GlifName: four
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 21G<403.519 423.775> 0 45.5<56.3721 256 317 407.937> 402.3 20G<309.934 344>
 VStem: 256 61<-178.286 0 45.5 270.662> 320.5 23.5<404.437 413.313>
 LayerCount: 2
@@ -29,7 +28,6 @@ SplineSet
  -1 19 299.3671875 367.799804688 320.5 422.299804688 c 9
  344 409.5 l 25
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" four.denom
 Substitution2: "numr-1" four.numerator
 Substitution2: "tnum-1" four.tabulartext

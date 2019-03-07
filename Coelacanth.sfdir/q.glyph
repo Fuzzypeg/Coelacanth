@@ -2,7 +2,6 @@ StartChar: q
 Encoding: 113 113 16
 GlifName: q
 Width: 491
-VWidth: 1159
 Flags: HMW
 HStem: -337 34<473 508> -9 43<185 329> 375 44<186 331>
 VStem: 32 74<114 280> 367 66<-164 26 53 347> 438 18<411 417>
@@ -39,7 +38,6 @@ SplineSet
  332 -302 353.380423975 -288.051714197 357 -260 c 0
  361 -229 361 -90 361 26 c 1
 EndSplineSet
-Validated: 33
 Kerns2: 24 22 "kern-1 latin individual kerning"
 Substitution2: "case-1" Q
 Substitution2: "pcap-1" q.pcap

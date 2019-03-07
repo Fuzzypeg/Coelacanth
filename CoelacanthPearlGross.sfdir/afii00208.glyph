@@ -1,13 +1,11 @@
 StartChar: afii00208
 Encoding: 8213 8213 888
 Width: 1000
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 206.75 76.5<0 1000>
 LayerCount: 2
 Fore
 Refer: 887 8212 N 1 0 0 1 0 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=0 dv=0
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

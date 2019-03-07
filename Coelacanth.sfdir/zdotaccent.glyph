@@ -2,8 +2,7 @@ StartChar: zdotaccent
 Encoding: 380 380 266
 GlifName: zdotaccent
 Width: 453
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 31<137 361> 362 32<77 314> 527 102<190.589 275.411>
 VStem: 181 104<536.438 619.599>
 DStem2: 314 360 137 31 0.646621 0.762811<-366.184 0>
@@ -11,7 +10,6 @@ LayerCount: 2
 Fore
 Refer: 49 775 N 1 0 0 1 431 76 2
 Refer: 25 122 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" zdotaccent.smcp
 Substitution2: "case-1" Zdotaccent
 Substitution2: "pcap-1" zdotaccent.pcap

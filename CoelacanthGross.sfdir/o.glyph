@@ -1,7 +1,6 @@
 StartChar: o
 Encoding: 111 111 14
 Width: 505
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Middle" 256 206 basechar 0
 AnchorPoint: "Bottom" 250 -15 basechar 0

@@ -2,14 +2,12 @@ StartChar: uni1E38
 Encoding: 7736 7736 802
 GlifName: uni1E_38
 Width: 614
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -176 108<254.142 343.858> -7 44<23 88.0947> 2 50<189.846 505.493> 652 41<197.258 286.683> 758 53.9999<0 311>
 VStem: 94 88<57.6719 639.659> 244 110<-166.007 -77.954> 562 35<122.552 159>
 LayerCount: 2
 Fore
 Refer: 160 58021 N 1 0 0 1 7 0 2
 Refer: 560 7734 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

@@ -1,7 +1,6 @@
 StartChar: R.alt
 Encoding: 58117 58117 671
 Width: 724
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Top" 341 679 basechar 0
 AnchorPoint: "Bottom" 360 -15 basechar 0

@@ -2,8 +2,7 @@ StartChar: q.smcp
 Encoding: 57687 57687 2045
 GlifName: q.smcp
 Width: 610
-VWidth: 1239
-Flags: W
+Flags: HW
 HStem: -152.8 44.4<570.325 751.65> -5.7 39.8<247.097 318.32> 473.1 27.1<228.065 350.166>
 VStem: 52.1 84.7<167.716 361.835> 468.2 88<155.519 352.757>
 AnchorPoint: "Top" 304 539 basechar 0
@@ -27,5 +26,4 @@ SplineSet
  438.2 500.2 556.2 401.224511719 556.2 257.2 c 3
  556.2 144.170410156 483.4 55.30625 390.9 16.1 c 1
 EndSplineSet
-Validated: 1
 EndChar

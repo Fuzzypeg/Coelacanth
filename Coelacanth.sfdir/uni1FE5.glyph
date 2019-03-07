@@ -2,8 +2,8 @@ StartChar: uni1FE5
 Encoding: 8165 8165 2024
 GlifName: uni1F_E_5
 Width: 462
-VWidth: 0
 UnlinkRmOvrlpSave: 1
+Flags: HW
 HStem: 482.8 22<260.17 303.363> 607.6 74<236.672 279.362>
 VStem: 185.363 44<521.762 593.762>
 LayerCount: 2

@@ -1,8 +1,7 @@
 StartChar: uni1ECD
 Encoding: 7885 7885 733
 Width: 492
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 21<213.737 312.228> 388 23<183.876 282.08>
 VStem: 28 65<130.362 287.127> 399 65<108.357 276.92>
 AnchorPoint: "Top" 251 465 basechar 0

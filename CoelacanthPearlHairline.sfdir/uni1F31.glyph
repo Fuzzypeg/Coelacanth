@@ -1,8 +1,7 @@
 StartChar: uni1F31
 Encoding: 7985 7985 1165
 Width: 345
-VWidth: 1043
-Flags: W
+Flags: HW
 HStem: 480 56<161.975 213.499>
 VStem: 80.499 75<544.614 607.331>
 LayerCount: 2

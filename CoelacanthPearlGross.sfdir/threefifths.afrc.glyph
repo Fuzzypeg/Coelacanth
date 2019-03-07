@@ -1,15 +1,14 @@
 StartChar: threefifths.afrc
 Encoding: 58435 58435 1414
 Width: 533
-VWidth: 1159
 Flags: HW
 HStem: 190 68.2656<204 283.721> 314.875 54.25<34 428> 402 53<146 210.067> 525 50<207 227.096> 629 68<164.12 235.62>
 VStem: 220 89.3779<45.6079 96.983> 236 84<585.709 653> 243 92<482.737 532.528>
 LayerCount: 2
 Fore
-Refer: 1970 58113 S 0.394 0 0 0.875 69 342 2
-Refer: 1401 8323 S 1 0 0 1 131 497 2
-Refer: 1398 8325 S 1 0 0 1 133 68 2
+Refer: 1970 58113 N 0.394 0 0 0.875 69 342 2
+Refer: 1401 8323 N 1 0 0 1 131 497 2
+Refer: 1398 8325 N 1 0 0 1 133 68 2
 Ligature2: "'afrc' Nut Fractions lookup 23-1" three.numerator fraction five.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2157
 EndChar

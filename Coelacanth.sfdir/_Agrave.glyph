@@ -2,7 +2,6 @@ StartChar: Agrave
 Encoding: 192 192 168
 GlifName: A_grave
 Width: 705
-VWidth: 1159
 Flags: HW
 HStem: -10 37<475.198 516.465 640.751 690.047> 245 42<237 427.657> 692 20G<348 395.5> 744.316 147.151
 VStem: 186.935 234.888 350 43<632.023 712>

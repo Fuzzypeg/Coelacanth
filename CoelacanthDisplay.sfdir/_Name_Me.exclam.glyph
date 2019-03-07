@@ -1,8 +1,7 @@
 StartChar: NameMe.exclam
 Encoding: 65537 -1 1395
 Width: 216
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -18.9856 131.308<85.9983 116.348>
 VStem: 40.2048 124.447<28.3511 62.3456> 47 121<400.269 470.608> 82 38<162 317.698>
 LayerCount: 2
@@ -17,5 +16,4 @@ SplineSet
  82 162 l 5x90
 EndSplineSet
 Refer: 48 46 N 0.929057 0 0 0.987278 8.12874 -1.7082 2
-Validated: 33
 EndChar

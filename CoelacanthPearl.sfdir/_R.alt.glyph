@@ -1,8 +1,7 @@
 StartChar: R.alt
 Encoding: 58117 58117 671
 Width: 724
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -29 69<629.968 694> -13 20G<83.3636 104.5 282.5 303.333> 254 67<242 363.44> 606 69<72 138.093> 620 72<240.201 414.08>
 VStem: 141 101<72.6695 258 324 603.222> 487 105<393.709 546.571>
 AnchorPoint: "Top" 341 679 basechar 0
@@ -65,6 +64,5 @@ SplineSet
  136 605 124 604 72 606 c 1
  72 675 l 1x76
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

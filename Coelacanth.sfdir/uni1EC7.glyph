@@ -2,13 +2,11 @@ StartChar: uni1EC7
 Encoding: 7879 7879 849
 GlifName: uni1E_C_7
 Width: 409
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -173 102<169.589 254.411> 425 168 486.6 184.8
 VStem: 53 185 105.25 225.5 160 104<-163.562 -80.401>
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 415.5 64 2
 Refer: 736 7865 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

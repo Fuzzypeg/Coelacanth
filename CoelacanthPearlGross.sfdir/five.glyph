@@ -1,8 +1,7 @@
 StartChar: five
 Encoding: 53 53 68
 Width: 488
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 379.568 119.471<188.305 351.088> 550.239 20G<380.351 385.02>
 VStem: 102.699 86.1504<325.932 379.533> 281.945 106.525<30.3477 157.371>
 LayerCount: 2
@@ -22,7 +21,6 @@ SplineSet
  281.9453125 145.593839714 244.948698908 202.598040772 97.517578125 224.197265625 c 1
  104.558112047 302.666944114 106.481063422 407.765397443 102.69921875 499.0390625 c 1
 EndSplineSet
-Validated: 37
 Substitution2: "dnom-1" five.denom
 Substitution2: "numr-1" five.numerator
 Substitution2: "tnum-1" five.tabulartext

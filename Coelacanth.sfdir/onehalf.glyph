@@ -2,14 +2,12 @@ StartChar: onehalf
 Encoding: 189 189 934
 GlifName: onehalf
 Width: 642
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -93.8164 21G<576.455 589.967> -82.5637 56.5607<428.73 587.414> 213.971 43.6629<404.566 498.803> 263 21.1313<33.996 80.8599> 580.251 18.965<41.8124 88.4091> 590.012 19.3835<184.25 218.862>
 VStem: 102.908 54.7691<295.274 574.761> 516.181 64.1375<99.4638 197.525>
 LayerCount: 2
 Fore
-Refer: 942 8543 S 1 0 0 1 0 0 2
+Refer: 942 8543 N 1 0 0 1 0 0 2
 Refer: 914 58400 N 1 0 0 1 323 0 2
-Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

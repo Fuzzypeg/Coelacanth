@@ -1,8 +1,7 @@
 StartChar: uni1DC5
 Encoding: 7621 7621 2739
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 447 49.0001<-240 -56> 447.007 156.054
 AnchorPoint: "Top" -198.5 393 mark 0
 AnchorPoint: "TopMark" -198.5 495 basemark 0

@@ -1,8 +1,7 @@
 StartChar: uni05C6
 Encoding: 1478 1478 2512
 Width: 276
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 117.872<115.362 230.84>
 VStem: 55.5186 59.5742<117.872 232.918>
 LayerCount: 2

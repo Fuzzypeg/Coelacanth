@@ -1,7 +1,6 @@
 StartChar: Alpha
 Encoding: 913 913 976
 Width: 733
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Top" 367 699 basechar 0
 AnchorPoint: "Bottom" 353 -15 basechar 0

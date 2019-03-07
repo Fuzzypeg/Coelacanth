@@ -2,7 +2,6 @@ StartChar: r
 Encoding: 114 114 17
 GlifName: r
 Width: 358
-VWidth: 1159
 Flags: HMW
 HStem: -5 32<30 59 177 273> 316 108<269 335>
 VStem: 91 69<53 321>
@@ -36,7 +35,6 @@ SplineSet
  229 348 167 320 165 293 c 0
  161 256 160 213 160 196 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" R
 Substitution2: "pcap-1" r.pcap
 Substitution2: "smcp-1" r.smcp

@@ -1,8 +1,7 @@
 StartChar: s.smcp
 Encoding: 57689 57689 2049
 Width: 462
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7.2 34.6<167.118 302.038> 470.4 28.9<184.718 303.126>
 VStem: 46.8 27<105.85 142.174> 64.3 24.3<0 11.0013> 71.5 70.8<321.413 424.247> 339.1 70.2<60.3892 164.927> 372.1 26.7<364.506 406.284>
 AnchorPoint: "Top" 241 539 basechar 0
@@ -34,5 +33,4 @@ SplineSet
  64.3 0 l 1xd4
  64.6 44.5 60.9 77.9 46.8 140.8 c 1xe0
 EndSplineSet
-Validated: 33
 EndChar

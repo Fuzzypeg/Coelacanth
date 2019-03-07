@@ -2,15 +2,13 @@ StartChar: Ograve
 Encoding: 210 210 182
 GlifName: O_grave
 Width: 845
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -13 50<350.825 545.448> 660 49<304.396 495.712> 744.316 147.151
 VStem: 43 93<264.284 455.257> 245.935 234.888 701 101<219.4 441.786>
 LayerCount: 2
 Fore
 Refer: 96 58019 N 1 0 0 1 362 0 2
 Refer: 40 79 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ograve.pcap
 Substitution2: "c2sc-1" ograve.smcp

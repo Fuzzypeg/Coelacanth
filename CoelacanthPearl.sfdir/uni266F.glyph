@@ -1,9 +1,8 @@
 StartChar: uni266F
 Encoding: 9839 9839 1443
 Width: 277
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1972 58115 N 0.237 0.0632863 0 1.54545 22 214.357 2

@@ -1,8 +1,7 @@
 StartChar: jcircumflex
 Encoding: 309 309 150
 Width: 265
-VWidth: 0
-Flags: H
+Flags: HW
 HStem: 486.6 184.8
 VStem: -27 27<-331 -293> 8.25 225.5 82 68<-160 327>
 LayerCount: 2

@@ -2,9 +2,8 @@ StartChar: uni1F7D
 Encoding: 8061 8061 1154
 GlifName: uni1F_7D_
 Width: 697
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 490.951 225.517
 VStem: 338.375 169.822
 AnchorPoint: "Bottom" 334.485 -15 basechar 0

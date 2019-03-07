@@ -1,9 +1,8 @@
 StartChar: plusminus
 Encoding: 177 177 876
 Width: 463
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 5.86962 42.2608<34 428> 270.87 42.2608<34 428>
 LayerCount: 2
 Fore

@@ -1,7 +1,6 @@
 StartChar: u
 Encoding: 117 117 20
 Width: 522
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Top" 274 437 basechar 0
 AnchorPoint: "Horn" 453.5 333 basechar 0

@@ -1,7 +1,6 @@
 StartChar: X
 Encoding: 88 88 55
 Width: 758
-VWidth: 1159
 Flags: HW
 HStem: -7.5 23<486.5 541.825 693.494 745> 688 16<660.755 707.5> 695.5 15.5<31.5 75.4415 240.435 284.5 471.265 511.631>
 AnchorPoint: "Bottom" 381 -15 basechar 0

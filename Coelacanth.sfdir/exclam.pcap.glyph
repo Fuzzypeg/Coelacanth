@@ -2,8 +2,7 @@ StartChar: exclam.pcap
 Encoding: 57473 57473 1750
 GlifName: exclam.pcap
 Width: 258
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -22.6595 124.397<107.898 143.765>
 VStem: 67.9977 118<18.488 58.1421> 108 38<144 265.33>
 LayerCount: 2
@@ -18,5 +17,4 @@ SplineSet
  108 144 l 1xa0
 EndSplineSet
 Refer: 48 46 N 0.836878 0 0 0.88855 42.8914 -4 2
-Validated: 33
 EndChar

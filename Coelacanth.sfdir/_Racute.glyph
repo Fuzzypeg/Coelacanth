@@ -2,7 +2,6 @@ StartChar: Racute
 Encoding: 340 340 220
 GlifName: R_acute
 Width: 738
-VWidth: 0
 Flags: HW
 HStem: -10 44<264 272> 323 44<178 306.579> 744.9 147.152
 VStem: 88 90<71.4111 283.488 429.868 640.189> 246.493 234.89 456 87<441.267 575.707>

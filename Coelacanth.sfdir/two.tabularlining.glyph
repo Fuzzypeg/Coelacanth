@@ -2,8 +2,7 @@ StartChar: two.tabularlining
 Encoding: 58380 58380 684
 GlifName: two.tabularlining
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 21G<365 384.5> 2 64<91 380.376> 584 53<144.137 265.568>
 VStem: 322 70<380.132 524.895>
 LayerCount: 2
@@ -25,7 +24,6 @@ SplineSet
  134.743164062 584 94.677734375 545.69140625 65 501 c 1
  45 515 l 1x70
 EndSplineSet
-Validated: 33
 Substitution2: "pnum-1" two.proportionallining
 Substitution2: "onum-1" two.tabulartext
 Substitution2: "numr-1" two.numerator

@@ -2,9 +2,8 @@ StartChar: uni1F93
 Encoding: 8083 8083 1345
 GlifName: uni1F_93
 Width: 490
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -295 44.4951<103.29 173.654> 495 22<236.715 279.908> 619.8 74<213.217 255.907>
 VStem: 62.3593 65.9873<-249.952 -89.5438> 76.3632 71.1582<-220.355 -87.5068> 161.908 44<533.962 605.962>
 LayerCount: 2

@@ -2,8 +2,7 @@ StartChar: H
 Encoding: 72 72 33
 GlifName: H_
 Width: 831
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -15 35<204.933 267.427 582 638.791> -11 42<19 83.6283> 325 40<186 662> 650 37<19.7353 90.0461 199.692 277.162> 657 34<579.971 636.882> 661 37<763.97 814.135>
 VStem: 89 97<40.9826 319.166> 101 85<213.224 325 365 616.072> 662 78<81.7338 325 365 438.46>
 AnchorPoint: "Bottom" 419 -15 basechar 0
@@ -47,7 +46,6 @@ SplineSet
  87 648 55 648 17 653 c 1
  20 691 l 1x6980
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" h.pcap
 Substitution2: "c2sc-1" h.smcp

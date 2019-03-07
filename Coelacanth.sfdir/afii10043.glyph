@@ -2,9 +2,8 @@ StartChar: afii10043
 Encoding: 1065 1065 1264
 GlifName: afii10043
 Width: 1006
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 0 37<803 873.217>
 VStem: 947 39<-240 -124.031>
 LayerCount: 2

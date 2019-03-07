@@ -2,8 +2,7 @@ StartChar: uni1EB9
 Encoding: 7865 7865 736
 GlifName: uni1E_B_9
 Width: 409
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -173 102<169.589 254.411> 425 168
 VStem: 53 185 160 104<-163.562 -80.401>
 AnchorPoint: "Top" 209 465 basechar 0
@@ -11,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 272 803 N 1 0 0 1 406 0 2
 Refer: 4 101 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

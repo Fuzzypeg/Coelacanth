@@ -1,7 +1,6 @@
 StartChar: Amacron
 Encoding: 256 256 194
 Width: 733
-VWidth: 0
 Flags: HW
 HStem: 731.525 100.558<225 536>
 AnchorPoint: "Ogonek" 533 27 basechar 0

@@ -1,8 +1,7 @@
 StartChar: uni019E
 Encoding: 414 414 1973
 Width: 526
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -248 33<308.152 361.624> -7 34<20.4 68.4075 170.315 228.824> 335 29<32 53.5363> 358 57<245.574 353.177>
 VStem: 95 66<47.5359 302.396> 379 67<-202.326 331.73>
 AnchorPoint: "Top" 272 465 basechar 0
@@ -40,6 +39,5 @@ SplineSet
  446 -26.8139534884 443.994358813 -149.457691099 449 -187 c 0
  452.785023974 -215.387679806 488.573254621 -208.714650924 515 -214 c 1xdc
 EndSplineSet
-Validated: 33
 Substitution2: "smcp-1" uni019E.smcp
 EndChar

@@ -2,8 +2,7 @@ StartChar: hookabovecomb
 Encoding: 777 777 748
 GlifName: hookabovecomb
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 632 25<-238.461 -208.052>
 VStem: -249 40<476.234 536.043> -195 48.5<551.957 627.828>
 AnchorPoint: "Top" -221.5 444 mark 0
@@ -24,5 +23,4 @@ SplineSet
  -239.848 632 -242.056 609.034 -241.5 587.6 c 1
  -252.77 587.6 -282.822 587.6 -295.5 596 c 1
 EndSplineSet
-Validated: 33
 EndChar

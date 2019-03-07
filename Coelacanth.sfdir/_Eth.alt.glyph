@@ -1,9 +1,8 @@
 StartChar: Eth.alt
 Encoding: 58131 58131 2731
 Width: 740
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -10 38<47.6316 91.6726> -7 44<171.776 416.059> 380 41<317.53 543.73> 638 44.1719<123.84 403.404>
 VStem: 101 87<48.8802 212.98>
 AnchorPoint: "Top" 304 699 basechar 0
@@ -34,5 +33,5 @@ SplineSet
  46 28 l 1
  93.580078125 34.107421875 101 43.529296875 101 98 c 3xb8
 EndSplineSet
-Refer: 452 58035 S 0 0.54 -1 0 646.5 752.62 2
+Refer: 452 58035 N 0 0.54 -1 0 646.5 752.62 2
 EndChar

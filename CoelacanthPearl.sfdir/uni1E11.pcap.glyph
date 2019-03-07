@@ -1,7 +1,6 @@
 StartChar: uni1E11.pcap
 Encoding: 57549 57549 1863
 Width: 595
-VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -172 50.1914<218.034 284.203> -4 66<61.9206 110.892 225.322 383.094> 442 57<60.9008 107.459 217.34 297.302> 442 68<218.202 382.491>
@@ -10,5 +9,4 @@ LayerCount: 2
 Fore
 Refer: 268 807 N 1 0 0 1 497 0 2
 Refer: 646 57350 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar

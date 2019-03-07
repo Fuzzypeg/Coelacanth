@@ -1,8 +1,7 @@
 StartChar: copyright
 Encoding: 169 169 875
 Width: 770
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 62.7334<275.664 491.682> 618.886 62.7333<278.109 494.127>
 VStem: 37.4082 63.5371<229.306 441.283> 668.846 63.5453<240.335 447.587>
 LayerCount: 2
@@ -33,5 +32,4 @@ SplineSet
  37.4082 534.598 204.47 681.619 384.896 681.619 c 3
 EndSplineSet
 Refer: 2 99 N 0.88 0 0 0.88 165.743 120.327 2
-Validated: 1
 EndChar

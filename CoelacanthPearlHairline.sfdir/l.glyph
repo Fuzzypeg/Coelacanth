@@ -1,7 +1,6 @@
 StartChar: l
 Encoding: 108 108 11
 Width: 245
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Top" 132 720 basechar 0
 AnchorPoint: "Bottom" 122 -15 basechar 0
@@ -57,7 +56,6 @@ SplineSet
  155.5 694 149 664.976383513 149 650 c 7
  149 581.9609375 149 418.947361748 149 303 c 7
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" L
 Substitution2: "pcap-1" l.pcap
 Substitution2: "smcp-1" l.smcp

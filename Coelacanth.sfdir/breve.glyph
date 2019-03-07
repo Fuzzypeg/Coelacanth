@@ -2,12 +2,10 @@ StartChar: breve
 Encoding: 728 728 1223
 GlifName: breve
 Width: 315
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 436.274 54.719<87.497 226.759>
 VStem: 24.822 28.08<532.771 549.079> 262.098 28.081<535.635 549.079>
 LayerCount: 2
 Fore
-Refer: 105 774 S 1 0 0 1 355 0 2
-Validated: 1
+Refer: 105 774 N 1 0 0 1 355 0 2
 EndChar

@@ -1,7 +1,6 @@
 StartChar: zkreska.pcap
 Encoding: 58012 58012 2364
 Width: 537
-VWidth: 1159
 Flags: HW
 HStem: -7.74609 21G<44.0537 71.1475> 1.41309 74.1895<204.317 424.251> 423.605 75.7197<113.544 357>
 LayerCount: 2

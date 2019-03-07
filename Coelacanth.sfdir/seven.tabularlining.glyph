@@ -2,8 +2,7 @@ StartChar: seven.tabularlining
 Encoding: 58385 58385 689
 GlifName: seven.tabularlining
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -6 21G<95 163.944> 571 67<111.377 363.466>
 LayerCount: 2
 Fore
@@ -22,7 +21,6 @@ SplineSet
  42 525 81 628 87 659 c 1
  111 654 l 1
 EndSplineSet
-Validated: 33
 Substitution2: "pnum-1" seven.proportionallining
 Substitution2: "onum-1" seven.tabulartext
 Substitution2: "numr-1" seven.numerator

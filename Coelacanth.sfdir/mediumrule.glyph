@@ -2,8 +2,7 @@ StartChar: mediumrule
 Encoding: 58114 58114 1968
 GlifName: mediumrule
 Width: 1000
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -23 46<0 1000>
 LayerCount: 2
 Fore
@@ -14,5 +13,4 @@ SplineSet
  1000 -23 l 1
  0 -23 l 1
 EndSplineSet
-Validated: 1
 EndChar

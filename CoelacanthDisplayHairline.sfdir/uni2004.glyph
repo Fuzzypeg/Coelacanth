@@ -1,9 +1,7 @@
 StartChar: uni2004
 Encoding: 8196 8196 893
 Width: 333
-VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Validated: 1
 EndChar

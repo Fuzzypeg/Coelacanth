@@ -2,9 +2,8 @@ StartChar: uniFB21
 Encoding: 64289 64289 2578
 GlifName: uniF_B_21
 Width: 812
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 423.4 21G<650.18 662.786>
 VStem: 712.24 46.3994<29 78.5593>
 AnchorPoint: "TopRight" 750.52 574.2 basechar 0

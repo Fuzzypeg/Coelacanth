@@ -1,11 +1,10 @@
 StartChar: uni05AB
 Encoding: 1451 1451 2485
 Width: 0
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 642.269 173.737
 VStem: 157.502 151.229
 LayerCount: 2
 Fore
-Refer: 2468 1434 S 1 0 0 1 -228 846 2
+Refer: 2468 1434 N 1 0 0 1 -228 846 2
 EndChar

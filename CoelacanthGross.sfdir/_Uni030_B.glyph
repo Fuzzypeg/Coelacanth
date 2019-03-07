@@ -1,7 +1,6 @@
 StartChar: Uni030B
 Encoding: 58027 58027 118
 Width: 300
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Top" 87 699 mark 0
 LayerCount: 2

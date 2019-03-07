@@ -2,7 +2,7 @@ StartChar: psi.smcp
 Encoding: 57861 57861 2219
 GlifName: psi.smcp
 Width: 579
-Flags: W
+Flags: HW
 HStem: -7.9 30.2<175.119 237.187> 462.3 32.5<202.985 248.833> 469.577 19.2864G<66.3441 140.727 445.871 520.031>
 VStem: 260.291 63.6606<38.1963 218.812 241.963 454.25>
 LayerCount: 2
@@ -32,5 +32,4 @@ SplineSet
  251.467879877 460.3 226.485860099 458 201.045703125 462.3 c 1
  203.517871094 494.8 l 1xd0
 EndSplineSet
-Validated: 33
 EndChar

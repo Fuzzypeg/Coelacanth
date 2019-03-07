@@ -1,8 +1,7 @@
 StartChar: Tilde
 Encoding: 58022 58022 161
 Width: 329
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 766.053 46<140.564 257.339> 791.392 45.446<77.0264 194.191>
 VStem: 28.6943 271.867
 AnchorPoint: "Top" 165 699 mark 0
@@ -19,5 +18,4 @@ SplineSet
  76.2139 791.392 56.2822 766.926 42.7285 751.645 c 1
  28.6943 761.354 l 1x60
 EndSplineSet
-Validated: 1
 EndChar

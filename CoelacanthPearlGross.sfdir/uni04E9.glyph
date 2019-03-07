@@ -1,9 +1,8 @@
 StartChar: uni04E9
 Encoding: 1257 1257 1101
 Width: 550
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -11 92<261.824 358.744> 217 68<117 430> 422 98<185.532 283.601>
 VStem: 20 144<205.971 346.529> 381 149<152.322 307.098>
 AnchorPoint: "Top" 251 465 basechar 0

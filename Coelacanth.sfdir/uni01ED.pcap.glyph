@@ -2,7 +2,6 @@ StartChar: uni01ED.pcap
 Encoding: 57493 57493 1800
 GlifName: uni01E_D_.pcap
 Width: 568
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -266 60.1279<279.947 342.414> -5 37<240.993 370.228> 378 35<202.127 322.544> 519 49<156.5 415.5>

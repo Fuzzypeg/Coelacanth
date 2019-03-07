@@ -1,8 +1,7 @@
 StartChar: asterisk
 Encoding: 42 42 86
 Width: 362
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 402 21G<232.5 263.5>
 VStem: 135 79<610.995 694.668>
 LayerCount: 2

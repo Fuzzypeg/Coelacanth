@@ -2,9 +2,8 @@ StartChar: uniFB20
 Encoding: 64288 64288 2577
 GlifName: uniF_B_20
 Width: 546
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 457.92 20G<413.588 431.393>
 AnchorPoint: "Top" 222.72 619.44 basechar 0
 LayerCount: 2

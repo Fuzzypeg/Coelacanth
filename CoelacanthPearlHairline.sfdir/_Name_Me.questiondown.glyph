@@ -1,12 +1,10 @@
 StartChar: NameMe.questiondown
 Encoding: 65539 -1 1429
 Width: 333
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -27.642 20G<257.637 278.137> 359.109 116.811<167.979 217.848>
 VStem: 60.137 27<116.832 174.077> 138.688 107.436<391.039 446.67> 192.137 18<291.859 319.358>
 LayerCount: 2
 Fore
-Refer: 1394 -1 S -1 0 0 -1 333.137 474.358 2
-Validated: 1
+Refer: 1394 -1 N -1 0 0 -1 333.137 474.358 2
 EndChar

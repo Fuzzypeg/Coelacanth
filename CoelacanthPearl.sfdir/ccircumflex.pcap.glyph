@@ -1,13 +1,11 @@
 StartChar: ccircumflex.pcap
 Encoding: 57408 57408 1663
 Width: 533
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 70<225.77 388.056> 440 70<214.501 370.255> 576 155.801
 VStem: 24 107<148.163 345.732> 142.3 288.5 398 90<344.375 413.654> 445 63<115.501 149>
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 461 0 2
 Refer: 645 57349 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

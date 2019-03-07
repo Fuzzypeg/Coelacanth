@@ -2,8 +2,7 @@ StartChar: three
 Encoding: 51 51 66
 GlifName: three
 Width: 388
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -234 26<98.3077 116.651> 122 26<93 117.144> 402 52<130.681 219.829>
 VStem: 236 67<266.659 384.313> 251 72<-77.1723 66.4688>
 LayerCount: 2
@@ -25,7 +24,6 @@ SplineSet
  323 -142 145 -227 101 -234 c 1
  91 -208 l 1xe8
 EndSplineSet
-Validated: 1
 Substitution2: "dnom-1" three.denom
 Substitution2: "numr-1" three.numerator
 Substitution2: "tnum-1" three.tabulartext

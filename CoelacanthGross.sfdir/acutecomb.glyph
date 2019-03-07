@@ -1,7 +1,6 @@
 StartChar: acutecomb
 Encoding: 769 769 90
 Width: 0
-VWidth: 1159
 Flags: HW
 AnchorPoint: "TopMark" -216 403 mark 0
 AnchorPoint: "Top" -198.5 402 mark 0

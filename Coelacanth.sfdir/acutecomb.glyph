@@ -2,8 +2,7 @@ StartChar: acutecomb
 Encoding: 769 769 92
 GlifName: acutecomb
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 427.951 225.517
 VStem: -234.611 169.822
 AnchorPoint: "TopMark" -216 403 mark 0
@@ -18,5 +17,4 @@ SplineSet
  -109.449 577.968 -160.659 509.459 -206.941 427.951 c 13
  -234.611 448.625 l 21
 EndSplineSet
-Validated: 1
 EndChar

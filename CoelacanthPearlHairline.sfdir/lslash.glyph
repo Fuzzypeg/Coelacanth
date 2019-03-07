@@ -1,9 +1,8 @@
 StartChar: lslash
 Encoding: 322 322 456
 Width: 283
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1968 58113 N 0.241835 0.226095 -0.723895 0.778281 33.5827 211.452 2

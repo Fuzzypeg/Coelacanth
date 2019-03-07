@@ -2,8 +2,7 @@ StartChar: uni1ECB.pcap
 Encoding: 57642 57642 2016
 GlifName: uni1E_C_B_.pcap
 Width: 329
-VWidth: 0
-Flags: H
+Flags: HW
 HStem: -173 102<123.589 208.411> -7 26<62.1923 106.911> 381 28<65.5 116.097>
 VStem: 114 104<-163.562 -80.401> 134.425 63.9451<36.2503 369.855>
 LayerCount: 2

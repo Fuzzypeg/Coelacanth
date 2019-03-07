@@ -1,7 +1,6 @@
 StartChar: i.smcp
 Encoding: 57679 57679 2040
 Width: 307
-VWidth: 807
 Flags: HW
 AnchorPoint: "Bottom" 156 -15 basechar 0
 AnchorPoint: "Top" 162 539 basechar 0

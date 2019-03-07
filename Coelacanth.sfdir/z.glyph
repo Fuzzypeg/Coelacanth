@@ -2,7 +2,6 @@ StartChar: z
 Encoding: 122 122 25
 GlifName: z
 Width: 453
-VWidth: 1159
 Flags: HMW
 HStem: 0 31<137 361> 362 32<77 314>
 DStem2: 314 360 137 31 0.646621 0.762811<-366.184 0>
@@ -33,7 +32,6 @@ SplineSet
  404 -10 l 1
  404 -10 386 0 355 0 c 2
 EndSplineSet
-Validated: 33
 Substitution2: "case-1" Z
 Substitution2: "pcap-1" z.pcap
 Substitution2: "smcp-1" z.smcp

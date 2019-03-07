@@ -2,13 +2,11 @@ StartChar: uni1EF5.pcap
 Encoding: 57663 57663 1931
 GlifName: uni1E_F_5.pcap
 Width: 499
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -173 102<208.589 293.411> -11 27<168.185 206.747 323.93 362.656> 382 25<33.44 68.7653 304 342.606 427.785 467>
 VStem: 199 104<-163.562 -80.401>
 LayerCount: 2
 Fore
 Refer: 272 803 N 1 0 0 1 445 0 2
 Refer: 667 57371 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

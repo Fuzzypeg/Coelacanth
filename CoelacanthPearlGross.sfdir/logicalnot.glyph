@@ -1,7 +1,6 @@
 StartChar: logicalnot
 Encoding: 172 172 1210
 Width: 533
-VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2

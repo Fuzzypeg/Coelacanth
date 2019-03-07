@@ -1,7 +1,6 @@
 StartChar: exclam.pcap
 Encoding: 57473 57473 1753
 Width: 291
-VWidth: 1159
 Flags: HW
 LayerCount: 2
 Fore

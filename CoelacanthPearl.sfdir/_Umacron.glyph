@@ -1,15 +1,13 @@
 StartChar: Umacron
 Encoding: 362 362 231
 Width: 824
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -13 88<316.037 557.516> 610 66<723.018 783.284> 616 69<57.4167 117.229 230.011 285.696> 722 79.6085<274 585>
 VStem: 117 113<150.891 608.316> 643 80<158.27 609.484>
 LayerCount: 2
 Fore
 Refer: 160 58021 N 1 0 0 1 281 -20 2
 Refer: 53 85 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" umacron.pcap
 Substitution2: "c2sc-1" umacron.smcp

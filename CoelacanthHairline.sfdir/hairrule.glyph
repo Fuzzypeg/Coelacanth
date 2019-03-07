@@ -1,9 +1,8 @@
 StartChar: hairrule
 Encoding: 58112 58112 1967
 Width: 1000
-VWidth: 0
 InSpiro: 1
-Flags: W
+Flags: HW
 HStem: -12 24<0 1000>
 LayerCount: 2
 Fore

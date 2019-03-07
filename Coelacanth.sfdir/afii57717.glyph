@@ -2,9 +2,8 @@ StartChar: afii57717
 Encoding: 1521 1521 2484
 GlifName: afii57717
 Width: 551
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 405.24 21G<459.306 472.133>
 VStem: 32.4805 205.72 427.36 21.1592<-8.30522 1.9646> 454.04 36.2002<219.702 423.349>
 LayerCount: 2

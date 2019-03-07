@@ -1,8 +1,7 @@
 StartChar: seven
 Encoding: 55 55 70
 Width: 575
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 443.44 56.5371<147.462 455.003>
 VStem: 146.306 63.4287<-172.181 -134.759>
 LayerCount: 2
@@ -47,7 +46,6 @@ SplineSet
  57.427734375 370.1484375 113.49002002 485.047802777 122.692382812 526.783203125 c 1
  164.084960938 507.116210938 l 1
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" seven.denom
 Substitution2: "numr-1" seven.numerator
 Substitution2: "tnum-1" seven.tabulartext

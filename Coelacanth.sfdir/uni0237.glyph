@@ -2,7 +2,6 @@ StartChar: uni0237
 Encoding: 567 567 52
 GlifName: uni0237
 Width: 265
-VWidth: 1159
 Flags: HMW
 VStem: -27 27<-331 -293> 82 68<-160 327>
 AnchorPoint: "Top" 120 465 basechar 0
@@ -27,5 +26,4 @@ SplineSet
  20 -277 1 -308 0 -335 c 1
  -27 -330 l 1
 EndSplineSet
-Validated: 1
 EndChar

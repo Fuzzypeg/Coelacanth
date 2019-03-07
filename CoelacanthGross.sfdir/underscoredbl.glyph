@@ -1,11 +1,10 @@
 StartChar: underscoredbl
 Encoding: 8215 8215 689
 Width: 463
-VWidth: 0
 Flags: HW
 HStem: -348 44<0 463> -238 44<0 463>
 LayerCount: 2
 Fore
-Refer: 167 95 S 1 0 0 1 0 -110 2
+Refer: 167 95 N 1 0 0 1 0 -110 2
 Refer: 167 95 N 1 0 0 1 0 0 2
 EndChar

@@ -1,8 +1,7 @@
 StartChar: aring
 Encoding: 229 229 119
 Width: 442
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 562 53.6064<175.815 259.029> 715.864 51.6064<176.375 259.576>
 VStem: 113.78 53.2266<624.785 706.198> 268.993 50.2266<625.75 706.026>
 AnchorPoint: "Top" 191 606 basechar 0
@@ -11,7 +10,6 @@ LayerCount: 2
 Fore
 Refer: 98 778 N 1 0 0 1 394 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" aring.pcap
 Substitution2: "case-1" Aring
 Substitution2: "smcp-1" aring.smcp

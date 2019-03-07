@@ -1,8 +1,7 @@
 StartChar: uni1EE5.pcap
 Encoding: 57655 57655 1926
 Width: 504
-VWidth: 657
-Flags: W
+Flags: HW
 HStem: -6 38<211.789 381.26> 379 25<50.16 92.7586 186.969 230.913 479.043 522.502>
 VStem: 99 72<68.5834 324.974> 427 38<73.533 350.901>
 LayerCount: 2

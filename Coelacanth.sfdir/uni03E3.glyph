@@ -1,8 +1,7 @@
 StartChar: uni03E3
 Encoding: 995 995 2757
 Width: 697
-VWidth: 1036
-Flags: W
+Flags: HW
 HStem: -208.02 52.2969<339.027 431.793>
 VStem: 582.937 59.0635<85.929 222>
 LayerCount: 2

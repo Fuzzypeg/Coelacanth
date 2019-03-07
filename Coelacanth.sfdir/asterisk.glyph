@@ -2,8 +2,7 @@ StartChar: asterisk
 Encoding: 42 42 87
 GlifName: asterisk
 Width: 362
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 402 21G<232.5 263.5>
 VStem: 135 79<610.995 694.668>
 LayerCount: 2
@@ -26,5 +25,4 @@ SplineSet
  314 426 275 402 252 402 c 1
  213 454 220 473 188 522 c 1
 EndSplineSet
-Validated: 33
 EndChar

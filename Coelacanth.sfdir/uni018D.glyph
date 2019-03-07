@@ -2,12 +2,10 @@ StartChar: uni018D
 Encoding: 397 397 1971
 GlifName: uni018D_
 Width: 506
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -347 55<183.064 297.114> 384 39<179.253 307.074>
 VStem: 34 78<137.104 304.359> 399 76<117.836 281.789> 404 53<-190.782 -88.974>
 LayerCount: 2
 Fore
 Refer: 1332 7839 N -1 0 0 -1 506 409 2
-Validated: 1
 EndChar

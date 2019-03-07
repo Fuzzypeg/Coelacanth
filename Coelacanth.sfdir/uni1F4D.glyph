@@ -2,7 +2,7 @@ StartChar: uni1F4D
 Encoding: 8013 8013 1549
 GlifName: uni1F_4D_
 Width: 956
-Flags: W
+Flags: HW
 HStem: -13 50<461.825 656.448> 516.048 23.76<52.9981 99.6465> 650.832 79.92<27.6202 73.7254> 660 49<415.396 606.712>
 VStem: -27.7935 47.52<558.127 635.887> 154 93<264.284 455.257> 812 101<219.4 441.786>
 AnchorPoint: "Top" 537 699 basechar 0
@@ -10,8 +10,7 @@ AnchorPoint: "Bottom" 533 -15 basechar 0
 AnchorPoint: "Middle" 534.697 364.853 basechar 0
 LayerCount: 2
 Fore
-Refer: 1617 8189 S 1.08329 0.191013 -0.191013 1.08329 98.2759 -26.841 2
+Refer: 1617 8189 N 1.08329 0.191013 -0.191013 1.08329 98.2759 -26.841 2
 Refer: 1615 8190 N 1.08 0 0 1.08 -96.9135 -17.472 2
 Refer: 990 927 N 1 0 0 1 111 0 2
-Validated: 1
 EndChar

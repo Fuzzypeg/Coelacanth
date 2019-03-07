@@ -1,13 +1,12 @@
 StartChar: idotaccent
 Encoding: 58120 58120 1191
 Width: 263
-VWidth: 1159
 Flags: HW
 HStem: 624.175 109.65<121.502 218.498>
 VStem: 114.1 111.8<631.462 726.568>
 LayerCount: 2
 Fore
-Refer: 8 105 S 1 0 0 1 0 0 2
+Refer: 8 105 N 1 0 0 1 0 0 2
 Substitution2: "case-1" Idotaccent
 Substitution2: "pcap-1" idotaccent.pcap
 EndChar

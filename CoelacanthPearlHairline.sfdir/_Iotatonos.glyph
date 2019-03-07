@@ -1,8 +1,7 @@
 StartChar: Iotatonos
 Encoding: 906 906 972
 Width: 572
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -8 21G<296.158 322.5 587.5 614.389> 671.951 193.429 672 20G<301.421 329.5 589 618.026>
 VStem: 20.3907 230.611 406 106<67.4773 555.247>
 LayerCount: 2

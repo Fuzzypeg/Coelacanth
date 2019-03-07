@@ -1,8 +1,7 @@
 StartChar: afii10018
 Encoding: 1041 1041 1275
 Width: 599
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -4 38<46 121.25 221.96 426.918> 349 30<212 401.231> 654 31<43 104.795> 680 20G<492.829 513>
 VStem: 127 86<44.2298 349 379 639.778> 478 31<534 596.993> 494 90<96.7035 268.078>
 LayerCount: 2
@@ -35,6 +34,5 @@ SplineSet
  127 78 130 176 130 292 c 3
  130 461 129.116900463 528.843687512 126 613 c 0
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

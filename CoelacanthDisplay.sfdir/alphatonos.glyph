@@ -1,10 +1,9 @@
 StartChar: alphatonos
 Encoding: 940 940 1002
 Width: 538
-VWidth: 1043
 UnlinkRmOvrlpSave: 1
 InSpiro: 1
-Flags: W
+Flags: HW
 HStem: 557 159
 VStem: 255.501 177
 AnchorPoint: "Bottom" 248 -15 basechar 0

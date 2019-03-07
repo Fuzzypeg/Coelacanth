@@ -1,7 +1,6 @@
 StartChar: t.smcp
 Encoding: 57690 57690 2051
 Width: 523
-VWidth: 807
 Flags: HW
 AnchorPoint: "Top" 273 539 basechar 0
 AnchorPoint: "Bottom" 269 -15 basechar 0

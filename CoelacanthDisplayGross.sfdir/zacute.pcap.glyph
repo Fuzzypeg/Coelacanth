@@ -1,7 +1,6 @@
 StartChar: zacute.pcap
 Encoding: 57463 57463 1717
 Width: 504
-VWidth: 0
 Flags: HW
 HStem: -4 31<169.416 334.724> 374 29<125.908 333.172> 404 20<79.5 97> 490.951 225.517
 VStem: 226.889 169.822

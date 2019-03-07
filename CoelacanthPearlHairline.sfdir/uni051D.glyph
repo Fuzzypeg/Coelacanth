@@ -1,10 +1,8 @@
 StartChar: uni051D
 Encoding: 1309 1309 1777
 Width: 793
-VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 22 119 S 1 0 0 1 0 0 2
-Validated: 1
+Refer: 22 119 N 1 0 0 1 0 0 2
 EndChar

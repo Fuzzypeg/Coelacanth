@@ -1,9 +1,8 @@
 StartChar: oslash
 Encoding: 248 248 319
 Width: 506
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -10 21<213.737 312.228> 388 23<183.876 282.08>
 VStem: 28 65<130.362 287.127> 399 65<108.357 276.92>
 AnchorPoint: "Top" 251 465 basechar 0

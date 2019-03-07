@@ -1,11 +1,10 @@
 StartChar: uni05A8
 Encoding: 1448 1448 2482
 Width: 0
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 744.996 38<156.152 249.743>
 VStem: 270.121 30.998<643.066 719.165>
 LayerCount: 2
 Fore
-Refer: 2464 1430 S -1 0 0 -1 514.24 572.913 2
+Refer: 2464 1430 N -1 0 0 -1 514.24 572.913 2
 EndChar

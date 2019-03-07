@@ -1,8 +1,7 @@
 StartChar: gravecomb
 Encoding: 768 768 94
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 494 159
 VStem: -350 177
 AnchorPoint: "Top" -198.5 469 mark 0
@@ -15,5 +14,4 @@ SplineSet
  -334.404 639.394 -316 653 -316 653 c 21
  -268.194 615.523 -205 548 -173 504 c 13
 EndSplineSet
-Validated: 1
 EndChar

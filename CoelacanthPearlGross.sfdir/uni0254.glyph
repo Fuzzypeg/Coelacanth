@@ -1,11 +1,9 @@
 StartChar: uni0254
 Encoding: 596 596 1116
 Width: 444
-VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 2 99 N -1 0 0 -1 421 402 2
-Validated: 1
 Substitution2: "case-1" uni0186
 EndChar

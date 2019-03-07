@@ -1,13 +1,11 @@
 StartChar: guilsinglright
 Encoding: 8250 8250 1290
 Width: 269
-VWidth: 1159
-Flags: W
+Flags: HW
 VStem: 161.9 59.0996<135.146 266.854>
 LayerCount: 2
 Fore
 Refer: 1289 8249 N -1 0 0 -1 269 402 2
-Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

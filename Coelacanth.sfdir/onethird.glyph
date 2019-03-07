@@ -2,14 +2,12 @@ StartChar: onethird
 Encoding: 8531 8531 938
 GlifName: onethird
 Width: 594
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -98.18 21.08<361.36 397.821> 71.36 20.26<383.94 414.518> 220.44 41.54<394.25 483.676> 263 21.1313<33.996 80.8599> 580.251 18.965<41.8124 88.4091> 590.012 19.3835<184.25 218.862>
 VStem: 102.908 54.7691<295.274 574.761> 492.76 59.16<143.039 210.447> 503.92 64.98<-15.6881 60.3078>
 LayerCount: 2
 Fore
 Refer: 942 8543 N 1 0 0 1 0 0 2
-Refer: 915 58401 S 1 0 0 1 318 0 2
-Validated: 1
+Refer: 915 58401 N 1 0 0 1 318 0 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

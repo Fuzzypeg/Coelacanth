@@ -2,8 +2,7 @@ StartChar: j.pcap
 Encoding: 57356 57356 652
 GlifName: j.pcap
 Width: 310
-VWidth: 1355
-Flags: W
+Flags: HW
 HStem: 380 19.6829<148.262 258> 382 26<58.1923 104.033>
 VStem: 128 75<-61.7031 126.564>
 AnchorPoint: "Bottom" 166 -77 basechar 0
@@ -28,5 +27,4 @@ SplineSet
  141 -58 129 13 128 38 c 1
  128 62.7373046875 124 308.047851562 118 340 c 0xa0
 EndSplineSet
-Validated: 33
 EndChar

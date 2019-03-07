@@ -1,8 +1,7 @@
 StartChar: imacron
 Encoding: 299 299 148
 Width: 264
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 542.626 38.3479<20 209>
 VStem: 79 71<57 330>
 LayerCount: 2

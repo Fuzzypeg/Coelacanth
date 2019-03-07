@@ -1,14 +1,12 @@
 StartChar: uni01F4
 Encoding: 500 500 311
 Width: 770
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -12 70<347.252 554.941> 284 70<456 538.645> 299 65<685.834 720.646> 617 71<303.793 536.554> 700.552 154.372
 VStem: 38 120<240.252 452.584> 384.163 205.617 572 109<88.0959 282.279> 586 61<662.609 683>
 LayerCount: 2
 Fore
 Refer: 90 58018 N 1 0 0 1 360 -20 2
 Refer: 32 71 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

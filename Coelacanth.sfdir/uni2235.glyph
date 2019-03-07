@@ -2,12 +2,10 @@ StartChar: uni2235
 Encoding: 8757 8757 2588
 GlifName: uni2235
 Width: 528
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -21 140<244.464 287.322> 277 140<80.464 123.322 407.464 450.322>
 VStem: 30 141<326.063 370.691> 194 141<28.063 72.691> 357 141<326.063 370.691>
 LayerCount: 2
 Fore
 Refer: 1369 8756 N -1 0 0 -1 528 396 2
-Validated: 1
 EndChar

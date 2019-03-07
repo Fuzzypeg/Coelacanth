@@ -1,7 +1,6 @@
 StartChar: emacron
 Encoding: 275 275 141
 Width: 464
-VWidth: 0
 Flags: HW
 HStem: 576.369 102.261<125 384>
 AnchorPoint: "Top" 209 560 basechar 0

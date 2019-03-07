@@ -1,8 +1,7 @@
 StartChar: braceleft
 Encoding: 123 123 335
 Width: 266
-VWidth: 1515
-Flags: W
+Flags: HW
 HStem: -229.7 31<189.018 239.5> 685.3 31<189.018 239.5>
 VStem: 91.5 59.5<-156.252 38.4622 448.137 642.851> 114 66<-8.67273 162.063 324.537 495.272>
 LayerCount: 2

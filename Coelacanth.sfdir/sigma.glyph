@@ -2,7 +2,6 @@ StartChar: sigma
 Encoding: 963 963 1021
 GlifName: sigma
 Width: 479
-VWidth: 1043
 Flags: HMW
 LayerCount: 2
 Fore
@@ -22,7 +21,6 @@ SplineSet
  52 300 116.118164062 370.586914062 197 394 c 0
  235 405 325 410 445 410 c 1
 EndSplineSet
-Validated: 1
 Substitution2: "pcap-1" sigma.pcap
 Substitution2: "smcp-1" sigma.smcp
 EndChar

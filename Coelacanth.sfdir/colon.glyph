@@ -2,14 +2,12 @@ StartChar: colon
 Encoding: 58 58 62
 GlifName: colon
 Width: 262
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -21 140<106.678 149.536> 277 140<106.678 149.536>
 VStem: 59 141<25.3087 69.9365 323.309 367.937>
 LayerCount: 2
 Fore
 Refer: 48 46 N 1 0 0 1 29 298 2
 Refer: 48 46 N 1 0 0 1 29 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

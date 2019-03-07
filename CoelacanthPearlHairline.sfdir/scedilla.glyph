@@ -1,9 +1,8 @@
 StartChar: scedilla
 Encoding: 351 351 271
 Width: 396
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -172 50.1914<119.034 206.15>
 VStem: 206.175 58.4277<-118.562 -80.38>
 LayerCount: 2

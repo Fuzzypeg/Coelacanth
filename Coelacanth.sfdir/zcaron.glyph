@@ -2,8 +2,7 @@ StartChar: zcaron
 Encoding: 382 382 248
 GlifName: zcaron
 Width: 453
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 31<137 361> 362 32<77 314> 487.6 184.8
 VStem: 120.75 225.5
 DStem2: 314 360 137 31 0.646621 0.762811<-366.184 0>
@@ -11,7 +10,6 @@ LayerCount: 2
 Fore
 Refer: 103 780 N 1 0 0 1 431 56 2
 Refer: 25 122 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" zcaron.smcp
 Substitution2: "case-1" Zcaron
 Substitution2: "pcap-1" zcaron.pcap

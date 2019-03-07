@@ -1,7 +1,6 @@
 StartChar: icircumflex.smcp
 Encoding: 57711 57711 2074
 Width: 307
-VWidth: 1159
 Flags: HW
 HStem: -7.9 30.2<48.3656 110.618> 462.3 32.5<52.24 117.352> 629 162
 VStem: 72.5 205 135.472 67.4424<39.011 449.27>

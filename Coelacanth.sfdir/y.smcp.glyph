@@ -2,8 +2,7 @@ StartChar: y.smcp
 Encoding: 57695 57695 2053
 GlifName: y.smcp
 Width: 552
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -8.2 32.5<184.056 238.69 349.482 408.965> 463 29.5<17.7831 62.9872 181.304 216.608 349.3 394.085 488.315 537.2>
 VStem: 257.8 71<38.1823 213.999>
 AnchorPoint: "Top" 290 539 basechar 0
@@ -39,5 +38,4 @@ SplineSet
  172.516712608 486.787497967 199.9663616 487.991051044 215.8 491.2 c 1
  219.4 461.3 l 1
 EndSplineSet
-Validated: 33
 EndChar

@@ -2,8 +2,7 @@ StartChar: NameMe.question
 Encoding: 65536 -1 1393
 GlifName: N_ameM_e.question
 Width: 333
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -22.7328 138.219<111.167 150.985>
 VStem: 66.8717 130.997<22.9867 67.0468> 123 18<154.523 182.499> 246 27<300.281 357.526>
 LayerCount: 2
@@ -23,5 +22,4 @@ SplineSet
  246 373 168 396 51 389 c 1xb0
 EndSplineSet
 Refer: 48 46 N 0.929057 0 0 0.987278 39 -2 2
-Validated: 33
 EndChar

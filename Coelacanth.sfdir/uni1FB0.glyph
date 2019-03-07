@@ -2,9 +2,8 @@ StartChar: uni1FB0
 Encoding: 8112 8112 1157
 GlifName: uni1F_B_0
 Width: 538
-VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 508.274 54.719<202.997 342.259>
 VStem: 140.322 28.08<604.771 621.079> 377.598 28.081<607.635 621.079>
 AnchorPoint: "Bottom" 248 -15 basechar 0

@@ -1,7 +1,7 @@
 StartChar: Nu
 Encoding: 925 925 988
 Width: 874
-Flags: W
+Flags: HW
 HStem: -11 17G<76.6471 101.5 300 322.963 692 767.667> 611 67<71 125.078 772.807 827.134> 671 20G<595.632 628>
 VStem: 133 84<72 332.119> 141 82<210.975 498> 694 63<196 319.371> 701 70<3.9 26.8811>
 AnchorPoint: "Top" 427 699 basechar 0
@@ -9,7 +9,6 @@ AnchorPoint: "Bottom" 431 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 39 78 N 1 0 0 1 0 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" n.pcap
 Substitution2: "c2sc-1" n.smcp

@@ -2,8 +2,7 @@ StartChar: Uni0327
 Encoding: 58030 58030 281
 GlifName: U_ni0327
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 VStem: -194.928 70.897<-182.621 -103.12>
 AnchorPoint: "Bottom" -191 -15 mark 0
 LayerCount: 2
@@ -21,5 +20,4 @@ SplineSet
  -145.899 -69.2159 -124.031 -91.6921 -124.031 -124.709 c 0
  -124.031 -204.066 -223.518 -260.771 -302.112 -226.844 c 1
 EndSplineSet
-Validated: 33
 EndChar

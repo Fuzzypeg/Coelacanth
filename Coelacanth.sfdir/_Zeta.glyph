@@ -2,14 +2,13 @@ StartChar: Zeta
 Encoding: 918 918 981
 GlifName: Z_eta
 Width: 710
-Flags: W
+Flags: HW
 HStem: 1 40<168 560.424> 642 43<98.8077 540>
 AnchorPoint: "Top" 366 699 basechar 0
 AnchorPoint: "Bottom" 357 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 58 90 N 1 0 0 1 0 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" z.pcap
 Substitution2: "c2sc-1" z.smcp

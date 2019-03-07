@@ -1,9 +1,8 @@
 StartChar: eogonek
 Encoding: 281 281 253
 Width: 478
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -177.1 75.1279<268.727 355.339>
 VStem: 209.79 79.4385<-124.77 -19.8732>
 AnchorPoint: "Top" 209 465 basechar 0

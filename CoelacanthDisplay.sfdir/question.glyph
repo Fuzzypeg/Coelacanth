@@ -1,8 +1,7 @@
 StartChar: question
 Encoding: 63 63 74
 Width: 393
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -17.5 133<112.816 145.483> 605.616 63.3844<71.6187 198.931>
 VStem: 39.4463 18.5537<700.259 720.391> 63.5254 133.95<30.4466 64.8792> 122 14<185 216.452> 319 17<414.65 493.902>
 LayerCount: 2
@@ -24,7 +23,6 @@ SplineSet
  82.2207625405 605.615626499 65.9441104033 604.764773634 49 603 c 1xec
 EndSplineSet
 Refer: 48 46 N 1 0 0 1 29 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "smcp-1" question.smcp
 Substitution2: "pcap-1" question.pcap

@@ -2,14 +2,12 @@ StartChar: afii10027
 Encoding: 1049 1049 1271
 GlifName: afii10027
 Width: 768
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -2 38<38.4878 100.962 454.263 523> 651 40<241.719 316.649 666.265 729.45> 747 36<338.434 445.566>
 VStem: 124 78.5<132 587.523> 244 70<803.405 864.752> 470 70<803.405 864.752> 568.5 78.5<102.477 556>
 LayerCount: 2
 Fore
-Refer: 1375 58087 S 1 0 0 1 231 0 2
-Refer: 1270 1048 S 1 0 0 1 0 0 3
-Validated: 1
+Refer: 1375 58087 N 1 0 0 1 231 0 2
+Refer: 1270 1048 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

@@ -2,8 +2,7 @@ StartChar: asciicircum
 Encoding: 94 94 872
 GlifName: asciicircum
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 384.451 311.052
 VStem: 79.749 303.814
 LayerCount: 2
@@ -18,5 +17,4 @@ SplineSet
  253.145507812 695.502929688 l 1
  383.563476562 401.09765625 l 1
 EndSplineSet
-Validated: 1
 EndChar

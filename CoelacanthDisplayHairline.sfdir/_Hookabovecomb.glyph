@@ -1,8 +1,7 @@
 StartChar: Hookabovecomb
 Encoding: 58037 58037 749
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 872 31<-367.766 -332.388>
 VStem: -431 61<839.318 870.707> -373 40<740.945 790.508> -326 58<808.95 870.362>
 AnchorPoint: "Top" -353 699 mark 0
@@ -21,5 +20,4 @@ SplineSet
  -364.777 872 -370.667 855.966 -370 841 c 1
  -381.772 835 -417.088 836 -431 841 c 1xd0
 EndSplineSet
-Validated: 33
 EndChar

@@ -2,7 +2,7 @@ StartChar: Omega
 Encoding: 937 937 998
 AltUni2: 002126.ffffffff.0
 Width: 745
-Flags: W
+Flags: HW
 HStem: -10 21G<87.1167 91.9038 644.863 649.642> 0.754883 75.3525<133.163 239.381 492.783 605.981> 657 49<251.08 439.066>
 VStem: 43 93<334.929 517.115> 77 40<91.9703 196.875> 601 101<323.745 498.491> 622 43<92.199 191.651>
 AnchorPoint: "Top" 371 699 basechar 0
@@ -31,7 +31,6 @@ SplineSet
  225.412109375 657 136 575.2265625 136 462 c 0
  136 246.774414062 272.000976562 252.576171875 292.000976562 0.7548828125 c 1x74
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" omega.pcap
 Substitution2: "c2sc-1" omega.smcp

@@ -1,8 +1,7 @@
 StartChar: Uni0328
 Encoding: 58029 58029 256
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -338.23 24.2305<-214.152 -141.044>
 VStem: -275.584 23.584<-272.733 -152.001>
 AnchorPoint: "Ogonek" -105.35 23.6582 mark 0

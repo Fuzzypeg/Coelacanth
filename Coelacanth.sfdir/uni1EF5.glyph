@@ -2,8 +2,7 @@ StartChar: uni1EF5
 Encoding: 7925 7925 726
 GlifName: uni1E_F_5
 Width: 446
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -330 30<404 432 256 271 102 164 -3 31> -173 102<247.589 332.411>
 VStem: 238 104<-163.562 -80.401>
 DStem2: 265 97 58 -243 0.447214 0.894427<-14.7689 152.969>
@@ -11,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 272 803 N 1 0 0 1 484 0 2
 Refer: 24 121 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

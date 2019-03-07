@@ -2,9 +2,8 @@ StartChar: uni1F74
 Encoding: 8052 8052 1137
 GlifName: uni1F_74
 Width: 490
-VWidth: 1047
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 486.175 225.516
 VStem: 177.423 169.82
 AnchorPoint: "Bottom" 118.409 -15 basechar 0

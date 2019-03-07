@@ -1,9 +1,8 @@
 StartChar: uni03EA
 Encoding: 1002 1002 1772
 Width: 628
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 624 76<59.2333 164.326 458.324 566.072>
 LayerCount: 2
 Fore

@@ -1,8 +1,7 @@
 StartChar: ordfeminine
 Encoding: 170 170 1208
 Width: 306
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 311 18<36 273> 379 37<59.5 152.146 215 275.486> 519 28<114.437 186> 652 42<96.5633 172.394>
 VStem: 29 49<418.419 501.984> 38 58<614 650.668> 184 50<433.003 519 544.43 591.98 592 623.672>
 LayerCount: 2
@@ -42,6 +41,5 @@ SplineSet
  88 675 142 694 160 694 c 7
 EndSplineSet
 Refer: 1970 58113 N 0.237 0 0 1 36 320 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

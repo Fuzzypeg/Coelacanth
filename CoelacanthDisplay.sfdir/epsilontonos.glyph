@@ -1,10 +1,9 @@
 StartChar: epsilontonos
 Encoding: 941 941 1105
 Width: 417
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 InSpiro: 1
-Flags: W
+Flags: HW
 HStem: 557 159
 VStem: 237.501 177
 AnchorPoint: "Bottom" 207 -15 basechar 0

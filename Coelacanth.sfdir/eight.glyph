@@ -2,9 +2,8 @@ StartChar: eight
 Encoding: 56 56 71
 GlifName: eight
 Width: 468
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7 34<198.562 310.068> 601 30<181.115 269.561>
 VStem: 65 66<92.7065 220.453> 96 44<449.749 559.456> 323 57<427.637 550.295> 349 66<77.2167 214.897>
 LayerCount: 2

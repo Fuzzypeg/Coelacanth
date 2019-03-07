@@ -2,11 +2,9 @@ StartChar: uni0305
 Encoding: 773 773 110
 GlifName: uni0305
 Width: 0
-VWidth: 1159
 Flags: HW
 HStem: 761 32<-436 67>
 LayerCount: 2
 Fore
 Refer: 1967 58113 N 0.503 0 0 1 -436 777 2
-Validated: 1
 EndChar

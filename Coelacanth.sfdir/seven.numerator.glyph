@@ -2,14 +2,12 @@ StartChar: seven.numerator
 Encoding: 58415 58415 929
 GlifName: seven.numerator
 Width: 307
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 260.92 21G<153.74 154.52> 542.72 56.34<84.3159 221.16>
 VStem: 28.06 274.04
 LayerCount: 2
 Fore
 Refer: 919 58405 N 1 0 0 1 0 346 2
-Validated: 1
 Kerns2: 911 -198 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "dnom-1" seven.denom

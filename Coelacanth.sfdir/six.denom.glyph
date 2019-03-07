@@ -2,13 +2,11 @@ StartChar: six.denom
 Encoding: 58404 58404 918
 GlifName: six.denom
 Width: 310
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -87.26 33.44<140.177 212.504> 87.54 37.44<146.949 202.228> 257.42 19.72<218.278 228.56>
 VStem: 35.52 66.26<-18.2175 141.094> 223.08 56.62<-33.7844 69.8186>
 LayerCount: 2
 Fore
 Refer: 2660 58457 N 1 0 0 1 -12 -84 2
-Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

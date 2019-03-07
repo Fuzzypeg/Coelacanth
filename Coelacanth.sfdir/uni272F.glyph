@@ -2,9 +2,8 @@ StartChar: uni272F
 Encoding: 10031 10031 2490
 GlifName: uni272F_
 Width: 821
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 VStem: 410.379 72.7549<403.809 435.154>
 LayerCount: 2
 Fore

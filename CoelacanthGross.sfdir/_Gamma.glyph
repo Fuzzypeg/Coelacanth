@@ -1,7 +1,6 @@
 StartChar: Gamma
 Encoding: 915 915 495
 Width: 570
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Top" 321 699 basechar 0
 AnchorPoint: "Bottom" 183 -15 basechar 0

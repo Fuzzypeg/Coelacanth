@@ -2,14 +2,12 @@ StartChar: three.numerator
 Encoding: 58411 58411 925
 GlifName: three.numerator
 Width: 276
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 247.82 21.08<43.36 79.8209> 417.36 20.26<65.94 96.5181> 566.44 41.54<76.2497 165.676>
 VStem: 174.76 59.16<489.039 556.447> 185.92 64.98<330.312 406.308>
 LayerCount: 2
 Fore
 Refer: 915 58401 N 1 0 0 1 0 346 2
-Validated: 1
 Kerns2: 911 -172 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "dnom-1" three.denom

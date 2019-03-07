@@ -2,9 +2,8 @@ StartChar: aogonek.smcp
 Encoding: 57730 57730 2089
 GlifName: aogonek.smcp
 Width: 530
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -313.437 60.128<273.016 344.144> -4.3 29.9<23.3 61.425 342.407 372.926> 170.1 29.6<189.749 321.807>
 VStem: 188.562 69.209<-240.037 -132.556> 263.2 34.6<439.075 504.1>
 LayerCount: 2

@@ -1,8 +1,7 @@
 StartChar: afii10146
 Encoding: 1122 1122 2753
 Width: 702
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -4 38<149 224.25 324.864 529.918> 349 30<315 504.244> 469 21G<565 603> 545 50<113.753 542.435> 657 31<146 210.778>
 VStem: 229 92<379.105 642.778> 230 86<43.6312 349> 597 90<96.7035 268.078>
 LayerCount: 2
@@ -46,5 +45,4 @@ SplineSet
  421 649 l 1
  363 647 323 652 321 616 c 0xfd
 EndSplineSet
-Validated: 37
 EndChar

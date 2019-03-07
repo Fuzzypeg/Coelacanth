@@ -1,7 +1,6 @@
 StartChar: lslash.pcap
 Encoding: 57435 57435 936
 Width: 456
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -5 28<67 96.6314> 1 35<188.915 347.424> 380 26<62.4643 98.7524 195.343 240.385>

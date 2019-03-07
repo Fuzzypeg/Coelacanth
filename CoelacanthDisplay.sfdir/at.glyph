@@ -1,8 +1,7 @@
 StartChar: at
 Encoding: 64 64 874
 Width: 802
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -184 44<296.563 519.568> 1.09961 43.7002<458.768 562.23> 6.5 50.5<278.488 363.509> 378.9 20G<549.455 590.859> 528 33<329.811 539.453>
 VStem: 37 69<48.4325 283.455> 222.851 64.098<75.2219 195.446> 716 44<194.717 389.017>
 LayerCount: 2
@@ -43,7 +42,6 @@ SplineSet
  478.177 259.858 483.105 283.587 483.105 298.967 c 3
  483.105 306.389 481.962 311.994 479.155 314.8 c 1
 EndSplineSet
-Validated: 33
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=160 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

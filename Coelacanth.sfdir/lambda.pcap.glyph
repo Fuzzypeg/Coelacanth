@@ -2,7 +2,6 @@ StartChar: lambda.pcap
 Encoding: 57531 57531 1842
 GlifName: lambda.pcap
 Width: 472
-VWidth: 1159
 Flags: HW
 HStem: -4 26<34 66.3901 295 313.814> 395 20G<232.5 267>
 VStem: 234 31<358.311 415>

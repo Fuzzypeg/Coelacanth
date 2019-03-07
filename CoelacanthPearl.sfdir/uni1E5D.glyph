@@ -1,13 +1,11 @@
 StartChar: uni1E5D
 Encoding: 7773 7773 814
 Width: 407
-VWidth: 0
 Flags: HW
 HStem: -157.1 114.4<118.151 213.25> 587.022 80.9567<57 316>
 VStem: 107.4 116.6<-146.514 -53.2433>
 LayerCount: 2
 Back
-Validated: 1
 Fore
 Refer: 101 772 N 1 0 0 1 358 0 2
 Refer: 584 7771 N 1 0 0 1 0 0 3

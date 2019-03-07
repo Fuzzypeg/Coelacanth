@@ -1,14 +1,12 @@
 StartChar: onedotenleader
 Encoding: 8228 8228 432
 Width: 200
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -17.5 133<83.8157 116.483>
 VStem: 34.5254 133.95<30.4466 64.8792>
 LayerCount: 2
 Fore
 Refer: 48 46 N 1 0 0 1 0 0 2
-Validated: 1
 Position2: "Extra space for context kern-1" dx=78 dy=0 dh=156 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

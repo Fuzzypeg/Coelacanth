@@ -1,8 +1,7 @@
 StartChar: uni0335
 Encoding: 821 821 441
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 499 56<-326 -28>
 LayerCount: 2
 Fore

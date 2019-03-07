@@ -1,13 +1,12 @@
 StartChar: Ohungarumlaut
 Encoding: 336 336 446
 Width: 819
-VWidth: 0
 Flags: HW
 HStem: -16.2793 88.0098<373.76 519.227> 598.422 90.6641<290.079 442.078> 731.472 183.528
 VStem: 45.8672 185.133<268.197 450.24> 367.5 261.258 595 172.917<213.637 413.835>
 LayerCount: 2
 Fore
-Refer: 166 58027 S 1 0 0 1 347 3 2
+Refer: 166 58027 N 1 0 0 1 347 3 2
 Refer: 40 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ohungarumlaut.pcap

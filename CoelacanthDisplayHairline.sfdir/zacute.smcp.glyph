@@ -1,8 +1,7 @@
 StartChar: zacute.smcp
 Encoding: 57787 57787 2148
 Width: 542
-VWidth: 807
-Flags: W
+Flags: HW
 HStem: 0.3 33<168.7 410.092> 454.4 33.2<117.652 395.8> 631 159
 VStem: 262.5 177
 LayerCount: 2

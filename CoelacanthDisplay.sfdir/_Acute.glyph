@@ -1,8 +1,7 @@
 StartChar: Acute
 Encoding: 58018 58018 90
 Width: 222
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 742.3 169.7
 VStem: 53.5 127
 AnchorPoint: "Top" 64 699 mark 0
@@ -15,5 +14,4 @@ SplineSet
  138.5 838.3 110.5 822.3 66.5 742.3 c 13
  53.5 754.3 l 21
 EndSplineSet
-Validated: 1
 EndChar

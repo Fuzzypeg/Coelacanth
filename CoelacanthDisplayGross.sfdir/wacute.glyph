@@ -1,8 +1,7 @@
 StartChar: wacute
 Encoding: 7811 7811 621
 Width: 625
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 371 15<-1 31.5327> 378 13<242 270.92> 389 11<411.766 427.091 512.2 519.347> 549 159
 VStem: 296.5 177
 LayerCount: 2

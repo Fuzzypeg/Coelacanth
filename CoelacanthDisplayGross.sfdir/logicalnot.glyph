@@ -1,9 +1,8 @@
 StartChar: logicalnot
 Encoding: 172 172 1209
 Width: 463
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 195.87 42.2608<34 428>
 LayerCount: 2
 Fore

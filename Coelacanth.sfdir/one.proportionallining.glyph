@@ -2,8 +2,7 @@ StartChar: one.proportionallining
 Encoding: 58389 58389 902
 GlifName: one.proportionallining
 Width: 349
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 26<47.4615 119.836> 604 22<58 127.569> 625 24<258.962 296.583>
 VStem: 147 61<109.745 563.033>
 LayerCount: 2
@@ -27,7 +26,6 @@ SplineSet
  134.387695312 593.090820312 139.463867188 600.36328125 57 604 c 1
  58 626 l 1xd0
 EndSplineSet
-Validated: 33
 Substitution2: "tnum-1" one.tabularlining
 Substitution2: "onum-1" one
 Substitution2: "numr-1" one.numerator

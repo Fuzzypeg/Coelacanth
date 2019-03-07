@@ -1,7 +1,6 @@
 StartChar: g
 Encoding: 103 103 6
 Width: 467
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Top" 231 537 basechar 0
 AnchorPoint: "Bottom" 222 -162 basechar 0
@@ -76,7 +75,6 @@ SplineSet
  203.3671875 10 164.30859375 15.2001953125 146 18 c 1
  119.484375 12.0869140625 111 -18.6521739131 111 -26 c 3
 EndSplineSet
-Validated: 33
 Substitution2: "case-1" G
 Substitution2: "pcap-1" g.pcap
 Substitution2: "smcp-1" g.smcp

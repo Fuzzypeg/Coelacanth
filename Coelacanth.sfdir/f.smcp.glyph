@@ -2,8 +2,7 @@ StartChar: f.smcp
 Encoding: 57676 57676 2034
 GlifName: f.smcp
 Width: 477
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -6.9 26.6<60.4053 89.6099> 231.9 31.3<184.6 344.984> 452 31.9748<189.702 367.829> 462.9 24<49.9 93.0307>
 VStem: 112.709 70.8914<45.1761 231.9 263.2 451.796> 365.6 26.9<167.617 209.145 288.553 319.638> 400.3 24<373.7 415.751>
 AnchorPoint: "Bottom" 196 -15 basechar 0
@@ -41,5 +40,4 @@ SplineSet
  197.1 47.9 200.9 30.8 279.3 30.8 c 1
  274.7 -9.6 l 1xee
 EndSplineSet
-Validated: 33
 EndChar

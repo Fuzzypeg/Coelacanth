@@ -2,8 +2,7 @@ StartChar: uni030B
 Encoding: 779 779 102
 GlifName: uni030B_
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 AnchorPoint: "TopMark" -200.5 408 mark 0
 AnchorPoint: "TopMark" -132 648 basemark 0
 AnchorPoint: "Top" -198.5 405 mark 0
@@ -11,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 92 769 N 0.978148 0.207912 -0.207912 0.978148 60.2656 66.6729 2
 Refer: 92 769 N 0.999391 0.0348993 -0.0348993 0.999391 76.4673 12.5134 2
-Validated: 1
 EndChar

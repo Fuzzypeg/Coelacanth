@@ -1,8 +1,7 @@
 StartChar: uni26AB
 Encoding: 9899 9899 2608
 Width: 500
-VWidth: 950
-Flags: W
+Flags: HW
 HStem: -8.40039 21G<194.839 307.52> 387.4 20G<201.838 314.792>
 VStem: 44.3496 411.301<112.318 295.944>
 LayerCount: 2

@@ -1,8 +1,7 @@
 StartChar: afii10094
 Encoding: 1100 1100 1098
 Width: 425
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -3 28<31 70.9789 167.312 278.275> 215 19<148 250.307> 384 25<32 70.3958>
 VStem: 80 67<32.3729 215 234 376.805> 311 78<52.0814 179.291>
 LayerCount: 2
@@ -35,5 +34,4 @@ SplineSet
  285 25 311 60.5813953488 311 115 c 1
  311 165 281 208 214 214 c 0
 EndSplineSet
-Validated: 33
 EndChar

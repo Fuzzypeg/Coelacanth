@@ -1,7 +1,6 @@
 StartChar: hookabovecomb
 Encoding: 777 777 377
 Width: 0
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Top" -221.5 444 mark 0
 AnchorPoint: "TopMark" -219.5 639 basemark 0

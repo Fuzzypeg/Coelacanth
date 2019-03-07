@@ -1,12 +1,10 @@
 StartChar: congruent
 Encoding: 8773 8773 1523
 Width: 463
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 71.8696 42.2608<34 428> 195.87 42.2608<34 428> 294.262 53.5191<237.08 368.618> 334.175 53.5191<100.98 229.519>
 LayerCount: 2
 Fore
 Refer: 1521 8764 N 1 0 0 1 0 123 2
 Refer: 329 61 N 1 0 0 1 0 -62 2
-Validated: 1
 EndChar

@@ -2,7 +2,7 @@ StartChar: uni261C
 Encoding: 9756 9756 349
 GlifName: uni261C_
 Width: 2241
-Flags: W
+Flags: HW
 HStem: -39.8809 34.5928<702.366 803.644>
 VStem: 65.4062 47.9922<389.495 407.811>
 LayerCount: 2
@@ -75,5 +75,4 @@ SplineSet
  1844.61 -94.3838 1847.1 -96.085 1851.52 -99.1006 c 1
  1989.62 -17.6104 1923.24 389.222 1825.2 474.796 c 1
 EndSplineSet
-Validated: 33
 EndChar

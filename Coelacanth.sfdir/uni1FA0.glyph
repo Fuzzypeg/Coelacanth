@@ -2,9 +2,8 @@ StartChar: uni1FA0
 Encoding: 8096 8096 1591
 GlifName: uni1F_A_0
 Width: 697
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -295 44.4951<319.366 389.73> 494 22<328.685 371.878> 618.8 74<352.686 394.309>
 VStem: 278.435 65.9873<-249.952 -89.5438> 292.439 71.1582<-220.355 -87.5068> 401.685 45<531.916 605.114>
 LayerCount: 2

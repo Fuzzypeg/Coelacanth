@@ -1,8 +1,7 @@
 StartChar: i.pcap
 Encoding: 57355 57355 650
 Width: 329
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -6 23<62.28 150.663 178.247 268> 383 24<65.5455 150.254 180.754 264>
 VStem: 154.425 23.9443<24.6859 374.714>
 AnchorPoint: "Ogonek" 167 27 basechar 0

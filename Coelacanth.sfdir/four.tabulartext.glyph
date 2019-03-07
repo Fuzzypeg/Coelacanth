@@ -2,8 +2,7 @@ StartChar: four.tabulartext
 Encoding: 58372 58372 676
 GlifName: four.tabulartext
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 21G<418.519 438.775> 0 45.5<71.3721 271 332 422.937> 402.3 20G<324.934 359>
 VStem: 271 61<-178.286 0 45.5 270.662> 335.5 23.5<404.437 413.313>
 LayerCount: 2
@@ -29,7 +28,6 @@ SplineSet
  14 19 314.3671875 367.799804688 335.5 422.299804688 c 9
  359 409.5 l 25
 EndSplineSet
-Validated: 33
 Substitution2: "pnum-1" four
 Substitution2: "lnum-1" four.tabularlining
 Substitution2: "numr-1" four.numerator

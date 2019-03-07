@@ -1,7 +1,6 @@
 StartChar: aogonek.pcap
 Encoding: 57406 57406 1659
 Width: 549
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -266 60.1279<286.592 349.059> -5.05566 64.1494<482.002 521> 124 66<203 336> 489.31 20G<250.267 325.404>

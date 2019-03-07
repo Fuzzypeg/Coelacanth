@@ -2,16 +2,14 @@ StartChar: idieresis
 Encoding: 239 239 125
 GlifName: idieresis
 Width: 263
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<33 87 184 254> 519 84<12.194 86.806 188.194 262.806>
 VStem: 6.5 86<524.582 597.441> 97 71<57 330> 182.5 86<524.582 597.441>
 AnchorPoint: "Bottom" 127 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 97 776 S 1 0 0 1 334.5 76 2
+Refer: 97 776 N 1 0 0 1 334.5 76 2
 Refer: 50 305 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" idieresis.pcap
 Substitution2: "case-1" Idieresis
 Substitution2: "smcp-1" idieresis.smcp

@@ -1,7 +1,6 @@
 StartChar: a.pcap
 Encoding: 57347 57347 313
 Width: 472
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Ogonek" 347 27 basechar 0
 AnchorPoint: "Top" 250 465 basechar 0

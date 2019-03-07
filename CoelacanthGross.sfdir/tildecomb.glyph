@@ -1,7 +1,6 @@
 StartChar: tildecomb
 Encoding: 771 771 97
 Width: 0
-VWidth: 1159
 Flags: HW
 AnchorPoint: "TopMark" -214 389 mark 0
 AnchorPoint: "TopMark" -198.5 538 basemark 0

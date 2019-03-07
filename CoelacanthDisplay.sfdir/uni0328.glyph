@@ -1,8 +1,7 @@
 StartChar: uni0328
 Encoding: 808 808 254
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -293.658 42.1279<-199.268 -133.311>
 VStem: -276.088 56.0879<-231.275 -127.858>
 AnchorPoint: "Ogonek" -104.35 21.6582 mark 0
@@ -31,5 +30,4 @@ SplineSet
  -276.087890625 -150.739517616 -231.947046648 -54.4937105427 -105.717773438 23.103515625 c 5
  -100.140625 12.54296875 l 5
 EndSplineSet
-Validated: 1
 EndChar

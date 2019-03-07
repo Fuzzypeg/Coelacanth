@@ -1,12 +1,11 @@
 StartChar: uniFB31
 Encoding: 64305 64305 2672
 Width: 474
-VWidth: 0
+Flags: HW
 HStem: -10.4404 21G<397.263 413.542> 0.206055 124.429<85.9199 375.085> 231.3 102.325
 VStem: 176.12 99.9625
 LayerCount: 2
 Fore
 Refer: 2457 1489 N 1 0 0 1 0 0 2
-Refer: 2515 1468 S 1 0 0 1 -40 0 2
-Validated: 1
+Refer: 2515 1468 N 1 0 0 1 -40 0 2
 EndChar

@@ -1,8 +1,7 @@
 StartChar: uniE2BB
 Encoding: 58043 58043 2797
 Width: 705
-VWidth: 1159
-Flags: MW
+Flags: HMW
 AnchorPoint: "Top" 367 699 mark 0
 LayerCount: 2
 Fore

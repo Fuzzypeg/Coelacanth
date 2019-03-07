@@ -1,7 +1,6 @@
 StartChar: a.pcap
 Encoding: 57347 57347 643
 Width: 549
-VWidth: 1159
 Flags: HW
 HStem: -5 64<482.002 521> 124 66<203 336> 489 20G<250.267 325.404>
 AnchorPoint: "Top" 286 537 basechar 0

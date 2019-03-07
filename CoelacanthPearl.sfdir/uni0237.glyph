@@ -1,7 +1,6 @@
 StartChar: uni0237
 Encoding: 567 567 52
 Width: 242
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Top" 145 537 basechar 0
 LayerCount: 2
@@ -25,5 +24,4 @@ SplineSet
  50 -138 37 -156 38 -175 c 1
  -36 -175 l 1
 EndSplineSet
-Validated: 33
 EndChar

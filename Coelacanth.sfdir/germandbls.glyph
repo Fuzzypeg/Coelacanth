@@ -2,8 +2,7 @@ StartChar: germandbls
 Encoding: 223 223 327
 GlifName: germandbls
 Width: 579
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 40<37 88.8477 173.148 208.525 365.019 460.981> 356 30<40 95.2842> 705 51<244.321 344.378>
 VStem: 100 65<36.3341 356 396.595 588.58> 276 67<305.481 354.885> 301 22<88.2815 107.227> 396.559 58.286<487.211 649.856> 477 62<53.3627 166.162>
 LayerCount: 2
@@ -45,7 +44,6 @@ SplineSet
  99 579.533 140.062 647.199 205 704 c 0
  235.911 731 265.237 756 312 756 c 0xfb
 EndSplineSet
-Validated: 1
 MultipleSubs2: "case-2" S S
 Substitution2: "pcap-1" uni1E9E.pcap
 Substitution2: "case-1" uni1E9E

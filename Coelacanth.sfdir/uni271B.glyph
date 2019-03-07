@@ -1,9 +1,8 @@
 StartChar: uni271B
 Encoding: 10011 10011 2612
 Width: 698
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 291 99<8.5 300 398 689.5>
 LayerCount: 2
 Fore

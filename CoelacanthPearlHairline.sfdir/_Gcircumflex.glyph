@@ -1,15 +1,13 @@
 StartChar: Gcircumflex
 Encoding: 284 284 205
 Width: 770
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -12 56<301.522 581.713> 299 55<685.911 720> 632 56<302.134 545.029>
 VStem: 38 56<230.907 436.218> 594 53<661.474 683> 629 56<78.0865 293.115 541.887 570.526>
 LayerCount: 2
 Fore
 Refer: 159 58020 N 1 0 0 1 284 -20 2
 Refer: 32 71 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" gcircumflex.pcap
 Substitution2: "c2sc-1" gcircumflex.smcp

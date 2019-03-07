@@ -1,7 +1,6 @@
 StartChar: emdash
 Encoding: 8212 8212 887
 Width: 1000
-VWidth: 0
 Flags: HW
 HStem: 227 36<0 1000>
 LayerCount: 2

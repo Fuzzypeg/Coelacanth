@@ -1,7 +1,6 @@
 StartChar: ae.pcap
 Encoding: 57379 57379 1634
 Width: 604
-VWidth: 657
 Flags: HW
 AnchorPoint: "Top" 344.921 489 basechar 0
 AnchorPoint: "Bottom" 329 -15 basechar 0

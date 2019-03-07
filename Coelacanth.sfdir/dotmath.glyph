@@ -2,12 +2,10 @@ StartChar: dotmath
 Encoding: 8901 8901 1527
 GlifName: dotmath
 Width: 200
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 193 140<77.678 120.536>
 VStem: 30 141<239.309 283.937>
 LayerCount: 2
 Fore
-Refer: 461 183 S 1 0 0 1 0 0 2
-Validated: 1
+Refer: 461 183 N 1 0 0 1 0 0 2
 EndChar

@@ -1,8 +1,7 @@
 StartChar: one.proportionalliningalt
 Encoding: 58419 58419 1428
 Width: 373
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 26<60 124.48 242.737 314> 522.8 26<66.3462 87.4511> 662.8 20G<205.197 247.5>
 VStem: 157.087 69.9131<314.695 542.708> 159 61<82.5382 507.929>
 LayerCount: 2

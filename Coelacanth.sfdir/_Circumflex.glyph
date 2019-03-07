@@ -2,7 +2,6 @@ StartChar: Circumflex
 Encoding: 58020 58020 159
 GlifName: C_ircumflex
 Width: 281
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Top" 140 699 mark 0
 LayerCount: 2
@@ -17,5 +16,4 @@ SplineSet
  159.154 859.4 l 1
  279.505 761.361 l 1
 EndSplineSet
-Validated: 1
 EndChar

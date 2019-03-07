@@ -2,8 +2,7 @@ StartChar: uni1EE5.smcp
 Encoding: 57979 57979 2337
 GlifName: uni1E_E_5.smcp
 Width: 637
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -173 102<277.589 362.411> -7.2 42.8<233.456 435.99> 460.3 29.5<39.3458 92.9757 192.847 248.559 553.726 606.162>
 VStem: 99 76.5<89.2876 449.926> 268 104<-163.562 -80.401> 498.1 43.1<92.0078 387.382>
 AnchorPoint: "Top" 337 539 basechar 0
@@ -11,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 272 803 N 1 0 0 1 514 0 2
 Refer: 2049 57691 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

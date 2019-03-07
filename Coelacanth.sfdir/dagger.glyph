@@ -2,7 +2,7 @@ StartChar: dagger
 Encoding: 8224 8224 437
 GlifName: dagger
 Width: 442
-Flags: W
+Flags: HW
 HStem: -237 10G<208 216> 247 98 290 55 728 10G<216 238>
 VStem: 165 134<639 645 621 646 644 645 621 662> 202 39<-219 -3> 202 207<61 289 186 289 266 315 266 324>
 LayerCount: 2
@@ -33,5 +33,4 @@ SplineSet
  234 523 l 1
  242 461 247 442 275 370 c 1x90
 EndSplineSet
-Validated: 1
 EndChar

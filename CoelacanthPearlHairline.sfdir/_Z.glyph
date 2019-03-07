@@ -1,8 +1,7 @@
 StartChar: Z
 Encoding: 90 90 58
 Width: 724
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -4 46<58.5652 78.497> 1 56<310.565 604.116> 619 59<122.945 581>
 AnchorPoint: "Bottom" 360 -17 basechar 0
 AnchorPoint: "Top" 372 677 basechar 0
@@ -65,7 +64,6 @@ SplineSet
  123 618 129 630 96 540 c 1
  42 559 l 1xa0
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" z.pcap
 Substitution2: "c2sc-1" z.smcp

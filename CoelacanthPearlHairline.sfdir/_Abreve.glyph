@@ -1,8 +1,7 @@
 StartChar: Abreve
 Encoding: 258 258 195
 Width: 733
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 733.447 55.834<305.355 454.742>
 VStem: 221.765 317.471
 AnchorPoint: "Ogonek" 533 27 basechar 0
@@ -11,7 +10,6 @@ LayerCount: 2
 Fore
 Refer: 162 58023 N 1 0 0 1 220 -20 2
 Refer: 26 65 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" abreve.pcap
 Substitution2: "c2sc-1" abreve.smcp

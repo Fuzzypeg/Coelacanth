@@ -1,8 +1,7 @@
 StartChar: x
 Encoding: 120 120 23
 Width: 553
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -5 66<5.4697 51.8115 164.152 186.606 285.435 318.999> 433 69<20 75.6824 358.1 372.781> 490 20G<248.204 266.86>
 AnchorPoint: "Top" 297 537 basechar 0
 AnchorPoint: "Bottom" 270 -15 basechar 0
@@ -47,7 +46,6 @@ SplineSet
  75.7070707071 1 36.1717171717 -3 6 -5 c 1
  -1 61 l 1xc0
 EndSplineSet
-Validated: 37
 Substitution2: "case-1" X
 Substitution2: "pcap-1" x.pcap
 Substitution2: "smcp-1" x.smcp

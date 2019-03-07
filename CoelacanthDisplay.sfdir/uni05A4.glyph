@@ -1,8 +1,7 @@
 StartChar: uni05A4
 Encoding: 1444 1444 2477
 Width: 0
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -221.731 173.737
 VStem: 204.502 151.229
 LayerCount: 2

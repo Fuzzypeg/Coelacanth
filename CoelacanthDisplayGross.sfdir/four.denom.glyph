@@ -1,8 +1,7 @@
 StartChar: four.denom
 Encoding: 58402 58402 915
 Width: 326
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 29G<4 30.5 286 299> 7 40<68.3667 170 226 293.238>
 VStem: 170 56<-71.4662 7 47 167.537> 219 20<260.81 268.5>
 LayerCount: 2

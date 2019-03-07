@@ -1,8 +1,7 @@
 StartChar: udieresis
 Encoding: 252 252 134
 Width: 539
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 593.08 105.84<141.994 236.006 317.994 412.006>
 VStem: 134.82 108.36<600.114 691.915> 310.82 108.36<600.114 691.915>
 AnchorPoint: "Bottom" 256 -15 basechar 0
@@ -10,7 +9,6 @@ LayerCount: 2
 Fore
 Refer: 97 776 N 1 0 0 1 452 0 2
 Refer: 20 117 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" udieresis.pcap
 Substitution2: "case-1" Udieresis
 Substitution2: "smcp-1" udieresis.smcp

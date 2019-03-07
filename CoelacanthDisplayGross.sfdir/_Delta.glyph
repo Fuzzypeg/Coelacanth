@@ -2,8 +2,7 @@ StartChar: Delta
 Encoding: 916 916 978
 AltUni2: 002206.ffffffff.0
 Width: 682
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -5 21G<16.25 26.2959> 2.27079 57.029<145.465 536.393>
 VStem: 335 43<632.023 712>
 AnchorPoint: "Bottom" 338 -15 basechar 0
@@ -28,7 +27,6 @@ SplineSet
  644.291253472 0.250766878382 506.778928135 2.27079066363 364.492942458 2.27079066363 c 0x60
  205.521788485 2.27079066363 40.5917644625 -0.250766878382 12 -5 c 5xa0
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" delta.pcap
 Substitution2: "c2sc-1" delta.smcp

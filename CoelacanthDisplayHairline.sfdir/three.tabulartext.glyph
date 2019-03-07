@@ -1,8 +1,7 @@
 StartChar: three.tabulartext
 Encoding: 58371 58371 675
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -234 26<91.3077 114.271> 125 26<98.5769 135.392> 410 44<140.223 265.044>
 VStem: 291 69<273.618 383.94> 312 74<-56.6663 81.7277>
 LayerCount: 2

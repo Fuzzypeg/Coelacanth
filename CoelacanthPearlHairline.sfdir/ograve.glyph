@@ -1,8 +1,7 @@
 StartChar: ograve
 Encoding: 242 242 126
 Width: 550
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 56<187.407 362.078> 461 56<198.623 363.762> 574 189.38
 VStem: 20 56<152.781 332.952> 117.389 215.611 474 56<165.478 347.309>
 AnchorPoint: "Bottom" 249 -15 basechar 0
@@ -11,7 +10,6 @@ LayerCount: 2
 Fore
 Refer: 94 768 N 1 0 0 1 449 0 2
 Refer: 14 111 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" ograve.pcap
 Substitution2: "case-1" Ograve
 Substitution2: "smcp-1" ograve.smcp

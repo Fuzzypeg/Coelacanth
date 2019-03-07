@@ -1,8 +1,7 @@
 StartChar: thickrule
 Encoding: 58115 58115 1972
 Width: 1000
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 14<0 1000>
 LayerCount: 2
 Fore

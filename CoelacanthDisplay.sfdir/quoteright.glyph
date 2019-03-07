@@ -1,14 +1,12 @@
 StartChar: quoteright
 Encoding: 8217 8217 80
 Width: 200
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 468.3 231.4
 VStem: 34.4502 133.95<615.713 649.079>
 LayerCount: 2
 Fore
 Refer: 46 44 N 1 0 0 1 0 584 2
-Validated: 1
 Position2: "Extra space for context kern-1" dx=35 dy=0 dh=70 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

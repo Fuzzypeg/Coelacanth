@@ -1,12 +1,10 @@
 StartChar: grave
 Encoding: 96 96 873
 Width: 230
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 491 159
 VStem: 13 177
 LayerCount: 2
 Fore
 Refer: 94 768 N 1 0 0 1 363 -3 2
-Validated: 1
 EndChar

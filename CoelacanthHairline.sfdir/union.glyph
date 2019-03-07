@@ -1,7 +1,6 @@
 StartChar: union
 Encoding: 8746 8746 1320
 Width: 580
-VWidth: 1159
 Flags: HW
 HStem: -17 50.2441<197.427 382.284>
 VStem: 50 48<149.165 680.323> 482 48<151.212 680.323>

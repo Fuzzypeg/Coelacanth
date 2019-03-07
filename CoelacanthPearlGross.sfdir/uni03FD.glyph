@@ -1,13 +1,11 @@
 StartChar: uni03FD
 Encoding: 1021 1021 1050
 Width: 732
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 1.73438 87.9229<252.611 416.92> 612.349 93.3604<213.173 397.109>
 VStem: 524.791 174.898<242.396 466.667>
 LayerCount: 2
 Fore
 Refer: 28 67 N -1 0 0 -1 743 690 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

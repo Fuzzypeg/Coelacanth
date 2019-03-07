@@ -1,9 +1,8 @@
 StartChar: Dcroat
 Encoding: 272 272 326
 Width: 804
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7 56<72.4 136.461 194.518 520.556> 0 56<193.955 360.789> 324 56<57 407> 619 55<194 382.876> 632 56<195.179 511.021>
 VStem: 138 56<56.0862 619.037> 711 57<218.181 449.885>
 LayerCount: 2

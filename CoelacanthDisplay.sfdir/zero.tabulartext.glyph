@@ -1,13 +1,12 @@
 StartChar: zero.tabulartext
 Encoding: 58368 58368 672
 Width: 463
-VWidth: 1159
 Flags: HW
 HStem: -5.88965 22.9296<186.822 277.851> 369.96 22.94<162.797 255.301>
 VStem: 15.1602 65.2008<118.057 273.999> 353.968 65.032<109.211 280.086>
 LayerCount: 2
 Fore
-Refer: 63 48 S 1 0 0 1 -5 0 2
+Refer: 63 48 N 1 0 0 1 -5 0 2
 Substitution2: "pnum-1" zero
 Substitution2: "lnum-1" zero.tabularlining
 Substitution2: "numr-1" zero.numerator

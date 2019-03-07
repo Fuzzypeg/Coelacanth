@@ -1,9 +1,8 @@
 StartChar: uogonek
 Encoding: 371 371 262
 Width: 539
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -177.1 75.1279<372.727 459.339>
 VStem: 313.79 79.4385<-124.77 -34.6367>
 LayerCount: 2

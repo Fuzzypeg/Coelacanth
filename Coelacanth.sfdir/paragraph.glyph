@@ -2,9 +2,8 @@ StartChar: paragraph
 Encoding: 182 182 76
 GlifName: paragraph
 Width: 591
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -8 21G<360.141 462.704> 661 20G<323 362.686> 686 55<409.014 555>
 VStem: 60 171<219 436.912> 315 38<57 490.2> 323 40<235.8 673>
 LayerCount: 2

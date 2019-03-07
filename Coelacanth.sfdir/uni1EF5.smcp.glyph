@@ -2,13 +2,11 @@ StartChar: uni1EF5.smcp
 Encoding: 57987 57987 2345
 GlifName: uni1E_F_5.smcp
 Width: 552
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -173 102<249.589 334.411> -8.2 32.5<184.056 238.69 349.482 408.965> 463 29.5<17.7831 62.9872 181.304 216.608 349.3 394.085 488.315 537.2>
 VStem: 240 104<-163.562 -80.401> 257.8 71<38.1823 213.999>
 LayerCount: 2
 Fore
 Refer: 272 803 N 1 0 0 1 486 0 2
 Refer: 2053 57695 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

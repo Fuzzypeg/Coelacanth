@@ -1,13 +1,11 @@
 StartChar: uni0219.pcap
 Encoding: 57516 57516 1828
 Width: 436
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -177.1 149 -10 74<164.262 302.147> -3 21G<59 132> 439 72<172.328 293.759> 484 20G<316.5 382>
 VStem: 69 87<352.853 420.849> 164 102<-122.261 -42.3> 316 86<77.8862 167.982>
 LayerCount: 2
 Fore
 Refer: 275 806 N 1 0 0 1 400 0 2
 Refer: 661 57365 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

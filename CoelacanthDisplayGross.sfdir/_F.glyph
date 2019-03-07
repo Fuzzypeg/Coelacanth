@@ -1,8 +1,7 @@
 StartChar: F
 Encoding: 70 70 31
 Width: 589
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -4 22<38 81.6241> 351 29<200 392.516> 683 19<30 80.4241>
 VStem: 477 25<258 325.072 385.783 445> 529 23<565 628.106>
 AnchorPoint: "Bottom" 206 -15 basechar 0

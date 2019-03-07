@@ -1,8 +1,7 @@
 StartChar: uni030D
 Encoding: 781 781 106
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 AnchorPoint: "Top" -198.5 453 mark 0
 LayerCount: 2
 Back
@@ -14,6 +13,5 @@ SplineSet
  -212.5 590.7 l 1
 EndSplineSet
 Fore
-Refer: 1971 58114 S 0 0.177 -0.956522 0 -198 494 2
-Validated: 1
+Refer: 1971 58114 N 0 0.177 -0.956522 0 -198 494 2
 EndChar

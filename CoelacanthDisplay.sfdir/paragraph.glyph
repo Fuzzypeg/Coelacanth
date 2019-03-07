@@ -1,9 +1,8 @@
 StartChar: paragraph
 Encoding: 182 182 76
 Width: 605
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -8 21G<335.141 438> 695 46<385.865 530>
 VStem: 306 32<235.8 673>
 LayerCount: 2

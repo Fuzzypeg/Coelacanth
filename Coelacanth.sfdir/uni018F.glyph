@@ -2,8 +2,7 @@ StartChar: uni018F
 Encoding: 399 399 1121
 GlifName: uni018F_
 Width: 677
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -24.5 69.25<264.739 399.5> 645.75 66.5<218.254 394.047>
 VStem: 553 83.25<318.612 483.505>
 LayerCount: 2
@@ -26,6 +25,5 @@ SplineSet
  415.398106353 253.269238068 285.181111171 226.148189916 151.5 202.5 c 1
  171.872340426 128.49382716 257.436170213 44.75 343 44.75 c 3
 EndSplineSet
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

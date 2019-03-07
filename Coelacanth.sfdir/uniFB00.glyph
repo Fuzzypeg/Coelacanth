@@ -2,8 +2,7 @@ StartChar: uniFB00
 Encoding: 64256 64256 73
 GlifName: uniF_B_00
 Width: 642
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -6 39<34 100.133 318.611 384.133 475.174 568.568> 1 32<191.619 269.028 475.619 566.018> 360 37<39 113 187 399 471 624> 669 55<273.933 387.321> 701 55<557.254 661.117>
 VStem: 114 71<42.7113 360 397 588.557> 400 69<44.5312 360 397 610.446>
 LayerCount: 2
@@ -62,7 +61,6 @@ SplineSet
  263 699 304 724 363 724 c 3
  394 724 457 706 483 685 c 1
 EndSplineSet
-Validated: 1
 Substitution2: "salt-1" uniFB00.alt
 LCarets2: 1 311
 Ligature2: "liga-1" f f

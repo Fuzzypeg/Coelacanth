@@ -1,8 +1,7 @@
 StartChar: asciitilde
 Encoding: 126 126 339
 Width: 394
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 185 59<201.826 315.361> 229 59<84.3524 195.299>
 LayerCount: 2
 Fore
@@ -17,7 +16,6 @@ SplineSet
  88.3571428571 229 49 198.846153846 30 180 c 1
  23 188 l 1x40
 EndSplineSet
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

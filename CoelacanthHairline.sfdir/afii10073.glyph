@@ -1,8 +1,7 @@
 StartChar: afii10073
 Encoding: 1079 1079 1251
 Width: 358
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 49<123.741 242.237> 209 27<85.2219 174.884> 372 51<93.3303 216.373>
 VStem: 235 73<274.501 351.833> 260 70<66.5074 161.157>
 AnchorPoint: "Bottom" 172 -15 basechar 0

@@ -2,14 +2,12 @@ StartChar: onedotenleader
 Encoding: 8228 8228 432
 GlifName: onedotenleader
 Width: 200
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -21 140<77.678 120.536>
 VStem: 30 141<25.3087 69.9365>
 LayerCount: 2
 Fore
 Refer: 48 46 N 1 0 0 1 0 0 2
-Validated: 1
 Position2: "Extra space for context kern-1" dx=78 dy=0 dh=156 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

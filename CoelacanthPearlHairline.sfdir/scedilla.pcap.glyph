@@ -1,7 +1,6 @@
 StartChar: scedilla.pcap
 Encoding: 57449 57449 1702
 Width: 436
-VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -172 50.1914<152.034 239.15> -10.0566 74.4336<163.413 302.266> 2.35352 21G<59.2012 131.963> 439.345 71.5391<172.109 293.688>

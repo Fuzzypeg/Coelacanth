@@ -1,7 +1,6 @@
 StartChar: J
 Encoding: 74 74 35
 Width: 401
-VWidth: 1356
 Flags: HMW
 AnchorPoint: "Top" 211 679 basechar 0
 AnchorPoint: "Bottom" 266 -168 basechar 0
@@ -25,7 +24,6 @@ SplineSet
  140.835208505 -30.3080655379 140.497607225 15.2080055982 141.735351562 105.225585938 c 1
  142.659063735 136.07914468 128.718160824 588.075297329 123.48828125 600.533203124 c 1
 EndSplineSet
-Validated: 37
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" j.pcap
 Substitution2: "c2sc-1" j.smcp

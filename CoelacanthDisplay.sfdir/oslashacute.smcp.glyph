@@ -1,7 +1,6 @@
 StartChar: oslashacute.smcp
 Encoding: 57827 57827 2188
 Width: 591
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -5.6 40.9<271.034 427.015> 461.7 39.2<230.39 375.856> 631 159
@@ -10,5 +9,4 @@ LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 527.5 137 2
 Refer: 2083 57720 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar

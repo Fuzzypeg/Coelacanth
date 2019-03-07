@@ -1,8 +1,7 @@
 StartChar: Uni030F
 Encoding: 58034 58034 294
 Width: 300
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 727.907 184.093
 VStem: -108.738 262.238
 AnchorPoint: "Top" 87 699 mark 0
@@ -20,5 +19,4 @@ SplineSet
  -92.4766 858.457 -65.3037 883.955 -65.3037 883.955 c 17
  -18.835 844.832 16.1777 800.429 52.0479 754.928 c 9
 EndSplineSet
-Validated: 1
 EndChar

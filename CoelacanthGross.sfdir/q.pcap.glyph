@@ -1,7 +1,6 @@
 StartChar: q.pcap
 Encoding: 57363 57363 329
 Width: 536
-VWidth: 1187
 Flags: HW
 AnchorPoint: "Top" 272 465 basechar 0
 AnchorPoint: "Bottom" 265 -15 basechar 0

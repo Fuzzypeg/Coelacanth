@@ -1,13 +1,12 @@
 StartChar: onehalf
 Encoding: 189 189 933
 Width: 642
-VWidth: 0
 Flags: HW
 HStem: -82 56<429 563.903 564 587.858> 214 44<404.158 498.854> 262 22<35 81.2419 170.125 222> 580 19<42 86.7566> 589 20<184.979 218.7>
 VStem: 103 55<294.973 574.375> 516 64<100.047 197.981>
 LayerCount: 2
 Fore
-Refer: 941 8543 S 1 0 0 1 0 0 2
+Refer: 941 8543 N 1 0 0 1 0 0 2
 Refer: 913 58400 N 1 0 0 1 323 0 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

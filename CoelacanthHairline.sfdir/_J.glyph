@@ -1,7 +1,6 @@
 StartChar: J
 Encoding: 74 74 35
 Width: 337
-VWidth: 1356
 Flags: HMW
 AnchorPoint: "Bottom" 189 -139 basechar 0
 AnchorPoint: "Top" 172 699 basechar 0

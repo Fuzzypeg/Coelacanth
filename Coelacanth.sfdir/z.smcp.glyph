@@ -2,8 +2,7 @@ StartChar: z.smcp
 Encoding: 57696 57696 2054
 GlifName: z.smcp
 Width: 565
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0.3 33<168.7 410.092> 454.4 33.2<117.652 395.8>
 AnchorPoint: "Top" 290 539 basechar 0
 AnchorPoint: "Bottom" 275 -15 basechar 0
@@ -32,5 +31,4 @@ SplineSet
  135.1 454.4 92.7 435.568066406 57.5 373.5 c 1
  35.1 385.9 l 1
 EndSplineSet
-Validated: 33
 EndChar

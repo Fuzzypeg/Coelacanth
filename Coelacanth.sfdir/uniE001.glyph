@@ -2,8 +2,7 @@ StartChar: uniE001
 Encoding: 57345 57345 2357
 GlifName: uniE_001
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -52 104<-42.4112 42.4112>
 VStem: -52 104<-42.3769 42.4151>
 LayerCount: 2
@@ -15,5 +14,4 @@ SplineSet
  52 -28.6259765625 28.736328125 -52 0 -52 c 3
  -28.736328125 -52 -52 -28.6259765625 -52 0.0576171875 c 3
 EndSplineSet
-Validated: 1
 EndChar

@@ -2,8 +2,7 @@ StartChar: afii10073
 Encoding: 1079 1079 1252
 GlifName: afii10073
 Width: 358
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 49<123.741 242.237> 209 27<85.2219 174.884> 372 51<93.3303 216.373>
 VStem: 235 73<274.501 351.833> 260 70<66.5074 161.157>
 AnchorPoint: "Bottom" 172 -15 basechar 0
@@ -28,5 +27,4 @@ SplineSet
  96 -9 47 11 16 34 c 1
  17 61 18 59 73 91 c 1xe8
 EndSplineSet
-Validated: 1
 EndChar

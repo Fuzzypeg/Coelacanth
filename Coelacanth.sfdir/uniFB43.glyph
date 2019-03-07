@@ -1,12 +1,11 @@
 StartChar: uniFB43
 Encoding: 64323 64323 2683
 Width: 482
-VWidth: 0
-Flags: H
+Flags: HW
 HStem: 228.56 89.4004<158.355 201.06> 231.3 102.325 457.92 20G<133.485 162.48>
 VStem: 240.12 99.9625 384.314 47.7959<4.12158 221.051>
 LayerCount: 2
 Fore
 Refer: 2475 1507 N 1 0 0 1 0 0 2
-Refer: 2515 1468 S 1 0 0 1 24 0 2
+Refer: 2515 1468 N 1 0 0 1 24 0 2
 EndChar

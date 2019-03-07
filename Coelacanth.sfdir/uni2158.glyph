@@ -2,15 +2,13 @@ StartChar: uni2158
 Encoding: 8536 8536 948
 GlifName: uni2158
 Width: 626
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -99.2296 25.4832<371.659 428.801> 192.236 60.6721<439.22 583.669> 353.14 40.17<68.6543 170.24 225.5 293.198>
 VStem: 170.24 55.26<275.244 353.14 393.31 513.976> 218.75 19.81<607.759 615.142> 520.289 56.3807<-8.16837 65.5666>
 LayerCount: 2
 Fore
 Refer: 926 58412 N 1 0 0 1 0 0 2
-Refer: 917 58403 S 1 0 0 1 349 0 2
+Refer: 917 58403 N 1 0 0 1 349 0 2
 Refer: 911 8260 N 1 0 0 1 100 0 2
-Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

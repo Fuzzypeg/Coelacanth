@@ -1,7 +1,6 @@
 StartChar: oe.pcap
 Encoding: 57443 57443 1698
 Width: 782
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2

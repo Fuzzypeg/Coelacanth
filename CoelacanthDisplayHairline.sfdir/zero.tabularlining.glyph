@@ -1,8 +1,7 @@
 StartChar: zero.tabularlining
 Encoding: 58378 58378 682
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -5.88965 22.9296<186.822 277.851> 369.96 22.94<162.797 255.301>
 VStem: 15.1602 65.2008<118.057 273.999> 353.968 65.032<109.211 280.086>
 LayerCount: 2

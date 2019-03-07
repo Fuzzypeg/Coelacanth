@@ -1,7 +1,6 @@
 StartChar: s.pcap
 Encoding: 57365 57365 331
 Width: 414
-VWidth: 1159
 Flags: HW
 LayerCount: 2
 Back

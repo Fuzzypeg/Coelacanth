@@ -1,8 +1,7 @@
 StartChar: uni1FEF
 Encoding: 8175 8175 2387
 Width: 230
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 494 159
 VStem: 13 177
 AnchorPoint: "TopMark" 167 410 mark 0
@@ -19,5 +18,4 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 94 768 N 1 0 0 1 363 0 2
-Validated: 1
 EndChar

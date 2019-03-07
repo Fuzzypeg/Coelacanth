@@ -2,13 +2,11 @@ StartChar: atilde.smcp
 Encoding: 57700 57700 2061
 GlifName: atilde.smcp
 Width: 530
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -4.3 29.9<23.3 61.425 342.407 372.926> 170.1 29.6<189.749 321.807> 578.645 21<143.074 180.745> 591.053 60<274.537 367.863> 628.391 59.446<194.694 288.001>
 VStem: 143.074 273.107 263.2 34.6<439.075 504.1>
 LayerCount: 2
 Fore
 Refer: 100 771 N 1 0 0 1 488 157 2
 Refer: 2029 57671 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

@@ -1,7 +1,6 @@
 StartChar: amacron
 Encoding: 257 257 134
 Width: 413
-VWidth: 0
 Flags: HW
 HStem: -15 43<75 181> 161 32<153 246> 364 52<128 220> 519 49<72.5 331.5>
 VStem: 33 64<34 133> 247 65<60 164 191 321>

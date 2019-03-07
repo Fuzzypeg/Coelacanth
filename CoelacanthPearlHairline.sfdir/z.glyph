@@ -1,7 +1,6 @@
 StartChar: z
 Encoding: 122 122 25
 Width: 592
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Bottom" 305 -15 basechar 0
 AnchorPoint: "Top" 312 537 basechar 0
@@ -69,7 +68,6 @@ SplineSet
  507 -22 l 1
  488 -10 480 0 448 -0 c 1
 EndSplineSet
-Validated: 33
 Substitution2: "case-1" Z
 Substitution2: "pcap-1" z.pcap
 Substitution2: "smcp-1" z.smcp

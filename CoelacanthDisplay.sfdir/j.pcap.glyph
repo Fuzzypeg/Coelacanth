@@ -1,7 +1,6 @@
 StartChar: j.pcap
 Encoding: 57356 57356 652
 Width: 272
-VWidth: 707
 Flags: HW
 AnchorPoint: "Top" 146.122 489 basechar 0
 LayerCount: 2

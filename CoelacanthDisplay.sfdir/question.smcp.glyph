@@ -1,8 +1,7 @@
 StartChar: question.smcp
 Encoding: 57798 57798 2159
 Width: 335
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -19.6347 122.624<115.303 144.223>
 VStem: 71.6655 118.587<24.5713 56.3176> 121.2 18<153.5 179.728> 256.5 27<300.171 361.78>
 LayerCount: 2
@@ -22,5 +21,4 @@ SplineSet
  256.5 379.151 173.7246 403.1398 49.2 395.94 c 1xb0
 EndSplineSet
 Refer: 48 46 N 0.885306 0 0 0.921985 41.1 -3.5 2
-Validated: 33
 EndChar

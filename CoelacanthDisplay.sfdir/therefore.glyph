@@ -1,8 +1,7 @@
 StartChar: therefore
 Encoding: 8756 8756 1369
 Width: 528
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -17.5 133<83.8157 116.483 410.816 443.483> 280.5 133<246.816 279.483>
 VStem: 34.5254 133.95<30.4466 64.8792> 197.525 133.95<328.447 362.879> 361.525 133.95<30.4466 64.8792>
 LayerCount: 2
@@ -10,5 +9,4 @@ Fore
 Refer: 48 46 N 1 0 0 1 327 0 2
 Refer: 48 46 N 1 0 0 1 0 0 2
 Refer: 48 46 N 1 0 0 1 163 298 2
-Validated: 1
 EndChar

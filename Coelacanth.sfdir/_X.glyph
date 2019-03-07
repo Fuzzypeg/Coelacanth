@@ -2,8 +2,7 @@ StartChar: X
 Encoding: 88 88 56
 GlifName: X_
 Width: 761
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -6 31<18.6774 62.5845 196.476 263> -2 38<685.729 743.289> 653 39<215.532 275> 659 26<13 54.2795 447 485.234 665.996 702.194>
 AnchorPoint: "Bottom" 371 -15 basechar 0
 AnchorPoint: "Top" 364 699 basechar 0
@@ -48,7 +47,6 @@ SplineSet
  66 648 33 655 12 659 c 1
  13 685 l 1x90
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" x.pcap
 Substitution2: "c2sc-1" x.smcp

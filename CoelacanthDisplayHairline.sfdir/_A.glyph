@@ -1,7 +1,6 @@
 StartChar: A
 Encoding: 65 65 26
 Width: 719
-VWidth: 1159
 Flags: HMW
 HStem: -7 18<26 39.5502 196.436 229.667 480.333 517.463 672.953 697> 247 38<229 455>
 AnchorPoint: "Bottom" 365 -15 basechar 0

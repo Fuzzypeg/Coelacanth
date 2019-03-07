@@ -1,7 +1,6 @@
 StartChar: dotlessi
 Encoding: 305 305 50
 Width: 263
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Bottom" 135 -15 basechar 0
 AnchorPoint: "Ogonek" 189 18 basechar 0
@@ -29,7 +28,6 @@ SplineSet
  246 466 228.244018932 440.747715858 221 421 c 0
  205 376.666826071 199 231.000382571 199 212 c 3
 EndSplineSet
-Validated: 33
 Substitution2: "case-1" I
 Substitution2: "pcap-1" i.pcap
 Substitution2: "smcp-1" i.smcp

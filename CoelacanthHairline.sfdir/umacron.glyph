@@ -1,7 +1,6 @@
 StartChar: umacron
 Encoding: 363 363 231
 Width: 506
-VWidth: 0
 Flags: HW
 HStem: -11 55<171 272> 338 31<291 350> 519 49<135.5 394.5>
 VStem: 69 76<71 327> 358 65<36 52 75 331>

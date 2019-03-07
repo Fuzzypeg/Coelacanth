@@ -1,11 +1,10 @@
 StartChar: uni2243
 Encoding: 8771 8771 856
 Width: 463
-VWidth: 0
 Flags: HW
 HStem: 128 53.9999<34 428> 229.798 58.0546<194.265 372.893> 256.104 58.0546<95.3073 274.25>
 LayerCount: 2
 Fore
-Refer: 858 8764 S 1 0 0 1 0 72 2
+Refer: 858 8764 N 1 0 0 1 0 72 2
 Refer: 159 8722 N 1 0 0 1 0 -70 2
 EndChar

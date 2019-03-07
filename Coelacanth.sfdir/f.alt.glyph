@@ -2,8 +2,7 @@ StartChar: f.alt
 Encoding: 58119 58119 1190
 GlifName: f.alt
 Width: 357
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -6 36<34 97.3708 215.17 284.568> 1 32<191.619 282.018> 355 46<39 113 187 338> 701 55<236.497 325.797>
 VStem: 114 71<42.7113 360 397 621.375>
 LayerCount: 2
@@ -37,6 +36,5 @@ SplineSet
  113 601 144.378378378 657 194 704 c 0
  228.666666667 731 261.555555556 756 314 756 c 3x78
 EndSplineSet
-Validated: 1
 Kerns2: 1436 10 "kern-1 latin individual kerning" 1435 52 "kern-1 latin individual kerning" 1434 13 "kern-1 latin individual kerning" 1433 13 "kern-1 latin individual kerning" 1432 20 "kern-1 latin individual kerning" 1430 39 "kern-1 latin individual kerning"
 EndChar

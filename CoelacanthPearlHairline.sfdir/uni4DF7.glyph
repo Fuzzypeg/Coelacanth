@@ -1,12 +1,10 @@
 StartChar: uni4DF7
 Encoding: 19959 19959 420
 Width: 746
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -119 56<30.0001 293 453 716.001> 47 56<30.0001 293 453 716.001> 211 56<30 716> 373 56<30 716> 539 56<30.0001 293 453 716.001> 703 56<30 716>
 LayerCount: 2
 Fore
-Refer: 363 9782 S 1 0 0 1 0 -148 2
-Refer: 359 9778 S 1 0 0 1 0 344 2
-Validated: 1
+Refer: 363 9782 N 1 0 0 1 0 -148 2
+Refer: 359 9778 N 1 0 0 1 0 344 2
 EndChar

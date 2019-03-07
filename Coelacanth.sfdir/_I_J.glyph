@@ -2,14 +2,13 @@ StartChar: IJ
 Encoding: 306 306 343
 GlifName: I_J_
 Width: 737
-VWidth: 0
+Flags: HW
 HStem: -10 40<16.125 119.789> 652 43<21.3488 120.801>
 VStem: 131 90<41.0295 293.416> 137.915 75.6029<80.3904 534.592>
 LayerCount: 2
 Fore
 Refer: 35 74 N 1 0 0 1 387 0 2
 Refer: 34 73 N 1 0 0 1 0 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ij.pcap
 Substitution2: "c2sc-1" ij.smcp

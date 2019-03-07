@@ -1,8 +1,7 @@
 StartChar: uni03F3
 Encoding: 1011 1011 1044
 Width: 268
-VWidth: 1043
-Flags: W
+Flags: HW
 HStem: -307 29<-113.666 -77.7346>
 AnchorPoint: "Top" 158 465 basechar 0
 LayerCount: 2
@@ -17,5 +16,4 @@ SplineSet
  22.6669921875 -248.967773438 47.861328125 -92.125 76 105 c 0
 EndSplineSet
 Refer: 49 775 N 1 0 0 1 383 121 2
-Validated: 33
 EndChar

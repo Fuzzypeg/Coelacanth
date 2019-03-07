@@ -2,8 +2,7 @@ StartChar: Breve.cyrillic
 Encoding: 58087 58087 1375
 GlifName: B_reve.cyrillic
 Width: 321
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 747 36<107.434 214.566>
 VStem: 13 70<803.405 864.752> 239 70<803.405 864.752>
 AnchorPoint: "Top" 161 699 mark 0
@@ -22,5 +21,4 @@ SplineSet
  90.7142857143 838.428571429 86.0469577922 822.842790535 95 812 c 0
  112.294117647 791.055555556 133.806203002 783 161 783 c 3
 EndSplineSet
-Validated: 1
 EndChar

@@ -2,14 +2,12 @@ StartChar: zero.denom
 Encoding: 58398 58398 912
 GlifName: zero.denom
 Width: 366
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -85.9562 27.288<154.846 236.541> 230.829 28.8754<129.484 215.516>
 VStem: 30.0628 65.3421<0.390111 174.962> 266.901 69.4395<-5.79748 179.884>
 LayerCount: 2
 Fore
-Refer: 2654 58451 S 1 0 0 1 2 -84 2
-Validated: 1
+Refer: 2654 58451 N 1 0 0 1 2 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.denomalt
 EndChar

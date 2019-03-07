@@ -1,8 +1,7 @@
 StartChar: afii10049
 Encoding: 1071 1071 1091
 Width: 738
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -33 37<37 97.8959> 314.094 40.906<397.939 529> 649 37<627.348 695> 654 42<313.59 514.156>
 VStem: 164 87<452.19 585.627> 529 90<63.3592 283.488 429.868 616.22>
 AnchorPoint: "Top" 423 699 basechar 0
@@ -35,6 +34,5 @@ SplineSet
  486 696 515 684 584 684 c 0
  627 684 652 685 695 686 c 1xec
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

@@ -1,7 +1,6 @@
 StartChar: Q.alt
 Encoding: 58116 58116 670
 Width: 803
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Top" 393 699 basechar 0
 AnchorPoint: "Bottom" 341 -15 basechar 0

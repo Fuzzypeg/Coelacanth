@@ -1,8 +1,7 @@
 StartChar: two
 Encoding: 50 50 65
 Width: 400
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0.5 52.5<108.609 333.221> 387.5 30<128.552 222.553>
 VStem: 252 68<247.597 364.809>
 LayerCount: 2
@@ -24,7 +23,6 @@ SplineSet
  121 387.5 94 357.5 71 329.5 c 5
  56 340.5 l 5
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" two.denom
 Substitution2: "numr-1" two.numerator
 Substitution2: "tnum-1" two.tabulartext

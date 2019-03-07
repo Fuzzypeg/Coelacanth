@@ -1,8 +1,7 @@
 StartChar: Q.alt
 Encoding: 58116 58116 670
 Width: 803
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -176 81<766.409 987.451> -11 74<316.199 462.029> 623 69<284.607 486.534>
 VStem: 41 110<243.275 467.236> 639 106<227.209 457.836>
 AnchorPoint: "Top" 393 699 basechar 0
@@ -27,6 +26,5 @@ SplineSet
  584.090820312 692 745 548.842406877 745 354 c 3
  745 209.764195428 665.395309579 77.901310105 555 32 c 1
 EndSplineSet
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

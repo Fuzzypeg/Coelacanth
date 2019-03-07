@@ -2,8 +2,7 @@ StartChar: question
 Encoding: 63 63 74
 GlifName: question
 Width: 378
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -21 140<95.678 138.536> 559.439 86.3608<67.0492 192.794> 680.8 20G<42.0879 62.5>
 VStem: 26.1369 25.8631<672.026 695.853> 48 141<25.3087 69.9365> 110 18<185 224.85> 274 27<382.756 488.042>
 LayerCount: 2
@@ -25,7 +24,6 @@ SplineSet
  71.6259866427 559.439212105 55.1644520351 558.571750493 38 556.8 c 1xf6
 EndSplineSet
 Refer: 48 46 N 1 0 0 1 18 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "smcp-1" question.smcp
 Substitution2: "pcap-1" question.pcap

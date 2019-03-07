@@ -1,8 +1,7 @@
 StartChar: igrave
 Encoding: 236 236 121
 Width: 264
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 548 159
 VStem: -53 177 79 71<57 330>
 LayerCount: 2

@@ -1,7 +1,6 @@
 StartChar: o
 Encoding: 111 111 14
 Width: 492
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Top" 251 432 basechar 0
 AnchorPoint: "Horn" 420.5 336.8 basechar 0

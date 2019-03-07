@@ -2,7 +2,6 @@ StartChar: epsilon
 Encoding: 949 949 1007
 GlifName: epsilon
 Width: 417
-VWidth: 1043
 UnlinkRmOvrlpSave: 1
 Flags: HMW
 AnchorPoint: "Bottom" 207 -15 basechar 0

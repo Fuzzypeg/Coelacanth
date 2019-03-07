@@ -1,8 +1,7 @@
 StartChar: hookabovecomb
 Encoding: 777 777 748
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 577 21G<-198.656 -140> 667 60<-225.106 -173.31>
 VStem: -173 68.5<635.662 666.626>
 AnchorPoint: "Top" -174 537 mark 0
@@ -37,5 +36,4 @@ SplineSet
  -189.39424 667 -200.54528 660.068617768 -206.5 653.599609375 c 5
  -215.495449735 653.599609375 -246.291555556 661.551977674 -258.5 687 c 5
 EndSplineSet
-Validated: 1
 EndChar

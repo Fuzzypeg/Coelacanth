@@ -2,8 +2,7 @@ StartChar: zero
 Encoding: 48 48 63
 GlifName: zero
 Width: 502
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 1 33<203.15 319.348> 358 36<180.377 302.898>
 VStem: 55 73<109.281 280.474> 368 79<105.768 284.433>
 LayerCount: 2
@@ -20,7 +19,6 @@ SplineSet
  144 1 55 88 55 194 c 7
  55 301 146 394 254 394 c 7
 EndSplineSet
-Validated: 1
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.alt
 Substitution2: "dnom-1" zero.denom
 Substitution2: "numr-1" zero.numerator

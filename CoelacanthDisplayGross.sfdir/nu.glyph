@@ -1,7 +1,6 @@
 StartChar: nu
 Encoding: 957 957 1014
 Width: 480
-VWidth: 1043
 Flags: HMW
 LayerCount: 2
 Fore
@@ -23,7 +22,6 @@ SplineSet
  209 12 130 -19 118 -19 c 1
  110 -12 l 1
 EndSplineSet
-Validated: 33
 Substitution2: "pcap-1" n.pcap
 Substitution2: "smcp-1" n.smcp
 EndChar

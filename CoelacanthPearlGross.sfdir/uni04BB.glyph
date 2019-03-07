@@ -1,13 +1,11 @@
 StartChar: uni04BB
 Encoding: 1211 1211 1103
 Width: 538
-VWidth: 1159
-Flags: W
+Flags: HW
 AnchorPoint: "Top" 120 733 basechar 0
 AnchorPoint: "Bottom" 275 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 7 104 N 1 0 0 1 0 0 2
-Validated: 5
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

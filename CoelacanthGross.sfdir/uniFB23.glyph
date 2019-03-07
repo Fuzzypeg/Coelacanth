@@ -1,8 +1,7 @@
 StartChar: uniFB23
 Encoding: 64291 64291 1226
 Width: 812
-VWidth: 0
-Flags: W
+Flags: HW
 VStem: 59.1602 85.8398<65.6027 207.64> 60.3203 92.7998<62.6396 207.64>
 AnchorPoint: "Top" 261 619.44 basechar 0
 LayerCount: 2

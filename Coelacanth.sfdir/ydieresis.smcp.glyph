@@ -2,13 +2,11 @@ StartChar: ydieresis.smcp
 Encoding: 57786 57786 2144
 GlifName: ydieresis.smcp
 Width: 552
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -8.2 32.5<184.056 238.69 349.482 408.965> 463 29.5<17.7831 62.9872 181.304 216.608 349.3 394.085 488.315 537.2> 593 84<166.194 240.806 342.194 416.806>
 VStem: 160.5 86<598.582 671.441> 257.8 71<38.1823 213.999> 336.5 86<598.582 671.441>
 LayerCount: 2
 Fore
 Refer: 97 776 N 1 0 0 1 488.5 150 2
 Refer: 2053 57695 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

@@ -1,8 +1,7 @@
 StartChar: o.pcap
 Encoding: 57361 57361 657
 Width: 591
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -12 56<200.196 383.925> 456 56<202.824 381.668>
 VStem: 27 56<153.993 336.034> 502 56<160.26 334.841>
 AnchorPoint: "Top" 304 537 basechar 0

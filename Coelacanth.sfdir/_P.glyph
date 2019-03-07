@@ -2,8 +2,7 @@ StartChar: P
 Encoding: 80 80 41
 GlifName: P_
 Width: 596
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 38<33.4211 85.9927> 242 36<198.515 361.94> 645 42<14.5 99.2917> 655 39<195.531 363.467>
 VStem: 103 90<358.521 636.758> 114.344 80.6562<48.2578 250 282.973 479.296> 475 89<377.611 543.933>
 AnchorPoint: "Bottom" 162 -15 basechar 0
@@ -36,7 +35,6 @@ SplineSet
  102 634 82 644 12 645 c 9
  15 687 l 1xea
 EndSplineSet
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" p.pcap
 Substitution2: "c2sc-1" p.smcp

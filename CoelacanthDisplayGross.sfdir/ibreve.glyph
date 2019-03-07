@@ -1,8 +1,7 @@
 StartChar: ibreve
 Encoding: 301 301 149
 Width: 264
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 33<15 69 166 236> 544 33.7656<49.8471 177.542>
 VStem: 3.43457 11.4004<614.669 621.398> 79 71<57 330>
 LayerCount: 2

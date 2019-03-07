@@ -2,8 +2,7 @@ StartChar: Uni0328
 Encoding: 58029 58029 257
 GlifName: U_ni0328
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -338.23 73.7197<-184.546 -117.498>
 VStem: -275.584 71.875<-244.983 -118.496>
 AnchorPoint: "Ogonek" -105.35 23.6582 mark 0
@@ -20,5 +19,4 @@ SplineSet
  -275.583984375 -144.145292738 -241.514987387 -38.8975355005 -98.8711 45.1113 c 1
  -92.1719 12.3926 l 1
 EndSplineSet
-Validated: 1
 EndChar

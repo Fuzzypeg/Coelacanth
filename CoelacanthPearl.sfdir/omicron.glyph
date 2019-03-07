@@ -1,7 +1,6 @@
 StartChar: omicron
 Encoding: 959 959 1017
 Width: 586
-VWidth: 1043
 Flags: HMW
 AnchorPoint: "Top" 311 537 basechar 0
 AnchorPoint: "Bottom" 289 -15 basechar 0

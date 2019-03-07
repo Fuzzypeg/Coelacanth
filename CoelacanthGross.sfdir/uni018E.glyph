@@ -1,8 +1,7 @@
 StartChar: uni018E
 Encoding: 398 398 609
 Width: 618
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -1 31<540.511 601> 4.03125 36.8926<161.657 400.702> 329 44<196.26 444> 645.628 40.4277<167.457 417.103> 660 35<547.417 593>
 VStem: 59 30<69.0054 169> 70 28<538.25 562.795> 140 36<394.139 439> 444 83<84.0695 333 369 618.409>
 LayerCount: 2
@@ -41,6 +40,5 @@ SplineSet
  528 44 533 44 606 30 c 1
  601 -1 l 1xab80
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

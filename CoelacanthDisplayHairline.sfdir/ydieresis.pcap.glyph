@@ -1,8 +1,7 @@
 StartChar: ydieresis.pcap
 Encoding: 57462 57462 1717
 Width: 435
-VWidth: 657
-Flags: W
+Flags: HW
 HStem: -11 27<168.185 206.747 323.93 362.656> 382 25<33.44 68.7653 140.953 189 304 342.606 427.785 467>
 LayerCount: 2
 Fore

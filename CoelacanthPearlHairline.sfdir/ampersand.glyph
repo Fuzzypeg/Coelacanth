@@ -1,8 +1,7 @@
 StartChar: ampersand
 Encoding: 38 38 78
 Width: 676
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 54<128.072 291.283 521.479 586.492> 440.065 51.3648<562.067 647.828>
 VStem: 17 57<95.3203 262.793> 81 57<450.804 556.751> 294 57<471.061 570.206>
 LayerCount: 2
@@ -96,7 +95,6 @@ SplineSet
  500.971423636 509.34667069 592.571690909 490.052063793 655.3116 491.43025 c 1
  647.828125 440.065429688 l 1
 EndSplineSet
-Validated: 33
 Substitution2: "pcap-1" ampersand.pcap
 Substitution2: "smcp-1" ampersand.smcp
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100

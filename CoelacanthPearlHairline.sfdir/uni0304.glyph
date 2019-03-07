@@ -1,13 +1,12 @@
 StartChar: uni0304
 Encoding: 772 772 101
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 599 56<-301 -42>
 AnchorPoint: "Top" -174 537 mark 0
 AnchorPoint: "TopMark" -180 537 mark 0
 AnchorPoint: "TopMark" -174 768 basemark 0
 LayerCount: 2
 Fore
-Refer: 1969 58114 S 0.259 0 0 1 -301 627 2
+Refer: 1969 58114 N 0.259 0 0 1 -301 627 2
 EndChar

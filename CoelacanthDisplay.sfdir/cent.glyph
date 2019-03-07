@@ -1,9 +1,8 @@
 StartChar: cent
 Encoding: 162 162 1204
 Width: 408
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -9 54<157.722 275.087> 386 30<171.248 259.456>
 VStem: 25 56<129.406 286.16>
 LayerCount: 2

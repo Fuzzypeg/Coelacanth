@@ -1,7 +1,6 @@
 StartChar: oslash.smcp
 Encoding: 57720 57720 2083
 Width: 591
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -5.6 40.9<271.034 427.015> 461.7 39.2<230.39 375.856>
@@ -11,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 2046 57685 N 1 0 0 1 0 0 3
 Refer: 321 823 N 1.18118 0 0 1.1819 601.515 9.3785 2
-Validated: 5
 EndChar

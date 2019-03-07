@@ -1,8 +1,7 @@
 StartChar: uniE314
 Encoding: 58132 58132 2735
 Width: 618
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -194 43<198.056 378.73> 273 68.54<296.772 359.043> 639 43<114.808 439>
 VStem: 73 32<-184 -163.063> 490 80<-28.1934 146.885>
 AnchorPoint: "Top" 330 699 basechar 0
@@ -37,5 +36,4 @@ SplineSet
  531.573242188 637.099609375 l 0
  296.772460938 341.540039062 l 1
 EndSplineSet
-Validated: 33
 EndChar

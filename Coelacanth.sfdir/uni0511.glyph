@@ -2,12 +2,10 @@ StartChar: uni0511
 Encoding: 1297 1297 1777
 GlifName: uni0511
 Width: 358
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -15 51<144.569 275.805> 189 29<188.267 275.734> 367 50<126.125 237.259>
 VStem: 28 81<68.003 143.972> 47 66<264.248 348.557>
 LayerCount: 2
 Fore
 Refer: 1189 603 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

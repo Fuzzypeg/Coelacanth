@@ -1,8 +1,7 @@
 StartChar: question.smcp
 Encoding: 57798 57798 2159
 Width: 349
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -30.3744 156.666<121.767 161.977> 327 81<75.291 215.291>
 VStem: 69.1276 146.025<25.7616 67.3718> 126 18<140 159.072> 249 27<266.214 305.949>
 LayerCount: 2

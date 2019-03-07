@@ -1,13 +1,11 @@
 StartChar: nacute.pcap
 Encoding: 57436 57436 1691
 Width: 657
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -9 85<72.1765 112.48> 433 76<430.263 490.409 575.06 613.718> 569.951 193.429
 VStem: 116 78<78.6504 330> 287.389 230.611 496 73<186 421.204> 500 80<1.5125 28.6626>
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 520 0 2
 Refer: 656 57360 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

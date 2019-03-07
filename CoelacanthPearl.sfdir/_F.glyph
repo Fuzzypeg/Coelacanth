@@ -1,8 +1,7 @@
 StartChar: F
 Encoding: 70 70 31
 Width: 618
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 74<94.9459 142.994 257.287 362.911> 298 67<253 450.434> 606 70<82 143.256 251.001 473.988>
 VStem: 143 114<69.127 299 367 606.875> 465 70<242.2 297.439>
 AnchorPoint: "Top" 334 679 basechar 0
@@ -40,7 +39,6 @@ SplineSet
  258 64 266 71 374 69 c 1
  362 -11 l 1
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" f.pcap
 Substitution2: "c2sc-1" f.smcp

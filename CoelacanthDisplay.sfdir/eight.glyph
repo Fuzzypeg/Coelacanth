@@ -1,9 +1,8 @@
 StartChar: eight
 Encoding: 56 56 71
 Width: 432
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7 16<200.474 265.626> 615 16<158.063 228.474>
 VStem: 42 62<92.0718 214.135> 73 35<472.352 563.894> 308 49<426.723 546.993> 336 56<78.9086 205.98>
 LayerCount: 2

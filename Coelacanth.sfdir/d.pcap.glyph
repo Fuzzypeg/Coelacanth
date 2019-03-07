@@ -2,8 +2,7 @@ StartChar: d.pcap
 Encoding: 57350 57350 646
 GlifName: d.pcap
 Width: 560
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -5 29<62 100.639 167.023 325.741> 384 25<60 94.3433 192.381 307.805>
 VStem: 106.984 72.0158<33.7617 374.573> 421 83<108.01 292.458>
 AnchorPoint: "Bottom" 258 -15 basechar 0
@@ -34,5 +33,4 @@ SplineSet
  96 378 98 376 60 378 c 1
  60 404 l 1
 EndSplineSet
-Validated: 1
 EndChar

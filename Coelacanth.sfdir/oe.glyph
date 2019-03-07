@@ -2,9 +2,8 @@ StartChar: oe
 Encoding: 339 339 871
 GlifName: oe
 Width: 735
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -14 39<190.397 302.402> 371 45<159.168 278.592> 425 168
 VStem: 32 76<120.631 292.302> 359 78<100.689 280.313> 379 185
 AnchorPoint: "Top" 395 465 basechar 0

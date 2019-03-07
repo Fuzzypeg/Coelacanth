@@ -1,8 +1,7 @@
 StartChar: uni26E4
 Encoding: 9956 9956 2613
 Width: 873
-VWidth: 950
-Flags: W
+Flags: HW
 HStem: 431 37<135 324 378 488 543 734>
 LayerCount: 2
 Fore
@@ -45,5 +44,4 @@ SplineSet
  590 276 l 1
  688 -32 l 1
 EndSplineSet
-Validated: 1
 EndChar

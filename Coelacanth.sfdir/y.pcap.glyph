@@ -2,8 +2,7 @@ StartChar: y.pcap
 Encoding: 57371 57371 667
 GlifName: y.pcap
 Width: 499
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 27<168.185 206.747 323.93 362.656> 382 25<33.44 68.7653 304 342.606 427.785 467>
 AnchorPoint: "Top" 258 465 basechar 0
 AnchorPoint: "Bottom" 264 -15 basechar 0
@@ -38,5 +37,4 @@ SplineSet
  167.610351562 402.17578125 191.899414062 403.220703125 205 406 c 1
  208 380 l 1
 EndSplineSet
-Validated: 33
 EndChar

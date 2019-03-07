@@ -1,8 +1,7 @@
 StartChar: NameMe.ampersand
 Encoding: 65538 -1 1395
 Width: 611
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 57<155.786 278.969 434.524 509.939> 355 35<500.895 561> 386 33<396.667 422.511>
 VStem: 44 72<89.5615 209.838> 84 38<358.76 426.31> 265 62<344.54 416.345>
 LayerCount: 2
@@ -40,5 +39,4 @@ SplineSet
  441 403 514 389 564 390 c 1
  561 355 l 1xcc
 EndSplineSet
-Validated: 33
 EndChar

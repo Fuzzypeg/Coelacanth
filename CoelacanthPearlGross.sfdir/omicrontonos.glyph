@@ -1,8 +1,7 @@
 StartChar: omicrontonos
 Encoding: 972 972 1112
 Width: 586
-VWidth: 1043
-Flags: W
+Flags: HW
 HStem: 632.951 193.429
 VStem: 270.89 230.611
 AnchorPoint: "Bottom" 250 -15 basechar 0

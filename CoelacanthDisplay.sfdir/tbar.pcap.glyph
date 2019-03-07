@@ -1,7 +1,6 @@
 StartChar: tbar.pcap
 Encoding: 57453 57453 1708
 Width: 429
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -13 32<139.906 192.461> 189.781 17.4375<124 364> 366 37<75.7768 205.168 288 408.619> 391 29G<62 72 435 454>

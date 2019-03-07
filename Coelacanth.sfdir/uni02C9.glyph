@@ -2,11 +2,9 @@ StartChar: uni02C9
 Encoding: 713 713 1222
 GlifName: uni02C_9
 Width: 307
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 447 49<23 282>
 LayerCount: 2
 Fore
-Refer: 101 772 S 1 0 0 1 350 0 2
-Validated: 1
+Refer: 101 772 N 1 0 0 1 350 0 2
 EndChar

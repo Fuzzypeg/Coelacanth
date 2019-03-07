@@ -1,7 +1,6 @@
 StartChar: q.smcp
 Encoding: 57687 57687 2048
 Width: 567
-VWidth: 843
 Flags: HW
 AnchorPoint: "Top" 295 539 basechar 0
 AnchorPoint: "Bottom" 280 -15 basechar 0

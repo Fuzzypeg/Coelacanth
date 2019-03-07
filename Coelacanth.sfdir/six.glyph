@@ -2,8 +2,7 @@ StartChar: six
 Encoding: 54 54 69
 GlifName: six
 Width: 487
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 40<226.82 331.156> 320 44<214.153 314.825>
 VStem: 71 72<129.031 347.68> 375 64<95.8203 248.065>
 LayerCount: 2
@@ -23,7 +22,6 @@ SplineSet
  131.85546875 -10 71 121.913085938 71 214 c 3
  71 413.572265625 195 572 369 630 c 9
 EndSplineSet
-Validated: 1
 Substitution2: "dnom-1" six.denom
 Substitution2: "numr-1" six.numerator
 Substitution2: "tnum-1" six.tabulartext

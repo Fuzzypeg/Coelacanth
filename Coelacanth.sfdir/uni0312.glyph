@@ -2,8 +2,7 @@ StartChar: uni0312
 Encoding: 786 786 112
 GlifName: uni0312
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 438.94 204.119
 VStem: -253.13 116.64
 AnchorPoint: "TopMark" -200.5 403 mark 0
@@ -12,5 +11,4 @@ AnchorPoint: "Top" -198.5 406 mark 0
 LayerCount: 2
 Fore
 Refer: 111 787 N -1 0 0 -1 -354.62 1082 2
-Validated: 1
 EndChar

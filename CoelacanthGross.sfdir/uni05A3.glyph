@@ -1,10 +1,9 @@
 StartChar: uni05A3
 Encoding: 1443 1443 1156
 Width: 0
-VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1025 58113 S 0 -0.1475 1 0 290 -47.5 2
+Refer: 1025 58113 N 0 -0.1475 1 0 290 -47.5 2
 Refer: 1026 58114 N 0.146 0 0 0.73529 164 -170 2
 EndChar

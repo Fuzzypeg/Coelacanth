@@ -1,8 +1,7 @@
 StartChar: uni03DC
 Encoding: 988 988 1040
 Width: 566
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 35<33 80.0617> 340 37<185 376.274> 655 31<17 81.7781> 681 20G<514.5 525>
 VStem: 103 82<94.928 340 377 639.851> 425 31<230 292.487> 499 31<535 597.781>
 AnchorPoint: "Top" 309 699 basechar 0
@@ -37,6 +36,5 @@ SplineSet
  202 64 210 42 322 42 c 1
  316 -11 l 1xde
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

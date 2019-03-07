@@ -2,7 +2,6 @@ StartChar: B
 Encoding: 66 66 27
 GlifName: B_
 Width: 584
-VWidth: 1159
 Flags: HMW
 HStem: -4 38<17 91.426 193.57 383.69> 349 30<183 322.635> 653 41<19 86.219 195.972 328.268>
 VStem: 101 80<45.6349 349 379 533.879> 388 90<447.929 586.24> 459 90<100.26 258.491>
@@ -42,7 +41,6 @@ SplineSet
  389 34 459 83 459 178 c 3xf4
  459 262 401 349 258 349 c 0
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" b.pcap
 Substitution2: "c2sc-1" b.smcp

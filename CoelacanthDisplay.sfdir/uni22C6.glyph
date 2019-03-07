@@ -1,10 +1,8 @@
 StartChar: uni22C6
 Encoding: 8902 8902 1527
 Width: 419
-VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 347 9733 S 0.45 0 0 0.45 24.5753 109.463 2
-Validated: 1
+Refer: 347 9733 N 0.45 0 0 0.45 24.5753 109.463 2
 EndChar

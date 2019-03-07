@@ -2,12 +2,10 @@ StartChar: uni2081
 Encoding: 8321 8321 1398
 GlifName: uni2081
 Width: 261
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -80 20.0625<44.3295 82.8599 169.338 212.932> 174.525 18.2988<51.5518 90.9331> 181.6 18.3701<178.353 209.82>
 VStem: 103.888 53.4014<-50.699 170.154>
 LayerCount: 2
 Fore
 Refer: 2645 58359 N 1 0 0 1 0 -80 2
-Validated: 1
 EndChar

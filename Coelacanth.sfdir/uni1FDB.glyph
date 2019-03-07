@@ -2,14 +2,13 @@ StartChar: uni1FDB
 Encoding: 8155 8155 2387
 GlifName: uni1F_D_B_
 Width: 468
-Flags: W
+Flags: HW
 HStem: -10 40<143.125 246.789> 652 43<148.349 247.801>
 VStem: 258 90<41.0295 293.416> 264.915 75.6029<80.3904 534.592>
 AnchorPoint: "Bottom" 294 -15 basechar 0
 AnchorPoint: "Top" 298 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 1617 8189 S 1.08329 0.191013 -0.191013 1.08329 -37.7241 -26.841 2
+Refer: 1617 8189 N 1.08329 0.191013 -0.191013 1.08329 -37.7241 -26.841 2
 Refer: 984 921 N 1 0 0 1 127 0 2
-Validated: 1
 EndChar

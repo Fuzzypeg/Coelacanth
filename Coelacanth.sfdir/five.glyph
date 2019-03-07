@@ -2,8 +2,7 @@ StartChar: five
 Encoding: 53 53 68
 GlifName: five
 Width: 362
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 326.5 72<120.63 288.458>
 VStem: 246 63<-40.6381 97.0244>
 LayerCount: 2
@@ -23,7 +22,6 @@ SplineSet
  246 87.0654296875 202.5 164 71 152 c 1
  80.5 208 92.359375 305.161132812 96 393.5 c 9
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" five.denom
 Substitution2: "numr-1" five.numerator
 Substitution2: "tnum-1" five.tabulartext

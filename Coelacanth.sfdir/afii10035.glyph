@@ -2,8 +2,7 @@ StartChar: afii10035
 Encoding: 1057 1057 1063
 GlifName: afii10035
 Width: 743
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -13 42<347.099 553.906> 670 40<327.101 545.759>
 VStem: 43 103<243.914 469.499> 633 33<533.188 599.436> 673 27<146.932 165.074>
 AnchorPoint: "Top" 426 699 basechar 0
@@ -11,6 +10,5 @@ AnchorPoint: "Bottom" 416 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 28 67 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

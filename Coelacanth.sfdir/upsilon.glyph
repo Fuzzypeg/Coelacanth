@@ -2,7 +2,6 @@ StartChar: upsilon
 Encoding: 965 965 1023
 GlifName: upsilon
 Width: 506
-VWidth: 1043
 Flags: HMW
 AnchorPoint: "Top" 259 465 basechar 0
 AnchorPoint: "Bottom" 241 -15 basechar 0
@@ -26,7 +25,6 @@ SplineSet
  23 332 46 418 116 418 c 3
  138 418 187 407 187 333 c 3
 EndSplineSet
-Validated: 1
 Substitution2: "pcap-1" upsilon.pcap
 Substitution2: "smcp-1" upsilon.smcp
 EndChar

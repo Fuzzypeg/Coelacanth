@@ -1,8 +1,7 @@
 StartChar: acutecombhigh
 Encoding: 58080 58080 470
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 AnchorPoint: "Top" -198.5 410 mark 0
 LayerCount: 2
 Back
@@ -15,5 +14,4 @@ SplineSet
 EndSplineSet
 Fore
 Refer: 92 769 N 0.914583 -0.327381 0.228126 0.902396 -122.272 -27.7606 2
-Validated: 1
 EndChar

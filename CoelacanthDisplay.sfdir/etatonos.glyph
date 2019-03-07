@@ -1,9 +1,8 @@
 StartChar: etatonos
 Encoding: 942 942 1106
 Width: 490
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 557 159
 VStem: 299.91 177
 AnchorPoint: "Bottom" 118.409 -15 basechar 0

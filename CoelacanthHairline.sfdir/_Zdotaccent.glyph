@@ -1,7 +1,6 @@
 StartChar: Zdotaccent
 Encoding: 379 379 245
 Width: 710
-VWidth: 0
 Flags: HW
 HStem: 1 40<168 560.424> 642 43<98.8077 540> 751 108<323.142 412.858>
 VStem: 313 110<760.993 849.046>

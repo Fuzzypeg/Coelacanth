@@ -1,12 +1,10 @@
 StartChar: uni204E
 Encoding: 8270 8270 1722
 Width: 421
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 254.722 20G<43.5669 83.6548>
 VStem: 152.767 94.8008<258.973 370.936>
 LayerCount: 2
 Fore
 Refer: 87 42 N 1 0 0 1 0 -296 2
-Validated: 1
 EndChar

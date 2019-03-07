@@ -2,13 +2,11 @@ StartChar: scommaaccent
 Encoding: 537 537 497
 GlifName: scommaaccent
 Width: 352
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -261.06 204.119 -9 38<111 233> 370 38<130 232>
 VStem: 49 68<274 353> 103.87 116.64 250 68<46 140>
 LayerCount: 2
 Fore
-Refer: 275 806 S 1 0 0 1 357 0 2
+Refer: 275 806 N 1 0 0 1 357 0 2
 Refer: 18 115 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

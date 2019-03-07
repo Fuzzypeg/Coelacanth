@@ -1,8 +1,7 @@
 StartChar: Ucircumflex
 Encoding: 219 219 188
 Width: 827
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19 805> 723.855 147.545
 VStem: 120 75<119.571 665.877> 308.495 248.01
 LayerCount: 2

@@ -1,7 +1,6 @@
 StartChar: epsilon
 Encoding: 949 949 1007
 Width: 481
-VWidth: 1043
 UnlinkRmOvrlpSave: 1
 Flags: HMW
 AnchorPoint: "Top" 266 537 basechar 0

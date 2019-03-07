@@ -1,8 +1,7 @@
 StartChar: eng
 Encoding: 331 331 467
 Width: 499
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -319 60<162.258 279.828> -5 33<20.3636 69> 335 29<32 79.6511> 338 61<245.574 353.747> 396 20G<129 175>
 VStem: 95 75<72.7464 318.176 330 331.265> 379 69<-89.8607 313.154>
 LayerCount: 2
@@ -40,7 +39,6 @@ SplineSet
  445 -134 432.819094368 -164.880515375 419 -186 c 4
  396.752808989 -220 368.44138087 -241.377070309 329 -267 c 4xd6
 EndSplineSet
-Validated: 1
 Substitution2: "smcp-1" eng.smcp
 Substitution2: "case-1" Eng
 Substitution2: "pcap-1" eng.pcap

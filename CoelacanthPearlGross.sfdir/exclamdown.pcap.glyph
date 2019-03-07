@@ -1,7 +1,6 @@
 StartChar: exclamdown.pcap
 Encoding: 57475 57475 1755
 Width: 258
-VWidth: 1159
 Flags: HW
 HStem: 244.929 208.203<102.773 146.082>
 VStem: 26.5439 195.528<327.86 371.763> 112 38<132.659 253.989>

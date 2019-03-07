@@ -1,8 +1,7 @@
 StartChar: angleleft
 Encoding: 9001 9001 1438
 Width: 383
-VWidth: 1515
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -14,5 +13,4 @@ SplineSet
  358 -272 l 1
  322 -293 l 1
 EndSplineSet
-Validated: 1
 EndChar

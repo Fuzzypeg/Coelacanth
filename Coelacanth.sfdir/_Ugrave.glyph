@@ -2,15 +2,13 @@ StartChar: Ugrave
 Encoding: 217 217 187
 GlifName: U_grave
 Width: 815
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -15 54<301.139 547.9> 650 40<14.125 94.1699 204.669 289.778 727.959 801.369> 672 20G<570 586.309> 744.316 147.151
 VStem: 99 87<141.83 548.181> 104 90<338.372 637.527> 250.935 234.888 664 55<147.927 617.398> 665 61<264.848 645.847>
 LayerCount: 2
 Fore
 Refer: 96 58019 N 1 0 0 1 367 0 2
 Refer: 53 85 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ugrave.pcap
 Substitution2: "c2sc-1" ugrave.smcp

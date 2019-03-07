@@ -1,8 +1,7 @@
 StartChar: ij
 Encoding: 307 307 344
 Width: 505
-VWidth: 0
-Flags: H
+Flags: HW
 HStem: 624.175 109.65<121.502 218.498 385.502 482.498>
 VStem: 114.1 111.8<631.462 726.568> 378.1 111.8<631.462 726.568>
 LayerCount: 2

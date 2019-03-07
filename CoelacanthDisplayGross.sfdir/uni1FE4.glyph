@@ -1,7 +1,7 @@
 StartChar: uni1FE4
 Encoding: 8164 8164 2027
 Width: 462
-VWidth: 0
+Flags: HW
 HStem: 484.06 22<196.01 239.203> 608.859 74<220.012 261.634>
 VStem: 269.01 45<521.975 595.174>
 LayerCount: 2

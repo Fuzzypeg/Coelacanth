@@ -1,9 +1,8 @@
 StartChar: dollar.alt
 Encoding: 58288 58288 1743
 Width: 463
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -8 34<172.91 299.01> 513 21G<335 365.231> 646 26<200.449 303.319>
 VStem: 67 64<466.976 584.958> 368 55<93.0159 226.357>
 LayerCount: 2

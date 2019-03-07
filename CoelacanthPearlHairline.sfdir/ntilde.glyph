@@ -1,15 +1,13 @@
 StartChar: ntilde
 Encoding: 241 241 146
 Width: 533
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 581 63.4082<303.963 368.876> 631.746 63.2539<211.68 279.805>
 VStem: 142.584 294.106
 LayerCount: 2
 Fore
 Refer: 100 771 N 1 0 0 1 460 0 2
 Refer: 13 110 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" ntilde.pcap
 Substitution2: "case-1" Ntilde
 Substitution2: "smcp-1" ntilde.smcp

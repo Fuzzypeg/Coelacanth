@@ -1,8 +1,7 @@
 StartChar: uni2648
 Encoding: 9800 9800 2595
 Width: 565
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 456.949 30.7373<117.044 194.212 347.733 434.047>
 VStem: 16.2646 54.7266<294.419 396.636> 250.391 54.71<88.3308 407.905>
 LayerCount: 2

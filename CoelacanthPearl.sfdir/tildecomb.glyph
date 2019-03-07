@@ -1,8 +1,7 @@
 StartChar: tildecomb
 Encoding: 771 771 100
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 582.408 86<-160.669 -92.0489> 629.746 85.4463<-245.514 -172.34>
 VStem: -317.416 294.106
 AnchorPoint: "TopMark" -185 768 basemark 0
@@ -21,5 +20,4 @@ SplineSet
  -234.089762674 629.74609375 -252.489903949 597.894982291 -265 578 c 1
  -317.416015625 601.708984375 l 1x60
 EndSplineSet
-Validated: 1
 EndChar

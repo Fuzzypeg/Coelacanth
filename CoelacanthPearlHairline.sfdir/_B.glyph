@@ -1,7 +1,6 @@
 StartChar: B
 Encoding: 66 66 27
 Width: 691
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Bottom" 313 -15 basechar 0
 AnchorPoint: "Top" 327 679 basechar 0
@@ -95,7 +94,6 @@ SplineSet
  474 50 574 101 574 193 c 3
  574 258 520 311 354 320 c 0
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" b.pcap
 Substitution2: "c2sc-1" b.smcp

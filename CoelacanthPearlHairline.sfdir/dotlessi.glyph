@@ -1,7 +1,6 @@
 StartChar: dotlessi
 Encoding: 305 305 50
 Width: 263
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Bottom" 135 -15 basechar 0
 AnchorPoint: "Ogonek" 189 18 basechar 0

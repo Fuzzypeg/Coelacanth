@@ -1,8 +1,7 @@
 StartChar: uni1FB9
 Encoding: 8121 8121 1487
 Width: 733
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 742 79.6085<210 521>
 AnchorPoint: "Bottom" 368 -15 basechar 0
 LayerCount: 2

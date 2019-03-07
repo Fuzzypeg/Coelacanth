@@ -2,9 +2,8 @@ StartChar: omega1
 Encoding: 982 982 1034
 GlifName: omega1
 Width: 710
-VWidth: 1049
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -4 44<418.689 525.783> 0 48<251.479 354.146> 345 67<159.999 585.614> 345 56<370.047 649>
 VStem: 39 43<249.909 323.502> 133 72<99.0277 238.656> 346.08 88.9199<144.447 228.394> 574 73<89.9769 240.506>
 LayerCount: 2

@@ -2,9 +2,8 @@ StartChar: multiply
 Encoding: 215 215 444
 GlifName: multiply
 Width: 463
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1969 58115 N 0.334089 -0.334969 0.695617 0.69745 63.9558 384.985 2

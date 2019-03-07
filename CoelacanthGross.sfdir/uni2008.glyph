@@ -1,11 +1,8 @@
 StartChar: uni2008
 Encoding: 8200 8200 414
 Width: 200
-VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Back
-Validated: 1
 Fore
-Validated: 1
 EndChar

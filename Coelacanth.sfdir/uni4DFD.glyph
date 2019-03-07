@@ -2,12 +2,10 @@ StartChar: uni4DFD
 Encoding: 19965 19965 426
 GlifName: uni4D_F_D_
 Width: 746
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -124 66<30.0001 293 453 716.001> 42 66<30.0001 293 453 716.001> 206 66<30 716> 368 66<30 716> 534 66<30.0001 293 453 716.001> 698 66<30.0001 293 453 716.001>
 LayerCount: 2
 Fore
-Refer: 363 9782 S 1 0 0 1 0 -148 2
-Refer: 360 9779 S 1 0 0 1 0 344 2
-Validated: 1
+Refer: 363 9782 N 1 0 0 1 0 -148 2
+Refer: 360 9779 N 1 0 0 1 0 344 2
 EndChar

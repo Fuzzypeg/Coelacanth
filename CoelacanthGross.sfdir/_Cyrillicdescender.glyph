@@ -1,8 +1,7 @@
 StartChar: Cyrillicdescender
 Encoding: 58088 58088 728
 Width: 202
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 37<19 89.2173>
 VStem: 163 39<-240 -124.031>
 LayerCount: 2
@@ -15,5 +14,4 @@ SplineSet
  139 -54 113 0 19 0 c 5
  19 37 l 5
 EndSplineSet
-Validated: 1
 EndChar

@@ -2,15 +2,13 @@ StartChar: Kcommaaccent
 Encoding: 310 310 287
 GlifName: K_commaaccent
 Width: 687
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -261.06 204.119 -10 30<217.663 272.933> -1 24<470.273 498.261 656.235 673.667> 657 31<20.4194 73.0559 201.774 269.29 568.711 604.844>
 VStem: 91 92<40.8706 315.532> 99.5133 78.4867<125.33 316 357 600.136> 298.87 116.64
 LayerCount: 2
 Fore
 Refer: 275 806 N 1 0 0 1 552 0 2
 Refer: 36 75 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" kcommaaccent.pcap
 Substitution2: "c2sc-1" kcommaaccent.smcp

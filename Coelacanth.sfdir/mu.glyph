@@ -2,7 +2,6 @@ StartChar: mu
 Encoding: 956 956 1014
 GlifName: mu
 Width: 544
-VWidth: 1019
 Flags: HMW
 LayerCount: 2
 Fore
@@ -28,7 +27,6 @@ SplineSet
  88 393 l 5
  89 404 148 425 164 410 c 5
 EndSplineSet
-Validated: 33
 Substitution2: "pcap-1" m.pcap
 Substitution2: "smcp-1" m.smcp
 EndChar

@@ -2,14 +2,12 @@ StartChar: onequarter
 Encoding: 188 188 932
 GlifName: onequarter
 Width: 570
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 7.14 40.17<312.654 414.24 469.5 537.198> 263 21.1313<33.996 80.8599> 580.251 18.965<41.8124 88.4091> 590.012 19.3835<184.25 218.862>
 VStem: 102.908 54.7691<295.274 574.761> 414.24 55.26<-70.756 7.14 47.31 167.976> 462.75 19.81<261.759 269.142>
 LayerCount: 2
 Fore
 Refer: 942 8543 N 1 0 0 1 0 0 2
 Refer: 916 58402 N 1 0 0 1 244 0 2
-Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

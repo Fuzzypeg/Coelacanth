@@ -1,15 +1,14 @@
 StartChar: uni01D7
 Encoding: 471 471 712
 Width: 844
-VWidth: 0
 Flags: HW
 HStem: -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19 805> 788.076 169.7
 VStem: 120 75<119.571 665.877> 443.639 127
 LayerCount: 2
 Fore
-Refer: 163 58024 S 1 0 0 1 298 -57 2
+Refer: 163 58024 N 1 0 0 1 298 -57 2
 Refer: 53 85 N 1 0 0 1 0 0 3
-Refer: 90 58018 S 1 0 0 1 390.139 45.7764 2
+Refer: 90 58018 N 1 0 0 1 390.139 45.7764 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" uni01D8.pcap
 Substitution2: "c2sc-1" uni01D8.smcp

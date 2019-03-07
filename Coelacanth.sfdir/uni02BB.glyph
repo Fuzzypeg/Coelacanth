@@ -2,8 +2,7 @@ StartChar: uni02BB
 Encoding: 699 699 2576
 GlifName: uni02B_B_
 Width: 138
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 449 232
 VStem: 27 87<479.027 530.218>
 LayerCount: 2
@@ -36,5 +35,4 @@ SplineSet
  45.04296875 470.071289062 27 493.31640625 27 530 c 3
  27 566.139648438 44.2734375 615.150390625 105 681 c 1
 EndSplineSet
-Validated: 33
 EndChar

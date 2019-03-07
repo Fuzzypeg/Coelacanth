@@ -1,8 +1,7 @@
 StartChar: seven.smaller
 Encoding: 58365 58365 2651
 Width: 283
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 21G<151.5 152> 217 54<78.3757 189.923>
 VStem: 25 242
 LayerCount: 2
@@ -22,5 +21,4 @@ SplineSet
  25 182 56 265 60 286 c 1
  78 282 l 1
 EndSplineSet
-Validated: 33
 EndChar

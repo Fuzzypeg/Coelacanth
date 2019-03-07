@@ -2,7 +2,6 @@ StartChar: dotlessi
 Encoding: 305 305 50
 GlifName: dotlessi
 Width: 263
-VWidth: 1159
 Flags: HMW
 HStem: -7 33<33 87 184 254>
 VStem: 97 71<57 330>
@@ -30,7 +29,6 @@ SplineSet
  189 401 184 374 182 363 c 0
  172 319 168 213 168 196 c 3
 EndSplineSet
-Validated: 33
 Substitution2: "case-1" I
 Substitution2: "pcap-1" i.pcap
 Substitution2: "smcp-1" i.smcp

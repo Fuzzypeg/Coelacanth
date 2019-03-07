@@ -2,7 +2,6 @@ StartChar: eth.smcp
 Encoding: 57713 57713 2073
 GlifName: eth.smcp
 Width: 629
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -5.6 33.5<48.2 96.1045 195.964 366.694> 229 35<50 302> 458.7 30.5<45.9 92.5227> 466.5 28.6<190.199 346.789>

@@ -2,9 +2,8 @@ StartChar: uni1FC4
 Encoding: 8132 8132 1351
 GlifName: uni1F_C_4
 Width: 490
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -295 44.4951<103.29 173.654> 490.951 225.517
 VStem: 62.3593 65.9873<-249.952 -89.5438> 76.3632 71.1582<-220.355 -87.5068> 291.299 169.822
 LayerCount: 2

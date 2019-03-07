@@ -1,7 +1,6 @@
 StartChar: Q
 Encoding: 81 81 42
 Width: 785
-VWidth: 1361
 Flags: HW
 AnchorPoint: "Middle" 392.697 364.853 basechar 0
 AnchorPoint: "Top" 395 699 basechar 0

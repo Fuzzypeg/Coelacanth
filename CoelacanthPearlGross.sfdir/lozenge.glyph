@@ -1,8 +1,7 @@
 StartChar: lozenge
 Encoding: 9674 9674 1451
 Width: 466
-VWidth: 1515
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -19,5 +18,4 @@ SplineSet
  64.6083984375 373 l 1
  233 34.111328125 l 1
 EndSplineSet
-Validated: 1
 EndChar

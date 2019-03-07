@@ -1,7 +1,6 @@
 StartChar: theta
 Encoding: 952 952 524
 Width: 488
-VWidth: 1039
 UnlinkRmOvrlpSave: 1
 Flags: HW
 AnchorPoint: "Bottom" 232 -15 basechar 0

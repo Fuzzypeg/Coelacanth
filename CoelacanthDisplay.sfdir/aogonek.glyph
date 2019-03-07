@@ -1,7 +1,6 @@
 StartChar: aogonek
 Encoding: 261 261 256
 Width: 385
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -297.316 42.1279<244.082 310.039> -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.099 224.5>

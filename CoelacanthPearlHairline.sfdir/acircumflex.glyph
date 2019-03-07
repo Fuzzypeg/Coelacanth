@@ -1,15 +1,13 @@
 StartChar: acircumflex
 Encoding: 226 226 116
 Width: 442
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 564 155.801
 VStem: 63.2998 312.5
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 394 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" acircumflex.pcap
 Substitution2: "case-1" Acircumflex
 Substitution2: "smcp-1" acircumflex.smcp

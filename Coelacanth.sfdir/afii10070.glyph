@@ -2,8 +2,7 @@ StartChar: afii10070
 Encoding: 1077 1077 1068
 GlifName: afii10070
 Width: 409
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 425 168
 VStem: 53 185
 AnchorPoint: "Top" 209 465 basechar 0
@@ -11,5 +10,4 @@ AnchorPoint: "Bottom" 205 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 4 101 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

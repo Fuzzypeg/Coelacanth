@@ -2,8 +2,7 @@ StartChar: at
 Encoding: 64 64 874
 GlifName: at
 Width: 802
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -184 52<296.563 523.286> -31 20G<676.376 717.315> 1.09961 47.7002<458.768 559.989> 6.5 58.5<278.488 363.298> 517 44<312.978 552.39>
 VStem: 37 69<49.8848 285.86> 222.851 64.0986<81.8658 195.602> 713 47<195.839 377.338>
 LayerCount: 2
@@ -44,7 +43,6 @@ SplineSet
  478.177 259.858 483.105 283.587 483.105 298.967 c 3
  483.105 306.389 481.962 311.994 479.155 314.8 c 1
 EndSplineSet
-Validated: 33
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=160 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

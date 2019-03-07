@@ -2,11 +2,9 @@ StartChar: uni268A
 Encoding: 9866 9866 351
 GlifName: uni268A_
 Width: 746
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 24 66<30 716>
 LayerCount: 2
 Fore
 Refer: 1969 58115 N 0.686 0 0 1 30 57 2
-Validated: 1
 EndChar

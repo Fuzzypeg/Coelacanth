@@ -1,7 +1,6 @@
 StartChar: w.pcap
 Encoding: 57369 57369 665
 Width: 621
-VWidth: 657
 Flags: HW
 AnchorPoint: "Top" 315.934 489 basechar 0
 LayerCount: 2

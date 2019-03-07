@@ -2,15 +2,13 @@ StartChar: uni01E9
 Encoding: 489 489 307
 GlifName: uni01E_9
 Width: 486
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 33<17 67 297 341 441 484> 371 32<251 284 383 449> 763.319 133.361
 VStem: -2.78 252.561 88 63<55 214 237 488>
 DStem2: 215 255 161 220 0.728431 -0.685119<0 239.996>
 LayerCount: 2
 Fore
-Refer: 473 58083 S 1 0 0 1 321 313 2
+Refer: 473 58083 N 1 0 0 1 321 313 2
 Refer: 10 107 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "case-1" uni01E8
 EndChar

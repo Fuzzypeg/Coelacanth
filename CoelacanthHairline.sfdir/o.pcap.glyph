@@ -1,8 +1,7 @@
 StartChar: o.pcap
 Encoding: 57361 57361 656
 Width: 568
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -5 24<216.797 363.238> 389 24<222.37 356.677>
 VStem: 56 24<144.329 256.716> 488 24<138.011 261.925>
 AnchorPoint: "Ogonek" 394 27 basechar 0

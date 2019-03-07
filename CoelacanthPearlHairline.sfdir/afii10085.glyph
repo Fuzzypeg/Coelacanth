@@ -1,12 +1,10 @@
 StartChar: afii10085
 Encoding: 1091 1091 1072
 Width: 529
-VWidth: 0
-Flags: W
+Flags: HW
 AnchorPoint: "Top" 232.5 465 basechar 0
 AnchorPoint: "Bottom" 291 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 24 121 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

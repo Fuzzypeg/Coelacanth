@@ -1,12 +1,10 @@
 StartChar: uni4DC5
 Encoding: 19909 19909 370
 Width: 746
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -155 128<30.0001 293 453 716.001> 11 128<30 716> 175 128<30.0001 293 453 716.001> 337 128<30 716> 503 128<30 716> 667 128<30 716>
 LayerCount: 2
 Fore
-Refer: 362 9781 S 1 0 0 1 0 -148 2
-Refer: 357 9776 S 1 0 0 1 0 344 2
-Validated: 1
+Refer: 362 9781 N 1 0 0 1 0 -148 2
+Refer: 357 9776 N 1 0 0 1 0 344 2
 EndChar

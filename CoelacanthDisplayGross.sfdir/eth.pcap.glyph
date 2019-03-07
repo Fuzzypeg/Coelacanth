@@ -1,7 +1,6 @@
 StartChar: eth.pcap
 Encoding: 57389 57389 1643
 Width: 560
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -5 29<62 100.639 167.023 325.741> 183 31<63 303> 384 25<60 94.3433 192.381 307.805>

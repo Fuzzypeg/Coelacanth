@@ -1,14 +1,13 @@
 StartChar: uni01DF
 Encoding: 479 479 783
 Width: 452
-VWidth: 0
 Flags: HW
 HStem: 555.08 105.84<99.4941 193.506 275.494 369.506> 688.752 80.9567<108.5 367.5>
 VStem: 92.32 108.36<562.114 653.915> 268.32 108.36<562.114 653.915>
 LayerCount: 2
 Fore
 Refer: 97 776 N 1 0 0 1 409.5 -38 2
-Refer: 101 772 S 1 0 0 0.875322 409.5 186.793 2
+Refer: 101 772 N 1 0 0 0.875322 409.5 186.793 2
 Refer: 0 97 N 1 0 0 1 0 0 2
 Substitution2: "case-1" uni01DE
 EndChar

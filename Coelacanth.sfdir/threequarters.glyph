@@ -2,15 +2,13 @@ StartChar: threequarters
 Encoding: 190 190 943
 GlifName: threequarters
 Width: 557
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 7.14 40.17<299.654 401.24 456.5 524.198> 247.82 21.08<43.36 79.8209> 417.36 20.26<65.94 96.5181> 566.44 41.54<76.2497 165.676>
 VStem: 174.76 59.16<489.039 556.447> 185.92 64.98<330.312 406.308> 401.24 55.26<-70.756 7.14 47.31 167.976> 449.75 19.81<261.759 269.142>
 LayerCount: 2
 Fore
 Refer: 925 58411 N 1 0 0 1 0 0 2
-Refer: 911 8260 S 1 0 0 1 51 0 2
+Refer: 911 8260 N 1 0 0 1 51 0 2
 Refer: 916 58402 N 1 0 0 1 231 0 2
-Validated: 1
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

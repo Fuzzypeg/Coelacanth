@@ -1,7 +1,6 @@
 StartChar: Acircumflex
 Encoding: 194 194 170
 Width: 733
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Ogonek" 533 27 basechar 0
 AnchorPoint: "Bottom" 363 -15 basechar 0

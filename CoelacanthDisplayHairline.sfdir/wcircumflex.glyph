@@ -1,7 +1,6 @@
 StartChar: wcircumflex
 Encoding: 373 373 240
 Width: 645
-VWidth: 1159
 Flags: HW
 HStem: 371 15<-2 30.5327> 378 13<241 269.92> 389 11<410.766 426.091 511.2 518.347> 460 162
 VStem: 200.5 205

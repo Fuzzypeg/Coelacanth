@@ -2,7 +2,7 @@ StartChar: psi.pcap
 Encoding: 57537 57537 1848
 GlifName: psi.pcap
 Width: 518
-Flags: W
+Flags: HW
 HStem: -7 22G<162.629 177.46 345.34 359.79> 379 28<190.105 223.829 302.728 335.454>
 VStem: 233.416 58.3723<34.9766 174.226 194.805 375.63>
 LayerCount: 2
@@ -32,5 +32,4 @@ SplineSet
  224.668399825 379 206.979800141 377 188.63671875 381 c 1
  190.454101562 409 l 1
 EndSplineSet
-Validated: 33
 EndChar

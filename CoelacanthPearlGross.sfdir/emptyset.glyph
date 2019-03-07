@@ -1,9 +1,8 @@
 StartChar: emptyset
 Encoding: 8709 8709 1500
 Width: 503
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -12 108<239.407 361.775> 410 98<217.332 336.688>
 VStem: 51 114<179.344 351.311> 414 108<156.957 330.444>
 LayerCount: 2

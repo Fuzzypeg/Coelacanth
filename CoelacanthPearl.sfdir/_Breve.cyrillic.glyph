@@ -1,8 +1,7 @@
 StartChar: Breve.cyrillic
 Encoding: 58087 58087 1376
 Width: 321
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 727 56<108.378 215.884>
 VStem: -5 94<812.512 862.035> 234 93<812.512 862.364>
 AnchorPoint: "Top" 161 699 mark 0
@@ -21,5 +20,4 @@ SplineSet
  97.4834844065 839.035272285 92.046957792 822.842790535 101 812 c 0
  116.721925134 791.055555556 136.278366365 783 161 783 c 3
 EndSplineSet
-Validated: 1
 EndChar

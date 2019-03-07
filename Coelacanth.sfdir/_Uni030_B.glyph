@@ -2,8 +2,7 @@ StartChar: Uni030B
 Encoding: 58027 58027 166
 GlifName: U_ni030B_
 Width: 300
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 728.472 183.528
 VStem: 20.5 261.258
 AnchorPoint: "Top" 87 699 mark 0
@@ -21,5 +20,4 @@ SplineSet
  228.729 810.386 206.41 792.112 140.943 728.472 c 13
  120.971 755.492 l 17
 EndSplineSet
-Validated: 1
 EndChar

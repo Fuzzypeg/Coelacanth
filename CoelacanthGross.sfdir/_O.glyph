@@ -1,7 +1,6 @@
 StartChar: O
 Encoding: 79 79 40
 Width: 845
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Horn" 713.5 573 basechar 0
 AnchorPoint: "Middle" 423.697 364.853 basechar 0

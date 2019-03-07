@@ -2,8 +2,7 @@ StartChar: two
 Encoding: 50 50 65
 GlifName: two
 Width: 445
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 21G<353 372.5> 2 64<121 368.376> 405 53<115.723 234.173>
 VStem: 260 68<263.541 378.966>
 LayerCount: 2
@@ -25,7 +24,6 @@ SplineSet
  123 405 96 381 76 353 c 1
  56 367 l 1x70
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" two.denom
 Substitution2: "numr-1" two.numerator
 Substitution2: "tnum-1" two.tabulartext

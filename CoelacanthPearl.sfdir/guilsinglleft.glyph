@@ -1,8 +1,7 @@
 StartChar: guilsinglleft
 Encoding: 8249 8249 1289
 Width: 269
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -13 21G<125.154 210.5> 491 20G<125.154 210.5>
 VStem: 48 84.0996<169.515 328.485>
 LayerCount: 2
@@ -17,7 +16,6 @@ SplineSet
  67.3078234181 99.6831527218 66.6150706036 203.14672064 48 239 c 5
  48 259 l 5
 EndSplineSet
-Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

@@ -2,8 +2,7 @@ StartChar: uni2605
 Encoding: 9733 9733 347
 GlifName: uni2605
 Width: 821
-VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -19,5 +18,4 @@ SplineSet
  501.3 438.6 l 1
  796.5 438.6 l 1
 EndSplineSet
-Validated: 1
 EndChar

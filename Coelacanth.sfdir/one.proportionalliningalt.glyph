@@ -2,8 +2,7 @@ StartChar: one.proportionalliningalt
 Encoding: 58419 58419 1427
 GlifName: one.proportionalliningalt
 Width: 373
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 26<59.4615 124.48> 522.8 26<66.3462 87.4511> 662.8 20G<205.197 247.5>
 VStem: 157.087 69.9131<314.695 542.708> 159 61<82.5382 507.929>
 LayerCount: 2
@@ -27,5 +26,4 @@ SplineSet
  247.5 666.799804688 l 1
  238.038085938 640.200195312 228.209960938 588.924804688 227 568 c 0xf0
 EndSplineSet
-Validated: 1
 EndChar

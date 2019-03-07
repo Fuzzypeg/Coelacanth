@@ -2,7 +2,7 @@ StartChar: Theta
 Encoding: 920 920 983
 GlifName: T_heta
 Width: 845
-Flags: W
+Flags: HW
 HStem: -13 50<350.825 545.448> 338.5 61<269.644 572> 456.5 20G<220.5 253.556 581.5 612.5> 660 49<304.396 495.712>
 VStem: 43 93<264.284 455.257> 220.5 32<262.5 322.557 424.211 474.5> 588.5 29<261.017 313.193 419.193 470.5> 701 101<219.4 441.786>
 AnchorPoint: "Top" 426 699 basechar 0
@@ -27,7 +27,6 @@ SplineSet
  612.5 470.5 l 1
 EndSplineSet
 Refer: 990 927 N 1 0 0 1 0 0 2
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" theta.pcap
 Substitution2: "c2sc-1" theta.smcp

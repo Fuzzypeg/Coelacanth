@@ -1,8 +1,7 @@
 StartChar: uni1E7F.pcap
 Encoding: 57604 57604 1887
 Width: 466
-VWidth: 657
-Flags: W
+Flags: HW
 HStem: 384 21<30.6667 59.2904 159.546 201>
 VStem: 257 31<-22 26.5269>
 LayerCount: 2

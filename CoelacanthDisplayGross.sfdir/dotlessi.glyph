@@ -1,7 +1,6 @@
 StartChar: dotlessi
 Encoding: 305 305 49
 Width: 264
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Top" 132 429 basechar 0
 LayerCount: 2

@@ -1,7 +1,6 @@
 StartChar: o.pcap
 Encoding: 57361 57361 327
 Width: 568
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Middle" 289 206 basechar 0
 AnchorPoint: "Bottom" 288 -15 basechar 0

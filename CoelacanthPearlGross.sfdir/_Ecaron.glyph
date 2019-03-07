@@ -1,8 +1,7 @@
 StartChar: Ecaron
 Encoding: 282 282 204
 Width: 683
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 3.30371 82.6982<309.118 501.553> 300.281 81.3682<309.205 455.815> 513.313 21G<510.962 578.49> 601.251 77.8885<85.251 143.281 314.57 481.25> 667.216 20G<557.629 580.623>
 VStem: 143.093 164.129<88.6364 299.377 382.559 590.083> 466.895 75.8057<261.341 300.053 382.35 419.571> 514.244 64.2461<527.141 576.414>
 AnchorPoint: "Ogonek" 566 15 basechar 0
@@ -11,7 +10,6 @@ LayerCount: 2
 Fore
 Refer: 167 58028 N 1 0 0 1 209 -20 2
 Refer: 30 69 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ecaron.pcap
 Substitution2: "c2sc-1" ecaron.smcp

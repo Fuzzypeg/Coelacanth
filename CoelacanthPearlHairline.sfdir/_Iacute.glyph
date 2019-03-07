@@ -1,8 +1,7 @@
 StartChar: Iacute
 Encoding: 205 205 178
 Width: 453
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -13 55<70.2364 197.041> 634 55<75.6538 206.152 263.766 390.218> 720.552 134.448
 VStem: 193.163 197.837 202 57<56.248 620.751>
 AnchorPoint: "Bottom" 198 -15 basechar 0
@@ -11,7 +10,6 @@ LayerCount: 2
 Fore
 Refer: 90 58018 N 1 0 0 1 169 -20 2
 Refer: 34 73 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" iacute.pcap
 Substitution2: "c2sc-1" iacute.smcp

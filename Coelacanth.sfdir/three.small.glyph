@@ -1,8 +1,7 @@
 StartChar: three.small
 Encoding: 58454 58454 2657
 Width: 317
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -15.18 21.08<59.36 95.8209> 154.36 20.26<81.94 112.518> 303.44 41.54<92.2497 181.676>
 VStem: 190.76 59.16<226.039 293.447> 201.92 64.98<67.3119 143.308>
 LayerCount: 2
@@ -24,5 +23,4 @@ SplineSet
  266.9 29.0610983585 107.21625 -13.8726516415 59.36 -15.18 c 1
  51 5.9 l 1xe8
 EndSplineSet
-Validated: 1
 EndChar

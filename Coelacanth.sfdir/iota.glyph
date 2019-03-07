@@ -2,7 +2,6 @@ StartChar: iota
 Encoding: 953 953 1011
 GlifName: iota
 Width: 292
-VWidth: 1043
 Flags: HMW
 AnchorPoint: "Top" 160 465 basechar 0
 AnchorPoint: "Bottom" 140 -15 basechar 0
@@ -19,7 +18,6 @@ SplineSet
  104 400 176 426 194 410 c 1
  176 279.969726562 137 146.985351562 137 80 c 3
 EndSplineSet
-Validated: 33
 Substitution2: "pcap-1" i.pcap
 Substitution2: "smcp-1" i.smcp
 EndChar

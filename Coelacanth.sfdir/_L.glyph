@@ -2,8 +2,7 @@ StartChar: L
 Encoding: 76 76 37
 GlifName: L_
 Width: 614
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 44<23 88.0947> 2 50<189.846 505.493> 652 41<197.258 286.683>
 VStem: 94 88<57.6719 639.659> 562 35<122.552 159>
 AnchorPoint: "Bottom" 300 -15 basechar 0
@@ -33,7 +32,6 @@ SplineSet
  56.3726980984 686.141550464 101.593828395 682.453832817 146.076608846 682.453832817 c 3
  196.348930208 682.453832817 245.67819832 687.163949757 286 693 c 1xb8
 EndSplineSet
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" l.pcap
 Substitution2: "c2sc-1" l.smcp

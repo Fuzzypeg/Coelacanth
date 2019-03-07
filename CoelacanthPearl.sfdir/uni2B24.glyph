@@ -1,8 +1,7 @@
 StartChar: uni2B24
 Encoding: 11044 11044 1627
 Width: 1070
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -240 1000<398.058 671.942>
 VStem: 35 1000<123.745 397.256>
 LayerCount: 2
@@ -14,5 +13,4 @@ SplineSet
  1035 -15.244140625 811.315429688 -240 535 -240 c 3
  258.684570312 -240 35 -15.244140625 35 260.54296875 c 3
 EndSplineSet
-Validated: 1
 EndChar

@@ -2,9 +2,8 @@ StartChar: uni0492
 Encoding: 1170 1170 1830
 GlifName: uni0492
 Width: 570
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -9 35<45 91.758> 329 46<37 387> 645.356 35.6184<205.338 410.346> 654 31<29 93.7781> 680 20<526.477 537.182>
 VStem: 115 82<84.1495 638.851> 511 31<534 596.689>
 LayerCount: 2

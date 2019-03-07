@@ -1,8 +1,7 @@
 StartChar: uni0357
 Encoding: 855 855 2023
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 425 32<-225 -185.058> 545 32<-225 -184.551>
 VStem: -174 32<468.768 533.857>
 AnchorPoint: "Top" -157 537 mark 0

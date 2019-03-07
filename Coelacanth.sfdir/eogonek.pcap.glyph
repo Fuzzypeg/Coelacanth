@@ -2,7 +2,6 @@ StartChar: eogonek.pcap
 Encoding: 57415 57415 1667
 GlifName: eogonek.pcap
 Width: 468
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HMW
 HStem: -266 60.1279<272.947 335.414> -6 23<49 73.9636> 189 24<157 297.415> 378 19<43 73.1367>

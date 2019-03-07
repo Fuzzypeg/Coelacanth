@@ -2,8 +2,7 @@ StartChar: uni0370
 Encoding: 880 880 953
 GlifName: uni0370
 Width: 548
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 35<29 73.359> 332 36<176 439.617> 456 20G<464 506> 661 31<19 78.8107>
 VStem: 95 81<87.2516 332 368 615.232> 468 36<228 299.2 404.869 470.094>
 AnchorPoint: "Top" 166 699 basechar 0
@@ -33,6 +32,5 @@ SplineSet
  309 -14 l 1
  204.374023438 12 156.543945312 12 29 -9 c 1
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

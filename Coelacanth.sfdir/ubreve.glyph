@@ -2,15 +2,13 @@ StartChar: ubreve
 Encoding: 365 365 234
 GlifName: ubreve
 Width: 506
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -11 55<171 272> 338 31<291 350> 508.274 54.719<194.997 334.259>
 VStem: 69 76<71 327> 132.322 28.08<604.771 621.079> 358 65<36 52 75 331> 369.598 28.081<607.635 621.079>
 LayerCount: 2
 Fore
 Refer: 105 774 N 1 0 0 1 462.5 72 2
 Refer: 20 117 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" ubreve.smcp
 Substitution2: "case-1" Ubreve
 Substitution2: "pcap-1" ubreve.pcap

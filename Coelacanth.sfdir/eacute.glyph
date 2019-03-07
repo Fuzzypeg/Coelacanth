@@ -2,15 +2,13 @@ StartChar: eacute
 Encoding: 233 233 91
 GlifName: eacute
 Width: 409
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 425 168 490.951 225.517
 VStem: 53 185 180.889 169.822
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 415.5 63 2
 Refer: 4 101 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "pcap-1" eacute.pcap
 Substitution2: "case-1" Eacute
 Substitution2: "smcp-1" eacute.smcp

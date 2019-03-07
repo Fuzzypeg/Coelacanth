@@ -2,17 +2,16 @@ StartChar: uniFB25
 Encoding: 64293 64293 2582
 GlifName: uniF_B_25
 Width: 812
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 VStem: 59.1602 68.4395<600.136 625.24>
 AnchorPoint: "Top" 294.64 619.44 basechar 0
 LayerCount: 2
 Back
 SplineSet
-59.16015625 625.240234375 m 5
+59.16015625 625.240234375 m 1
  11.599609375 696 l 5
- 90.48046875 799.48046875 l 5
+ 90.48046875 799.48046875 l 1
  120.639648438 792.51953125 l 1029
 EndSplineSet
 Fore

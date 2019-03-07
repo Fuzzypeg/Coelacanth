@@ -1,8 +1,7 @@
 StartChar: uni2084
 Encoding: 8324 8324 1400
 Width: 301
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -12 39<72 153 207 268.287>
 VStem: 153 54<-71.5657 -12 27 116.87> 198 19<198.548 206.684>
 LayerCount: 2

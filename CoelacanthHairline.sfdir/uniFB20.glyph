@@ -1,7 +1,6 @@
 StartChar: uniFB20
 Encoding: 64288 64288 2543
 Width: 546
-VWidth: 0
 Flags: HW
 HStem: 457.92 20G<412.278 431.393>
 AnchorPoint: "Top" 222.72 619.44 basechar 0

@@ -2,7 +2,6 @@ StartChar: s
 Encoding: 115 115 18
 GlifName: s
 Width: 352
-VWidth: 1159
 Flags: HMW
 HStem: -9 38<111 233> 370 38<130 232>
 VStem: 49 68<274 353> 250 68<46 140>
@@ -30,7 +29,6 @@ SplineSet
  39 71 37 106 32 118 c 1
  54 125 l 1
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" S
 Substitution2: "pcap-1" s.pcap
 Substitution2: "smcp-1" s.smcp

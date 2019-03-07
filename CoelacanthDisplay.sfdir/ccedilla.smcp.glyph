@@ -1,7 +1,6 @@
 StartChar: ccedilla.smcp
 Encoding: 57704 57704 2067
 Width: 511
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -6.9 32.9<276.12 416.408> 468.6 30.9<260.464 406.89>
@@ -11,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 268 807 N 1 0 0 1 488 0 2
 Refer: 2034 57673 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar

@@ -1,9 +1,8 @@
 StartChar: omegatonos
 Encoding: 974 974 1114
 Width: 801
-VWidth: 1036
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 632.951 193.429
 VStem: 340.375 230.611
 AnchorPoint: "Bottom" 334.485 -15 basechar 0

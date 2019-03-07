@@ -2,8 +2,7 @@ StartChar: longs
 Encoding: 383 383 445
 GlifName: longs
 Width: 357
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -6 36<34 97.3708 215.17 284.568> 1 32<191.619 282.018> 356 25<46 67.3182> 701 55<273.459 377.117>
 VStem: 113 72<42.1466 356 403 602.768>
 AnchorPoint: "Top" 262 748 basechar 0
@@ -35,7 +34,6 @@ SplineSet
  113 601 156 657 224 704 c 0
  263 731 300 756 359 756 c 3x78
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" S
 Substitution2: "pcap-1" s.pcap
 Substitution2: "smcp-1" s.smcp

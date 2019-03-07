@@ -1,9 +1,8 @@
 StartChar: arrowup
 Encoding: 8593 8593 1302
 Width: 329
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 454 267
 VStem: 20 289
 LayerCount: 2

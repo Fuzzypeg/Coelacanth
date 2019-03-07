@@ -2,8 +2,7 @@ StartChar: three.tabularlining
 Encoding: 58381 58381 685
 GlifName: three.tabularlining
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -16 26<99.3077 122.271> 320 26<106.577 147.534> 597 44<148.223 268.15>
 VStem: 299 69<458.643 567.04> 320 74<155.126 282.585>
 LayerCount: 2
@@ -25,7 +24,6 @@ SplineSet
  394 79.4505464361 159.874023438 -8.7369535639 102 -16 c 1
  92 10 l 1xe8
 EndSplineSet
-Validated: 1
 Substitution2: "pnum-1" three.proportionallining
 Substitution2: "onum-1" three.tabulartext
 Substitution2: "numr-1" three.numerator

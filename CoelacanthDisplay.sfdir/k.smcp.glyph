@@ -1,7 +1,6 @@
 StartChar: k.smcp
 Encoding: 57681 57681 2042
 Width: 544
-VWidth: 807
 Flags: HW
 AnchorPoint: "Top" 250 539 basechar 0
 AnchorPoint: "Bottom" 264 -15 basechar 0

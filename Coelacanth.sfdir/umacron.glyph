@@ -2,15 +2,13 @@ StartChar: umacron
 Encoding: 363 363 232
 GlifName: umacron
 Width: 506
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -11 55<171 272> 338 31<291 350> 519 49<135.5 394.5>
 VStem: 69 76<71 327> 358 65<36 52 75 331>
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 462.5 72 2
 Refer: 20 117 N 1 0 0 1 0 0 3
-Validated: 1
 Substitution2: "smcp-1" umacron.smcp
 Substitution2: "case-1" Umacron
 Substitution2: "pcap-1" umacron.pcap

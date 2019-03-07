@@ -2,8 +2,7 @@ StartChar: Tilde
 Encoding: 58022 58022 161
 GlifName: T_ilde
 Width: 329
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 754.053 60<160.322 263.434> 791.391 59.4463<72.1065 175.197>
 VStem: 15.0732 301.744
 AnchorPoint: "Top" 165 699 mark 0
@@ -20,5 +19,4 @@ SplineSet
  83.9345703125 791.390625 63.60546875 760.771484375 49.783203125 741.64453125 c 1
  15.0732421875 755.353515625 l 1x60
 EndSplineSet
-Validated: 1
 EndChar

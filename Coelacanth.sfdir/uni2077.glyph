@@ -2,12 +2,10 @@ StartChar: uni2077
 Encoding: 8311 8311 1328
 GlifName: uni2077
 Width: 283
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 434 21G<151.5 152> 651 54<78.3757 189.923>
 VStem: 25 242
 LayerCount: 2
 Fore
 Refer: 1403 8327 N 1 0 0 1 0 514 2
-Validated: 1
 EndChar

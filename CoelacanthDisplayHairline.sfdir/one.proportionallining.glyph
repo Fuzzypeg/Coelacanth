@@ -1,8 +1,7 @@
 StartChar: one.proportionallining
 Encoding: 58389 58389 902
 Width: 349
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 26<48 119.836 230.737 302> 604 22<58 127.569> 625 24<258.962 296.583>
 VStem: 147 61<109.745 563.033>
 LayerCount: 2

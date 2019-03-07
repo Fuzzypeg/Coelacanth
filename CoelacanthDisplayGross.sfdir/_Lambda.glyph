@@ -1,8 +1,7 @@
 StartChar: Lambda
 Encoding: 923 923 985
 Width: 705
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 37<460 513.054> -5 39<17 66.9704 632.488 690.419>
 VStem: 350 43<632.023 712>
 AnchorPoint: "Top" 367 699 basechar 0
@@ -31,7 +30,6 @@ SplineSet
  504.31 37 535.577 47.0285 525 76 c 0
  465.613 238.668 406.639 388.02 342 545 c 9xa0
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" lambda.pcap
 Substitution2: "c2sc-1" lambda.smcp

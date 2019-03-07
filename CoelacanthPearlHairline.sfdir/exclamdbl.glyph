@@ -1,13 +1,11 @@
 StartChar: exclamdbl
 Encoding: 8252 8252 1291
 Width: 532
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0.443359 118.316<118.824 172.5 384.824 438.5>
 VStem: 88.389 115.64<30.0707 86.4186> 119.656 55.6758<209 656.067> 354.389 115.64<30.0707 86.4186> 385.656 55.6758<209 656.067>
 LayerCount: 2
 Fore
 Refer: 75 33 N 1 0 0 1 266 0 2
 Refer: 75 33 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

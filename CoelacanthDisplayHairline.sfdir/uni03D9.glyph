@@ -1,9 +1,8 @@
 StartChar: uni03D9
 Encoding: 985 985 1037
 Width: 510
-VWidth: 1043
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -11.2998 20G<221.08 288.537>
 VStem: 204 77<-215.107 3.21944>
 LayerCount: 2

@@ -1,7 +1,6 @@
 StartChar: aacute.pcap
 Encoding: 57374 57374 1629
 Width: 425
-VWidth: 657
 Flags: HW
 HStem: -7 25<34 58.0979 295 312.5> 138 30<175 275.575> 395 20G<232.5 267> 557 159
 VStem: 214.5 177 234 31<355.154 415>

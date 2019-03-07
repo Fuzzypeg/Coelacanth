@@ -2,9 +2,8 @@ StartChar: uni03CF
 Encoding: 975 975 1028
 GlifName: uni03C_F_
 Width: 687
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -22 20G<595 669.536> -10 30<217.663 272.933> 656 36<560.74 605.75> 657 31<21 70.7048 200.717 269.581 391 438.415>
 VStem: 91 87<44.2186 246.927 483.856 609.995>
 LayerCount: 2

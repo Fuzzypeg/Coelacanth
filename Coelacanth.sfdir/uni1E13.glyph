@@ -2,13 +2,11 @@ StartChar: uni1E13
 Encoding: 7699 7699 540
 GlifName: uni1E_13
 Width: 511
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -250.4 184.8 451 102<-225.927 -142.073>
 VStem: -236 104<460.954 543.046> 110.75 225.5
 LayerCount: 2
 Fore
 Refer: 599 813 N 1 0 0 1 417 -8 2
 Refer: 3 100 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

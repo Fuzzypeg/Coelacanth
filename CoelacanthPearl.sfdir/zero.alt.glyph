@@ -1,9 +1,8 @@
 StartChar: zero.alt
 Encoding: 58420 58420 1728
 Width: 573
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -12 82<220.302 367.309> 431 77<209.556 352.22>
 VStem: 51 85<162.78 347.8> 440 82<155.702 338.788>
 LayerCount: 2

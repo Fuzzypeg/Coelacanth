@@ -2,8 +2,7 @@ StartChar: uni1FFE
 Encoding: 8190 8190 1615
 GlifName: uni1F_F_E_
 Width: 278
-VWidth: 1043
-Flags: W
+Flags: HW
 HStem: 494 22<138.807 182> 618.8 74<115.309 157.999>
 VStem: 64 44<532.962 604.962>
 AnchorPoint: "Top" 142.501 464 mark 0
@@ -22,5 +21,4 @@ SplineSet
  108 534.618310772 146.795163665 516 183 516 c 1
  182 494 l 1
 EndSplineSet
-Validated: 1
 EndChar

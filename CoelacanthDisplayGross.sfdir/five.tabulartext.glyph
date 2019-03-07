@@ -1,8 +1,7 @@
 StartChar: five.tabulartext
 Encoding: 58373 58373 676
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 326.5 67<155.721 377.458>
 VStem: 287 63<-35.1918 93.1643>
 LayerCount: 2

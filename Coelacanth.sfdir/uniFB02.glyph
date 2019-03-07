@@ -2,8 +2,7 @@ StartChar: uniFB02
 Encoding: 64258 64258 698
 GlifName: uniF_B_02
 Width: 592
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -6 36<34 95.891 326.647 355.566 473.699 545.909> 1 32<191.619 271.026> 348.015 51.941<188.436 394.915> 360 37<39 113 187 389.338> 701 55<287.006 385.169>
 VStem: 114 71<42.7113 360 397 601.139> 395 69<66.6681 350.706 399.956 531.34>
 LayerCount: 2
@@ -53,7 +52,6 @@ SplineSet
  190 487 188 435 187 397 c 1x1e
  394.915 399.956 l 1
 EndSplineSet
-Validated: 1
 LCarets2: 1 292
 Ligature2: "liga-1" f l
 EndChar

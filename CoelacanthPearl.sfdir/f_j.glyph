@@ -1,8 +1,7 @@
 StartChar: f_j
 Encoding: 58320 58320 718
 Width: 525
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -7 66<11 74.384> 437 62<8 82 180 358.291> 497 20G<416.313 467.5> 670 79<231.953 392.561>
 VStem: 82 98<304.981 437 499 627.721> 87 83<84.6078 434.677> 368 87<-2.60929 398.645>
 LayerCount: 2
@@ -92,7 +91,6 @@ SplineSet
  478 468 470.571091658 440.877251345 466 421 c 0
  458 386.212246295 455 271.920204386 455 257 c 3xba
 EndSplineSet
-Validated: 33
 LCarets2: 1 0
 Ligature2: "liga-1" f j
 EndChar

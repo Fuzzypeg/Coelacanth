@@ -1,7 +1,6 @@
 StartChar: ycircumflex.pcap
 Encoding: 57461 57461 1716
 Width: 435
-VWidth: 0
 Flags: HW
 HStem: -11 27<168.185 206.747 323.93 362.656> 382 25<33.44 68.7653 140.953 189 304 342.606 427.785 467> 555 162
 VStem: 144.5 205

@@ -1,8 +1,7 @@
 StartChar: igrave.alt
 Encoding: 58122 58122 1431
 Width: 263
-VWidth: 1159
-Flags: W
+Flags: HW
 AnchorPoint: "Bottom" 127 -15 basechar 0
 LayerCount: 2
 Fore

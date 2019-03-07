@@ -1,9 +1,8 @@
 StartChar: uni021D.pcap
 Encoding: 57518 57518 1830
 Width: 382
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -117 27.5742<54.7294 105.58> 146.663 22.2266<89.7936 120.673> 376.629 45.3711<115.96 221.72>
 VStem: 246.119 72.9521<260.54 337.473> 263 76<37.4852 123.771>
 LayerCount: 2

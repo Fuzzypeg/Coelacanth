@@ -1,9 +1,8 @@
 StartChar: eight.denom
 Encoding: 58406 58406 437
 Width: 308
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -89 28<128.072 200.211> 235 25<113.002 173.643>
 VStem: 34 57<-34.3188 49.7737> 55 45<157.194 229.31> 199 50<141.922 220.084> 216 60<-45.9945 44.4187>
 LayerCount: 2

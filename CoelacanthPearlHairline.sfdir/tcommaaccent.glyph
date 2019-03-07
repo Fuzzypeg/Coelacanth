@@ -1,9 +1,8 @@
 StartChar: tcommaaccent
 Encoding: 355 355 270
 Width: 336
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -172 50.1914<88.0342 175.15>
 VStem: 175.175 58.4277<-118.562 -80.38>
 LayerCount: 2

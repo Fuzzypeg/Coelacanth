@@ -2,14 +2,12 @@ StartChar: zero.numerator
 Encoding: 58408 58408 922
 GlifName: zero.numerator
 Width: 366
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 260.044 27.288<154.846 236.541> 576.829 28.8754<129.484 215.516>
 VStem: 30.0628 65.3421<346.39 520.962> 266.901 69.4395<340.203 525.884>
 LayerCount: 2
 Fore
 Refer: 912 58398 N 1 0 0 1 0 346 2
-Validated: 1
 Kerns2: 911 -173 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "dnom-1" zero.denom

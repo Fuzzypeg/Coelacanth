@@ -1,8 +1,7 @@
 StartChar: uni01EF.smcp
 Encoding: 57819 57819 2180
 Width: 483
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 31.1<179.17 304.14> 454.2 34.6<129.877 315.8> 628 162
 VStem: 81.7 27.1<-2.8 9.66452> 153.5 205 367.7 74.4<83.7099 215.263>
 LayerCount: 2

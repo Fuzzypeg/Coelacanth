@@ -1,10 +1,9 @@
 StartChar: similar
 Encoding: 8764 8764 1521
 Width: 463
-VWidth: 0
 Flags: HW
 HStem: 165 92.8028<270.937 348.166> 234.128 92.0583<115.77 201.297>
 LayerCount: 2
 Fore
-Refer: 339 126 S 1.15856 0 0 0.995246 -17.747 -27.9124 2
+Refer: 339 126 N 1.15856 0 0 0.995246 -17.747 -27.9124 2
 EndChar

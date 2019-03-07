@@ -2,8 +2,7 @@ StartChar: seven
 Encoding: 55 55 70
 GlifName: seven
 Width: 420
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 339 67<88.377 340.466>
 LayerCount: 2
 Fore
@@ -22,7 +21,6 @@ SplineSet
  19 293 58 396 64 427 c 9
  88 422 l 17
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" seven.denom
 Substitution2: "numr-1" seven.numerator
 Substitution2: "tnum-1" seven.tabulartext

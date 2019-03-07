@@ -1,8 +1,7 @@
 StartChar: uniFB22
 Encoding: 64290 64290 1225
 Width: 812
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 431.52 126.44<470.314 679.76>
 VStem: 643.8 29<-8.27967 2.06206> 667 59.1602<246.573 408.277>
 AnchorPoint: "Top" 220.4 619.44 basechar 0

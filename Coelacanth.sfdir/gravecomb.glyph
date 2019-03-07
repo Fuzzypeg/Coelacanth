@@ -2,8 +2,7 @@ StartChar: gravecomb
 Encoding: 768 768 94
 GlifName: gravecomb
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 430.175 225.516
 VStem: -337.486 169.82
 AnchorPoint: "TopMark" -195 625 basemark 0
@@ -18,5 +17,4 @@ SplineSet
  -316.02871574 639.102548633 -281.637923868 654.548346758 -279.433 655.691 c 1
  -242.068 604.168 -192.677 511.339 -167.666 450.849 c 9
 EndSplineSet
-Validated: 1
 EndChar

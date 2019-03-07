@@ -1,8 +1,7 @@
 StartChar: NameMe.question
 Encoding: 65536 -1 1394
 Width: 333
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -19.2774 131.308<116.87 147.219>
 VStem: 71.0761 124.447<28.0593 62.0538> 123 18<155 182.499> 246 27<300.281 357.526>
 LayerCount: 2
@@ -22,5 +21,4 @@ SplineSet
  246 373 168 396 51 389 c 1xb0
 EndSplineSet
 Refer: 48 46 N 0.929057 0 0 0.987278 39 -2 2
-Validated: 33
 EndChar

@@ -1,8 +1,7 @@
 StartChar: uni03E5
 Encoding: 997 997 2760
 Width: 506
-VWidth: 1043
-Flags: W
+Flags: HW
 HStem: -9 56<161.848 310.935> 379 35<192.034 280.133>
 VStem: 36 78<96.4076 278.388> 383 76<304.705 400.555>
 AnchorPoint: "Top" 259 465 basechar 0
@@ -29,5 +28,4 @@ SplineSet
  384 404 443 425 459 410 c 1
  459 278.972616391 420.040851417 193.995617034 405 54 c 0
 EndSplineSet
-Validated: 37
 EndChar

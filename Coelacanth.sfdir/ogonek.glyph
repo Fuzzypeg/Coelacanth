@@ -2,12 +2,10 @@ StartChar: ogonek
 Encoding: 731 731 1226
 GlifName: ogonek
 Width: 258
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -300 60.128<109.016 180.144>
 VStem: 24.562 69.209<-226.6 -119.119>
 LayerCount: 2
 Fore
 Refer: 254 808 N 1 0 0 1 292 0 2
-Validated: 1
 EndChar

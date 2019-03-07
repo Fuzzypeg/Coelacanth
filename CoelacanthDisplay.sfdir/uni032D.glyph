@@ -1,13 +1,11 @@
 StartChar: uni032D
 Encoding: 813 813 599
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -234 162
 VStem: -296 205
 AnchorPoint: "Bottom" -193 -7 mark 0
 LayerCount: 2
 Fore
-Refer: 93 770 S 1 0 0 1 4 -725 2
-Validated: 1
+Refer: 93 770 N 1 0 0 1 4 -725 2
 EndChar

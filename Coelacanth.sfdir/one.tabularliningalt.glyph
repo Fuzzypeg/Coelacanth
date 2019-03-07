@@ -2,8 +2,7 @@ StartChar: one.tabularliningalt
 Encoding: 58418 58418 1426
 GlifName: one.tabularliningalt
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 26<81.4615 161.091> 522.8 26<99.3462 121.895> 662.8 20G<245.948 289.5>
 VStem: 199.087 69.9131<320.586 542.708> 201 61<88.9551 507.985>
 LayerCount: 2
@@ -27,5 +26,4 @@ SplineSet
  289.5 666.799804688 l 1
  280.038 640.199857272 270.21 588.924958634 269 568 c 0xf0
 EndSplineSet
-Validated: 1
 EndChar

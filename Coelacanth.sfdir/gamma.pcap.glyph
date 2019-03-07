@@ -2,12 +2,10 @@ StartChar: gamma.pcap
 Encoding: 57528 57528 1839
 GlifName: gamma.pcap
 Width: 428
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -5.91016 22.9824<72.1835 94.3307> 378.56 24.5879<63.6298 108.345 200.617 317.049> 398.355 20G<363.453 372.623>
 VStem: 115.763 66.8252<38.0644 375.086> 364.627 20.3701<303.745 316.686 407.747 409.15>
 LayerCount: 2
 Fore
 Refer: 1255 1075 N 1 0 0 1 31.997 0 2
-Validated: 1
 EndChar

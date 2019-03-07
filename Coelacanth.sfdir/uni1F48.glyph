@@ -2,7 +2,7 @@ StartChar: uni1F48
 Encoding: 8008 8008 1544
 GlifName: uni1F_48
 Width: 878
-Flags: W
+Flags: HW
 HStem: -13 50<383.825 578.448> 518.048 23.76<-2.80904 43.8394> 652.832 79.92<23.112 68.0649> 660 49<337.396 528.712>
 VStem: 76 93<264.284 455.257> 76.031 48.6<558.997 638.051> 734 101<219.4 441.786>
 AnchorPoint: "Middle" 456.697 364.853 basechar 0
@@ -11,6 +11,5 @@ AnchorPoint: "Top" 459 699 basechar 0
 LayerCount: 2
 Fore
 Refer: 990 927 N 1 0 0 1 33 0 2
-Refer: 1607 8127 S 1.08 0 0 1.08 -119.273 -15.472 2
-Validated: 1
+Refer: 1607 8127 N 1.08 0 0 1.08 -119.273 -15.472 2
 EndChar

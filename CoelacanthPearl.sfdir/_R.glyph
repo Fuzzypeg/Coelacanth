@@ -1,7 +1,6 @@
 StartChar: R
 Encoding: 82 82 43
 Width: 800
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Bottom" 360 -15 basechar 0
 AnchorPoint: "Top" 341 679 basechar 0
@@ -36,7 +35,6 @@ SplineSet
  136 605 124 604 72 606 c 1
  72 675 l 1
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "salt-1" R.alt
 Substitution2: "c2pc-1" r.pcap

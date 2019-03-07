@@ -2,8 +2,7 @@ StartChar: question.pcap
 Encoding: 57474 57474 1751
 GlifName: question.pcap
 Width: 318
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -23.6595 124.397<115.951 151.786> 327.674 80.3263<75.291 215.291>
 VStem: 76.0845 117.897<17.488 57.1421> 126 18<140 160.389> 249 27<266.214 305.988>
 LayerCount: 2
@@ -25,5 +24,4 @@ SplineSet
  79.9171764462 327.673689228 67.2070588846 327.451523381 54 327 c 1xd8
 EndSplineSet
 Refer: 48 46 N 0.836151 0 0 0.88855 51 -5 2
-Validated: 1
 EndChar

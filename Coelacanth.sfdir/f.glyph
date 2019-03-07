@@ -2,7 +2,6 @@ StartChar: f
 Encoding: 102 102 5
 GlifName: f
 Width: 357
-VWidth: 1159
 Flags: HMW
 HStem: -6 37<34 97 191 283> 355 47<39 113 187 338> 701 55<268 384>
 VStem: 114 70<42 369 405 614>
@@ -39,7 +38,6 @@ SplineSet
  113 601 156 657 224 704 c 4
  263 731 300 756 359 756 c 7
 EndSplineSet
-Validated: 1
 Substitution2: "salt-1" f.alt
 Substitution2: "case-1" F
 Substitution2: "pcap-1" f.pcap

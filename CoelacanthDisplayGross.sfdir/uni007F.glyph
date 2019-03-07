@@ -1,8 +1,7 @@
 StartChar: uni007F
 Encoding: 127 127 1373
 Width: 770
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 59<338.842 413.277> 216.5 41.8262<340.536 414.478>
 VStem: 425.75 306.641<257.793 462.35>
 LayerCount: 2
@@ -31,5 +30,4 @@ SplineSet
  197.787 0 37.4082 133.65 37.4082 334.125 c 0
  37.4082 534.598 204.47 681.619 384.896 681.619 c 0
 EndSplineSet
-Validated: 33
 EndChar

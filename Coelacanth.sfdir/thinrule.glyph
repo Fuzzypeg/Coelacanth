@@ -2,8 +2,7 @@ StartChar: thinrule
 Encoding: 58113 58113 1967
 GlifName: thinrule
 Width: 1000
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -16 32<0 1000>
 LayerCount: 2
 Fore
@@ -14,5 +13,4 @@ SplineSet
  1000 -16 l 1
  0 -16 l 1
 EndSplineSet
-Validated: 1
 EndChar

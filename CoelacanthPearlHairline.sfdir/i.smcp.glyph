@@ -1,8 +1,7 @@
 StartChar: i.smcp
 Encoding: 57679 57679 2038
 Width: 400
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -8 66<247.449 314.53> 438 71<69.5139 135.452 252.508 318.493>
 VStem: 140 104<63.5768 428.84>
 AnchorPoint: "Top" 209 580 basechar 0

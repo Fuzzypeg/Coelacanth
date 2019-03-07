@@ -2,7 +2,6 @@ StartChar: clicklateral.pcap
 Encoding: 57471 57471 1743
 GlifName: clicklateral.pcap
 Width: 313
-VWidth: 1515
 Flags: HW
 LayerCount: 2
 Fore

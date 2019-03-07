@@ -1,7 +1,6 @@
 StartChar: z.smcp
 Encoding: 57696 57696 2057
 Width: 542
-VWidth: 807
 Flags: HW
 AnchorPoint: "Top" 282 539 basechar 0
 AnchorPoint: "Bottom" 267 -15 basechar 0

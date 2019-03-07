@@ -1,8 +1,7 @@
 StartChar: Q
 Encoding: 81 81 42
 Width: 801
-VWidth: 1361
-Flags: W
+Flags: HW
 HStem: -157 56<641.005 792.424> 635 56<274.532 502.526>
 VStem: 42 56<229.157 461.619> 689 56<236.681 457.195>
 AnchorPoint: "Bottom" 321 -15 basechar 0
@@ -46,7 +45,6 @@ SplineSet
  585 691 745 547 745 356 c 3
  745 200 647 61 524 12 c 1
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "salt-1" Q.alt
 Substitution2: "c2pc-1" q.pcap

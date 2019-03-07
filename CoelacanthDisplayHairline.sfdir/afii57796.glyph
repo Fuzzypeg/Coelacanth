@@ -1,8 +1,7 @@
 StartChar: afii57796
 Encoding: 1467 1467 2501
 Width: 0
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -237 93.0225 -194 93.0225 -151 93.0225
 VStem: 139.018 90.875 241.018 90.875 343.018 90.875
 LayerCount: 2

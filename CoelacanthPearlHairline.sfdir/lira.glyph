@@ -1,9 +1,8 @@
 StartChar: lira
 Encoding: 8356 8356 1294
 Width: 509
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -20 68<151.845 398.07> 256 37<20 136.111> 383 37<20 136.111> 702 51<279.809 394.324>
 VStem: 139 77<178.369 604.45>
 LayerCount: 2

@@ -1,13 +1,12 @@
 StartChar: uni1FBB
 Encoding: 8123 8123 1621
 Width: 719
-VWidth: 1159
 Flags: HW
 HStem: -7 18<33 46.5502 203.436 236.667 487.333 524.463 679.953 704> 247 38<236 462>
 AnchorPoint: "Bottom" 363 -15 basechar 0
 AnchorPoint: "Top" 377 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 1618 8189 S 1.08329 0.191013 -0.191013 1.08329 117.276 -26.841 2
+Refer: 1618 8189 N 1.08329 0.191013 -0.191013 1.08329 117.276 -26.841 2
 Refer: 976 913 N 1 0 0 1 0 0 2
 EndChar

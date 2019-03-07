@@ -2,8 +2,7 @@ StartChar: K
 Encoding: 75 75 36
 GlifName: K_
 Width: 687
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -10 30<217.663 272.933> -1 24<470.273 498.261 656.235 673.667> 657 31<20.4194 73.0559 201.774 269.29 568.711 604.844>
 VStem: 91 92<40.8706 315.532> 99.5133 78.4867<125.33 316 357 600.136>
 AnchorPoint: "Bottom" 359 -15 basechar 0
@@ -46,7 +45,6 @@ SplineSet
  447 645.335008337 427 651.657226562 390 658 c 1
  391 685 l 1xa8
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" k.pcap
 Substitution2: "c2sc-1" k.smcp

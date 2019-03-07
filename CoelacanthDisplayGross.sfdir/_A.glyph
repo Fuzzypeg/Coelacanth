@@ -1,7 +1,6 @@
 StartChar: A
 Encoding: 65 65 26
 Width: 719
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Bottom" 365 -15 basechar 0
 AnchorPoint: "Top" 366 699 basechar 0

@@ -1,7 +1,6 @@
 StartChar: t.pcap
 Encoding: 57366 57366 662
 Width: 532
-VWidth: 1159
 Flags: HW
 LayerCount: 2
 Back

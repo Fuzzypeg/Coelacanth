@@ -1,7 +1,6 @@
 StartChar: afii10017
 Encoding: 1040 1040 1054
 Width: 733
-VWidth: 0
 Flags: HW
 AnchorPoint: "Top" 367 699 basechar 0
 AnchorPoint: "Bottom" 353 -15 basechar 0

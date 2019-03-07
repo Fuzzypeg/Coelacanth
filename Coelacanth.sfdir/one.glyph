@@ -2,8 +2,7 @@ StartChar: one
 Encoding: 49 49 64
 GlifName: one
 Width: 371
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 0 26<76.4615 128.33 238.518 295> 369 23<87 141.625> 379 23<251.417 289.609>
 VStem: 158 61<44.4318 360.804>
 LayerCount: 2
@@ -27,7 +26,6 @@ SplineSet
  147 357 151 365 86 369 c 9
  87 392 l 1xd0
 EndSplineSet
-Validated: 1
 Substitution2: "dnom-1" one.denom
 Substitution2: "numr-1" one.numerator
 Substitution2: "tnum-1" one.tabulartext

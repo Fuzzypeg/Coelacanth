@@ -2,8 +2,7 @@ StartChar: five.tabularlining
 Encoding: 58383 58383 687
 GlifName: five.tabularlining
 Width: 463
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 568.5 67<163.721 385.458> 670.5 20G<404.055 434>
 VStem: 295 63<190.763 331.56>
 LayerCount: 2
@@ -23,7 +22,6 @@ SplineSet
  295 325.541763798 247.772460938 403.096774194 105 391 c 1
  118.6796875 447.695652174 135.7578125 546.06375558 141 635.5 c 9
 EndSplineSet
-Validated: 33
 Substitution2: "pnum-1" five.proportionallining
 Substitution2: "onum-1" five.tabulartext
 Substitution2: "numr-1" five.numerator

@@ -1,8 +1,7 @@
 StartChar: uni1ECB.smcp
 Encoding: 57966 57966 2327
 Width: 307
-VWidth: 807
-Flags: W
+Flags: HW
 HStem: -7.9 30.2<48.3656 110.618> 462.3 32.5<52.24 117.352>
 VStem: 135.472 67.4424<39.011 449.27>
 LayerCount: 2

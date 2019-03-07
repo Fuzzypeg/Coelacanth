@@ -2,12 +2,11 @@ StartChar: tonos
 Encoding: 900 900 966
 GlifName: tonos
 Width: 189
-Flags: W
+Flags: HW
 HStem: 427.951 225.517
 VStem: 18.391 169.822
 AnchorPoint: "Top" 43.501 402 mark 0
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 253.002 0 2
-Validated: 1
 EndChar

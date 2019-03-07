@@ -2,8 +2,7 @@ StartChar: exclam.smcp
 Encoding: 57797 57797 2155
 GlifName: exclam.smcp
 Width: 260
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -22.1617 129.078<105.732 143.697>
 VStem: 63.4984 124.9<20.5342 61.6804> 108.3 40.1<163.5 321.756>
 LayerCount: 2
@@ -18,5 +17,4 @@ SplineSet
  108.3 163.5 l 1xa0
 EndSplineSet
 Refer: 48 46 N 0.885815 0 0 0.921985 36.924 -2.8 2
-Validated: 33
 EndChar

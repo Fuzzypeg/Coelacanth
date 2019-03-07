@@ -1,7 +1,6 @@
 StartChar: agrave.pcap
 Encoding: 57373 57373 1628
 Width: 425
-VWidth: 1159
 Flags: HW
 HStem: -7 25<34 58.0979 295 312.5> 138 30<175 275.575> 395 20G<232.5 267> 550 159
 VStem: 90.5 177 234 31<355.154 415>

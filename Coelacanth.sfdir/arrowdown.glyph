@@ -2,9 +2,8 @@ StartChar: arrowdown
 Encoding: 8595 8595 1304
 GlifName: arrowdown
 Width: 329
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -41 267
 VStem: 20 289
 LayerCount: 2

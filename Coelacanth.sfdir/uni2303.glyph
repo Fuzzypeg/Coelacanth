@@ -2,8 +2,7 @@ StartChar: uni2303
 Encoding: 8963 8963 1534
 GlifName: uni2303
 Width: 329
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 454 267
 VStem: 20 289
 LayerCount: 2
@@ -18,5 +17,4 @@ SplineSet
  83.5328467153 544 110.335766423 635 156 721 c 5
  173 721 l 1
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,8 +1,7 @@
 StartChar: asterisk
 Encoding: 42 42 87
 Width: 362
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 403.953 21G<240.417 271.479>
 VStem: 136 75<624.196 692.944>
 LayerCount: 2
@@ -25,5 +24,4 @@ SplineSet
  315.788 432.817 289.015 408.421 253.942 403.953 c 1
  226.891 439.119 234.931 465.765 186.306 531.294 c 1
 EndSplineSet
-Validated: 33
 EndChar

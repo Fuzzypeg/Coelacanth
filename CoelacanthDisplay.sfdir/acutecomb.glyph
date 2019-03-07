@@ -1,8 +1,7 @@
 StartChar: acutecomb
 Encoding: 769 769 92
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 494 159
 VStem: -226 177
 AnchorPoint: "Top" -198.5 470 mark 0
@@ -15,5 +14,4 @@ SplineSet
  -103.037109375 592.0703125 -160 550 -216 494 c 13
  -226 504 l 21
 EndSplineSet
-Validated: 1
 EndChar

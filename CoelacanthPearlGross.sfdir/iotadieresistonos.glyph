@@ -1,7 +1,6 @@
 StartChar: iotadieresistonos
 Encoding: 912 912 1115
 Width: 345
-VWidth: 1043
 Flags: HW
 AnchorPoint: "Bottom" 159 -15 basechar 0
 LayerCount: 2

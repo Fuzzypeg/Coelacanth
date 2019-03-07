@@ -1,9 +1,8 @@
 StartChar: uni2721
 Encoding: 10017 10017 2630
 Width: 700
-VWidth: 950
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 0 21G<336.866 359.252> 187.48 33.54<77.96 620.62> 552.12 31.82<76.2402 618.9>
 LayerCount: 2
 Fore
@@ -25,5 +24,4 @@ SplineSet
  620.62 221.02 l 1
  348.86 706.06 l 1
 EndSplineSet
-Validated: 5
 EndChar

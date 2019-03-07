@@ -1,7 +1,6 @@
 StartChar: uni0234
 Encoding: 564 564 2659
 Width: 405
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Top" 121 734 basechar 0
 AnchorPoint: "TopRight" 242 581 basechar 0

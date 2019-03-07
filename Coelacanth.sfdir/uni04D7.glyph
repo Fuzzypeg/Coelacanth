@@ -2,13 +2,11 @@ StartChar: uni04D7
 Encoding: 1239 1239 1379
 GlifName: uni04D_7
 Width: 409
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 425 168 508 36<168.777 267.223>
 VStem: 53 185 82 64.3243<564.405 625.752> 289.676 64.3243<564.405 625.752>
 LayerCount: 2
 Fore
-Refer: 1376 58086 S 1 0 0 1 415 71 2
+Refer: 1376 58086 N 1 0 0 1 415 71 2
 Refer: 1068 1077 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

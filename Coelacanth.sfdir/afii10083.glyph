@@ -2,8 +2,7 @@ StartChar: afii10083
 Encoding: 1089 1089 1071
 GlifName: afii10083
 Width: 421
-VWidth: 0
-Flags: H
+Flags: HW
 HStem: -15 52<185 333> 357 60<169 308>
 VStem: 34 71<119 282>
 LayerCount: 2

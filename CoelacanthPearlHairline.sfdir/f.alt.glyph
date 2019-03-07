@@ -1,8 +1,7 @@
 StartChar: f.alt
 Encoding: 58119 58119 1190
 Width: 330
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -9 62<161.331 270.625> 441 57<8 103 160 324> 692 57<223.318 325.878>
 VStem: 103 56<55.4252 441 498 621.994>
 AnchorPoint: "Top" 208 735 basechar 0
@@ -38,6 +37,5 @@ SplineSet
  102 606 134.057782477 665.725611633 169 697 c 0
  194.68761375 719.991225675 237.475 749 268 749 c 3
 EndSplineSet
-Validated: 33
 Kerns2: 1437 10 "kern-1 latin individual kerning" 1436 52 "kern-1 latin individual kerning" 1435 13 "kern-1 latin individual kerning" 1434 13 "kern-1 latin individual kerning" 1433 20 "kern-1 latin individual kerning" 1431 39 "kern-1 latin individual kerning"
 EndChar

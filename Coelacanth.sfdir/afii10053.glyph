@@ -2,9 +2,8 @@ StartChar: afii10053
 Encoding: 1028 1028 1099
 GlifName: afii10053
 Width: 743
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -13 42<347.099 553.906> 332 36<126 466.393> 670 40<327.101 545.759>
 VStem: 43 103<243.914 469.499> 490 36<248 304.348> 633 33<533.188 599.436> 673 27<146.932 165.074>
 AnchorPoint: "Top" 433 699 basechar 0

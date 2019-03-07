@@ -1,12 +1,10 @@
 StartChar: uni2633
 Encoding: 9779 9779 360
 Width: 746
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 29 56<30 716> 195 56<30.0001 293 453 716.001> 359 56<30.0001 293 453 716.001>
 LayerCount: 2
 Fore
 Refer: 354 9869 N 1 0 0 1 0 0 2
-Refer: 352 9867 S 1 0 0 1 0 330 2
-Validated: 1
+Refer: 352 9867 N 1 0 0 1 0 330 2
 EndChar

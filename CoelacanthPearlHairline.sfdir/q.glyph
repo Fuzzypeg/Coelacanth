@@ -1,7 +1,6 @@
 StartChar: q
 Encoding: 113 113 16
 Width: 574
-VWidth: 1159
 Flags: HMW
 AnchorPoint: "Top" 307 537 basechar 0
 AnchorPoint: "Bottom" 438 -154 basechar 0
@@ -80,7 +79,6 @@ SplineSet
  438 -110 437 -107 437 -104 c 1
  438 -91.8861788618 438 -11.9349593496 438 45 c 1
 EndSplineSet
-Validated: 33
 Substitution2: "case-1" Q
 Substitution2: "pcap-1" q.pcap
 Substitution2: "smcp-1" q.smcp

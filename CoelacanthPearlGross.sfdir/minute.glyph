@@ -1,7 +1,7 @@
 StartChar: minute
 Encoding: 8242 8242 1287
 Width: 148
-Flags: W
+Flags: HW
 HStem: 425.304 296.492
 VStem: 9.93164 145.744
 LayerCount: 2
@@ -13,5 +13,4 @@ SplineSet
  61.9638671875 425.303710938 l 1
  9.931640625 442.926757812 l 1
 EndSplineSet
-Validated: 1
 EndChar

@@ -2,8 +2,7 @@ StartChar: Q.alt
 Encoding: 58116 58116 670
 GlifName: Q_.alt
 Width: 803
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -260 55<872.691 1100.74> -5 51<311.167 428.106> 673 32<291.987 457.678>
 VStem: 41 98<254.599 491.133> 637 102<243.515 484.222>
 AnchorPoint: "Top" 393 699 basechar 0
@@ -28,6 +27,5 @@ SplineSet
  579 705 739 559.842406877 739 365 c 3
  739 211.822874563 643.407 78.0418089716 508.096 23.0389 c 1
 EndSplineSet
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

@@ -2,8 +2,7 @@ StartChar: Z
 Encoding: 90 90 58
 GlifName: Z_
 Width: 710
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 1 40<168 560.424> 642 43<98.8077 540>
 AnchorPoint: "Bottom" 357 -15 basechar 0
 AnchorPoint: "Top" 366 699 basechar 0
@@ -32,7 +31,6 @@ SplineSet
  119 642 78 622.393554688 40 545 c 1
  12 563 l 1
 EndSplineSet
-Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" z.pcap
 Substitution2: "c2sc-1" z.smcp

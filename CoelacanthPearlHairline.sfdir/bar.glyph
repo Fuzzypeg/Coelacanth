@@ -1,8 +1,7 @@
 StartChar: bar
 Encoding: 124 124 325
 Width: 158
-VWidth: 1515
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1969 58114 N 0 0.8941 -0.999982 0 79 -177.1 2

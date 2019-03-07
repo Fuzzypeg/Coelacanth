@@ -1,9 +1,8 @@
 StartChar: uni26A6
 Encoding: 9894 9894 1541
 Width: 699
-VWidth: 950
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7.4004 48.1006<187.834 329.699> 363.9 44.5<171.609 312.908>
 VStem: 43.8691 65.7002<126.333 296.786> 390.37 64.8008<109.678 279.972>
 LayerCount: 2

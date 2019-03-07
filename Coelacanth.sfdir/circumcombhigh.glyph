@@ -2,8 +2,7 @@ StartChar: circumcombhigh
 Encoding: 58081 58081 471
 GlifName: circumcombhigh
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 450.319 133.361
 VStem: -323.78 252.561
 LayerCount: 2
@@ -18,5 +17,4 @@ SplineSet
  -179.636 583.681 l 1
  -71.2197 465.56 l 1
 EndSplineSet
-Validated: 1
 EndChar

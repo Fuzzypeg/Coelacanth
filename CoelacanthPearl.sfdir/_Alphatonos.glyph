@@ -7,7 +7,7 @@ VStem: 80.3907 230.611
 LayerCount: 2
 Fore
 Refer: 976 913 N 1 0 0 1 0 0 3
-Refer: 966 900 S 0.83205 0.5547 -0.5547 0.83205 441.204 41.0978 2
+Refer: 966 900 N 0.83205 0.5547 -0.5547 0.83205 441.204 41.0978 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" a.pcap
 Substitution2: "c2sc-1" a.smcp

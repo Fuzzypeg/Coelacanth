@@ -1,9 +1,8 @@
 StartChar: eight.proportionallining
 Encoding: 58396 58396 908
 Width: 474
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -13 34<203.81 307.694> 611 30<183.339 271.835>
 VStem: 67 66<93.9885 231.457> 98 49<464.254 576.069> 325 57<439.101 562.583> 351 66<79.1511 233.857>
 LayerCount: 2

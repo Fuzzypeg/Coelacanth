@@ -2,8 +2,7 @@ StartChar: ampersand
 Encoding: 38 38 78
 GlifName: ampersand
 Width: 676
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 57<161.575 299.635 513.09 600.584> 461 35<584.895 645> 492 33<480.667 506.511>
 VStem: 17 72<119.103 262.82> 81 38<475.664 567.366> 289 62<462.542 556.254>
 LayerCount: 2
@@ -41,7 +40,6 @@ SplineSet
  525 509 598 495 648 496 c 1
  645 461 l 1xcc
 EndSplineSet
-Validated: 33
 Substitution2: "pcap-1" ampersand.pcap
 Substitution2: "smcp-1" ampersand.smcp
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100

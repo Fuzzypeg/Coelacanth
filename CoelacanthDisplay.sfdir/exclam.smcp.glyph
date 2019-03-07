@@ -1,8 +1,7 @@
 StartChar: exclam.smcp
 Encoding: 57797 57797 2158
 Width: 260
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -18.9347 122.624<111.169 140.106>
 VStem: 67.5071 118.655<25.2713 57.0176> 108.3 40.1<163.5 321.756>
 LayerCount: 2
@@ -17,5 +16,4 @@ SplineSet
  108.3 163.5 l 1xa0
 EndSplineSet
 Refer: 48 46 N 0.885815 0 0 0.921985 36.924 -2.8 2
-Validated: 33
 EndChar

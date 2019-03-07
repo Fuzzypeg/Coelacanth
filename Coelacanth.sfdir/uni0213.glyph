@@ -2,13 +2,11 @@ StartChar: uni0213
 Encoding: 531 531 493
 GlifName: uni0213
 Width: 358
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -5 32<30 59 177 273> 316 108<269 335> 569.253 54.719<97.241 236.503>
 VStem: 33.821 28.081<511.167 524.611> 91 69<53 321> 271.098 28.08<511.167 527.475>
 LayerCount: 2
 Fore
 Refer: 109 785 N 1 0 0 1 364 72 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

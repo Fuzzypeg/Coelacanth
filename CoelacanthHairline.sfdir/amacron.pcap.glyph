@@ -1,7 +1,6 @@
 StartChar: amacron.pcap
 Encoding: 57404 57404 1657
 Width: 472
-VWidth: 0
 Flags: HW
 HStem: -7 25<34 58.0979 295 312.5> 138 30<175 275.575> 395 20<232.5 267> 519 49<113.5 372.5>
 VStem: 234 31<355.154 415>

@@ -1,7 +1,6 @@
 StartChar: S
 Encoding: 83 83 44
 Width: 575
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Bottom" 286 -15 basechar 0
 AnchorPoint: "Top" 308 699 basechar 0

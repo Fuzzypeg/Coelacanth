@@ -1,8 +1,7 @@
 StartChar: quotereversed
 Encoding: 8219 8219 462
 Width: 200
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 449.063 283.586
 VStem: 20.1299 174.45<620.388 663.956>
 LayerCount: 2
@@ -21,7 +20,6 @@ SplineSet
  122.709960938 556 153.208984375 520.090820312 180.709960938 502 c 1
  145.506835938 449.063476562 l 1
 EndSplineSet
-Validated: 33
 Position2: "Extra space for context kern-1" dx=35 dy=0 dh=70 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

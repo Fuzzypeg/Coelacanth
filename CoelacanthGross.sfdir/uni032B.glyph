@@ -1,7 +1,6 @@
 StartChar: uni032B
 Encoding: 811 811 366
 Width: 0
-VWidth: 1159
 Flags: HW
 CounterMasks: 1 70
 AnchorPoint: "Bottom" -193 -15 mark 0

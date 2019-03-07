@@ -8,7 +8,7 @@ AnchorPoint: "Top" 352 699 basechar 0
 AnchorPoint: "Bottom" 348 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1614 8190 S 1.08 0 0 1.08 -45.9135 -17.472 2
-Refer: 99 771 S 1 0 0 1.1 320.5 262.527 2
+Refer: 1614 8190 N 1.08 0 0 1.08 -45.9135 -17.472 2
+Refer: 99 771 N 1 0 0 1.1 320.5 262.527 2
 Refer: 983 921 N 1 0 0 1 175 0 2
 EndChar

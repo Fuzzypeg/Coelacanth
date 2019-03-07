@@ -1,8 +1,7 @@
 StartChar: two.denom
 Encoding: 58400 58400 914
 Width: 330
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -82 56<106 240.903 241 264.858> 214 44<81.1582 175.854>
 VStem: 193 64<100.047 197.981>
 LayerCount: 2

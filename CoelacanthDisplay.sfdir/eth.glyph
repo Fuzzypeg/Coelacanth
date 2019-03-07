@@ -1,9 +1,8 @@
 StartChar: eth
 Encoding: 240 240 453
 Width: 471
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -5 42<172.384 287.931> 371 34<180.415 282.579> 716 11.4531<77.2373 81.3456>
 VStem: 28 57<134.711 268.425> 373 58<139.844 356.442>
 LayerCount: 2

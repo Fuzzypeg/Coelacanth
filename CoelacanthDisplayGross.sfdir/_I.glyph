@@ -1,7 +1,6 @@
 StartChar: I
 Encoding: 73 73 34
 Width: 373
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Bottom" 194 -15 basechar 0
 AnchorPoint: "Top" 195 689 basechar 0

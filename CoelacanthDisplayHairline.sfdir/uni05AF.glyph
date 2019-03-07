@@ -1,8 +1,7 @@
 StartChar: uni05AF
 Encoding: 1455 1455 2489
 Width: 0
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -0.0384962 141.038<45.887 465.861> 433 141<106.82 385.491>
 VStem: 38.938 506.242<6.11042 135.78>
 LayerCount: 2

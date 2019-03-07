@@ -1,8 +1,7 @@
 StartChar: uniF591
 Encoding: 62865 62865 2763
 Width: 666
-VWidth: 950
-Flags: W
+Flags: HW
 HStem: -60.123 81.123<162 286.014 374.948 502> -36.9727 37.9727<187.524 471.064> 106 52<63 310 355 571> 106 6<310 355>
 VStem: 288 86<-200 -39.8457> 310 45<-96.9267 112>
 LayerCount: 2
@@ -38,5 +37,4 @@ SplineSet
  162 -60 l 1
  162 21 l 1x80
 EndSplineSet
-Validated: 5
 EndChar

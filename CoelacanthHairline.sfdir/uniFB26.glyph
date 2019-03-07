@@ -1,8 +1,7 @@
 StartChar: uniFB26
 Encoding: 64294 64294 2549
 Width: 812
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -1.16016 21G<54.5195 710.5>
 VStem: 53.3604 56.8398<173.05 428.817>
 AnchorPoint: "Top" 263.32 619.44 basechar 0

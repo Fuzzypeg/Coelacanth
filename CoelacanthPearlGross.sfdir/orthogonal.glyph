@@ -1,9 +1,8 @@
 StartChar: orthogonal
 Encoding: 8735 8735 1314
 Width: 562
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -25 96<42 546>
 LayerCount: 2
 Fore

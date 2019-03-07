@@ -2,16 +2,14 @@ StartChar: uni1ED6
 Encoding: 7894 7894 838
 GlifName: uni1E_D_6
 Width: 845
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -13 50<350.825 545.448> 660 49<304.396 495.712> 821.882 57.4534<432.322 535.434> 857.635 56.9232<344.106 447.197>
 VStem: 43 93<264.284 455.257> 287.073 301.744 701 101<219.4 441.786>
 AnchorPoint: "Bottom" 416 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 159 58020 S 1 0 0 1 286 -37 2
-Refer: 161 58022 S 1 0 0 0.957557 272 99.8332 2
+Refer: 159 58020 N 1 0 0 1 286 -37 2
+Refer: 161 58022 N 1 0 0 0.957557 272 99.8332 2
 Refer: 40 79 N 1 0 0 1 0 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

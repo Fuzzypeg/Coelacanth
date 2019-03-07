@@ -2,9 +2,8 @@ StartChar: Oslash
 Encoding: 216 216 442
 GlifName: O_slash
 Width: 845
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -13 50<350.825 545.448> 660 49<304.396 495.712>
 VStem: 43 93<264.284 455.257> 701 101<219.4 441.786>
 LayerCount: 2

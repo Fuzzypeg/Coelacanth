@@ -2,9 +2,8 @@ StartChar: uni01EA
 Encoding: 490 490 308
 GlifName: uni01E_A_
 Width: 845
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -346.889 73.7197<406.804 473.852> -13 50<350.825 545.448> 660 49<304.396 495.712>
 VStem: 43 93<264.284 455.257> 315.766 71.875<-253.641 -127.154> 701 101<219.4 441.786>
 AnchorPoint: "Middle" 417.697 364.853 basechar 0

@@ -2,8 +2,7 @@ StartChar: j.smcp
 Encoding: 57680 57680 2038
 GlifName: j.smcp
 Width: 318
-VWidth: 1355
-Flags: W
+Flags: HW
 HStem: 460.7 23.6312<151.85 278.1> 463 30.2<45.9351 106.641>
 VStem: 131 78.3<-69.5039 288.531>
 AnchorPoint: "Top" 167 539 basechar 0
@@ -28,5 +27,4 @@ SplineSet
  137.1 -74.2 131.7 0.1 131 46.1 c 1
  131 75.1161132812 126.4 389.033496093 120.1 422.2 c 0xa0
 EndSplineSet
-Validated: 33
 EndChar

@@ -1,7 +1,6 @@
 StartChar: b.pcap
 Encoding: 57348 57348 644
 Width: 380
-VWidth: 657
 Flags: HW
 AnchorPoint: "Bottom" 194 -15 basechar 0
 AnchorPoint: "Top" 183.699 489 basechar 0

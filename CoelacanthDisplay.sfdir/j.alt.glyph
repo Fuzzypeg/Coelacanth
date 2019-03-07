@@ -1,8 +1,7 @@
 StartChar: j.alt
 Encoding: 58118 58118 692
 Width: 271
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 325 13<44.8462 59.0241> 404 20G<167 200>
 VStem: 124 61<-150.107 320.204>
 LayerCount: 2
@@ -27,5 +26,4 @@ SplineSet
  6 -309 l 1
 EndSplineSet
 Refer: 49 775 N 1 0 0 1 370 121 2
-Validated: 1
 EndChar

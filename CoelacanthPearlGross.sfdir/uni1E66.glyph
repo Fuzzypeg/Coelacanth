@@ -1,7 +1,6 @@
 StartChar: uni1E66
 Encoding: 7782 7782 812
 Width: 588
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -14 77<229.377 400.265> -1 21G<78 143> 613 74<228.678 408.829> 791.281 118.8<259.156 357.844>
@@ -10,7 +9,7 @@ AnchorPoint: "Bottom" 297 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 44 83 N 1 0 0 1 0 0 2
-Refer: 167 58028 S 1 0 0 1 168 -79 2
+Refer: 167 58028 N 1 0 0 1 168 -79 2
 Refer: 164 58025 N 1 0 0 1 230.5 54.6816 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

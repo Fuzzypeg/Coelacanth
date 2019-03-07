@@ -1,8 +1,7 @@
 StartChar: radical
 Encoding: 8730 8730 1311
 Width: 458
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -12 21G<164.76 222.966> 373 37<11.4324 80> 761 33<437.235 505>
 VStem: 171 33<-12 57.2358>
 LayerCount: 2
@@ -21,5 +20,4 @@ SplineSet
  12 373 l 1
  9 410 l 1
 EndSplineSet
-Validated: 33
 EndChar

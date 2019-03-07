@@ -1,7 +1,6 @@
 StartChar: upsilon
 Encoding: 965 965 1022
 Width: 506
-VWidth: 1043
 Flags: HMW
 AnchorPoint: "Top" 259 465 basechar 0
 AnchorPoint: "Bottom" 241 -15 basechar 0

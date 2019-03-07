@@ -1,7 +1,6 @@
 StartChar: uni0201.pcap
 Encoding: 57504 57504 1816
 Width: 549
-VWidth: 0
 Flags: HW
 HStem: -5.05566 64.1494<482.002 521> 124 66<203 336> 489.31 20G<250.267 325.404>
 LayerCount: 2

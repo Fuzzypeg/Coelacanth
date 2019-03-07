@@ -2,8 +2,7 @@ StartChar: parenleft
 Encoding: 40 40 59
 GlifName: parenleft
 Width: 383
-VWidth: 1515
-Flags: W
+Flags: HW
 VStem: 37 48<44.425 376.993>
 LayerCount: 2
 Fore
@@ -16,7 +15,6 @@ SplineSet
  147 -203.619607843 37 -20.9058823529 37 211 c 3
  37 442.099029126 143.644518272 624.388349515 337 724 c 1
 EndSplineSet
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
 EndChar

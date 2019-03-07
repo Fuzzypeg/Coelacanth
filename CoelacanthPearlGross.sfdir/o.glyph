@@ -1,8 +1,7 @@
 StartChar: o
 Encoding: 111 111 14
 Width: 550
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -11 92<261.824 358.744> 422 98<185.532 283.601>
 VStem: 20 144<205.971 346.529> 381 149<152.322 307.098>
 AnchorPoint: "Bottom" 278 -15 basechar 0
@@ -35,7 +34,6 @@ SplineSet
  357.009999 81 381 105.52307656 381 200 c 3
  381 358.879271983 266.647460938 422 231 422 c 3
 EndSplineSet
-Validated: 1
 Substitution2: "case-1" O
 Substitution2: "pcap-1" o.pcap
 Substitution2: "smcp-1" o.smcp

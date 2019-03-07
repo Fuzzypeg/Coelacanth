@@ -2,9 +2,8 @@ StartChar: uni05C7
 Encoding: 1479 1479 2526
 GlifName: uni05C_7
 Width: 0
-VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -281 86<243.694 318.306> -123 43<187 373>
 VStem: 238 86<-275.285 -200.692>
 AnchorPoint: "HbBottom" 282 0 mark 0
@@ -13,5 +12,4 @@ Fore
 Refer: 2356 57344 N 1 0 0 1 281 -238 2
 Refer: 1966 58112 N 0 0.1455 -1.125 0 281.5 -245 2
 Refer: 2510 1463 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar

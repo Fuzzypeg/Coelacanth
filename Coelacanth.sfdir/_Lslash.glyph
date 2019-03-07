@@ -2,9 +2,8 @@ StartChar: Lslash
 Encoding: 321 321 781
 GlifName: L_slash
 Width: 614
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7 44<23 88.0947> 2 50<189.846 505.493> 652 41<197.258 286.683>
 VStem: 94 88<57.6719 639.659> 562 35<122.552 159>
 AnchorPoint: "Top" 177 699 basechar 0

@@ -2,13 +2,11 @@ StartChar: uni03FD
 Encoding: 1021 1021 1050
 GlifName: uni03F_D_
 Width: 743
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -20 40<197.241 415.899> 661 42<189.094 395.901>
 VStem: 43 27<524.926 543.068> 77 33<90.564 156.812> 597 103<220.501 446.086>
 LayerCount: 2
 Fore
 Refer: 28 67 N -1 0 0 -1 743 690 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

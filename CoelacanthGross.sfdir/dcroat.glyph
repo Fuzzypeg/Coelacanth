@@ -1,11 +1,10 @@
 StartChar: dcroat
 Encoding: 273 273 1351
 Width: 511
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Bottom" 224 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 267 821 S 1 0 0 1 527 0 2
-Refer: 3 100 S 1 0 0 1 0 0 2
+Refer: 267 821 N 1 0 0 1 527 0 2
+Refer: 3 100 N 1 0 0 1 0 0 2
 EndChar

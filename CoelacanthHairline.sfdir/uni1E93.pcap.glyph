@@ -1,8 +1,7 @@
 StartChar: uni1E93.pcap
 Encoding: 57614 57614 1895
 Width: 504
-VWidth: 0
-Flags: H
+Flags: HW
 HStem: -173 102<203.589 288.411> -4 31<169.416 334.724> 374 29<125.908 333.172> 404 20<79.5 97>
 VStem: 194 104<-163.562 -80.401>
 LayerCount: 2

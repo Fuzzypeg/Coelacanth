@@ -1,7 +1,6 @@
 StartChar: jcaron.pcap
 Encoding: 57496 57496 1807
 Width: 272
-VWidth: 1159
 Flags: HW
 HStem: 380 19.6829<148.262 258> 382 26<58.1923 104.033> 554 162
 VStem: 57.5 205 128 75<-61.7031 126.564>

@@ -2,9 +2,8 @@ StartChar: iogonek.smcp
 Encoding: 57750 57750 2109
 GlifName: iogonek.smcp
 Width: 332
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -307.437 60.128<135.284 206.412> -7.9 30.2<48.3656 110.618> 462.3 32.5<52.24 117.352>
 VStem: 50.83 69.209<-234.037 -126.556> 135.472 67.4424<39.011 449.27>
 LayerCount: 2

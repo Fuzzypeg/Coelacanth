@@ -1,8 +1,7 @@
 StartChar: three
 Encoding: 51 51 66
 Width: 490
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -177.1 56.4707<114.363 147.164> 400.161 107.224<172.908 290.107>
 VStem: 255.734 127.056<299.953 385.601> 290.588 127.152<0.427854 115.57>
 LayerCount: 2
@@ -24,7 +23,6 @@ SplineSet
  417.740234375 -55.4290682166 213.870190824 -148.784580583 118 -177.099609375 c 1
  88.6611328125 -120.62890625 l 1xd0
 EndSplineSet
-Validated: 33
 Substitution2: "dnom-1" three.denom
 Substitution2: "numr-1" three.numerator
 Substitution2: "tnum-1" three.tabulartext

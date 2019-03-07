@@ -2,8 +2,7 @@ StartChar: Acute
 Encoding: 58018 58018 90
 GlifName: A_cute
 Width: 222
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 744.9 147.152
 VStem: 26.4932 234.89
 AnchorPoint: "Top" 64 699 mark 0
@@ -16,5 +15,4 @@ SplineSet
  201.698242188 816.883789062 121.98828125 788.180664062 39.8623046875 744.900390625 c 9
  26.4931640625 780.448242188 l 17
 EndSplineSet
-Validated: 1
 EndChar

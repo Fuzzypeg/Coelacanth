@@ -2,12 +2,10 @@ StartChar: minus
 Encoding: 8722 8722 330
 GlifName: minus
 Width: 463
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: 190 53.9999<34 428>
 LayerCount: 2
 Fore
 Refer: 1968 58114 N 0.394 0 0 1.17391 34 217 2
-Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

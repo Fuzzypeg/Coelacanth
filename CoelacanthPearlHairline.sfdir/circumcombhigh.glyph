@@ -1,8 +1,7 @@
 StartChar: circumcombhigh
 Encoding: 58081 58081 471
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 430.319 129.361
 VStem: -331.78 268.561
 LayerCount: 2
@@ -27,5 +26,4 @@ SplineSet
  -187.635742188 559.680664062 l 1
  -63.2197265625 476.559570312 l 1
 EndSplineSet
-Validated: 1
 EndChar

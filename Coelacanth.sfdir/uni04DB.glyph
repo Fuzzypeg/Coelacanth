@@ -2,13 +2,11 @@ StartChar: uni04DB
 Encoding: 1243 1243 1124
 GlifName: uni04D_B_
 Width: 409
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -187 168 519 84<89.194 163.806 265.194 339.806>
 VStem: 83.5 86<524.582 597.441> 165 185 259.5 86<524.582 597.441>
 LayerCount: 2
 Fore
 Refer: 97 776 N 1 0 0 1 411.5 76 2
 Refer: 1119 1241 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar

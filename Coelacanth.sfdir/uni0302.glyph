@@ -2,8 +2,7 @@ StartChar: uni0302
 Encoding: 770 770 93
 GlifName: uni0302
 Width: 0
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 422.6 184.8
 VStem: -310.25 225.5
 AnchorPoint: "TopMark" -198.5 587 basemark 0
@@ -21,5 +20,4 @@ SplineSet
  -181.55 607.4 l 1
  -84.75 435.8 l 1
 EndSplineSet
-Validated: 1
 EndChar

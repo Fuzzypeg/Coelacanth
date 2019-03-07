@@ -1,8 +1,7 @@
 StartChar: Circumflex
 Encoding: 58020 58020 159
 Width: 281
-VWidth: 1159
-Flags: MW
+Flags: HMW
 HStem: 751.855 147.545
 VStem: 16.4951 248.01
 AnchorPoint: "Top" 140 699 mark 0
@@ -18,5 +17,4 @@ SplineSet
  151.154 899.4 l 1
  264.505 761.361 l 1
 EndSplineSet
-Validated: 1
 EndChar

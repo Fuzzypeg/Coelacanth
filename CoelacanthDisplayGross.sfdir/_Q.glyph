@@ -1,7 +1,6 @@
 StartChar: Q
 Encoding: 81 81 42
 Width: 825
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Bottom" 393 -15 basechar 0
 LayerCount: 2

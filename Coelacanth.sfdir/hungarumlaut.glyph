@@ -2,10 +2,8 @@ StartChar: hungarumlaut
 Encoding: 733 733 1228
 GlifName: hungarumlaut
 Width: 301
-VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 102 779 N 1 0 0 1 287 0 2
-Validated: 1
 EndChar

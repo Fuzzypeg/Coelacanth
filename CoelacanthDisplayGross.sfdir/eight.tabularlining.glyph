@@ -1,9 +1,8 @@
 StartChar: eight.tabularlining
 Encoding: 58386 58386 689
 Width: 463
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -13 34<192.81 296.694> 611 30<172.339 260.835>
 VStem: 56 66<93.9885 231.457> 87 49<464.254 576.069> 314 57<439.101 562.583> 340 66<79.1511 233.857>
 LayerCount: 2

@@ -1,9 +1,8 @@
 StartChar: uni1DC4
 Encoding: 7620 7620 2738
 Width: 0
-VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 447 49.0001<-342 -158> 447.007 156.054
 AnchorPoint: "Top" -198.5 393 mark 0
 AnchorPoint: "TopMark" -198.5 495 basemark 0

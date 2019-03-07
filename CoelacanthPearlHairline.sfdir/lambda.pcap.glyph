@@ -1,8 +1,7 @@
 StartChar: lambda.pcap
 Encoding: 57531 57531 1843
 Width: 472
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -4 26<34 66.3901 295 313.814> 395 20G<232.5 267>
 VStem: 234 31<358.311 415>
 LayerCount: 2
@@ -29,5 +28,4 @@ SplineSet
  304.40625 23 320.377929688 36.837890625 318 44 c 0
  289.000976562 131.708007812 256.813476562 208.897460938 222 281 c 1
 EndSplineSet
-Validated: 33
 EndChar

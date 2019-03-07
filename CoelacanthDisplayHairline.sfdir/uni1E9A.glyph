@@ -1,7 +1,6 @@
 StartChar: uni1E9A
 Encoding: 7834 7834 2455
 Width: 385
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Top" 201 465 basechar 0
 AnchorPoint: "Ogonek" 354 18 basechar 0

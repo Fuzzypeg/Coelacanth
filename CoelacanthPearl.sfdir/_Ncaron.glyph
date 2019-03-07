@@ -1,15 +1,13 @@
 StartChar: Ncaron
 Encoding: 327 327 216
 Width: 874
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -11 17G<76.6471 101.5 300 322.963 692 767.667> 611 67<71 125.078 772.807 827.134> 671 20G<595.632 628>
 VStem: 133 84<72 332.119> 141 82<210.975 498> 694 63<196 319.371> 701 70<3.9 26.8811>
 LayerCount: 2
 Fore
 Refer: 167 58028 N 1 0 0 1 310 -20 2
 Refer: 39 78 N 1 0 0 1 0 0 3
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ncaron.pcap
 Substitution2: "c2sc-1" ncaron.smcp

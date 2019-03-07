@@ -1,7 +1,6 @@
 StartChar: I
 Encoding: 73 73 34
 Width: 341
-VWidth: 1159
 Flags: HW
 AnchorPoint: "Bottom" 167 -15 basechar 0
 AnchorPoint: "Ogonek" 234 15 basechar 0

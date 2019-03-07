@@ -1,8 +1,7 @@
 StartChar: uni0272
 Encoding: 626 626 1053
 Width: 526
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -326 36<-14.0642 20.4431> 355 46<39 113 187 338> 701 55<273.481 377.117>
 VStem: 113 73<-170.918 360 397 602.722>
 AnchorPoint: "Top" 272 465 basechar 0

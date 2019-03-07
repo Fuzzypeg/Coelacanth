@@ -2,12 +2,11 @@ StartChar: afii57658
 Encoding: 1475 1475 2522
 GlifName: afii57658
 Width: 221
-Flags: W
+Flags: HW
 HStem: 53 114<67.2248 155.236> 410 114<68.2248 156.236>
 VStem: 54 114<66.2549 154.426> 55 114<423.255 511.426>
 LayerCount: 2
 Fore
 Refer: 48 46 N 1 0 0 1 20 415 2
 Refer: 48 46 N 1 0 0 1 19 58 2
-Validated: 1
 EndChar

@@ -2,8 +2,7 @@ StartChar: x.smcp
 Encoding: 57694 57694 2052
 GlifName: x.smcp
 Width: 584
-VWidth: 1159
-Flags: W
+Flags: HW
 HStem: -5.9 25.3<36.8403 70.1293 180.912 221.7 347.315 373.591> -1.3 28.9<519.397 561.548> 467.2 20.4<30.5 58.8002 196.853 232.3 333.956 360.085 498.623 526.48>
 AnchorPoint: "Top" 289 539 basechar 0
 AnchorPoint: "Bottom" 291 -15 basechar 0
@@ -48,5 +47,4 @@ SplineSet
  67.4 456.9 47.7 464.6 30.2 467.2 c 1
  30.5 487.6 l 1xa0
 EndSplineSet
-Validated: 33
 EndChar

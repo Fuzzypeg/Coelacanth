@@ -1,8 +1,7 @@
 StartChar: mediumrule
 Encoding: 58114 58114 1971
 Width: 1000
-VWidth: 0
-Flags: W
+Flags: HW
 HStem: -7 14<0 1000>
 LayerCount: 2
 Fore

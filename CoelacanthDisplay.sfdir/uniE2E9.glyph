@@ -1,11 +1,10 @@
 StartChar: uniE2E9
 Encoding: 58089 58089 2565
 Width: 504
-VWidth: 657
 Flags: HMW
 AnchorPoint: "Top" 272.478 489 basechar 0
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 467.5 117.73 2
-Refer: 97 776 S 1 0 0 1 467.5 -9 2
+Refer: 97 776 N 1 0 0 1 467.5 -9 2
 EndChar
