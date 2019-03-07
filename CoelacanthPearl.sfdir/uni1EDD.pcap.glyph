@@ -1,5 +1,5 @@
 StartChar: uni1EDD.pcap
-Encoding: 57651 57651 1922
+Encoding: 57651 57651 1915
 Width: 591
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 27 115<161.882 350.475> 131.389 230.611 453 105<152.614 330.102> 467 86<4
 LayerCount: 2
 Fore
 Refer: 94 768 N 1 0 0 1 472 0 2
-Refer: 1741 57467 N 1 0 0 1 0 0 3
+Refer: 1734 57467 N 1 0 0 1 0 0 3
 EndChar

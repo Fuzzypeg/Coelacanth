@@ -1,11 +1,11 @@
 StartChar: uni1FD6
-Encoding: 8150 8150 1366
+Encoding: 8150 8150 1359
 Width: 345
 Flags: HW
 HStem: 666.408 86<223.082 291.702> 713.746 85.4463<138.237 211.411>
 VStem: 66.3352 294.106
 LayerCount: 2
 Fore
-Refer: 1358 8128 N 1 0 0 1 35 0 2
+Refer: 1351 8128 N 1 0 0 1 35 0 2
 Refer: 1011 953 N 1 0 0 1 0 0 3
 EndChar

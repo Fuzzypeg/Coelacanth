@@ -1,5 +1,5 @@
 StartChar: uni1E5C
-Encoding: 7772 7772 2381
+Encoding: 7772 7772 2376
 Width: 800
 Flags: HW
 HStem: -154.4 118.8<309.656 408.344> 722 79.6085<184 495>
@@ -7,5 +7,5 @@ VStem: 298.5 121<-143.408 -46.5488>
 LayerCount: 2
 Fore
 Refer: 160 58021 N 1 0 0 1 191 -20 2
-Refer: 2372 7770 N 1 0 0 1 0 0 3
+Refer: 2367 7770 N 1 0 0 1 0 0 3
 EndChar

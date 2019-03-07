@@ -1,5 +1,5 @@
 StartChar: jcaron.smcp
-Encoding: 57820 57820 2181
+Encoding: 57820 57820 2174
 Width: 344
 Flags: HW
 HStem: 556 20G<42.3784 66 285 314.316> 631.199 155.801
@@ -7,5 +7,5 @@ VStem: 39.2002 288.5 137 96<-70.2329 455.596>
 LayerCount: 2
 Fore
 Refer: 103 780 N 1 0 0 1 356 43 2
-Refer: 2041 57680 N 1 0 0 1 0 0 3
+Refer: 2034 57680 N 1 0 0 1 0 0 3
 EndChar

@@ -1,10 +1,10 @@
 StartChar: NameMe.exclamdown
-Encoding: 65540 -1 1430
+Encoding: 65540 -1 1425
 Width: 216
 Flags: HW
 HStem: 289.145 231.337<81.1622 129.241>
 VStem: -3.46313 217.064<381.291 430.072> 46 121<-8.66023 61.6788> 94 38<144.25 299.948>
 LayerCount: 2
 Fore
-Refer: 1395 -1 N -1 0 0 -1 214 461.948 2
+Refer: 1390 -1 N -1 0 0 -1 214 461.948 2
 EndChar

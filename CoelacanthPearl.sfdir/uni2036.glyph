@@ -1,11 +1,11 @@
 StartChar: uni2036
-Encoding: 8246 8246 2382
+Encoding: 8246 8246 2375
 Width: 288
 Flags: HW
 HStem: 425.304 296.492
 VStem: -7.06836 145.744 132.932 145.744
 LayerCount: 2
 Fore
-Refer: 2381 8245 N 1 0 0 1 140 0 2
-Refer: 2381 8245 N 1 0 0 1 0 0 2
+Refer: 2374 8245 N 1 0 0 1 140 0 2
+Refer: 2374 8245 N 1 0 0 1 0 0 2
 EndChar

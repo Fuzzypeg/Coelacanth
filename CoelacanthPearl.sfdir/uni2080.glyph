@@ -1,5 +1,5 @@
 StartChar: uni2080
-Encoding: 8320 8320 1397
+Encoding: 8320 8320 1390
 Width: 344
 Flags: HW
 LayerCount: 2
@@ -17,6 +17,6 @@ SplineSet
  26.5400390625 137.091343623 100.935753418 195.151367188 176.01953125 195.151367188 c 0
 EndSplineSet
 Fore
-Refer: 2455 58358 N 1 0 0 1 0 -80 2
+Refer: 2448 58358 N 1 0 0 1 0 -80 2
 Substitution2: "'zero' Slashed Zero lookup 22-1" uni2080.alt
 EndChar

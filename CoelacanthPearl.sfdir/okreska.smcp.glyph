@@ -1,11 +1,11 @@
 StartChar: okreska.smcp
-Encoding: 58015 58015 2368
+Encoding: 58015 58015 2361
 Width: 659
 Flags: HW
 HStem: -13 75<274.971 431.469> 497 77<238.2 401.869>
 VStem: 34 117<188.562 387.446> 525 109<172.815 368.674>
 LayerCount: 2
 Fore
-Refer: 1192 57996 N 1 0 0 1 287 73 2
-Refer: 2046 57685 N 1 0 0 1 0 0 3
+Refer: 1191 57996 N 1 0 0 1 287 73 2
+Refer: 2039 57685 N 1 0 0 1 0 0 3
 EndChar

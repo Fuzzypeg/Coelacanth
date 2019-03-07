@@ -1,5 +1,5 @@
 StartChar: uni1FB2
-Encoding: 8114 8114 1159
+Encoding: 8114 8114 1158
 Width: 618
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 123.889 230.611 191.95 65.9873<-249.952 -89.5438> 205.954 71.1582<-220.35
 LayerCount: 2
 Fore
 Refer: 961 890 N 1 0 0 1 197 0 2
-Refer: 1133 8048 N 1 0 0 1 0 0 3
+Refer: 1132 8048 N 1 0 0 1 0 0 3
 EndChar

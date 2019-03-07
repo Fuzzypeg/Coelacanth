@@ -1,13 +1,13 @@
 StartChar: guillemotleft
-Encoding: 171 171 1209
+Encoding: 171 171 1208
 Width: 407
 Flags: HW
 HStem: -13 21G<125.154 210.5 263.154 348.5> 491 20G<125.154 210.5 263.154 348.5>
 VStem: 48 84.0996<169.515 328.485> 186 84.0996<169.515 328.485>
 LayerCount: 2
 Fore
-Refer: 1289 8249 N 1 0 0 1 138 0 2
-Refer: 1289 8249 N 1 0 0 1 0 0 2
+Refer: 1284 8249 N 1 0 0 1 138 0 2
+Refer: 1284 8249 N 1 0 0 1 0 0 2
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

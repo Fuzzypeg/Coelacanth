@@ -1,5 +1,5 @@
 StartChar: uni02A1
-Encoding: 673 673 1983
+Encoding: 673 673 1976
 Width: 347
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 132 69<51.706 348.899> 315 72<479.942 624.937>
 LayerCount: 2
 Fore
 Refer: 441 821 N 1 0 0 1 350 -275 2
-Refer: 1982 660 N 1 0 0 1 41 0 2
+Refer: 1975 660 N 1 0 0 1 41 0 2
 EndChar

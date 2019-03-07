@@ -4,7 +4,7 @@ Width: 282
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1971 58114 N 0.256293 0.047197 -0.0429444 1.06092 13.0757 219.402 2
+Refer: 1966 58114 N 0.256293 0.047197 -0.0429444 1.06092 13.0757 219.402 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar
