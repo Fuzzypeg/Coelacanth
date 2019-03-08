@@ -1,10 +1,10 @@
 StartChar: uni1EA5.smcp
-Encoding: 57947 57947 2307
+Encoding: 57947 57947 2304
 Width: 530
 Flags: HMW
 LayerCount: 2
 Fore
-Refer: 2031 57671 N 1 0 0 1 0 0 3
+Refer: 2028 57671 N 1 0 0 1 0 0 3
 Refer: 470 58081 N 1 0 0 1 476 95 2
 Refer: 469 58080 N 0.745874 0.0958213 -0.313113 0.780289 686.65 323.825 2
 EndChar

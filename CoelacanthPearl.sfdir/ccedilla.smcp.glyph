@@ -1,5 +1,5 @@
 StartChar: ccedilla.smcp
-Encoding: 57704 57704 2060
+Encoding: 57704 57704 2058
 Width: 593
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -9,5 +9,5 @@ AnchorPoint: "Top" 326 580 basechar 0
 LayerCount: 2
 Fore
 Refer: 268 807 N 1 0 0 1 517 0 2
-Refer: 2027 57673 N 1 0 0 1 0 0 3
+Refer: 2025 57673 N 1 0 0 1 0 0 3
 EndChar

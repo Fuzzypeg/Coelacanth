@@ -1,10 +1,10 @@
 StartChar: zkreska.smcp
-Encoding: 58017 58017 2370
+Encoding: 58017 58017 2367
 Width: 565
 Flags: HW
 HStem: 0.3 33<168.7 410.092> 454.4 33.2<117.652 395.8>
 LayerCount: 2
 Fore
 Refer: 1191 57996 N 1 0 0 1 235 73 2
-Refer: 2056 57696 N 1 0 0 1 0 0 3
+Refer: 2053 57696 N 1 0 0 1 0 0 3
 EndChar

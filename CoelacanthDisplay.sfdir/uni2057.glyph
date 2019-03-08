@@ -1,11 +1,11 @@
 StartChar: uni2057
-Encoding: 8279 8279 1518
+Encoding: 8279 8279 1517
 Width: 568
 Flags: HW
 HStem: 455.304 288.492
 VStem: 29.9316 110.744 169.932 110.744 309.932 110.744 449.932 110.744
 LayerCount: 2
 Fore
-Refer: 1288 8243 N 1 0 0 1 280 0 2
-Refer: 1288 8243 N 1 0 0 1 0 0 2
+Refer: 1287 8243 N 1 0 0 1 280 0 2
+Refer: 1287 8243 N 1 0 0 1 0 0 2
 EndChar

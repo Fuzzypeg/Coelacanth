@@ -1,5 +1,5 @@
 StartChar: uni05A3
-Encoding: 1443 1443 2476
+Encoding: 1443 1443 2473
 Width: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,6 +7,6 @@ HStem: -188.5 42<159.523 271.5>
 VStem: 271.5 35<-146.5 -43.5057>
 LayerCount: 2
 Fore
-Refer: 1970 58113 N 0 -0.1405 1 0 289.5 -47.5 2
-Refer: 1971 58114 N 0.142 0 0 0.869565 164 -168 2
+Refer: 1967 58113 N 0 -0.1405 1 0 289.5 -47.5 2
+Refer: 1968 58114 N 0.142 0 0 0.869565 164 -168 2
 EndChar

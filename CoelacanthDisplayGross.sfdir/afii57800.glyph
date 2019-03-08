@@ -1,11 +1,11 @@
 StartChar: afii57800
-Encoding: 1458 1458 2493
+Encoding: 1458 1458 2490
 Width: 0
 Flags: HW
 HStem: -268 93.0225 -156 93.0225 -123 43<146 332>
 VStem: 360.018 90.875
 LayerCount: 2
 Fore
-Refer: 2498 1463 N 1 0 0 1 -41 0 2
-Refer: 2491 1456 N 1 0 0 1 119 0 2
+Refer: 2495 1463 N 1 0 0 1 -41 0 2
+Refer: 2488 1456 N 1 0 0 1 119 0 2
 EndChar

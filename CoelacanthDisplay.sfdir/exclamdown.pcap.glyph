@@ -1,10 +1,10 @@
 StartChar: exclamdown.pcap
-Encoding: 57475 57475 1755
+Encoding: 57475 57475 1752
 Width: 258
 Flags: HW
 HStem: 299.361 118.177<117.627 144.965>
 VStem: 74.1152 112.1<344.341 374.936> 112 38<132.659 253.989>
 LayerCount: 2
 Fore
-Refer: 1753 57473 N -1 0 0 -1 258 397.989 2
+Refer: 1750 57473 N -1 0 0 -1 258 397.989 2
 EndChar

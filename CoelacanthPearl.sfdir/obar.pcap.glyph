@@ -1,5 +1,5 @@
 StartChar: obar.pcap
-Encoding: 57466 57466 1733
+Encoding: 57466 57466 1731
 Width: 591
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -9,6 +9,6 @@ AnchorPoint: "Bottom" 301 -15 basechar 0
 AnchorPoint: "Top" 304 537 basechar 0
 LayerCount: 2
 Fore
-Refer: 1963 58113 N 0.438 0 0 0.875 66 252 2
+Refer: 1961 58113 N 0.438 0 0 0.875 66 252 2
 Refer: 657 57361 N 1 0 0 1 0 0 3
 EndChar

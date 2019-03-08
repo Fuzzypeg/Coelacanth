@@ -1,5 +1,5 @@
 StartChar: uni01EF.pcap
-Encoding: 57495 57495 1805
+Encoding: 57495 57495 1802
 Width: 426
 Flags: HW
 HStem: -10 26<155.532 258.76> 375 31<122.192 263> 495.6 184.8
@@ -7,5 +7,5 @@ VStem: 70 25<-4 4.83154> 120.25 225.5 311 72<64.4501 179.906>
 LayerCount: 2
 Fore
 Refer: 102 780 N 1 0 0 1 430.5 64 2
-Refer: 1804 57494 N 1 0 0 1 0 0 3
+Refer: 1801 57494 N 1 0 0 1 0 0 3
 EndChar

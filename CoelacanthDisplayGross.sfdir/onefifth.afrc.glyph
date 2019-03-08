@@ -1,14 +1,14 @@
 StartChar: onefifth.afrc
-Encoding: 58433 58433 1411
+Encoding: 58433 58433 1410
 Width: 463
 Flags: HW
 HStem: 200.08 58.1855<174.948 307.004> 328 28<34 428> 416 20.0625<151.934 189.86 276.338 319.932> 670.525 18.2988<158.552 196.343> 677.6 18.3701<286.022 316.82>
 VStem: 210.888 53.4014<445.301 666.154> 249.45 54.9277<40.6657 97.7549>
 LayerCount: 2
 Fore
-Refer: 1969 58113 N 0.394 0 0 0.875 34 342 2
-Refer: 1397 8325 N 1 0 0 1 98 68 2
-Refer: 1398 8321 N 1 0 0 1 107 496 2
+Refer: 1966 58113 N 0.394 0 0 0.875 34 342 2
+Refer: 1396 8325 N 1 0 0 1 98 68 2
+Refer: 1397 8321 N 1 0 0 1 107 496 2
 Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction five.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2155
 EndChar

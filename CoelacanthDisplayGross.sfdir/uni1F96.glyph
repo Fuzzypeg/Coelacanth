@@ -1,5 +1,5 @@
 StartChar: uni1F96
-Encoding: 8086 8086 1347
+Encoding: 8086 8086 1346
 Width: 490
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 62.3593 65.9873<-249.952 -89.5438> 76.3632 71.1582<-220.355 -87.5068> 204
 LayerCount: 2
 Fore
 Refer: 960 890 N 1 0 0 1 56.831 0 2
-Refer: 1341 7974 N 1 0 0 1 0 0 3
+Refer: 1340 7974 N 1 0 0 1 0 0 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni1FFA
-Encoding: 8186 8186 2428
+Encoding: 8186 8186 2426
 Width: 859
 Flags: HW
 AnchorPoint: "Middle" 482.697 364.853 basechar 0
@@ -7,6 +7,6 @@ AnchorPoint: "Bottom" 481 -7 basechar 0
 AnchorPoint: "Top" 485 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 2381 8175 N 0.942898 -0.566521 0.566521 0.942898 -418.995 128.56 2
+Refer: 2379 8175 N 0.942898 -0.566521 0.566521 0.942898 -418.995 128.56 2
 Refer: 999 937 N 1 0 0 1 114 0 2
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni1EE3.smcp
-Encoding: 57978 57978 2339
+Encoding: 57978 57978 2336
 Width: 591
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -9,5 +9,5 @@ AnchorPoint: "Top" 329 539 basechar 0
 LayerCount: 2
 Fore
 Refer: 272 803 N 1 0 0 1 523.9 5.40039 2
-Refer: 2152 57791 N 1 0 0 1 0 0 3
+Refer: 2149 57791 N 1 0 0 1 0 0 3
 EndChar

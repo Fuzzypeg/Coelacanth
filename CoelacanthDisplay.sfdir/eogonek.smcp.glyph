@@ -1,5 +1,5 @@
 StartChar: eogonek.smcp
-Encoding: 57739 57739 2101
+Encoding: 57739 57739 2098
 Width: 489
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 105.83 70.2702<44.7414 234.3 261.9 447.779> 247.38 56.0879<-239.712 -136.
 LayerCount: 2
 Fore
 Refer: 254 808 N 1 0 0 1 523.468 -8.4367 2
-Refer: 2036 57675 N 1 0 0 1 0 0 3
+Refer: 2033 57675 N 1 0 0 1 0 0 3
 EndChar

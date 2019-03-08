@@ -1,14 +1,14 @@
 StartChar: zerothirds.afrc
-Encoding: 58446 58446 1424
+Encoding: 58446 58446 1423
 Width: 463
 Flags: HW
 HStem: -13 20<144 188.012> 120 19<170 199.373> 241 41<174.918 256.291> 328 28<34 428> 415.81 26.0342<203.856 283.939> 663.84 27.3115<181.099 265.645>
 VStem: 89.54 63.6611<484.006 623.206> 261 57<177.363 234.584> 270 63<51.1954 113.294> 309.659 67.3408<478.536 627.163>
 LayerCount: 2
 Fore
-Refer: 1969 58113 N 0.394 0 0 0.875 34 342 2
-Refer: 1400 8323 N 1 0 0 1 94 82 2
-Refer: 1396 8320 N 1 0 0 1 63 496 2
+Refer: 1966 58113 N 0.394 0 0 0.875 34 342 2
+Refer: 1399 8323 N 1 0 0 1 94 82 2
+Refer: 1395 8320 N 1 0 0 1 63 496 2
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2189
 Ligature2: "'afrc' Nut Fractions lookup 23-1" zero.numerator fraction three.denom
 Substitution2: "'zero' Slashed Zero lookup 22-1" zerothirds.afrcalt

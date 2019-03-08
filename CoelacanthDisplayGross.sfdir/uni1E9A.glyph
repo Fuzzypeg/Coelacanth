@@ -1,5 +1,5 @@
 StartChar: uni1E9A
-Encoding: 7834 7834 2455
+Encoding: 7834 7834 2452
 Width: 385
 Flags: HW
 HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.099 224.5> 485 32<323 362.942> 605 32<323 363.449>
@@ -10,5 +10,5 @@ AnchorPoint: "Bottom" 203 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 0 97 N 1 0 0 1 0 0 2
-Refer: 2024 855 N 1 0 0 1 548 0 2
+Refer: 2021 855 N 1 0 0 1 548 0 2
 EndChar

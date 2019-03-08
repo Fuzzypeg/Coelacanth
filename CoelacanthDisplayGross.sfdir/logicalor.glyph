@@ -1,9 +1,9 @@
 StartChar: logicalor
-Encoding: 8744 8744 1322
+Encoding: 8744 8744 1321
 Width: 522
 Flags: HW
 HStem: -18 20<241.773 279.714> 669 21<1 57.0255 464.937 521>
 LayerCount: 2
 Fore
-Refer: 1321 8743 N -1 0 0 -1 522 682 2
+Refer: 1320 8743 N -1 0 0 -1 522 682 2
 EndChar

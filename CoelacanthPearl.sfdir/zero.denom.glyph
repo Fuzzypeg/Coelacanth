@@ -6,7 +6,7 @@ HStem: -89.5527 62.8281<143.712 240.261> 202.271 62.0498<131.073 228.176>
 VStem: 25.4316 77.7295<21.242 171.01> 267.127 74.4727<-0.149764 158.569>
 LayerCount: 2
 Fore
-Refer: 2458 58451 N 1 0 0 1 -5 -83 2
+Refer: 2456 58451 N 1 0 0 1 -5 -83 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.denomalt
 EndChar

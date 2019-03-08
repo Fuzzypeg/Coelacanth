@@ -1,5 +1,5 @@
 StartChar: uni1E1D.smcp
-Encoding: 57879 57879 2240
+Encoding: 57879 57879 2237
 Width: 489
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 105.83 70.2702<44.7414 234.3 261.9 447.779> 155.435 11.4004<720.652 727.3
 LayerCount: 2
 Fore
 Refer: 105 774 N 1 0 0 1 463.5 146 2
-Refer: 2207 57846 N 1 0 0 1 0 0 3
+Refer: 2204 57846 N 1 0 0 1 0 0 3
 EndChar

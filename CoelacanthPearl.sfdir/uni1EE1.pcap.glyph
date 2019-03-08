@@ -1,5 +1,5 @@
 StartChar: uni1EE1.pcap
-Encoding: 57653 57653 1917
+Encoding: 57653 57653 1915
 Width: 591
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,5 +8,5 @@ VStem: 27 115<161.882 350.475> 160.584 294.106 453 105<152.614 330.102> 467 86<4
 LayerCount: 2
 Fore
 Refer: 100 771 N 1 0 0 1 472 0 2
-Refer: 1734 57467 N 1 0 0 1 0 0 3
+Refer: 1732 57467 N 1 0 0 1 0 0 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni0229.smcp
-Encoding: 57846 57846 2200
+Encoding: 57846 57846 2198
 Width: 573
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -9,5 +9,5 @@ AnchorPoint: "Top" 299 580 basechar 0
 LayerCount: 2
 Fore
 Refer: 268 807 N 1 0 0 1 492 0 2
-Refer: 2029 57675 N 1 0 0 1 0 0 3
+Refer: 2027 57675 N 1 0 0 1 0 0 3
 EndChar

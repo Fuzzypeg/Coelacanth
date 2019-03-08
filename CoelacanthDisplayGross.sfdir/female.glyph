@@ -1,5 +1,5 @@
 StartChar: female
-Encoding: 9792 9792 1532
+Encoding: 9792 9792 1531
 Width: 500
 UnlinkRmOvrlpSave: 1
 Flags: HMW
@@ -20,5 +20,5 @@ SplineSet
  81 -59 l 1
  81 24 l 1
 EndSplineSet
-Refer: 1531 9906 N 1 0 0 1 0 0 2
+Refer: 1530 9906 N 1 0 0 1 0 0 2
 EndChar

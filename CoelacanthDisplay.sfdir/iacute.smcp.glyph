@@ -1,5 +1,5 @@
 StartChar: iacute.smcp
-Encoding: 57710 57710 2073
+Encoding: 57710 57710 2070
 Width: 307
 Flags: HW
 HStem: -7.9 30.2<48.3656 110.618> 462.3 32.5<52.24 117.352> 631 159
@@ -7,5 +7,5 @@ VStem: 135.472 67.4424<39.011 449.27> 146.5 177
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 360.5 69 2
-Refer: 2040 57679 N 1 0 0 1 0 0 3
+Refer: 2037 57679 N 1 0 0 1 0 0 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni04F2
-Encoding: 1266 1266 2023
+Encoding: 1266 1266 2020
 Width: 735
 Flags: HW
 HStem: -9 95<166.08 278.354> 652 40<9.3 83.6462 482.65 539.818 655.274 729> 731.472 183.528
@@ -7,5 +7,5 @@ VStem: 306.5 261.258
 LayerCount: 2
 Fore
 Refer: 165 58027 N 1 0 0 1 286 3 2
-Refer: 1266 1059 N 1 0 0 1 0 0 3
+Refer: 1265 1059 N 1 0 0 1 0 0 3
 EndChar
