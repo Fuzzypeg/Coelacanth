@@ -31,3 +31,37 @@ To generate 60Reg petitecaps, I interpolated 60Reg with 14Gross 45%, then scaled
 SMALLCAPS
 
 In each font, smcp is interpolated 30% from pcap to regular capitals.
+
+====================================================================
+BLUES etc
+
+Regular:
+StdHW: 32
+ //thinrule
+StemSnapH: 24 32 37 46 50
+ //hairrule
+ //thinrule
+ //f cross at stem
+ //mediumrule
+ //L base mid
+StdVW: 64
+ //mean of 1 post, midway up; and b post, 3/4 of the way up
+StemSnapV: 33 64 89
+ //+ post
+ //mean of 1 post, midway up; and b post, 3/4 of the way up
+ //T post, 2/3 of the way up
+BlueValues: 399 424 490 515 692 717 754 764
+ //x-height
+ //smcp height
+ //cap height
+ //riser height
+OtherBlues: -12 8
+ //Baseline
+
+Gross:
+StemSnapH: 24 40 50 68 77
+StemSnapV: 42 113 156
+
+Diplay:
+StemSnapH: 14 18 23 32 35
+StemSnapV: 19 61 80
