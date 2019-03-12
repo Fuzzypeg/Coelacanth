@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1551930711
+ModificationTime: 1552391118
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -197,12 +197,12 @@ AntiAlias: 1
 FitToEm: 1
 WinInfo: 57312 36 11
 BeginPrivate: 6
-StdHW 4 [56]
-StemSnapH 10 [56 64 70]
-StdVW 5 [112]
-StemSnapV 11 [56 93 112]
-BlueValues 33 [498 518 562 582 673 693 731 751]
-OtherBlues 7 [-16 4]
+StdHW 4 [62]
+StemSnapH 16 [56 62 65 71 76]
+StdVW 4 [88]
+StemSnapV 11 [66 88 113]
+BlueValues 33 [502 527 565 590 686 711 743 750]
+OtherBlues 7 [-25 0]
 EndPrivate
 Grid
 -1000 -205.099609375 m 1

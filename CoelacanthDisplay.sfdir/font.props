@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1552214412
+ModificationTime: 1552364274
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -202,7 +202,7 @@ StemSnapH 16 [14 18 23 32 35]
 StdVW 4 [61]
 StemSnapV 10 [19 61 80]
 BlueValues 33 [396 421 488 508 705 730 744 757]
-OtherBlues 7 [-16 4]
+OtherBlues 7 [-25 0]
 EndPrivate
 Grid
 -1000 -348 m 0
