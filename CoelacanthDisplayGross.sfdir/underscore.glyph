@@ -5,11 +5,5 @@ Flags: HW
 HStem: -238 31<0 463>
 LayerCount: 2
 Fore
-SplineSet
-0 -238 m 25
- 0 -207 l 29
- 463 -207 l 29
- 463 -238 l 25
- 0 -238 l 25
-EndSplineSet
+Refer: 1967 58114 N 0.463 0 0 0.968729 0 -214.5 2
 EndChar

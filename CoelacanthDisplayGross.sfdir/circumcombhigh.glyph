@@ -4,6 +4,7 @@ Width: 0
 Flags: HW
 HStem: 450.319 133.361
 VStem: -323.78 252.561
+AnchorPoint: "Top" -198.5 410 mark 0
 LayerCount: 2
 Fore
 SplineSet

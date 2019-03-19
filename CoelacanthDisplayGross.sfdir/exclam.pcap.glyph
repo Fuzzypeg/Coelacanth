@@ -1,9 +1,9 @@
 StartChar: exclam.pcap
 Encoding: 57473 57473 1749
 Width: 258
-Flags: HW
-HStem: -22.6595 124.397<107.898 143.765>
-VStem: 67.9977 118<18.488 58.1421> 108 38<144 265.33>
+Flags: W
+HStem: -19.5496 118.177<113.035 140.373>
+VStem: 71.7849 112.1<23.0533 53.6484> 108 38<144 265.33>
 LayerCount: 2
 Fore
 SplineSet

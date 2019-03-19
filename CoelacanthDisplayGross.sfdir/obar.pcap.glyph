@@ -1,6 +1,6 @@
 StartChar: obar.pcap
 Encoding: 57466 57466 1736
-Width: 568
+Width: 505
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -5 37<240.993 370.228> 192 28<66 504> 378 35<202.127 322.544>
