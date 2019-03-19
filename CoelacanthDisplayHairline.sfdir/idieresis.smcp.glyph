@@ -1,5 +1,5 @@
 StartChar: idieresis.smcp
-Encoding: 57712 57712 2075
+Encoding: 57712 57712 2074
 Width: 307
 Flags: HW
 HStem: -7.9 30.2<48.3656 110.618> 462.3 32.5<52.24 117.352>
@@ -7,5 +7,5 @@ VStem: 135.472 67.4424<39.011 449.27>
 LayerCount: 2
 Fore
 Refer: 97 776 N 1 0 0 1 360.5 90 2
-Refer: 2040 57679 N 1 0 0 1 0 0 3
+Refer: 2039 57679 N 1 0 0 1 0 0 3
 EndChar

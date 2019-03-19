@@ -1,9 +1,9 @@
 StartChar: clicklateral.smcp
-Encoding: 57795 57795 2156
+Encoding: 57795 57795 2155
 Width: 313
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 2155 57794 N 1 0 0 1 115 0 2
-Refer: 2155 57794 N 1 0 0 1 0 0 2
+Refer: 2154 57794 N 1 0 0 1 115 0 2
+Refer: 2154 57794 N 1 0 0 1 0 0 2
 EndChar

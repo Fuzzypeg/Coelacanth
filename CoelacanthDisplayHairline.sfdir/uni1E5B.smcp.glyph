@@ -1,5 +1,5 @@
 StartChar: uni1E5B.smcp
-Encoding: 57910 57910 2271
+Encoding: 57910 57910 2270
 Width: 547
 Flags: HW
 HStem: -23.2 27.9<516.435 566.4> -7.9 33.5<52.0761 96.177 195.365 238.633> 226.1 33.1<178 257.028> 460.7 27.9<45.6 93.4767> 468.3 29.4<193.989 289.705>
@@ -8,5 +8,5 @@ AnchorPoint: "Top" 253 539 basechar 0
 LayerCount: 2
 Fore
 Refer: 272 803 N 1 0 0 1 447 0 2
-Refer: 2049 57688 N 1 0 0 1 0 0 3
+Refer: 2048 57688 N 1 0 0 1 0 0 3
 EndChar

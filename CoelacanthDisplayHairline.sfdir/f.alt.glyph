@@ -66,5 +66,5 @@ SplineSet
  127.99405979 621.504930428 160 674 195 705 c 0
  224.488151377 731.118076934 264.769276161 750 308 750 c 3
 EndSplineSet
-Kerns2: 1437 10 "kern-1 latin individual kerning" 1436 52 "kern-1 latin individual kerning" 1435 13 "kern-1 latin individual kerning" 1434 13 "kern-1 latin individual kerning" 1433 20 "kern-1 latin individual kerning" 1431 39 "kern-1 latin individual kerning"
+Kerns2: 1436 10 "kern-1 latin individual kerning" 1435 52 "kern-1 latin individual kerning" 1434 13 "kern-1 latin individual kerning" 1433 13 "kern-1 latin individual kerning" 1432 20 "kern-1 latin individual kerning" 1430 39 "kern-1 latin individual kerning"
 EndChar
