@@ -1,0 +1,12 @@
+StartChar: afii10065
+Encoding: 1072 1072 48
+Width: 439
+Flags: HW
+HStem: -15 43<91 197> 161 32<169 262> 364 52<144 236>
+VStem: 49 64<34 133> 263 65<60 164 191 321>
+AnchorPoint: "Top" 191 465 basechar 0
+AnchorPoint: "Bottom" 193 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 0 97 N 1 0 0 1 0 0 3
+EndChar

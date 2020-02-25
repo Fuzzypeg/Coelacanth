@@ -1,0 +1,24 @@
+StartChar: Phi
+Encoding: 934 934 1311
+Width: 714
+UnlinkRmOvrlpSave: 1
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+336 524 m 3
+ 256.712871287 524 193 484.44 193 398 c 3
+ 193 276.821428571 291.573465347 164 388 164 c 3
+ 469.819936231 164 518 228.736263736 518 301 c 3
+ 518 414.911780919 451.044411215 524 336 524 c 3
+362 590 m 3
+ 534 590 673 478 673 342 c 3
+ 673 211 541 104 363 104 c 3
+ 185 104 41 210 41 342 c 3
+ 41 474 187 590 362 590 c 3
+EndSplineSet
+Refer: 1281 921 N 0.97 0 0 1 190 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" phi.pcap
+Substitution2: "c2sc-1" phi.smcp
+EndChar

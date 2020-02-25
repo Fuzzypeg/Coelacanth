@@ -1,0 +1,25 @@
+StartChar: afii10053
+Encoding: 1028 1028 41
+Width: 746
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -9 42<354.099 560.906> 332 36<133 473.393> 659 40<330.855 552.759>
+VStem: 50 103<245.223 465.81> 497 36<248 304.348> 640 33<522.188 588.436> 680 27<150.932 169.074>
+AnchorPoint: "Top" 433 699 basechar 0
+AnchorPoint: "Bottom" 423 -15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+133 368 m 1
+ 216.361328125 370 424.763671875 370 443 371 c 0
+ 480 376 485 402 501 446 c 1
+ 535 439 l 1
+ 518 375 522 312 533 248 c 1
+ 497 239 l 1
+ 477 310 484 323 443 327 c 0
+ 385.689453125 332 254.133789062 331 133 332 c 1
+ 133 368 l 1
+EndSplineSet
+Refer: 1254 67 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

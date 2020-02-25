@@ -1,0 +1,17 @@
+StartChar: gravecomb
+Encoding: 768 768 284
+Width: 0
+Flags: HW
+AnchorPoint: "TopMark" -195 625 basemark 0
+AnchorPoint: "Top" -198.5 409 mark 0
+AnchorPoint: "TopMark" -196 410 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-166.332 456.698 m 1
+ -199.67 425.35 l 1
+ -251.210171875 504.15044 -308.238671875 570.385385 -357.972 609.688 c 1
+ -314.858 646.218 -259.866 663.382 -259.866 663.382 c 1
+ -230.839125 606.011 -187.2624375 517.7321 -166.332 456.698 c 1
+EndSplineSet
+EndChar

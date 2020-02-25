@@ -1,0 +1,13 @@
+StartChar: uni215F
+Encoding: 8543 8543 936
+Width: 531
+Flags: HW
+HStem: 262 22<35 81.2419 170.125 222> 580 19<42 86.7566> 589 20<184.979 218.7>
+VStem: 103 55<294.973 574.375>
+LayerCount: 2
+Fore
+Refer: 274 8260 N 1 0 0 1 64 0 2
+Refer: 372 58409 N 1 0 0 1 0 0 2
+Kerns2: 1227 -248 "kern-1 latin individual kerning" 370 -182 "kern-1 latin individual kerning" 507 -211 "kern-1 latin individual kerning" 490 -213 "kern-1 latin individual kerning" 265 -287 "kern-1 latin individual kerning" 253 -218 "kern-1 latin individual kerning" 463 -254 "kern-1 latin individual kerning" 449 -204 "kern-1 latin individual kerning" 217 -228 "kern-1 latin individual kerning" 347 -217 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+EndChar

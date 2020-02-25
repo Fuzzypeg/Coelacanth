@@ -1,0 +1,10 @@
+StartChar: bar
+Encoding: 124 124 167
+Width: 158
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 340 58114 N 0 0.927 -0.826087 0 79 -210 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

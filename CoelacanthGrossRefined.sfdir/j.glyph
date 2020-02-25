@@ -1,0 +1,16 @@
+StartChar: j
+Encoding: 106 106 311
+Width: 230
+Flags: HW
+HStem: 572 102<102.589 187.411>
+VStem: -27 27<-331 -293> 82 68<-160 327> 93 104<581.438 664.599>
+AnchorPoint: "Bottom" 118 -228 basechar 0
+LayerCount: 2
+Fore
+Refer: 646 775 N 1 0 0 1 348 121 2
+Refer: 602 567 N 1 0 0 1 0 0 2
+Substitution2: "case-1" J
+Substitution2: "salt-1" j.alt
+Substitution2: "pcap-1" j.pcap
+Substitution2: "smcp-1" j.smcp
+EndChar

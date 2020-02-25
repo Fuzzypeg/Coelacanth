@@ -1,0 +1,20 @@
+StartChar: bracketleft
+Encoding: 91 91 171
+Width: 246
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+105 663 m 1
+ 105 -176 l 1
+ 219 -194 l 1
+ 219 -236 l 1
+ 37 -236 l 1
+ 37 723 l 1
+ 219 723 l 1
+ 219 683 l 1
+ 105 663 l 1
+EndSplineSet
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

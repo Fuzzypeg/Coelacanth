@@ -1,0 +1,14 @@
+StartChar: ldot
+Encoding: 320 320 324
+Width: 408
+Flags: HW
+HStem: -7 33<9 67 174 243> 193 140<284.678 327.536>
+VStem: 91 70<57 558> 237 141<239.309 283.937>
+LayerCount: 2
+Fore
+Refer: 406 183 N 1 0 0 1 207 0 2
+Refer: 318 108 N 1 0 0 1 0 0 2
+Substitution2: "pcap-1" ldot.pcap
+Substitution2: "case-1" Ldot
+Substitution2: "smcp-1" ldot.smcp
+EndChar

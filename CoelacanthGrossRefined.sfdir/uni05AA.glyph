@@ -1,0 +1,17 @@
+StartChar: uni05AA
+Encoding: 1450 1450 754
+Width: 0
+Flags: HW
+AnchorPoint: "HbBottom" 260 1 mark 0
+LayerCount: 2
+Fore
+SplineSet
+260 -127 m 3
+ 290.4609375 -127 293 -87 290 -48 c 9
+ 354 -52 l 1
+ 353.438476562 -117.940429688 304.048828125 -171 260 -171 c 3
+ 215.951171875 -171 166.561523438 -117.940429688 166 -52 c 9
+ 230 -48 l 17
+ 227 -86 229.5390625 -127 260 -127 c 3
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: iota
+Encoding: 953 953 309
+Width: 292
+Flags: HMW
+AnchorPoint: "Top" 160 465 basechar 0
+AnchorPoint: "Bottom" 140 -15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+172 91 m 3
+ 172 82.25 176.554655871 81 183 81 c 3
+ 193.952380952 81 204 109 206 119 c 1
+ 254 104 l 1
+ 230 49.796875 187 -9 127 -9 c 3
+ 91.3773584906 -9 68 16.649122807 68 128 c 3
+ 68 214.566257283 87.6 299.366608183 82 393 c 1
+ 80.150744745 392.451991068 205.084681359 438.632586885 237 413 c 1
+ 216.47368421 286.121975615 172 129.448031415 172 91 c 3
+EndSplineSet
+Substitution2: "pcap-1" i.pcap
+Substitution2: "smcp-1" i.smcp
+EndChar

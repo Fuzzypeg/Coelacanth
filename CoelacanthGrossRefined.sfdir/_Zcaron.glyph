@@ -1,0 +1,13 @@
+StartChar: Zcaron
+Encoding: 381 381 1350
+Width: 741
+Flags: HW
+HStem: 1 40<185 577.424> 642 43<115.808 557>
+LayerCount: 2
+Fore
+Refer: 1255 58028 N 1 0 0 1 243 0 2
+Refer: 1349 90 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" zcaron.pcap
+Substitution2: "c2sc-1" zcaron.smcp
+EndChar

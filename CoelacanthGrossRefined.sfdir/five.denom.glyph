@@ -1,0 +1,11 @@
+StartChar: five.denom
+Encoding: 58403 58403 253
+Width: 277
+Flags: HW
+HStem: 189 64<86.3379 234.248>
+VStem: 171 57<-7.97193 66.5899>
+LayerCount: 2
+Fore
+Refer: 257 58456 N 1 0 0 1 -6 -84 2
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+EndChar
