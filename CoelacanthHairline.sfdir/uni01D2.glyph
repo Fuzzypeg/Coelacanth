@@ -1,13 +1,13 @@
 StartChar: uni01D2
-Encoding: 466 466 300
+Encoding: 466 466 918
 Width: 505
 Flags: HW
 HStem: -11 39<199.926 327.747> 374 45<168.903 305.133> 495.6 184.8
 VStem: 32 76<130.211 291.037> 140.25 225.5 395 78<107.641 276.826>
 LayerCount: 2
 Fore
-Refer: 102 780 N 1 0 0 1 450.5 64 2
-Refer: 14 111 N 1 0 0 1 0 0 3
+Refer: 1168 780 N 1 0 0 1 450.5 64 2
+Refer: 569 111 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ocaron.pcap
 Substitution2: "smcp-1" ocaron.smcp
 Substitution2: "case-1" uni01D1

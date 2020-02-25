@@ -1,5 +1,5 @@
 StartChar: uni0307
-Encoding: 775 775 48
+Encoding: 775 775 1164
 Width: 0
 Flags: HW
 HStem: 451 102<-240.411 -155.589>
@@ -9,5 +9,5 @@ AnchorPoint: "TopMark" -198.5 539 basemark 0
 AnchorPoint: "Top" -198.5 389 mark 0
 LayerCount: 2
 Fore
-Refer: 2357 57345 N 1.15 0 0 1.12788 -198 502 2
+Refer: 2293 57345 N 1.15 0 0 1.12788 -198 502 2
 EndChar

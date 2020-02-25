@@ -2,7 +2,7 @@ StartChar: uni0306
 Encoding: 774 774 105
 GlifName: uni0306
 Width: 0
-Flags: HW
+Flags: W
 HStem: 436.274 54.719<-267.503 -128.241>
 VStem: -330.178 28.08<532.771 549.079> -92.9023 28.081<535.635 549.079>
 AnchorPoint: "TopMark" -200.5 396 mark 0

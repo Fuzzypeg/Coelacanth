@@ -1,10 +1,10 @@
 StartChar: six.proportionallining
-Encoding: 58394 58394 907
+Encoding: 58394 58394 721
 Width: 603
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 688 58384 N 1 0 0 1 39 0 2
+Refer: 724 58384 N 1 0 0 1 39 0 2
 Substitution2: "tnum-1" six.tabularlining
 Substitution2: "onum-1" six
 Substitution2: "numr-1" six.numerator

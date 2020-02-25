@@ -1,5 +1,5 @@
 StartChar: ampersand
-Encoding: 38 38 77
+Encoding: 38 38 188
 Width: 676
 Flags: HW
 HStem: -11 57<161.575 299.635 513.09 600.584> 461 35<584.895 645> 492 33<480.667 506.511>
@@ -39,7 +39,7 @@ SplineSet
  525.564346457 511.517 580.425070866 502.345 618 503 c 1
  618.5 479.400390625 l 1xcc
 EndSplineSet
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "pcap-1" ampersand.pcap
 Substitution2: "smcp-1" ampersand.smcp
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

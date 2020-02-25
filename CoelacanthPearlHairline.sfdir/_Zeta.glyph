@@ -1,13 +1,13 @@
 StartChar: Zeta
-Encoding: 918 918 981
-Width: 724
+Encoding: 918 918 2490
+Width: 696
 Flags: HW
-HStem: -4 46<58.5652 78.497> 1 56<310.565 604.116> 619 59<122.945 581>
+HStem: -4 46<35.5652 55.497> 1 56<287.565 581.116> 619 59<99.945 558>
 AnchorPoint: "Top" 366 699 basechar 0
 AnchorPoint: "Bottom" 357 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 58 90 N 1 0 0 1 0 0 2
+Refer: 2486 90 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" z.pcap
 Substitution2: "c2sc-1" z.smcp

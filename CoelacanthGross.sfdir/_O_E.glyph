@@ -1,7 +1,9 @@
 StartChar: OE
-Encoding: 338 338 172
+Encoding: 338 338 1309
 Width: 1081
 Flags: HW
+AnchorPoint: "Bottom" 572.957 -15 basechar 0
+AnchorPoint: "Top" 583.585 699 basechar 0
 LayerCount: 2
 Fore
 SplineSet

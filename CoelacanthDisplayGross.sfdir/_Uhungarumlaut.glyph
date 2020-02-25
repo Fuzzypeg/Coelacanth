@@ -1,13 +1,13 @@
 StartChar: Uhungarumlaut
-Encoding: 368 368 236
+Encoding: 368 368 2526
 Width: 827
 Flags: HW
 HStem: -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19 805> 742.3 169.7
 VStem: 120 75<119.571 665.877> 383.5 243.345
 LayerCount: 2
 Fore
-Refer: 165 58027 N 1 0 0 1 355 0 2
-Refer: 52 85 N 1 0 0 1 0 0 3
+Refer: 2529 58027 N 1 0 0 1 355 0 2
+Refer: 2519 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" uhungarumlaut.pcap
 Substitution2: "c2sc-1" uhungarumlaut.smcp

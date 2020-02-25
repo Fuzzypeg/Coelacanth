@@ -1,13 +1,13 @@
 StartChar: Cdotaccent
-Encoding: 266 266 197
+Encoding: 266 266 2314
 Width: 732
 Flags: HW
 HStem: -16 56<307.203 538.098> 632 56<286.57 553.553> 735.881 98.2387<375.596 462.404>
 VStem: 43 56<215.879 444.931> 368.971 100.058<742.409 827.618> 607 52<491.378 596.716> 636 53<131.551 187.717>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 341 -20 2
-Refer: 28 67 N 1 0 0 1 0 0 3
+Refer: 2324 58025 N 1 0 0 1 341 -20 2
+Refer: 2308 67 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" cdotaccent.pcap
 Substitution2: "c2sc-1" cdotaccent.smcp

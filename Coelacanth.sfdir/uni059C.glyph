@@ -2,7 +2,7 @@ StartChar: uni059C
 Encoding: 1436 1436 2548
 GlifName: uni059C_
 Width: 0
-Flags: HW
+Flags: W
 HStem: 641.686 158.826
 VStem: 242.367 23.9492<644.49 687.654>
 AnchorPoint: "HbTop" 264 628 mark 0

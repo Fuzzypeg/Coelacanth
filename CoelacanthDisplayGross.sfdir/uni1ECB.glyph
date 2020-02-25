@@ -1,11 +1,11 @@
 StartChar: uni1ECB
-Encoding: 7883 7883 856
+Encoding: 7883 7883 1677
 Width: 254
 Flags: HW
 HStem: -7 33<26 80 177 247>
 VStem: 90 71<57 330>
 LayerCount: 2
 Fore
-Refer: 271 803 N 1 0 0 1 335 0 2
-Refer: 8 105 N 1 0 0 1 0 0 3
+Refer: 290 803 N 1 0 0 1 335 0 2
+Refer: 435 105 N 1 0 0 1 0 0 3
 EndChar

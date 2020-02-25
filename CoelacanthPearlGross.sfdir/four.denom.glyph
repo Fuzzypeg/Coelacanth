@@ -1,11 +1,11 @@
 StartChar: four.denom
-Encoding: 58402 58402 916
+Encoding: 58402 58402 349
 Width: 326
 Flags: HW
 HStem: -15.1914 59.2734<95.6259 177.19 251.039 269.638 270.006 300.095>
 VStem: 177.19 73.8486<-76.0951 -15.1914 48.0791 156.192>
 LayerCount: 2
 Fore
-Refer: 2437 58455 N 1 0 0 1 -10 -84 2
+Refer: 353 58455 N 1 0 0 1 -10 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

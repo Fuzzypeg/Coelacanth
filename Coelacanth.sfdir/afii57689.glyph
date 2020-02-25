@@ -8,7 +8,7 @@ HStem: -19.7197 135.96<219.604 352.955> 424.16 21G<338.386 412.64>
 VStem: 107.88 41.6797<194.009 372.149> 283.16 19.3203<579.628 596.24>
 AnchorPoint: "HbTop" 331 619.44 basechar 0
 AnchorPoint: "HbTopLeft" 61.68 619.44 basechar 0
-AnchorPoint: "HbBottom" 292 0 basechar 0
+AnchorPoint: "HbBottom" 310 0 basechar 0
 AnchorPoint: "HbTopRight" 624 619.44 basechar 0
 LayerCount: 2
 Back

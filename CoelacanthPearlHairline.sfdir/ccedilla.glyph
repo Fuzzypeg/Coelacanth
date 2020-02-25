@@ -1,16 +1,16 @@
 StartChar: ccedilla
-Encoding: 231 231 267
-Width: 444
+Encoding: 231 231 218
+Width: 468
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -172 50.1914<157.034 244.15>
-VStem: 244.175 58.4277<-118.562 -80.38>
+HStem: -172 50.1914<167.034 254.15>
+VStem: 254.175 58.4277<-118.562 -80.38>
 AnchorPoint: "Top" 252 537 basechar 0
 AnchorPoint: "Bottom" 228 -207 basechar 0
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 436 0 2
-Refer: 2 99 N 1 0 0 1 0 0 3
+Refer: 1110 807 N 1 0 0 1 446 0 2
+Refer: 207 99 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ccedilla.pcap
 Substitution2: "case-1" Ccedilla
 Substitution2: "smcp-1" ccedilla.smcp

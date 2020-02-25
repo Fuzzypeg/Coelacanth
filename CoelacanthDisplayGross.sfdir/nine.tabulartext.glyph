@@ -1,10 +1,10 @@
 StartChar: nine.tabulartext
-Encoding: 58377 58377 680
+Encoding: 58377 58377 556
 Width: 463
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 71 57 N 1 0 0 1 -5 0 2
+Refer: 550 57 N 1 0 0 1 -5 0 2
 Substitution2: "pnum-1" nine
 Substitution2: "lnum-1" nine.tabularlining
 Substitution2: "numr-1" nine.numerator

@@ -1,9 +1,9 @@
 StartChar: uni023C
-Encoding: 572 572 2004
-Width: 444
+Encoding: 572 572 1048
+Width: 468
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1968 58113 N 0.305886 0.586748 -0.83249 0.432537 77.5574 -47.3742 2
-Refer: 2 99 N 1 0 0 1 0 0 2
+Refer: 757 58113 N 0.305886 0.586748 -0.83249 0.432537 87.5574 -47.3742 2
+Refer: 207 99 N 1 0 0 1 0 0 2
 EndChar

@@ -1,7 +1,8 @@
 StartChar: uni059A
-Encoding: 1434 1434 1147
+Encoding: 1434 1434 738
 Width: 0
 Flags: HW
+AnchorPoint: "HbBottomRight" 429 0 mark 0
 LayerCount: 2
 Fore
 SplineSet

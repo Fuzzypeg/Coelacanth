@@ -1,30 +1,30 @@
 StartChar: e
 Encoding: 101 101 4
-Width: 478
+Width: 506
 Flags: HMW
-AnchorPoint: "Bottom" 250 -15 basechar 0
-AnchorPoint: "Ogonek" 378 18 basechar 0
-AnchorPoint: "Top" 259 538 basechar 0
+AnchorPoint: "Bottom" 261 -15 basechar 0
+AnchorPoint: "Ogonek" 389 18 basechar 0
+AnchorPoint: "Top" 270 538 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-263 517 m 3
- 340 517 418 458 442 364 c 1
- 445 356 448 351 454 350 c 1
- 454 282 l 1
- 349 265 226 242 131 222 c 1
- 131 220 131 217 131 215 c 1
- 141 140 196 70 271 70 c 3
- 316 70 370 115 395 158 c 1
- 452 115 l 1
- 414 56 350 -12 239 -12 c 3
- 83 -12 22 129 22 230 c 3
- 22 419 156 517 263 517 c 3
-246 444 m 3
- 200 444 137 391 131 288 c 1
- 338 327 l 1
- 341 327 342 330 342 333 c 1
- 339 393 291 444 246 444 c 3
+274 517 m 3
+ 351 517 429 458 453 364 c 1
+ 456 356 459 351 465 350 c 1
+ 465 282 l 1
+ 360 265 237 242 142 222 c 1
+ 142 220 142 217 142 215 c 1
+ 152 140 207 70 282 70 c 3
+ 327 70 381 115 406 158 c 1
+ 463 115 l 1
+ 425 56 361 -12 250 -12 c 3
+ 94 -12 33 129 33 230 c 3
+ 33 419 167 517 274 517 c 3
+257 444 m 3
+ 211 444 148 391 142 288 c 1
+ 349 327 l 1
+ 352 327 353 330 353 333 c 1
+ 350 393 302 444 257 444 c 3
 EndSplineSet
 Substitution2: "case-1" E
 Substitution2: "pcap-1" e.pcap

@@ -1,10 +1,10 @@
 StartChar: fraction
-Encoding: 8260 8260 428
+Encoding: 8260 8260 274
 Width: 467
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1025 58113 N 0.381374 0.504738 -0.800791 0.601815 42.8131 2.63118 2
-Kerns2: 429 -248 "kern-1 latin individual kerning" 430 -182 "kern-1 latin individual kerning" 431 -221 "kern-1 latin individual kerning" 432 -213 "kern-1 latin individual kerning" 433 -287 "kern-1 latin individual kerning" 434 -218 "kern-1 latin individual kerning" 435 -254 "kern-1 latin individual kerning" 436 -204 "kern-1 latin individual kerning" 437 -228 "kern-1 latin individual kerning" 438 -217 "kern-1 latin individual kerning"
+Refer: 487 58113 N 0.381374 0.504738 -0.800791 0.601815 42.8131 2.63118 2
+Kerns2: 1227 -248 "kern-1 latin individual kerning" 370 -182 "kern-1 latin individual kerning" 507 -221 "kern-1 latin individual kerning" 490 -213 "kern-1 latin individual kerning" 265 -287 "kern-1 latin individual kerning" 253 -218 "kern-1 latin individual kerning" 463 -254 "kern-1 latin individual kerning" 449 -204 "kern-1 latin individual kerning" 217 -228 "kern-1 latin individual kerning" 347 -217 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

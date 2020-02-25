@@ -1,9 +1,9 @@
 StartChar: uniFB3B
-Encoding: 64315 64315 2626
+Encoding: 64315 64315 2427
 Width: 469
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 2467 1499 N 1 0 0 1 0 0 2
-Refer: 2531 1468 N 1 0 0 1 -42 0 2
+Refer: 141 1499 N 1 0 0 1 0 0 2
+Refer: 173 1468 N 1 0 0 1 -42 0 2
 EndChar

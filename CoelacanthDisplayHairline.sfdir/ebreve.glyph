@@ -1,13 +1,13 @@
 StartChar: ebreve
-Encoding: 277 277 142
+Encoding: 277 277 299
 Width: 414
 Flags: HW
 HStem: -7 35<177.694 286.248> 376 20<168.781 232.156> 476.283 33.7665<148.847 276.542>
 VStem: 34 61<110.281 224.686 236 282.35> 102.435 11.4<546.952 553.681>
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 410.5 32.3 2
-Refer: 4 101 N 1 0 0 1 0 0 3
+Refer: 1111 774 N 1 0 0 1 410.5 32.3 2
+Refer: 293 101 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ebreve.smcp
 Substitution2: "case-1" Ebreve
 Substitution2: "pcap-1" ebreve.pcap

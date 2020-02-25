@@ -1,12 +1,12 @@
 StartChar: logicalnot
-Encoding: 172 172 1210
+Encoding: 172 172 519
 Width: 463
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: 190 54<34.2002 427.8>
 LayerCount: 2
 Fore
-Refer: 1970 58114 N 0 -0.151 1.00002 0 421 225 2
-Refer: 330 8722 N 1 0 0 0.851812 0 33.1567 2
+Refer: 531 58114 N 0 -0.151 1.00002 0 421 225 2
+Refer: 532 8722 N 1 0 0 0.851812 0 33.1567 2
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

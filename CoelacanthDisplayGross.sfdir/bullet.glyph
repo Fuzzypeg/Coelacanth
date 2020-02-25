@@ -1,11 +1,11 @@
 StartChar: bullet
-Encoding: 8226 8226 434
+Encoding: 8226 8226 227
 Width: 446
 Flags: HW
 HStem: -62 124<-46.8881 46.8883>
 VStem: -62 124<-46.8374 46.8957>
 LayerCount: 2
 Fore
-Refer: 2357 57346 N 2.325 0 0 2.325 223 267 2
+Refer: 2215 57346 N 2.325 0 0 2.325 223 267 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

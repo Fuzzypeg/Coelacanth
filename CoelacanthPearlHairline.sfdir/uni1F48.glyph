@@ -1,5 +1,5 @@
 StartChar: uni1F48
-Encoding: 8008 8008 1543
+Encoding: 8008 8008 1786
 Width: 878
 Flags: HW
 HStem: -16 72<379.672 559.99> 501.848 60.48<-19.0091 36.6371> 616 73<317.654 508.048>
@@ -9,6 +9,6 @@ AnchorPoint: "Bottom" 455 -15 basechar 0
 AnchorPoint: "Top" 459 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 990 927 N 1 0 0 1 33 0 2
-Refer: 1606 8127 N 1.08 0 0 1.08 -119.273 -15.472 2
+Refer: 2412 927 N 1 0 0 1 33 0 2
+Refer: 1896 8127 N 1.08 0 0 1.08 -119.273 -15.472 2
 EndChar

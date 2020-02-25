@@ -1,12 +1,12 @@
 StartChar: uni01B5
 Encoding: 437 437 1758
 GlifName: uni01B_5
-Width: 710
+Width: 734
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: 1 40<168 560.424> 329 46<159.015 568.102> 642 43<98.8077 540>
+HStem: 1 40<180 572.424> 329 46<171.015 580.102> 642 43<110.808 552>
 LayerCount: 2
 Fore
-Refer: 452 58035 N 1.16882 0 0 1 630.049 0 2
+Refer: 452 58035 N 1.16882 0 0 1 642.049 0 2
 Refer: 58 90 N 1 0 0 1 0 0 2
 EndChar

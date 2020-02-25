@@ -6,6 +6,7 @@ HStem: -18 40<289 347.036> -17 32<66 170.18> 162 24<170.375 244.719> 376 32<142.
 VStem: 32 58<23.793 131.62> 49 59<315.642 355.233> 243 63<56.5717 161.987 182.751 271.326> 250 61<145.38 335.214>
 AnchorPoint: "Top" 186 429 basechar 0
 AnchorPoint: "Ogonek" 336 18 basechar 0
+AnchorPoint: "Bottom" 198 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: uni0180
 Encoding: 384 384 1489
-Width: 552
+Width: 566
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: 581.188 73.625<7 305>
+HStem: 581.188 73.625<11 309>
 LayerCount: 2
 Fore
-Refer: 441 821 N 1 0 0 1 333 91 2
+Refer: 441 821 N 1 0 0 1 337 91 2
 Refer: 1 98 N 1 0 0 1 0 0 2
 EndChar

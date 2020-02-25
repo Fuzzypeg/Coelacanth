@@ -1,5 +1,5 @@
 StartChar: uni26B2
-Encoding: 9906 9906 1530
+Encoding: 9906 9906 2143
 Width: 500
 UnlinkRmOvrlpSave: 1
 Flags: HMW
@@ -16,5 +16,5 @@ SplineSet
  226.8 -121 226.8 -97 229 96 c 1
  274 96 l 1
 EndSplineSet
-Refer: 1529 9898 N 1 0 0 1 0 0 2
+Refer: 2142 9898 N 1 0 0 1 0 0 2
 EndChar

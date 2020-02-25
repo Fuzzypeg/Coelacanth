@@ -1,5 +1,5 @@
 StartChar: germandbls
-Encoding: 223 223 156
+Encoding: 223 223 280
 Width: 579
 Flags: HW
 LayerCount: 2
@@ -41,8 +41,8 @@ SplineSet
  99 588.532796875 130.21505236 637.027699372 205 704 c 0
  235.579196895 731.384643997 258.237 756 312 756 c 3
 EndSplineSet
-MultipleSubs2: "case-2" S S
 Substitution2: "pcap-1" uni1E9E.pcap
 Substitution2: "case-1" uni1E9E
 Substitution2: "smcp-1" uni1E9E.smcp
+MultipleSubs2: "case-2" S S
 EndChar

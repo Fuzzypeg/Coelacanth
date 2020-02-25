@@ -1,23 +1,11 @@
 StartChar: uni27E6
-Encoding: 10214 10214 1444
+Encoding: 10214 10214 2224
 Width: 289
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -230 42<83 222.222> -230 33<122.778 262> 685 32<136.7 262>
 VStem: 37 46<-188 675>
 LayerCount: 2
-Back
-SplineSet
-250 -230 m 1
- 37 -230 l 1
- 37 717 l 1
- 250 717 l 1
- 250 693 l 1
- 61 693 l 1
- 61 -206 l 1
- 250 -206 l 1
- 250 -230 l 1
-EndSplineSet
 Fore
 SplineSet
 61 693 m 1x70
@@ -30,5 +18,5 @@ SplineSet
  262 693 l 1
  61 693 l 1x70
 EndSplineSet
-Refer: 1968 58113 N 0 -0.927 0.875 0 160 704 2
+Refer: 781 58113 N 0 -0.927 0.875 0 160 704 2
 EndChar

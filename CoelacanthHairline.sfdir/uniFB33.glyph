@@ -1,9 +1,9 @@
 StartChar: uniFB33
-Encoding: 64307 64307 2619
+Encoding: 64307 64307 2420
 Width: 467
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 2459 1491 N 1 0 0 1 0 0 2
-Refer: 2531 1468 N 1 0 0 1 -57 0 2
+Refer: 133 1491 N 1 0 0 1 0 0 2
+Refer: 173 1468 N 1 0 0 1 -57 0 2
 EndChar

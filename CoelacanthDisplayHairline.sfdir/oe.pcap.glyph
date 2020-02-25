@@ -1,8 +1,10 @@
 StartChar: oe.pcap
-Encoding: 57443 57443 1697
+Encoding: 57443 57443 586
 Width: 612
 UnlinkRmOvrlpSave: 1
 Flags: HW
+AnchorPoint: "Bottom" 332 -15 basechar 0
+AnchorPoint: "Top" 331.921 489 basechar 0
 LayerCount: 2
 Fore
 SplineSet

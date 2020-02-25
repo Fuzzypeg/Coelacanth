@@ -4,6 +4,7 @@ Width: 377
 Flags: HW
 HStem: -8 66<247.449 314.53> 438 71<69.5139 135.452 252.508 318.493>
 VStem: 140 104<63.5768 428.84>
+AnchorPoint: "Ogonek" 263.65 21.6582 basechar 0
 AnchorPoint: "Top" 199 537 basechar 0
 AnchorPoint: "Bottom" 198 -15 basechar 0
 LayerCount: 2

@@ -1,7 +1,9 @@
 StartChar: longs
-Encoding: 383 383 445
+Encoding: 383 383 496
 Width: 303
 Flags: HW
+AnchorPoint: "Top" 208 735 basechar 0
+AnchorPoint: "Bottom" 145 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet

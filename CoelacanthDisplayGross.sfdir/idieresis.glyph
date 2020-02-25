@@ -1,13 +1,13 @@
 StartChar: idieresis
-Encoding: 239 239 124
+Encoding: 239 239 449
 Width: 264
 Flags: HW
 HStem: -7 33<15 69 166 236>
 VStem: 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 96 776 N 1 0 0 1 327 77 2
-Refer: 49 305 N 1 0 0 1 0 0 3
+Refer: 1113 776 N 1 0 0 1 327 77 2
+Refer: 291 305 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" idieresis.pcap
 Substitution2: "case-1" Idieresis
 Substitution2: "smcp-1" idieresis.smcp

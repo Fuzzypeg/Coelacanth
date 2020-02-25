@@ -1,8 +1,11 @@
 StartChar: ohorn
-Encoding: 417 417 271
+Encoding: 417 417 364
 Width: 505
 UnlinkRmOvrlpSave: 1
 Flags: HW
+AnchorPoint: "Top" 251 465 basechar 0
+AnchorPoint: "Bottom" 249 -15 basechar 0
+AnchorPoint: "Middle" 255 206 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -16,7 +19,7 @@ SplineSet
  374.848583752 365.359813167 364.223112925 367.723174319 356 372.504213497 c 0
  345.504051227 378.606712971 338.92199236 388.648061695 334.482421875 402.741210938 c 1
 EndSplineSet
-Refer: 14 111 N 1 0 0 1 0 0 2
+Refer: 358 111 N 1 0 0 1 0 0 2
 Substitution2: "smcp-1" ohorn.smcp
 Substitution2: "case-1" Ohorn
 Substitution2: "pcap-1" ohorn.pcap

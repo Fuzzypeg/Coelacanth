@@ -1,12 +1,12 @@
 StartChar: scaron
 Encoding: 353 353 226
-Width: 401
+Width: 427
 Flags: HW
 HStem: 569.199 155.801
-VStem: 63.2002 288.5
+VStem: 76.2002 288.5
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 384 0 2
+Refer: 103 780 N 1 0 0 1 397 0 2
 Refer: 18 115 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" scaron.smcp
 Substitution2: "case-1" Scaron

@@ -1,5 +1,5 @@
 StartChar: Phi
-Encoding: 934 934 996
+Encoding: 934 934 2417
 Width: 714
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -17,7 +17,7 @@ SplineSet
  185 122 41 219.983193277 41 342 c 3
  41 464.419354839 187 572 362 572 c 3
 EndSplineSet
-Refer: 984 921 N 0.97 0 0 1 134 0 2
+Refer: 2364 921 N 0.97 0 0 1 134 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" phi.pcap
 Substitution2: "c2sc-1" phi.smcp

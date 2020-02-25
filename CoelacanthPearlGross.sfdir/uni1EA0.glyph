@@ -1,13 +1,13 @@
 StartChar: uni1EA0
-Encoding: 7840 7840 721
+Encoding: 7840 7840 1533
 Width: 733
 Flags: HW
-HStem: -154.4 118.8<317.656 416.344>
-VStem: 306.5 121<-143.408 -46.5488>
+HStem: -154.4 118.8<321.242 419.93>
+VStem: 310.086 121<-143.408 -46.5488>
 AnchorPoint: "Top" 382 679 basechar 0
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 561 0 2
-Refer: 26 65 N 1 0 0 1 0 0 3
+Refer: 2323 58031 N 1 0 0 1 564.586 0 2
+Refer: 2286 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

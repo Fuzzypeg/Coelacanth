@@ -1,13 +1,13 @@
 StartChar: Wcircumflex
-Encoding: 372 372 239
+Encoding: 372 372 2549
 Width: 1079
 Flags: HW
 HStem: 692 20<15 63.9811 244.755 292.9 412 448.96 610.181 671 824 890.378 1041.1 1090> 745.855 147.545
 VStem: 432.495 248.01 727 25<-22 19.2261>
 LayerCount: 2
 Fore
-Refer: 159 58020 N 1 0 0 1 416 -6 2
-Refer: 55 87 N 1 0 0 1 0 0 3
+Refer: 2391 58020 N 1 0 0 1 416 -6 2
+Refer: 2547 87 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" wcircumflex.pcap
 Substitution2: "c2sc-1" wcircumflex.smcp

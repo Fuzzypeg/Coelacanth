@@ -1,9 +1,9 @@
 StartChar: uni2016
-Encoding: 8214 8214 290
+Encoding: 8214 8214 872
 Width: 273
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 155 124 N 1 0 0 1 115 0 2
-Refer: 155 124 N 1 0 0 1 0 0 2
+Refer: 167 124 N 1 0 0 1 115 0 2
+Refer: 167 124 N 1 0 0 1 0 0 2
 EndChar

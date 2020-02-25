@@ -1,8 +1,9 @@
 StartChar: uni0327
-Encoding: 807 807 268
+Encoding: 807 807 1106
 Width: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
+AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore
 SplineSet

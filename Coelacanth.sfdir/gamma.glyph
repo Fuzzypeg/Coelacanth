@@ -4,6 +4,7 @@ GlifName: gamma
 Width: 451
 UnlinkRmOvrlpSave: 1
 Flags: HMW
+AnchorPoint: "Top" 267 465 basechar 0
 LayerCount: 2
 Fore
 SplineSet

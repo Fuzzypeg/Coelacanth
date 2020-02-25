@@ -1,7 +1,8 @@
 StartChar: Uni0328
-Encoding: 58029 58029 130
+Encoding: 58029 58029 1337
 Width: 0
 Flags: HW
+AnchorPoint: "Ogonek" -105.35 23.6582 mark 0
 LayerCount: 2
 Fore
 SplineSet

@@ -1,13 +1,13 @@
 StartChar: Zdotaccent
 Encoding: 379 379 246
 GlifName: Z_dotaccent
-Width: 710
+Width: 734
 Flags: HW
-HStem: 1 40<168 560.424> 642 43<98.8077 540> 751 108<323.142 412.858>
-VStem: 313 110<760.993 849.046>
+HStem: 1 40<180 572.424> 642 43<110.808 552> 751 108<335.142 424.858>
+VStem: 325 110<760.993 849.046>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 290 0 2
+Refer: 164 58025 N 1 0 0 1 302 0 2
 Refer: 58 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" zdotaccent.pcap

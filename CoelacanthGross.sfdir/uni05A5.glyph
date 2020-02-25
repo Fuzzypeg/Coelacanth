@@ -1,8 +1,9 @@
 StartChar: uni05A5
-Encoding: 1445 1445 1158
+Encoding: 1445 1445 749
 Width: 0
 Flags: HW
+AnchorPoint: "HbBottom" 254 0 mark 0
 LayerCount: 2
 Fore
-Refer: 1149 1436 N -1 0 0 -1 536.001 594.448 2
+Refer: 740 1436 N -1 0 0 -1 536.001 594.448 2
 EndChar

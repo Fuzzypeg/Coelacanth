@@ -1,9 +1,9 @@
 StartChar: macron
-Encoding: 175 175 1210
+Encoding: 175 175 529
 Width: 307
 Flags: HW
 HStem: 447 49<23 282>
 LayerCount: 2
 Fore
-Refer: 1221 713 N 1 0 0 1 0 0 2
+Refer: 1107 713 N 1 0 0 1 0 0 2
 EndChar

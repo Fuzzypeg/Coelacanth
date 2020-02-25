@@ -1,12 +1,12 @@
 StartChar: six.tabulartext
-Encoding: 58374 58374 348
+Encoding: 58374 58374 470
 Width: 463
 Flags: HW
 HStem: -10 40<209.82 314.156> 320 44<197.153 297.825>
 VStem: 54 72<129.031 347.68> 358 64<95.8203 248.065>
 LayerCount: 2
 Fore
-Refer: 69 54 N 1 0 0 1 -17 0 2
+Refer: 464 54 N 1 0 0 1 -17 0 2
 Substitution2: "pnum-1" six
 Substitution2: "lnum-1" six.tabularlining
 Substitution2: "numr-1" six.numerator

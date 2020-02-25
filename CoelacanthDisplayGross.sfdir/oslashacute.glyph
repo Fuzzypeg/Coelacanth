@@ -1,5 +1,5 @@
 StartChar: oslashacute
-Encoding: 511 511 474
+Encoding: 511 511 642
 Width: 506
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,6 +7,6 @@ HStem: -10 21<213.737 312.228> 388 23<183.876 282.08> 557 159
 VStem: 28 65<130.362 287.127> 223.5 177 399 65<108.357 276.92>
 LayerCount: 2
 Fore
-Refer: 91 769 N 1 0 0 1 449.5 63 2
-Refer: 319 248 N 1 0 0 1 0 0 3
+Refer: 15 769 N 1 0 0 1 449.5 63 2
+Refer: 639 248 N 1 0 0 1 0 0 3
 EndChar

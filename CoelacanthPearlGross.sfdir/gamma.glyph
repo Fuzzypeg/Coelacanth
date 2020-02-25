@@ -1,8 +1,9 @@
 StartChar: gamma
-Encoding: 947 947 1005
+Encoding: 947 947 365
 Width: 451
 UnlinkRmOvrlpSave: 1
 Flags: HMW
+AnchorPoint: "Top" 274 537 basechar 0
 LayerCount: 2
 Fore
 SplineSet

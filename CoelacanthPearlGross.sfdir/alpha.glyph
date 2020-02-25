@@ -1,8 +1,10 @@
 StartChar: alpha
-Encoding: 945 945 1003
+Encoding: 945 945 155
 Width: 618
 UnlinkRmOvrlpSave: 1
 Flags: HMW
+AnchorPoint: "Bottom" 275 -15 basechar 0
+AnchorPoint: "Top" 310 537 basechar 0
 LayerCount: 2
 Fore
 SplineSet

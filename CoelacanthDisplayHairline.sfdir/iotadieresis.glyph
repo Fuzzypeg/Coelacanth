@@ -1,13 +1,13 @@
 StartChar: iotadieresis
-Encoding: 970 970 1110
+Encoding: 970 970 472
 Width: 292
 Flags: HW
 HStem: 519 84<36.194 110.806 212.194 286.806>
 VStem: 30.5 86<524.582 597.441> 206.5 86<524.582 597.441>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 358.5 76 2
-Refer: 1011 953 N 1 0 0 1 0 0 3
+Refer: 1113 776 N 1 0 0 1 358.5 76 2
+Refer: 471 953 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" idieresis.pcap
 Substitution2: "smcp-1" idieresis.smcp
 EndChar

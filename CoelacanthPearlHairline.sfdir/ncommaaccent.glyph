@@ -1,13 +1,13 @@
 StartChar: ncommaaccent
-Encoding: 326 326 279
-Width: 533
+Encoding: 326 326 525
+Width: 550
 Flags: HW
 HStem: -177.1 149
-VStem: 234 102<-122.261 -42.3>
+VStem: 247 102<-122.261 -42.3>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 470 0 2
-Refer: 13 110 N 1 0 0 1 0 0 3
+Refer: 1109 806 N 1 0 0 1 483 0 2
+Refer: 515 110 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ncommaaccent.smcp
 Substitution2: "case-1" Ncommaaccent
 Substitution2: "pcap-1" ncommaaccent.pcap

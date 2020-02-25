@@ -1,13 +1,13 @@
 StartChar: racute
-Encoding: 341 341 156
-Width: 406
+Encoding: 341 341 671
+Width: 421
 Flags: HW
 HStem: 569.951 193.429
-VStem: 119.389 230.611
+VStem: 144.389 230.611
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 352 0 2
-Refer: 17 114 N 1 0 0 1 0 0 3
+Refer: 15 769 N 1 0 0 1 377 0 2
+Refer: 668 114 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" racute.smcp
 Substitution2: "case-1" Racute
 Substitution2: "pcap-1" racute.pcap

@@ -1,10 +1,10 @@
 StartChar: zdotaccent.smcp
-Encoding: 57788 57788 2148
+Encoding: 57788 57788 2341
 Width: 542
 Flags: HW
 HStem: 0.3 33<168.7 410.092> 454.4 33.2<117.652 395.8>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 480.5 90 2
-Refer: 2056 57696 N 1 0 0 1 0 0 3
+Refer: 1112 775 N 1 0 0 1 480.5 90 2
+Refer: 2332 57696 N 1 0 0 1 0 0 3
 EndChar

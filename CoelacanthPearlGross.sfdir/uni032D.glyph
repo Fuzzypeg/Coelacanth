@@ -1,8 +1,9 @@
 StartChar: uni032D
-Encoding: 813 813 599
+Encoding: 813 813 1112
 Width: 0
 Flags: HW
+AnchorPoint: "Bottom" -193 -7 mark 0
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 0.83312 -18 -652.878 2
+Refer: 1083 770 N 1 0 0 0.83312 -18 -652.878 2
 EndChar

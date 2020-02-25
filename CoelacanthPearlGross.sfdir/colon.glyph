@@ -1,12 +1,12 @@
 StartChar: colon
-Encoding: 58 58 62
+Encoding: 58 58 239
 Width: 222
 Flags: HW
 HStem: -57.5575 234.318<84.9767 136.727> 297.108 234.318<84.9767 136.727>
 VStem: -5.82455 233.639<34.0172 83.4269 388.682 438.092>
 LayerCount: 2
 Fore
-Refer: 48 46 N 1 0 0 1 2.49545 354.665 2
-Refer: 48 46 N 1 0 0 1 2.49545 0 2
+Refer: 631 46 N 1 0 0 1 2.49545 354.665 2
+Refer: 631 46 N 1 0 0 1 2.49545 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

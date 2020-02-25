@@ -1,5 +1,5 @@
 StartChar: afii10053
-Encoding: 1028 1028 1099
+Encoding: 1028 1028 65
 Width: 732
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -20,6 +20,6 @@ SplineSet
  378.689453125 332 247.133789062 331 126 332 c 1
  126 368 l 1xf8
 EndSplineSet
-Refer: 28 67 N 1 0 0 1 0 0 2
+Refer: 2308 67 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

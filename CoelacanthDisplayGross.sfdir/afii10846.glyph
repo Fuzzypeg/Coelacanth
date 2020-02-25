@@ -1,5 +1,5 @@
 StartChar: afii10846
-Encoding: 1241 1241 1118
+Encoding: 1241 1241 124
 Width: 414
 Flags: HW
 HStem: -196 168
@@ -8,5 +8,5 @@ AnchorPoint: "Top" 205 465 basechar 0
 AnchorPoint: "Bottom" 201 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 879 601 N 1 0 0 1 0 0 2
+Refer: 1084 601 N 1 0 0 1 0 0 2
 EndChar

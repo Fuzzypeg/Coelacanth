@@ -1,12 +1,12 @@
 StartChar: three.proportionallining
-Encoding: 58391 58391 903
+Encoding: 58391 58391 785
 Width: 406
 Flags: HW
 HStem: -16 26<78.3077 101.271> 320 26<85.5769 126.534> 597 44<127.223 247.15>
 VStem: 278 69<458.643 567.04> 299 74<155.126 282.585>
 LayerCount: 2
 Fore
-Refer: 684 58381 N 1 0 0 1 -21 0 2
+Refer: 788 58381 N 1 0 0 1 -21 0 2
 Substitution2: "tnum-1" three.tabularlining
 Substitution2: "onum-1" three
 Substitution2: "numr-1" three.numerator

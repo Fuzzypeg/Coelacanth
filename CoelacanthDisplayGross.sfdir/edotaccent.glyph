@@ -1,13 +1,13 @@
 StartChar: edotaccent
-Encoding: 279 279 263
+Encoding: 279 279 311
 Width: 414
 Flags: HW
 HStem: -7.35581 36.779<186.726 300.798> 395.112 21.0166<177.36 243.956>
 VStem: 35.7282 64.1006<115.887 236.107 247.996 296.702>
 LayerCount: 2
 Fore
-Refer: 48 775 N 1 0 0 1 413.68 42.68 2
-Refer: 4 101 N 1 0 0 1 0 0 3
+Refer: 1112 775 N 1 0 0 1 413.68 42.68 2
+Refer: 293 101 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" edotaccent.smcp
 Substitution2: "case-1" Edotaccent
 Substitution2: "pcap-1" edotaccent.pcap

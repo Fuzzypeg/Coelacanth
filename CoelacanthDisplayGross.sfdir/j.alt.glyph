@@ -1,5 +1,5 @@
 StartChar: j.alt
-Encoding: 58118 58118 691
+Encoding: 58118 58118 478
 Width: 271
 Flags: HW
 HStem: 325 13<44.8462 59.0241> 600 78<135.078 207.922>
@@ -25,5 +25,5 @@ SplineSet
  70 -284 44 -295 18 -321 c 1
  6 -309 l 1xe0
 EndSplineSet
-Refer: 48 775 N 1 0 0 1 370 121 2
+Refer: 1112 775 N 1 0 0 1 370 121 2
 EndChar

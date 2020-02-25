@@ -1,13 +1,13 @@
 StartChar: ucircumflex
 Encoding: 251 251 133
-Width: 539
+Width: 563
 Flags: HW
 HStem: 576 155.801
-VStem: 133.3 288.5
+VStem: 141.3 288.5
 AnchorPoint: "Bottom" 256 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 452 0 2
+Refer: 93 770 N 1 0 0 1 460 0 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ucircumflex.pcap
 Substitution2: "case-1" Ucircumflex

@@ -2,7 +2,7 @@ StartChar: uni037A
 Encoding: 890 890 961
 GlifName: uni037A_
 Width: 95
-Flags: HW
+Flags: W
 HStem: -295 44.4951<46.4591 116.823>
 VStem: 5.52832 65.9873<-249.952 -89.5438> 19.5322 71.1582<-220.355 -87.5068>
 AnchorPoint: "Bottom" 61.578 -15 mark 0

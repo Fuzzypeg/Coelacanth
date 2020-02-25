@@ -1,12 +1,12 @@
 StartChar: ycircumflex
 Encoding: 375 375 242
-Width: 529
+Width: 521
 Flags: HW
 HStem: 576 155.801
-VStem: 117.3 288.5
+VStem: 114.3 288.5
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 436 0 2
+Refer: 93 770 N 1 0 0 1 433 0 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ycircumflex.smcp
 Substitution2: "case-1" Ycircumflex

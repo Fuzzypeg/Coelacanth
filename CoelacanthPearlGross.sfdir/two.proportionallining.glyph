@@ -1,10 +1,10 @@
 StartChar: two.proportionallining
-Encoding: 58390 58390 903
+Encoding: 58390 58390 777
 Width: 623
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 684 58380 N 1 0 0 1 44 0 2
+Refer: 780 58380 N 1 0 0 1 44 0 2
 Substitution2: "tnum-1" two.tabularlining
 Substitution2: "onum-1" two
 Substitution2: "numr-1" two.numerator

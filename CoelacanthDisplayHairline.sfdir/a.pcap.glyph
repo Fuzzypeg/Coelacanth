@@ -1,5 +1,5 @@
 StartChar: a.pcap
-Encoding: 57347 57347 643
+Encoding: 57347 57347 1
 Width: 425
 Flags: HW
 AnchorPoint: "Bottom" 209 -15 basechar 0

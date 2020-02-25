@@ -1,11 +1,11 @@
 StartChar: zdotaccent.pcap
-Encoding: 57464 57464 1717
+Encoding: 57464 57464 2504
 Width: 504
 Flags: HW
 HStem: -4 31<169.416 334.724> 374 29<125.908 333.172> 404 20<79.5 97> 527 102<221.089 305.911>
 VStem: 211.5 104<536.438 619.599>
 LayerCount: 2
 Fore
-Refer: 48 775 N 1 0 0 1 461.5 76 2
-Refer: 667 57372 N 1 0 0 1 0 0 3
+Refer: 1164 775 N 1 0 0 1 461.5 76 2
+Refer: 2495 57372 N 1 0 0 1 0 0 3
 EndChar

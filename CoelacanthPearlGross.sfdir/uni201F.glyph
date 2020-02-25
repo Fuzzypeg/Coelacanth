@@ -1,11 +1,12 @@
 StartChar: uni201F
-Encoding: 8223 8223 465
+Encoding: 8223 8223 1962
 Width: 387
+UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: 449.063 313.585<99.0495 121.014 285.05 307.014>
 VStem: -18.8711 224.871<613.748 662.795> 167.129 224.871<613.748 662.795>
 LayerCount: 2
 Fore
-Refer: 462 8219 N 1 0 0 1 186 0 2
-Refer: 462 8219 N 1 0 0 1 0 0 2
+Refer: 664 8219 N 1 0 0 1 186 0 2
+Refer: 664 8219 N 1 0 0 1 0 0 2
 EndChar

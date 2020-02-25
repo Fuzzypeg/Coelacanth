@@ -1,7 +1,8 @@
 StartChar: Ring
-Encoding: 58026 58026 164
+Encoding: 58026 58026 2502
 Width: 281
 Flags: HW
+AnchorPoint: "Top" 142 699 mark 0
 LayerCount: 2
 Fore
 SplineSet

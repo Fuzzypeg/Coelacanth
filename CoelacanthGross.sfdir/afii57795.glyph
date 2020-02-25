@@ -1,5 +1,5 @@
 StartChar: afii57795
-Encoding: 1462 1462 1175
+Encoding: 1462 1462 127
 Width: 0
 Flags: HW
 HStem: -236 70<252.752 317.248> -144 70<195.752 260.248 308.752 373.248>
@@ -7,6 +7,6 @@ VStem: 193 70<-141.248 -76.7518> 250 70<-233.248 -168.752> 306 70<-141.248 -76.7
 AnchorPoint: "HbBottom" 287 0 mark 0
 LayerCount: 2
 Fore
-Refer: 1173 1460 N 1 0 0 1 6 -110 2
-Refer: 1174 1461 N 1 0 0 1 0 0 2
+Refer: 125 1460 N 1 0 0 1 6 -110 2
+Refer: 126 1461 N 1 0 0 1 0 0 2
 EndChar

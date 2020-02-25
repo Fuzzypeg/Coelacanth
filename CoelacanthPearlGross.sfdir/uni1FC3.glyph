@@ -1,5 +1,5 @@
 StartChar: uni1FC3
-Encoding: 8131 8131 1345
+Encoding: 8131 8131 1898
 Width: 566
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,6 +7,6 @@ HStem: -295 44.4951<103.29 173.654>
 VStem: 62.3592 65.9873<-249.952 -89.5438> 76.3631 71.1582<-220.355 -87.5068>
 LayerCount: 2
 Fore
-Refer: 961 890 N 1 0 0 1 56.8309 0 2
-Refer: 1009 951 N 1 0 0 1 0 0 3
+Refer: 1132 890 N 1 0 0 1 56.8309 0 2
+Refer: 319 951 N 1 0 0 1 0 0 3
 EndChar

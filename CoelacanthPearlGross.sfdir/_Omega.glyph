@@ -1,8 +1,11 @@
 StartChar: Omega
-Encoding: 937 937 999
+Encoding: 937 937 2408
 AltUni2: 002126.ffffffff.0
 Width: 745
 Flags: HW
+AnchorPoint: "Top" 371 699 basechar 0
+AnchorPoint: "Bottom" 367 -7 basechar 0
+AnchorPoint: "Middle" 368.697 364.853 basechar 0
 LayerCount: 2
 Fore
 SplineSet

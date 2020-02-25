@@ -1,12 +1,12 @@
 StartChar: yacute
 Encoding: 253 253 192
-Width: 529
+Width: 521
 Flags: HW
 HStem: 569.951 193.429
-VStem: 203.389 230.611
+VStem: 200.389 230.611
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 436 0 2
+Refer: 92 769 N 1 0 0 1 433 0 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" yacute.pcap
 Substitution2: "case-1" Yacute

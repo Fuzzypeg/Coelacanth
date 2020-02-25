@@ -1,5 +1,5 @@
 StartChar: eight.denom
-Encoding: 58406 58406 920
+Encoding: 58406 58406 317
 Width: 308
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,6 +7,6 @@ HStem: -89 28<128.072 200.211> 235 25<113.002 173.643>
 VStem: 34 57<-34.3188 49.7737> 55 45<157.194 229.31> 199 50<141.922 220.084> 216 60<-45.9945 44.4187>
 LayerCount: 2
 Fore
-Refer: 2563 58459 N 1 0 0 1 -7 -84 2
+Refer: 321 58459 N 1 0 0 1 -7 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

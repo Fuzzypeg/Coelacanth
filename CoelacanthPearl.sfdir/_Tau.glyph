@@ -1,6 +1,6 @@
 StartChar: Tau
 Encoding: 932 932 994
-Width: 726
+Width: 724
 Flags: HW
 AnchorPoint: "Top" 358 699 basechar 0
 AnchorPoint: "Bottom" 358 -15 basechar 0

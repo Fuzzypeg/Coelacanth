@@ -1,5 +1,5 @@
 StartChar: uni04BB
-Encoding: 1211 1211 1103
+Encoding: 1211 1211 1198
 Width: 482
 Flags: HW
 HStem: -7 33<21 68 169 229 322 368 450 517> 353 50<219 349>
@@ -8,6 +8,6 @@ AnchorPoint: "Top" 120 733 basechar 0
 AnchorPoint: "Bottom" 275 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 7 104 N 1 0 0 1 0 0 2
+Refer: 421 104 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

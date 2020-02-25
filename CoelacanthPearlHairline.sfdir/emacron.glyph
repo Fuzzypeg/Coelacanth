@@ -1,14 +1,14 @@
 StartChar: emacron
-Encoding: 275 275 141
-Width: 464
+Encoding: 275 275 305
+Width: 506
 Flags: HW
-HStem: 597.674 59.6523<125 384>
+HStem: 597.674 59.6523<136 395>
 AnchorPoint: "Top" 209 560 basechar 0
 AnchorPoint: "Bottom" 205 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 101 772 N 1 0 0 1 426 0 2
-Refer: 4 101 N 1 0 0 1 0 0 3
+Refer: 1088 772 N 1 0 0 1 437 0 2
+Refer: 272 101 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" emacron.smcp
 Substitution2: "case-1" Emacron
 Substitution2: "pcap-1" emacron.pcap

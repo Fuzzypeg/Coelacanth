@@ -2,7 +2,7 @@ StartChar: gravecomb
 Encoding: 768 768 94
 GlifName: gravecomb
 Width: 0
-Flags: HW
+Flags: W
 HStem: 430.175 225.516
 VStem: -337.486 169.82
 AnchorPoint: "TopMark" -195 625 basemark 0

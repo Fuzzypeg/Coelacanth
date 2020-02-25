@@ -1,10 +1,10 @@
 StartChar: slash
-Encoding: 47 47 77
+Encoding: 47 47 729
 Width: 348
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1966 58114 N 0.295075 0.908636 -0.785276 0.255264 8.46263 -166.82 2
+Refer: 506 58114 N 0.295075 0.908636 -0.785276 0.255264 8.46263 -166.82 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=95 dh=0 dv=0
 Substitution2: "frac-1 slash to fraction" fraction

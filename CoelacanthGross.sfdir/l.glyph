@@ -1,33 +1,11 @@
 StartChar: l
-Encoding: 108 108 11
+Encoding: 108 108 318
 Width: 248
 Flags: HMW
 AnchorPoint: "Bottom" 119 -15 basechar 0
 AnchorPoint: "TopRight" 242 581 basechar 0
 AnchorPoint: "Top" 121 734 basechar 0
 LayerCount: 2
-Back
-SplineSet
-160 300 m 3
- 160 218 160 91 166 54 c 0
- 168 39 187 35 198 33 c 0
- 214 29 232 28 246 27 c 1
- 241 -7 l 1
- 202 -1 158 4 116 4 c 3
- 86 4 40 -1 10 -5 c 1
- 8 28 l 1
- 19 29 34 31 45 33 c 0
- 68 39 81 48 83 76 c 0
- 88 128 91 209 91 274 c 3
- 91 527 90 603 88 626 c 0
- 87 642 81 656 64 656 c 3
- 58 656 32 650 22 649 c 1
- 14 681 l 1
- 66 692 126 720 169 754 c 1
- 188 738 l 1
- 182 724 176 697 175 686 c 0
- 165 611 160 424 160 300 c 3
-EndSplineSet
 Fore
 SplineSet
 182 300 m 3

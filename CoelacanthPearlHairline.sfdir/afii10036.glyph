@@ -1,11 +1,11 @@
 StartChar: afii10036
-Encoding: 1058 1058 1064
-Width: 726
+Encoding: 1058 1058 48
+Width: 724
 Flags: HW
 AnchorPoint: "Top" 358 699 basechar 0
 AnchorPoint: "Bottom" 358 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 45 84 N 1 0 0 1 0 0 3
+Refer: 2439 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

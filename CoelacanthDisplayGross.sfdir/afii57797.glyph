@@ -1,5 +1,5 @@
 StartChar: afii57797
-Encoding: 1464 1464 2496
+Encoding: 1464 1464 161
 Width: 0
 Flags: HW
 HStem: -123 43<187 373>
@@ -14,5 +14,5 @@ SplineSet
  260.165841239 -189.450761555 264.939034598 -147.142258075 265 -104 c 1
  298 -104 l 1
 EndSplineSet
-Refer: 2495 1463 N 1 0 0 1 0 0 2
+Refer: 162 1463 N 1 0 0 1 0 0 2
 EndChar

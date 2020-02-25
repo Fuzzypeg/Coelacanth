@@ -1,13 +1,13 @@
 StartChar: Tbar
-Encoding: 358 358 454
-Width: 726
+Encoding: 358 358 2439
+Width: 724
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: 304 96<188 538>
+HStem: 304 96<194.641 544.641>
 LayerCount: 2
 Fore
-Refer: 452 58035 N 1 0 0 1 591 0 2
-Refer: 45 84 N 1 0 0 1 0 0 2
+Refer: 2462 58035 N 1 0 0 1 597.641 0 2
+Refer: 2437 84 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" tbar.pcap
 Substitution2: "c2sc-1" tbar.smcp

@@ -1,11 +1,11 @@
 StartChar: amacron.smcp
-Encoding: 57728 57728 2088
+Encoding: 57728 57728 187
 Width: 530
 Flags: HW
 HStem: -4.3 29.9<23.3 61.425 342.407 372.926> 170.1 29.6<189.749 321.807> 593 49<149.5 408.5>
 VStem: 263.2 34.6<439.075 504.1>
 LayerCount: 2
 Fore
-Refer: 100 772 N 1 0 0 1 476.5 146 2
-Refer: 2030 57671 N 1 0 0 1 0 0 3
+Refer: 1161 772 N 1 0 0 1 476.5 146 2
+Refer: 2 57671 N 1 0 0 1 0 0 3
 EndChar

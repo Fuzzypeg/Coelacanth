@@ -1,12 +1,12 @@
 StartChar: periodcentered
-Encoding: 183 183 461
+Encoding: 183 183 657
 Width: 200
 Flags: HW
 HStem: 193 140<77.678 120.536>
 VStem: 30 141<239.309 283.937>
 LayerCount: 2
 Fore
-Refer: 48 46 N 1 0 0 1 0 214 2
+Refer: 656 46 N 1 0 0 1 0 214 2
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

@@ -1,10 +1,10 @@
 StartChar: uniE2BE
-Encoding: 58046 58046 1336
+Encoding: 58046 58046 1093
 Width: 619
 Flags: HMW
 AnchorPoint: "Top" 303 699 mark 0
 LayerCount: 2
 Fore
-Refer: 112 58021 N 1 0 0 1 149 -24 2
-Refer: 93 58019 N 1 0 0 1 245 81 2
+Refer: 1294 58021 N 1 0 0 1 149 -24 2
+Refer: 1277 58019 N 1 0 0 1 245 81 2
 EndChar

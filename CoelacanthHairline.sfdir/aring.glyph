@@ -1,5 +1,5 @@
 StartChar: aring
-Encoding: 229 229 118
+Encoding: 229 229 198
 Width: 413
 Flags: HW
 HStem: -15 43<75 181> 161 32<153 246> 364 52<128 220> 495.265 31.606<166.555 235.276> 615.129 31.606<167.724 236.101>
@@ -8,7 +8,7 @@ AnchorPoint: "Top" 191 606 basechar 0
 AnchorPoint: "Bottom" 193 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 97 778 N 1 0 0 1 399.5 70 2
+Refer: 1166 778 N 1 0 0 1 399.5 70 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" aring.pcap
 Substitution2: "case-1" Aring

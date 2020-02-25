@@ -1,14 +1,14 @@
 StartChar: fourfifths.afrc
-Encoding: 58436 58436 1414
+Encoding: 58436 58436 382
 Width: 463
 Flags: HW
 HStem: 200.08 58.1855<174.948 307.004> 328 28<34 428> 482 39<151 232 286 347.287>
 VStem: 232 54<422.434 482 521 610.87> 249.45 54.9277<40.6657 97.7549> 277 19<692.548 700.684>
 LayerCount: 2
 Fore
-Refer: 1969 58113 N 0.394 0 0 0.875 34 342 2
-Refer: 1401 8324 N 1 0 0 1 79 494 2
-Refer: 1397 8325 N 1 0 0 1 98 68 2
+Refer: 778 58113 N 0.394 0 0 0.875 34 342 2
+Refer: 2071 8324 N 1 0 0 1 79 494 2
+Refer: 2072 8325 N 1 0 0 1 98 68 2
 Ligature2: "'afrc' Nut Fractions lookup 23-1" four.numerator fraction five.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2158
 EndChar

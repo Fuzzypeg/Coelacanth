@@ -1,11 +1,11 @@
 StartChar: zacute.smcp
-Encoding: 57787 57787 2143
+Encoding: 57787 57787 2259
 Width: 593
 Flags: HW
 HStem: -5.06965 21G<47.3257 78.7403> 2.37918 70.163<208.962 483.564> 489.069 75.1379<122.862 415.467> 711 189.38
 VStem: 255.889 215.611
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 484 42 2
-Refer: 2052 57696 N 1 0 0 1 0 0 3
+Refer: 15 769 N 1 0 0 1 484 42 2
+Refer: 2256 57696 N 1 0 0 1 0 0 3
 EndChar

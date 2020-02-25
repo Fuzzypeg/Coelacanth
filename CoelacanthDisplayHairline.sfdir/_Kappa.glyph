@@ -1,5 +1,5 @@
 StartChar: Kappa
-Encoding: 922 922 985
+Encoding: 922 922 2448
 Width: 713
 Flags: HW
 HStem: -10 30<217.663 272.933> -1 24<470.273 498.261 656.235 673.667> 657 31<20.4194 73.0559 201.774 269.29 568.711 604.844>
@@ -8,7 +8,7 @@ AnchorPoint: "Top" 335 699 basechar 0
 AnchorPoint: "Bottom" 359 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 36 75 N 1 0 0 1 0 0 2
+Refer: 2447 75 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" k.pcap
 Substitution2: "c2sc-1" k.smcp

@@ -1,5 +1,5 @@
 StartChar: eight.proportionallining
-Encoding: 58396 58396 908
+Encoding: 58396 58396 323
 Width: 474
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,7 +7,7 @@ HStem: -13 34<203.81 307.694> 611 30<183.339 271.835>
 VStem: 67 66<93.9885 231.457> 98 49<464.254 576.069> 325 57<439.101 562.583> 351 66<79.1511 233.857>
 LayerCount: 2
 Fore
-Refer: 689 58386 N 1 0 0 1 11 0 2
+Refer: 326 58386 N 1 0 0 1 11 0 2
 Substitution2: "dnom-1" eight.denom
 Substitution2: "numr-1" eight.numerator
 Substitution2: "onum-1" eight

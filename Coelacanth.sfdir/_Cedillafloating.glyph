@@ -2,8 +2,8 @@ StartChar: Cedillafloating
 Encoding: 58085 58085 282
 GlifName: C_edillafloating
 Width: 0
-Flags: HW
-VStem: -194.928 70.8965<-182.621 -103.74>
+Flags: W
+VStem: -194.928 70.897<-182.621 -103.74>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore

@@ -1,14 +1,14 @@
 StartChar: Iota
-Encoding: 921 921 984
+Encoding: 921 921 2364
 Width: 453
 Flags: HW
-HStem: -3.31152 21G<69.4044 95.8013 360.571 387.271> 6.7168 668.642<153.972 307.858> 672.709 20G<74.9861 102.654 361.314 390.502>
-VStem: 153.011 155.869<90.577 590.006>
+HStem: -3.31152 21G<70.796 97.1929 361.963 388.663> 6.7168 668.642<155.364 309.25> 672.709 20G<76.3777 104.046 362.706 391.894>
+VStem: 154.403 155.869<90.577 590.006>
 AnchorPoint: "Top" 171 699 basechar 0
 AnchorPoint: "Bottom" 167 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 34 73 N 1 0 0 1 0 0 2
+Refer: 2355 73 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" i.pcap
 Substitution2: "c2sc-1" i.smcp

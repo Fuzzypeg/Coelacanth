@@ -1,11 +1,11 @@
 StartChar: uni1E7F.pcap
-Encoding: 57604 57604 1886
+Encoding: 57604 57604 1534
 Width: 466
 Flags: HW
 HStem: 384 21<30.6667 59.2904 159.546 201>
 VStem: 257 31<-22 26.5269>
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 455 0 2
-Refer: 664 57368 N 1 0 0 1 0 0 3
+Refer: 290 803 N 1 0 0 1 455 0 2
+Refer: 2299 57368 N 1 0 0 1 0 0 3
 EndChar

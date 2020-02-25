@@ -1,11 +1,11 @@
 StartChar: seven.denom
-Encoding: 58405 58405 919
+Encoding: 58405 58405 707
 Width: 307
 Flags: HW
 HStem: 177.288 75.9072<119.208 198.053>
 VStem: 22.0859 277.548
 LayerCount: 2
 Fore
-Refer: 2443 58458 N 1 0 0 1 -5 -84 2
+Refer: 711 58458 N 1 0 0 1 -5 -84 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

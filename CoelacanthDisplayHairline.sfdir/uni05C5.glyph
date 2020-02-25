@@ -1,10 +1,10 @@
 StartChar: uni05C5
-Encoding: 1477 1477 2510
+Encoding: 1477 1477 1275
 Width: 0
 Flags: HW
 HStem: -184.131 107.547<180.309 238.406>
 VStem: 155.584 107.547<-159.406 -101.309>
 LayerCount: 2
 Fore
-Refer: 2509 1476 N 1 0 0 1 -70 -850 2
+Refer: 1274 1476 N 1 0 0 1 -70 -850 2
 EndChar

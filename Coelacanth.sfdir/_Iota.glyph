@@ -1,10 +1,10 @@
 StartChar: Iota
 Encoding: 921 921 984
 GlifName: I_ota
-Width: 341
+Width: 393
 Flags: HW
-HStem: -10 40<16.125 119.789> 652 43<21.3488 120.801>
-VStem: 131 90<41.0295 293.416> 137.915 75.6029<80.3904 534.592>
+HStem: -10 40<42.125 145.789> 652 43<47.3488 146.801>
+VStem: 157 90<41.0295 293.416> 163.915 75.6029<80.3904 534.592>
 AnchorPoint: "Top" 171 699 basechar 0
 AnchorPoint: "Bottom" 167 -15 basechar 0
 LayerCount: 2

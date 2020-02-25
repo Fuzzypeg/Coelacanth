@@ -1,14 +1,14 @@
 StartChar: exclamdown
-Encoding: 161 161 450
+Encoding: 161 161 328
 Width: 266
 Flags: HW
 HStem: 321.426 234.318<100.059 151.809>
 VStem: 8.97149 233.639<414.759 464.169> 81.6671 83.6775<134.424 289.186>
 LayerCount: 2
 Fore
-Refer: 75 33 N -1 0 0 -1 271 498.186 2
-Substitution2: "pcap-1" exclamdown.pcap
-Substitution2: "smcp-1" exclamdown.smcp
+Refer: 324 33 N -1 0 0 -1 271 498.186 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=235 dh=0 dv=0
+Substitution2: "pcap-1" exclamdown.pcap
+Substitution2: "smcp-1" exclamdown.smcp
 EndChar

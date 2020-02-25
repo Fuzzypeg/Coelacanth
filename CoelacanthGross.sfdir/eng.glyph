@@ -1,9 +1,10 @@
 StartChar: eng
-Encoding: 331 331 288
+Encoding: 331 331 230
 Width: 499
 Flags: HW
 HStem: -319 60<162.258 279.828> -5 33<20.3636 69> 335 29<32 79.6511> 338 61<245.574 353.747> 396 20G<129 175>
 VStem: 95 75<72.7464 318.176 330 331.265> 379 69<-89.8607 313.154>
+AnchorPoint: "Top" 272 465 basechar 0
 LayerCount: 2
 Fore
 SplineSet

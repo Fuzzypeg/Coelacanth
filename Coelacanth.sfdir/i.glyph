@@ -3,9 +3,9 @@ Encoding: 105 105 8
 GlifName: i
 Width: 263
 Flags: HW
-HStem: -7 33<33 87 184 254> 572 102<98.589 183.411>
+HStem: -7 33<33 87 184 254> 572 102<98.5888 183.411>
 VStem: 89 104<581.438 664.599> 97 71<57 330>
-AnchorPoint: "Bottom" 113 -15 basechar 0
+AnchorPoint: "Bottom" 144 -15 basechar 0
 AnchorPoint: "Ogonek" 196 6 basechar 0
 LayerCount: 2
 Fore

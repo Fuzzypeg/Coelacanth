@@ -1,11 +1,12 @@
 StartChar: uni032A
-Encoding: 810 810 695
+Encoding: 810 810 1109
 Width: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
+AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore
-Refer: 1965 58113 N 0 0.115 -0.878676 0 -108.875 -176 2
-Refer: 1965 58113 N 0 0.115 -0.878676 0 -280.125 -176 2
-Refer: 1967 58115 N 0.231 0 0 0.780631 -310 -85.0908 2
+Refer: 753 58113 N 0 0.115 -0.878676 0 -108.875 -176 2
+Refer: 753 58113 N 0 0.115 -0.878676 0 -280.125 -176 2
+Refer: 752 58115 N 0.231 0 0 0.780631 -310 -85.0908 2
 EndChar

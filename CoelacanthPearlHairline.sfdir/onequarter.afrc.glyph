@@ -1,14 +1,14 @@
 StartChar: onequarter.afrc
-Encoding: 58430 58430 1409
+Encoding: 58430 58430 607
 Width: 533
 Flags: HW
 HStem: 51 49<322.031 356.748> 51 56<173.344 243 315 321.911> 314.875 54.25<34 428> 416 56.0625<151.934 193.972 274.939 319.932> 632.525 56.2988<158.552 197.816> 639.6 56.3701<276.169 316.347>
 VStem: 203.888 65.4014<480.729 625.134> 243 72<18.303 51 111 189.101> 255 68<265.674 288.029>
 LayerCount: 2
 Fore
-Refer: 1968 58113 N 0.394 0 0 0.875 69 342 2
-Refer: 1402 8324 N 1 0 0 1 117 84 2
-Refer: 1399 8321 N 1 0 0 1 142 496 2
+Refer: 757 58113 N 0.394 0 0 0.875 69 342 2
+Refer: 2008 8324 N 1 0 0 1 117 84 2
+Refer: 2005 8321 N 1 0 0 1 142 496 2
 LCarets2: 2 0 0
 Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction four.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" onequarter

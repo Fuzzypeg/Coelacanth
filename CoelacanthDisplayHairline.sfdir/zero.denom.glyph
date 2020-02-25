@@ -1,12 +1,12 @@
 StartChar: zero.denom
-Encoding: 58398 58398 912
+Encoding: 58398 58398 2343
 Width: 366
 Flags: HW
 HStem: -86 28<154.77 236.217> 231 29<129.227 215.365>
 VStem: 30 65<2.83811 174.204> 267 69<-5.81921 179.995>
 LayerCount: 2
 Fore
-Refer: 2555 58451 N 1 0 0 1 1 -80 2
+Refer: 2350 58451 N 1 0 0 1 1 -80 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.denomalt
 EndChar

@@ -1,10 +1,10 @@
 StartChar: afii10036
 Encoding: 1058 1058 1064
 GlifName: afii10036
-Width: 728
+Width: 746
 Flags: HW
-HStem: -7 44<419.307 513> 634 51<94.399 314.89 414 630.844>
-VStem: 312 97<51.3596 333.831>
+HStem: -7 44<427.307 521> 634 51<102.399 322.89 422 638.844>
+VStem: 320 97<51.3596 333.831>
 AnchorPoint: "Top" 358 699 basechar 0
 AnchorPoint: "Bottom" 358 -15 basechar 0
 LayerCount: 2

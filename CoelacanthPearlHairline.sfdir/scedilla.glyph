@@ -1,14 +1,14 @@
 StartChar: scedilla
-Encoding: 351 351 271
-Width: 396
+Encoding: 351 351 697
+Width: 427
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -172 50.1914<119.034 206.15>
-VStem: 206.175 58.4277<-118.562 -80.38>
+HStem: -172 50.1914<132.034 219.15>
+VStem: 219.175 58.4277<-118.562 -80.38>
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 398 0 2
-Refer: 18 115 N 1 0 0 1 0 0 3
+Refer: 1110 807 N 1 0 0 1 411 0 2
+Refer: 688 115 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" scedilla.smcp
 Substitution2: "'locl' Localized Forms Romanian and Moldavian-1" scommaaccent
 Substitution2: "case-1" Scedilla

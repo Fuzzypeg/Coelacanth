@@ -1,10 +1,10 @@
 StartChar: five.proportionallining
-Encoding: 58393 58393 906
+Encoding: 58393 58393 340
 Width: 483
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 687 58383 N 1 0 0 1 -16.308 0 2
+Refer: 343 58383 N 1 0 0 1 -16.308 0 2
 Substitution2: "tnum-1" five.tabularlining
 Substitution2: "onum-1" five
 Substitution2: "numr-1" five.numerator

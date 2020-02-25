@@ -1,11 +1,12 @@
 StartChar: uhorn.pcap
-Encoding: 57469 57469 963
+Encoding: 57469 57469 522
 Width: 579
 Flags: HW
 HStem: -6 38<211.789 381.26> 378 122<530.316 578.067> 379 25<50.16 92.7586 186.969 230.913>
 VStem: 99 72<68.5834 371.59> 427 38<73.0905 350.99> 530 86<409.641 481.553>
 AnchorPoint: "Bottom" 280 -15 basechar 0
 AnchorPoint: "Top" 295 465 basechar 0
+AnchorPoint: "Ogonek" 292 27 basechar 0
 LayerCount: 2
 Fore
 SplineSet

@@ -1,5 +1,5 @@
 StartChar: uni01E4
-Encoding: 484 484 705
+Encoding: 484 484 936
 Width: 749
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -9,7 +9,7 @@ AnchorPoint: "Top" 444 699 basechar 0
 AnchorPoint: "Bottom" 421 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 455 58036 N 0.350509 0 0 1 775.892 -334 2
-Refer: 32 71 N 1 0 0 1 0 0 2
+Refer: 2538 58036 N 0.350509 0 0 1 775.892 -334 2
+Refer: 2419 71 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

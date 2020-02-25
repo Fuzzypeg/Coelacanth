@@ -1,5 +1,5 @@
 StartChar: Eth
-Encoding: 208 208 323
+Encoding: 208 208 2414
 Width: 830
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,8 +7,8 @@ HStem: -6 23<31 93.0026 263.448 453.367> 334 36<37 387> 692 21<39 81.9453 193.38
 VStem: 109 87<40.7566 309.036> 683 91<231.612 474.643>
 LayerCount: 2
 Fore
-Refer: 451 58035 N 1 0 0 1 440 0 2
-Refer: 29 68 N 1 0 0 1 0 0 2
+Refer: 2536 58035 N 1 0 0 1 440 0 2
+Refer: 2392 68 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" eth.pcap
 Substitution2: "c2sc-1" eth.smcp

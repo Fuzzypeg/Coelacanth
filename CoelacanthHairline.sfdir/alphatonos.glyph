@@ -1,5 +1,5 @@
 StartChar: alphatonos
-Encoding: 940 940 1001
+Encoding: 940 940 184
 Width: 538
 UnlinkRmOvrlpSave: 1
 InSpiro: 1
@@ -9,8 +9,8 @@ VStem: 246.89 169.822
 AnchorPoint: "Bottom" 248 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 965 900 N 1 0 0 1 228.499 63 2
-Refer: 1002 945 N 1 0 0 1 0 0 3
+Refer: 800 900 N 1 0 0 1 228.499 63 2
+Refer: 183 945 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" a.smcp
 Substitution2: "pcap-1" a.pcap
 EndChar

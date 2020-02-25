@@ -1,9 +1,9 @@
 StartChar: acutecombhigh
-Encoding: 58080 58080 469
+Encoding: 58080 58080 16
 Width: 0
 Flags: HW
 AnchorPoint: "Top" -198.5 410 mark 0
 LayerCount: 2
 Fore
-Refer: 91 769 N 0.86012 -0.45148 0.351495 0.861865 -213.638 5.65668 2
+Refer: 15 769 N 0.86012 -0.45148 0.351495 0.861865 -213.638 5.65668 2
 EndChar

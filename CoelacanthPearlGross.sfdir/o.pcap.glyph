@@ -1,16 +1,10 @@
 StartChar: o.pcap
-Encoding: 57361 57361 657
+Encoding: 57361 57361 542
 Width: 591
 Flags: HW
+AnchorPoint: "Top" 304 537 basechar 0
+AnchorPoint: "Bottom" 301 -15 basechar 0
 LayerCount: 2
-Back
-SplineSet
-263 410 m 3
- 208.606988055 410 201 366.027148499 201 238 c 3
- 201 192.970745534 249.48947704 86 328 86 c 3
- 394.627662512 86 404 162.536591462 404 268 c 3
- 404 299.97561785 353.985751308 410 263 410 c 3
-EndSplineSet
 Fore
 SplineSet
 263 410 m 3

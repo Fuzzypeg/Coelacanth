@@ -1,11 +1,11 @@
 StartChar: uni1FCA
-Encoding: 8138 8138 2397
+Encoding: 8138 8138 2020
 Width: 950
 Flags: HW
 AnchorPoint: "Bottom" 538 -15 basechar 0
 AnchorPoint: "Top" 546 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 2385 8175 N 1.08329 -0.191013 0.191013 1.08329 -170.296 97.955 2
-Refer: 981 919 N 1 0 0 1 119 0 2
+Refer: 2054 8175 N 1.08329 -0.191013 0.191013 1.08329 -170.296 97.955 2
+Refer: 2578 919 N 1 0 0 1 119 0 2
 EndChar

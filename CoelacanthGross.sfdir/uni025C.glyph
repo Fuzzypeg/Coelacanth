@@ -1,10 +1,10 @@
 StartChar: uni025C
-Encoding: 604 604 992
+Encoding: 604 604 622
 Width: 358
 Flags: HW
 HStem: -9 49<123.741 242.237> 209 27<85.2219 174.884> 372 51<93.3303 216.373>
 VStem: 235 73<274.501 351.833> 260 70<66.5074 161.157>
 LayerCount: 2
 Fore
-Refer: 661 1079 N 1 0 0 1 0 0 2
+Refer: 56 1079 N 1 0 0 1 0 0 2
 EndChar

@@ -2,7 +2,7 @@ StartChar: uni032D
 Encoding: 813 813 599
 GlifName: uni032D_
 Width: 0
-Flags: HW
+Flags: W
 HStem: -242.4 184.8
 VStem: -306.25 225.5
 AnchorPoint: "Bottom" -193 -7 mark 0

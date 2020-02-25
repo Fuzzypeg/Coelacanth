@@ -1,18 +1,10 @@
 StartChar: theta
-Encoding: 952 952 524
+Encoding: 952 952 483
 Width: 488
 UnlinkRmOvrlpSave: 1
 Flags: HW
 AnchorPoint: "Bottom" 232 -15 basechar 0
 LayerCount: 2
-Back
-SplineSet
-240 53 m 3
- 375.481089273 53 322 454.613517949 322 463 c 3
- 322 522.882159374 338.794175264 641 278 641 c 3
- 193.034582023 641 186 448.611327645 186 230 c 3
- 186 117.922034873 195.224661931 53 240 53 c 3
-EndSplineSet
 Fore
 SplineSet
 240 53 m 3
@@ -26,7 +18,7 @@ SplineSet
  118 -11 52 115.298828125 52 286 c 3
  52 478 130 697 272 697 c 3
 EndSplineSet
-Refer: 1025 58113 N 0.223466 0.00390061 -0.0185432 1.06234 143.267 351.05 2
+Refer: 487 58113 N 0.223466 0.00390061 -0.0185432 1.06234 143.267 351.05 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=102
 Substitution2: "pcap-1" theta.pcap
 Substitution2: "smcp-1" theta.smcp

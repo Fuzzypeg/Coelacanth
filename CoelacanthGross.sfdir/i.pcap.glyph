@@ -1,9 +1,10 @@
 StartChar: i.pcap
-Encoding: 57355 57355 321
+Encoding: 57355 57355 301
 Width: 329
 Flags: HW
 AnchorPoint: "Bottom" 167 -15 basechar 0
 AnchorPoint: "Top" 170 465 basechar 0
+AnchorPoint: "Ogonek" 171 27 basechar 0
 LayerCount: 2
 Fore
 SplineSet

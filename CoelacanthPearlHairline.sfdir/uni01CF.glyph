@@ -1,13 +1,13 @@
 StartChar: uni01CF
-Encoding: 463 463 298
+Encoding: 463 463 880
 Width: 453
 Flags: HW
-HStem: -13 55<70.2364 197.041> 634 55<75.6538 206.152 263.766 390.218>
-VStem: 202 57<56.248 620.751>
+HStem: -13 55<69.2364 196.041> 634 55<74.6538 205.152 262.766 389.218>
+VStem: 201 57<56.248 620.751>
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 93 -20 2
-Refer: 34 73 N 1 0 0 1 0 0 3
+Refer: 2310 58028 N 1 0 0 1 92 -20 2
+Refer: 2357 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" icaron.smcp
 Substitution2: "c2pc-1" icaron.pcap

@@ -1,9 +1,9 @@
 StartChar: idotaccent
 Encoding: 58120 58120 1190
-Width: 307
+Width: 331
 Flags: HW
-HStem: 612.7 132.6<132.865 243.135>
-VStem: 120.4 135.2<624.969 733.079>
+HStem: 612.7 132.6<146.865 257.135>
+VStem: 134.4 135.2<624.969 733.079>
 LayerCount: 2
 Fore
 Refer: 8 105 N 1 0 0 1 0 0 2

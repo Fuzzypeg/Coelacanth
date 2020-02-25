@@ -4,6 +4,7 @@ GlifName: afii57687
 Width: 483
 Flags: HW
 HStem: 442.52 128.001<94.2996 362.108>
+AnchorPoint: "HbMiddle" 263 284 basechar 0
 AnchorPoint: "HbTopLeft" 74.68 619.44 basechar 0
 AnchorPoint: "HbTop" 224 619.44 basechar 0
 LayerCount: 2

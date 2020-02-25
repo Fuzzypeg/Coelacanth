@@ -1,7 +1,8 @@
 StartChar: Uni0327
-Encoding: 58030 58030 141
+Encoding: 58030 58030 1336
 Width: 0
 Flags: HW
+AnchorPoint: "Bottom" -191 -15 mark 0
 LayerCount: 2
 Fore
 SplineSet

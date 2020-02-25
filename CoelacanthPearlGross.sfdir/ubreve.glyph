@@ -1,13 +1,13 @@
 StartChar: ubreve
-Encoding: 365 365 234
-Width: 539
+Encoding: 365 365 792
+Width: 563
 Flags: HW
-HStem: 576 76.7188<203.397 350.886>
-VStem: 124.848 305.357
+HStem: 576 76.7188<218.397 365.886>
+VStem: 139.848 305.357
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 452 0 2
-Refer: 20 117 N 1 0 0 1 0 0 3
+Refer: 1086 774 N 1 0 0 1 467 0 2
+Refer: 786 117 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ubreve.smcp
 Substitution2: "case-1" Ubreve
 Substitution2: "pcap-1" ubreve.pcap

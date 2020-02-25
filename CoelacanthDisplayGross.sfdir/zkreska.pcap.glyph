@@ -1,10 +1,10 @@
 StartChar: zkreska.pcap
-Encoding: 58012 58012 2362
+Encoding: 58012 58012 2358
 Width: 459
 Flags: HW
 HStem: -4 31<169.416 334.724> 374 29<125.908 333.172> 404 20<79.5 97>
 LayerCount: 2
 Fore
-Refer: 1191 57996 N 1 0 0 1 211 0 2
-Refer: 667 57372 N 1 0 0 1 0 0 3
+Refer: 496 57996 N 1 0 0 1 211 0 2
+Refer: 2329 57372 N 1 0 0 1 0 0 3
 EndChar

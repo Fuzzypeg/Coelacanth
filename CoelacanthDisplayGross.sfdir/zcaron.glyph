@@ -1,13 +1,13 @@
 StartChar: zcaron
-Encoding: 382 382 247
+Encoding: 382 382 2334
 Width: 441
 Flags: HW
 HStem: 1 24<125 203.889 257.601 340.965> 374 20<92.9061 311> 383 20G<36 62 380.5 419> 522 162
 VStem: 112 205 418 15<101.5 122>
 LayerCount: 2
 Fore
-Refer: 102 780 N 1 0 0 1 412 31 2
-Refer: 25 122 N 1 0 0 1 0 0 3
+Refer: 1116 780 N 1 0 0 1 412 31 2
+Refer: 2328 122 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" zcaron.smcp
 Substitution2: "case-1" Zcaron
 Substitution2: "pcap-1" zcaron.pcap

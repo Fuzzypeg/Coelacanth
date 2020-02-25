@@ -1,11 +1,11 @@
 StartChar: aacute.pcap
-Encoding: 57374 57374 1625
+Encoding: 57374 57374 4
 Width: 425
 Flags: HW
 HStem: -7 25<34 58.0979 295 312.5> 138 30<175 275.575> 395 20<232.5 267> 490.951 225.517
 VStem: 205.889 169.822 234 31<355.154 415>
 LayerCount: 2
 Fore
-Refer: 91 769 N 1 0 0 1 440.5 63 2
-Refer: 642 57347 N 1 0 0 1 0 0 3
+Refer: 15 769 N 1 0 0 1 440.5 63 2
+Refer: 1 57347 N 1 0 0 1 0 0 3
 EndChar

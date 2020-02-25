@@ -1,11 +1,11 @@
 StartChar: nine.numerator
-Encoding: 58417 58417 448
+Encoding: 58417 58417 349
 Width: 310
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 438 58407 N 1 0 0 1 0 346 2
-Kerns2: 428 -263 "kern-1 latin individual kerning"
+Refer: 347 58407 N 1 0 0 1 0 346 2
+Kerns2: 274 -263 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "dnom-1" nine.denom
 EndChar

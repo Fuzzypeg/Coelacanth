@@ -1,11 +1,11 @@
 StartChar: dong
-Encoding: 8363 8363 1806
-Width: 525
+Encoding: 8363 8363 263
+Width: 561
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -187.631 102.261<142 401> 592.625 80.75<140 499>
+HStem: -187.631 102.261<160 419> 592.625 80.75<158 517>
 LayerCount: 2
 Fore
-Refer: 532 817 N 1 0 0 1 466 -64 2
-Refer: 341 273 N 1 0 0 1 0 0 2
+Refer: 1116 817 N 1 0 0 1 484 -64 2
+Refer: 252 273 N 1 0 0 1 0 0 2
 EndChar

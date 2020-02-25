@@ -1,12 +1,12 @@
 StartChar: Zacute
-Encoding: 377 377 243
-Width: 710
+Encoding: 377 377 2724
+Width: 734
 Flags: HW
-HStem: 1 40<168 560.424> 642 43<98.8077 540>
+HStem: 1 40<182 574.424> 642 43<112.808 554>
 LayerCount: 2
 Fore
-Refer: 89 58018 N 1 0 0 1 302 0 2
-Refer: 57 90 N 1 0 0 1 0 0 3
+Refer: 2530 58018 N 1 0 0 1 316 0 2
+Refer: 2723 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" zacute.pcap
 Substitution2: "c2sc-1" zacute.smcp

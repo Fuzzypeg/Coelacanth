@@ -1,5 +1,5 @@
 StartChar: eogonek
-Encoding: 281 281 126
+Encoding: 281 281 232
 Width: 409
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -19,7 +19,7 @@ SplineSet
  151.912109375 -146.52688396 203.487304688 -29.1611366987 357.892578125 66.0888671875 c 1
  364.069335938 45.6806640625 l 1
 EndSplineSet
-Refer: 4 101 N 1 0 0 1 0 0 3
+Refer: 215 101 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" eogonek.smcp
 Substitution2: "case-1" Eogonek
 Substitution2: "pcap-1" eogonek.pcap

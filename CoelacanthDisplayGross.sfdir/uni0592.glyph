@@ -1,12 +1,12 @@
 StartChar: uni0592
-Encoding: 1426 1426 2458
+Encoding: 1426 1426 1241
 Width: 0
 Flags: HW
 HStem: 649 93.0225 725 93.0225
 VStem: 150.018 90.875 224.018 90.875 304.018 90.875
 LayerCount: 2
 Fore
-Refer: 2492 1460 N 1 0 0 1 -17 881 2
-Refer: 2492 1460 N 1 0 0 1 63 805 2
-Refer: 2492 1460 N 1 0 0 1 -91 805 2
+Refer: 157 1460 N 1 0 0 1 -17 881 2
+Refer: 157 1460 N 1 0 0 1 63 805 2
+Refer: 157 1460 N 1 0 0 1 -91 805 2
 EndChar

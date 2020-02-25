@@ -1,10 +1,10 @@
 StartChar: backslash
-Encoding: 92 92 83
+Encoding: 92 92 220
 Width: 348
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1969 58114 N -0.327558 1.00812 -0.951057 -0.309017 360.779 -235.06 2
+Refer: 534 58114 N -0.327558 1.00812 -0.951057 -0.309017 360.779 -235.06 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=95 dh=0 dv=0
 EndChar

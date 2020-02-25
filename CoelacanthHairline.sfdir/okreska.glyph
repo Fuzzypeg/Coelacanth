@@ -1,5 +1,5 @@
 StartChar: okreska
-Encoding: 58000 58000 1195
+Encoding: 58000 58000 601
 Width: 505
 Flags: HW
 HStem: -11 39<199.926 327.747> 374 45<168.903 305.133>
@@ -8,8 +8,8 @@ AnchorPoint: "Middle" 255 206 basechar 0
 AnchorPoint: "Bottom" 249 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1191 57996 N 1 0 0 1 210 0 2
-Refer: 14 111 N 1 0 0 1 0 0 3
+Refer: 499 57996 N 1 0 0 1 210 0 2
+Refer: 569 111 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" okreska.smcp
 Substitution2: "pcap-1" okreska.pcap
 EndChar

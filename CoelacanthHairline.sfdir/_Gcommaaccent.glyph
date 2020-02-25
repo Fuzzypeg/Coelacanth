@@ -1,13 +1,13 @@
 StartChar: Gcommaaccent
-Encoding: 290 290 285
-Width: 803
+Encoding: 290 290 2588
+Width: 809
 Flags: HW
 HStem: -261.06 204.12 -9 37<374.664 581.67> 319 32<497.562 613.119 730.522 761> 674 38<338.234 547.832> 682 20<658 689>
 VStem: 43 99<250.812 472.081> 365.87 116.64 638 87<64.334 306.866> 675 31<535.645 556.71>
 LayerCount: 2
 Fore
-Refer: 274 806 N 1 0 0 1 619 0 2
-Refer: 32 71 N 1 0 0 1 0 0 3
+Refer: 1182 806 N 1 0 0 1 619 0 2
+Refer: 2583 71 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" gcommaaccent.pcap
 Substitution2: "c2sc-1" gcommaaccent.smcp

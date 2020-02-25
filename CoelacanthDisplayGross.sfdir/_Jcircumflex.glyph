@@ -1,13 +1,13 @@
 StartChar: Jcircumflex
-Encoding: 308 308 212
+Encoding: 308 308 2444
 Width: 386
 Flags: HW
 HStem: 745.855 147.545
 VStem: 85.4951 248.01
 LayerCount: 2
 Fore
-Refer: 158 58020 N 1 0 0 1 69 -6 2
-Refer: 35 74 N 1 0 0 1 0 0 3
+Refer: 2389 58020 N 1 0 0 1 69 -6 2
+Refer: 2443 74 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" jcircumflex.pcap
 Substitution2: "c2sc-1" jcircumflex.smcp

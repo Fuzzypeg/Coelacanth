@@ -1,5 +1,5 @@
 StartChar: iogonek
-Encoding: 303 303 259
+Encoding: 303 303 468
 Width: 254
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -18,7 +18,7 @@ SplineSet
  56.8916 -117.968 106.436 -35.9863 163.281 15.1035 c 1
  172.98 4.88477 l 1xe0
 EndSplineSet
-Refer: 8 105 N 1 0 0 1 0 0 3
+Refer: 435 105 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" iogonek.smcp
 Substitution2: "case-1" Iogonek
 Substitution2: "pcap-1" iogonek.pcap

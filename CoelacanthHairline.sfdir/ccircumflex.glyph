@@ -1,13 +1,13 @@
 StartChar: ccircumflex
-Encoding: 265 265 138
+Encoding: 265 265 245
 Width: 421
 Flags: HW
 HStem: -15 52<185 333> 357 60<169 308> 486.6 184.8
 VStem: 34 71<119 282> 119.25 225.5
 LayerCount: 2
 Fore
-Refer: 92 770 N 1 0 0 1 429.5 64 2
-Refer: 2 99 N 1 0 0 1 0 0 3
+Refer: 1160 770 N 1 0 0 1 429.5 64 2
+Refer: 231 99 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ccircumflex.smcp
 Substitution2: "case-1" Ccircumflex
 Substitution2: "pcap-1" ccircumflex.pcap

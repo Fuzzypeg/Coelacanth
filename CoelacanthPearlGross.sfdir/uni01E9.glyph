@@ -1,12 +1,12 @@
 StartChar: uni01E9
-Encoding: 489 489 307
-Width: 503
+Encoding: 489 489 916
+Width: 515
 Flags: HW
 HStem: 787.319 131.361
-VStem: -10.7803 268.561
+VStem: 7.2197 268.561
 LayerCount: 2
 Fore
-Refer: 473 58083 N 1 0 0 1 321 313 2
-Refer: 10 107 N 1 0 0 1 0 0 3
+Refer: 210 58083 N 1 0 0 1 339 313 2
+Refer: 462 107 N 1 0 0 1 0 0 3
 Substitution2: "case-1" uni01E8
 EndChar

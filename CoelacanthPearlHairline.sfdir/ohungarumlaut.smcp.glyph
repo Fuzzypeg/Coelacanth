@@ -1,11 +1,11 @@
 StartChar: ohungarumlaut.smcp
-Encoding: 57766 57766 2125
+Encoding: 57766 57766 576
 Width: 659
 Flags: HW
 HStem: -15.858 74.9411<273.024 431.504> 491.323 76.6295<237.92 401.754>
 VStem: 34.0109 116.953<183.715 382.171> 525.047 108.837<167.936 363.427>
 LayerCount: 2
 Fore
-Refer: 102 779 N 1 0 0 1 508 43 2
-Refer: 2044 57685 N 1 0 0 1 0 0 3
+Refer: 1094 779 N 1 0 0 1 508 43 2
+Refer: 547 57685 N 1 0 0 1 0 0 3
 EndChar

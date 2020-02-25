@@ -1,12 +1,12 @@
 StartChar: abreve
-Encoding: 259 259 136
-Width: 442
+Encoding: 259 259 6
+Width: 477
 Flags: HW
-HStem: 576 55.7188<152.876 285.363>
-VStem: 66.8477 48.0801<668.953 688.834> 324.124 48.0811<669.969 688.834>
+HStem: 576 55.7188<165.876 298.363>
+VStem: 79.8477 48.0801<668.953 688.834> 337.124 48.0811<669.969 688.834>
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 394 0 2
+Refer: 1090 774 N 1 0 0 1 407 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" abreve.smcp
 Substitution2: "case-1" Abreve

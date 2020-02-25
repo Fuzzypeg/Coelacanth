@@ -1,14 +1,14 @@
 StartChar: uni01C2
-Encoding: 450 450 1510
+Encoding: 450 450 889
 Width: 338
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: 205 53.9999<40 298> 356 53.9999<40 298>
 LayerCount: 2
 Fore
-Refer: 1967 58114 N 0.258 0 0 1.17391 40 370 2
-Refer: 1967 58114 N 0.258 0 0 1.17391 40 189 2
-Refer: 324 124 N 1 0 0 1 90 0 2
+Refer: 531 58114 N 0.258 0 0 1.17391 40 370 2
+Refer: 531 58114 N 0.258 0 0 1.17391 40 189 2
+Refer: 218 124 N 1 0 0 1 90 0 2
 Substitution2: "smcp-1" clickalveolar.smcp
 Substitution2: "pcap-1" clickalveolar.pcap
 EndChar

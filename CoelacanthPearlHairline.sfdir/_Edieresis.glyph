@@ -1,5 +1,5 @@
 StartChar: Edieresis
-Encoding: 203 203 176
+Encoding: 203 203 2331
 Width: 683
 Flags: HW
 HStem: -14 55<95.7273 142.082> 1 53<201.292 550.927> 311 55<199 482.271> 623 56<85 143.092 198.915 530.427> 667 20G<558 581> 740.429 89.1424<213.541 292.459 405.541 484.459>
@@ -8,8 +8,8 @@ AnchorPoint: "Top" 319 828 basechar 0
 AnchorPoint: "Bottom" 329 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 163 58024 N 1 0 0 1 199 -20 2
-Refer: 30 69 N 1 0 0 1 0 0 3
+Refer: 2456 58024 N 1 0 0 1 199 -20 2
+Refer: 2326 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" edieresis.pcap
 Substitution2: "c2sc-1" edieresis.smcp

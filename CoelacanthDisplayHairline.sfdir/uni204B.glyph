@@ -1,5 +1,5 @@
 StartChar: uni204B
-Encoding: 8267 8267 1516
+Encoding: 8267 8267 2043
 Width: 591
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,5 +7,5 @@ HStem: -8 55<36 181.986> 52 20<228.314 268> 720 21<128.296 230.859>
 VStem: 228 40<60 497.2> 238 38<242.8 676> 360 171<296.088 514>
 LayerCount: 2
 Fore
-Refer: 76 182 N -1 0 0 -1 591 733 2
+Refer: 651 182 N -1 0 0 -1 591 733 2
 EndChar

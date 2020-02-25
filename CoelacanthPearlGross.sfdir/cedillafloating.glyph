@@ -1,7 +1,8 @@
 StartChar: cedillafloating
-Encoding: 58084 58084 269
+Encoding: 58084 58084 224
 Width: 0
 Flags: HW
+AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore
 SplineSet

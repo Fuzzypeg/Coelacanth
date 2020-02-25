@@ -1,9 +1,9 @@
 StartChar: arrowupdn
-Encoding: 8597 8597 710
+Encoding: 8597 8597 159
 Width: 329
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 709 8596 N 0 1 -1 0 409.5 -70.5 2
+Refer: 154 8596 N 0 1 -1 0 409.5 -70.5 2
 EndChar

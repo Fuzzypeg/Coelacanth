@@ -1,14 +1,14 @@
 StartChar: otilde
 Encoding: 245 245 129
-Width: 550
+Width: 570
 Flags: HW
-HStem: -11 74<225.683 365.593> 440 77<184.436 324.919> 582.408 86<288.331 356.951> 629.746 85.4463<203.486 276.66>
-VStem: 20 100<179.83 346.467> 131.584 294.106 426 104<152.433 329.656>
+HStem: -11 74<235.683 375.593> 440 77<194.436 334.919> 582.408 86<298.331 366.951> 629.746 85.4463<213.486 286.66>
+VStem: 30 100<179.83 346.467> 141.584 294.106 436 104<152.433 329.656>
 AnchorPoint: "Bottom" 249 -15 basechar 0
 AnchorPoint: "Middle" 255 206 basechar 0
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 449 0 2
+Refer: 100 771 N 1 0 0 1 459 0 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" otilde.pcap
 Substitution2: "case-1" Otilde

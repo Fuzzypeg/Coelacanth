@@ -1,5 +1,5 @@
 StartChar: uni033B
-Encoding: 827 827 870
+Encoding: 827 827 1125
 Width: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,8 +7,8 @@ HStem: -200 56<-267 -121> -113 56<-267 -121>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore
-Refer: 1968 58113 N -0.146 0 -0 -1 -121 -149 2
-Refer: 1968 58113 N -0.146 0 -0 -1 -121 -62 2
-Refer: 1968 58113 N 0 0.143 -1 0 -239 -177 2
-Refer: 1968 58113 N 0 0.143 -1 0 -149 -177 2
+Refer: 757 58113 N -0.146 0 0 -1 -121 -149 2
+Refer: 757 58113 N -0.146 0 0 -1 -121 -62 2
+Refer: 757 58113 N 0 0.143 -1 0 -239 -177 2
+Refer: 757 58113 N 0 0.143 -1 0 -149 -177 2
 EndChar

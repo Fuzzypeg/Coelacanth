@@ -65,3 +65,15 @@ StemSnapV: 42 113 156
 Diplay:
 StemSnapH: 14 18 23 32 35
 StemSnapV: 19 61 80
+
+DisplayGross:
+StemSnapH: 14 22 32 50 53
+StemSnapV: 23 105 146
+
+Pearl:
+StemSnapH: 56 62 65 71 76
+StemSnapV: 66 88 113
+
+PearlGross:
+StemSnapH: 56 68 73 89 96
+StemSnapV: 72 123 169

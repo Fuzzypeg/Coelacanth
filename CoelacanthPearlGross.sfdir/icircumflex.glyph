@@ -1,14 +1,15 @@
 StartChar: icircumflex
-Encoding: 238 238 124
+Encoding: 238 238 421
 Width: 263
 Flags: HW
 HStem: 564 167.801
 VStem: -11.7002 312.5
 AnchorPoint: "Bottom" 127 -15 basechar 0
+AnchorPoint: "Ogonek" 197 18 basechar 0
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 319 0 2
-Refer: 50 305 N 1 0 0 1 0 0 3
+Refer: 1083 770 N 1 0 0 1 319 0 2
+Refer: 266 305 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" icircumflex.pcap
 Substitution2: "case-1" Icircumflex
 Substitution2: "smcp-1" icircumflex.smcp

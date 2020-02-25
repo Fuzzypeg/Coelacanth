@@ -1,13 +1,13 @@
 StartChar: Itilde
-Encoding: 296 296 209
+Encoding: 296 296 2443
 Width: 373
 Flags: HW
 HStem: -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346> 756.053 46<170.565 287.339> 781.392 45.4463<107.026 224.191>
 VStem: 31 315 58.6943 271.866
 LayerCount: 2
 Fore
-Refer: 161 58022 N 1 0 0 1 30 -10 2
-Refer: 34 73 N 1 0 0 1 0 0 3
+Refer: 2519 58022 N 1 0 0 1 30 -10 2
+Refer: 2431 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" itilde.pcap
 Substitution2: "c2sc-1" itilde.smcp

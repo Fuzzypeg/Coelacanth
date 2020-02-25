@@ -1,8 +1,8 @@
 StartChar: underscore
-Encoding: 95 95 338
+Encoding: 95 95 815
 Width: 533
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1966 58114 N 0.535 0 0 0.956522 -5.63993e-014 -140 2
+Refer: 506 58114 N 0.535 0 0 0.956522 -1e-13 -140 2
 EndChar

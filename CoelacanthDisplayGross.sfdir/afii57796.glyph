@@ -1,12 +1,12 @@
 StartChar: afii57796
-Encoding: 1467 1467 2499
+Encoding: 1467 1467 160
 Width: 0
 Flags: HW
 HStem: -237 93.0225 -194 93.0225 -151 93.0225
 VStem: 139.018 90.875 241.018 90.875 343.018 90.875
 LayerCount: 2
 Fore
-Refer: 2492 1460 N 1 0 0 1 102 -81 2
-Refer: 2492 1460 N 1 0 0 1 -102 5 2
-Refer: 2492 1460 N 1 0 0 1 0 -38 2
+Refer: 157 1460 N 1 0 0 1 102 -81 2
+Refer: 157 1460 N 1 0 0 1 -102 5 2
+Refer: 157 1460 N 1 0 0 1 0 -38 2
 EndChar

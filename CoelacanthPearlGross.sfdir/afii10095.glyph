@@ -1,12 +1,12 @@
 StartChar: afii10095
-Encoding: 1101 1101 1243
-Width: 444
+Encoding: 1101 1101 104
+Width: 468
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: 108.953 107.551<133.152 372>
+HStem: 108.953 107.551<143.152 382>
 AnchorPoint: "Top" 208 465 basechar 0
 AnchorPoint: "Bottom" 180 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1236 1108 N -1 0 0 -1 421 410 2
+Refer: 108 1108 N -1 0 0 -1 421 410 2
 EndChar

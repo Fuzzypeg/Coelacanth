@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1552420279
+ModificationTime: 1582367165
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -192,16 +192,16 @@ DesignSize: 50 40-55 1 1033 "Regular"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -36
+DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 8676 36 11
+WinInfo: 625 25 10
 BeginPrivate: 6
 StdHW 4 [68]
 StemSnapH 16 [56 68 73 89 96]
 StdVW 5 [123]
 StemSnapV 12 [72 123 169]
-BlueValues 33 [505 530 559 584 686 711 743 752]
+BlueValues 33 [498 518 558 578 673 693 743 750]
 OtherBlues 7 [-23 1]
 EndPrivate
 Grid

@@ -1,5 +1,5 @@
 StartChar: uni0228
-Encoding: 552 552 504
+Encoding: 552 552 1021
 Width: 683
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,7 +8,7 @@ VStem: 144 55<54.0551 311 366 622.835> 493 50<261.16 311.781 367.967 419.612> 52
 AnchorPoint: "Top" 330 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 281 58030 N 1 0 0 1 531 0 2
-Refer: 30 69 N 1 0 0 1 0 0 3
+Refer: 2462 58030 N 1 0 0 1 531 0 2
+Refer: 2326 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

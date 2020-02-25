@@ -1,5 +1,5 @@
 StartChar: oneeighth.afrc
-Encoding: 58440 58440 1419
+Encoding: 58440 58440 601
 Width: 533
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,9 +7,9 @@ HStem: -6.125 55.8574<197.083 267.083> 231.414 49.6133<198.821 257.893> 314.875 
 VStem: 126.024 69.9756<54.1739 104.159 181.88 229.746> 203.888 65.4014<480.729 625.134> 262 69.2256<169.244 228.034> 268 76<50.7087 101.703>
 LayerCount: 2
 Fore
-Refer: 1968 58113 N 0.394 0 0 0.875 69 342 2
-Refer: 1405 8328 N 1 0 0 1 123 77 2
-Refer: 1399 8321 N 1 0 0 1 142 496 2
+Refer: 757 58113 N 0.394 0 0 0.875 69 342 2
+Refer: 2012 8328 N 1 0 0 1 123 77 2
+Refer: 2005 8321 N 1 0 0 1 142 496 2
 Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction eight.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" oneeighth
 EndChar

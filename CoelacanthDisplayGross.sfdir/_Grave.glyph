@@ -1,7 +1,8 @@
 StartChar: Grave
-Encoding: 58019 58019 95
+Encoding: 58019 58019 2424
 Width: 222
 Flags: HW
+AnchorPoint: "Top" 64 699 mark 0
 LayerCount: 2
 Fore
 SplineSet

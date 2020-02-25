@@ -1,8 +1,9 @@
 StartChar: y.pcap
-Encoding: 57371 57371 667
+Encoding: 57371 57371 2317
 Width: 435
 Flags: HW
 AnchorPoint: "Top" 228.934 489 basechar 0
+AnchorPoint: "Bottom" 232 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet

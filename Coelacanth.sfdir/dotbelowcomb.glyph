@@ -2,9 +2,9 @@ StartChar: dotbelowcomb
 Encoding: 803 803 272
 GlifName: dotbelowcomb
 Width: 0
-Flags: HW
+Flags: W
 HStem: -173 102<-236.411 -151.589>
-VStem: -246 104<-163.562 -80.401>
+VStem: -246 104<-163.562 -80.4005>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore

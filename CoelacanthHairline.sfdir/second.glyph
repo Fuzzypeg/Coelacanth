@@ -1,11 +1,11 @@
 StartChar: second
-Encoding: 8243 8243 1287
+Encoding: 8243 8243 728
 Width: 288
 Flags: HW
 HStem: 455.304 288.492
 VStem: 19.9316 120.744 159.932 120.744
 LayerCount: 2
 Fore
-Refer: 1286 8242 N 1 0 0 1 140 0 2
-Refer: 1286 8242 N 1 0 0 1 0 0 2
+Refer: 536 8242 N 1 0 0 1 140 0 2
+Refer: 536 8242 N 1 0 0 1 0 0 2
 EndChar

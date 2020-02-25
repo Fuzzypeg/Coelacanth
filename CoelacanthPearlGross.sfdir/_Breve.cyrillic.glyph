@@ -1,7 +1,8 @@
 StartChar: Breve.cyrillic
-Encoding: 58087 58087 1371
+Encoding: 58087 58087 2304
 Width: 321
 Flags: HW
+AnchorPoint: "Top" 161 699 mark 0
 LayerCount: 2
 Fore
 SplineSet

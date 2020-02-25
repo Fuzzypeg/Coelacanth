@@ -1,8 +1,10 @@
 StartChar: Delta
-Encoding: 916 916 979
+Encoding: 916 916 2321
 AltUni2: 002206.ffffffff.0
 Width: 785
 Flags: HW
+AnchorPoint: "Bottom" 390 -15 basechar 0
+AnchorPoint: "Top" 410 699 basechar 0
 LayerCount: 2
 Fore
 SplineSet

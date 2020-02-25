@@ -1,12 +1,13 @@
 StartChar: quotedblleft
-Encoding: 8220 8220 82
+Encoding: 8220 8220 661
 Width: 387
+UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: 414.352 313.585
 VStem: -19 224.871<514.205 563.252> 167 224.871<514.205 563.252>
 LayerCount: 2
 Fore
-Refer: 81 8216 N 1 0 0 1 186 0 2
-Refer: 81 8216 N 1 0 0 1 0 0 2
-Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+Refer: 663 8216 N 1 0 0 1 186 0 2
+Refer: 663 8216 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14 [ddx={} ddy={} ddh={} ddv={}]
 EndChar

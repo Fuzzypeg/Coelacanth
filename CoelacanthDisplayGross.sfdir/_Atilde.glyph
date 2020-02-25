@@ -1,13 +1,13 @@
 StartChar: Atilde
-Encoding: 195 195 170
+Encoding: 195 195 2373
 Width: 719
 Flags: HW
 HStem: -7 18<33 46.5502 203.436 236.667 487.333 524.463 679.953 704> 247 38<236 462> 766.053 46<355.564 472.339> 791.392 45.446<292.026 409.191>
 VStem: 243.694 271.867
 LayerCount: 2
 Fore
-Refer: 160 58022 N 1 0 0 1 215 0 2
-Refer: 26 65 N 1 0 0 1 0 0 3
+Refer: 2518 58022 N 1 0 0 1 215 0 2
+Refer: 2360 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" atilde.pcap
 Substitution2: "c2sc-1" atilde.smcp

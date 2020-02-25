@@ -1,11 +1,9 @@
 StartChar: afii10041
-Encoding: 1063 1063 1259
+Encoding: 1063 1063 53
 Width: 710
 Flags: HW
 AnchorPoint: "Bottom" 532 -15 basechar 0
 LayerCount: 2
-Back
-Refer: 1369 127 N 1 0 0 1 0 0 2
 Fore
 SplineSet
 598 343 m 3

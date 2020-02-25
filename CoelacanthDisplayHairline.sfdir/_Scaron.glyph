@@ -1,13 +1,13 @@
 StartChar: Scaron
-Encoding: 352 352 225
+Encoding: 352 352 2506
 Width: 532
 Flags: HW
 HStem: -14 32<191.142 375.847> -5 21<52 71.5> 683 21<223.309 353.769> 723.855 147.545
 VStem: 52 19<-2 14.1074> 64 66<479.982 592.81> 160.495 248.01 439 70<90.2823 217.985> 476 14<539.966 567.52 688.109 697.5>
 LayerCount: 2
 Fore
-Refer: 167 58028 N 1 0 0 1 144 -24 2
-Refer: 44 83 N 1 0 0 1 0 0 3
+Refer: 2384 58028 N 1 0 0 1 144 -24 2
+Refer: 2504 83 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" scaron.pcap
 Substitution2: "c2sc-1" scaron.smcp

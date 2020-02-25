@@ -1,13 +1,13 @@
 StartChar: Ubreve
-Encoding: 364 364 232
+Encoding: 364 364 2521
 Width: 827
 Flags: HW
 HStem: -16 33<321.712 539.917> 688 19<41.2632 97.625 234.522 304 754.19 805> 719.448 43.8333<353.02 506.776>
 VStem: 120 75<119.571 665.877> 298.765 263.47
 LayerCount: 2
 Fore
-Refer: 161 58023 N 1 0 0 1 270 -28 2
-Refer: 52 85 N 1 0 0 1 0 0 3
+Refer: 2379 58023 N 1 0 0 1 270 -28 2
+Refer: 2519 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ubreve.pcap
 Substitution2: "c2sc-1" ubreve.smcp

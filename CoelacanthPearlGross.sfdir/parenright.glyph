@@ -1,11 +1,11 @@
 StartChar: parenright
-Encoding: 41 41 60
+Encoding: 41 41 628
 Width: 351
 Flags: HW
 VStem: 215.044 99<114.095 416.098>
 LayerCount: 2
 Fore
-Refer: 59 40 N -1 0 0 -1 351.044 537 2
+Refer: 627 40 N -1 0 0 -1 351.044 537 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=125 dh=0 dv=0
 EndChar

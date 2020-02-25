@@ -1,5 +1,5 @@
 StartChar: oslash.smcp
-Encoding: 57720 57720 2082
+Encoding: 57720 57720 641
 Width: 591
 Flags: HW
 HStem: -5.6 40.9<271.034 427.015> 461.7 39.2<230.39 375.856>
@@ -7,6 +7,6 @@ VStem: 52.1 82.5<180.762 335.941> 509.9 89.1<144.602 324.626>
 AnchorPoint: "Top" 329 539 basechar 0
 LayerCount: 2
 Fore
-Refer: 2045 57685 N 1 0 0 1 0 0 3
-Refer: 321 823 N 1.18118 0 0 1.1819 601.515 9.3785 2
+Refer: 568 57685 N 1 0 0 1 0 0 3
+Refer: 1143 823 N 1.18118 0 0 1.1819 601.515 9.3785 2
 EndChar

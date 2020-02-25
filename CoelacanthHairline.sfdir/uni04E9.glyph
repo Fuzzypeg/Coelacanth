@@ -1,5 +1,5 @@
 StartChar: uni04E9
-Encoding: 1257 1257 1100
+Encoding: 1257 1257 1280
 Width: 505
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -9,5 +9,5 @@ AnchorPoint: "Top" 251 465 basechar 0
 AnchorPoint: "Bottom" 249 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 880 629 N 1 0 0 1 0 0 2
+Refer: 1133 629 N 1 0 0 1 0 0 2
 EndChar

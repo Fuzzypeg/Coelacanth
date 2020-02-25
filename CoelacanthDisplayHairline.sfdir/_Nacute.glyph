@@ -1,13 +1,13 @@
 StartChar: Nacute
-Encoding: 323 323 215
+Encoding: 323 323 2462
 Width: 897
 Flags: HW
 HStem: -11 21.5<44 96.442 235.157 292> 685 20<815.845 862> 690.5 20.5<29 67.9982 632 696.991> 707.3 169.7
 VStem: 121 43<44.7657 589> 446.5 127 738 38<153 299.352> 759 22<-10 12.2541>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 393 -35 2
-Refer: 39 78 N 1 0 0 1 0 0 3
+Refer: 2366 58018 N 1 0 0 1 393 -35 2
+Refer: 2461 78 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "'locl' Localized Forms Polish-1" Nkreska
 Substitution2: "c2sc-1" nacute.smcp

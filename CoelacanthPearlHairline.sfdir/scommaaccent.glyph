@@ -1,11 +1,11 @@
 StartChar: scommaaccent
-Encoding: 537 537 497
-Width: 396
+Encoding: 537 537 703
+Width: 427
 Flags: HW
 HStem: -177.1 149
-VStem: 162 102<-122.261 -42.3>
+VStem: 175 102<-122.261 -42.3>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 398 0 2
-Refer: 18 115 N 1 0 0 1 0 0 3
+Refer: 1109 806 N 1 0 0 1 411 0 2
+Refer: 688 115 N 1 0 0 1 0 0 3
 EndChar

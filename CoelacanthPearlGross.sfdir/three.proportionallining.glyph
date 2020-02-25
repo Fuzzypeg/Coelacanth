@@ -1,10 +1,10 @@
 StartChar: three.proportionallining
-Encoding: 58391 58391 904
+Encoding: 58391 58391 760
 Width: 495
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 685 58381 N 1 0 0 1 -6.90227 0 2
+Refer: 763 58381 N 1 0 0 1 -6.90227 0 2
 Substitution2: "tnum-1" three.tabularlining
 Substitution2: "onum-1" three
 Substitution2: "numr-1" three.numerator

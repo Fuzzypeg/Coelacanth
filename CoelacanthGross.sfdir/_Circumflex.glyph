@@ -1,20 +1,9 @@
 StartChar: Circumflex
-Encoding: 58020 58020 111
+Encoding: 58020 58020 1258
 Width: 281
 Flags: HMW
 AnchorPoint: "Top" 140 699 mark 0
 LayerCount: 2
-Back
-SplineSet
-279.505 761.361 m 1
- 252.097 747.855 l 1
- 140.5 792.263 l 1
- 28.9033 747.855 l 1
- 1.49512 761.361 l 1
- 121.846 859.4 l 1
- 159.154 859.4 l 1
- 279.505 761.361 l 1
-EndSplineSet
 Fore
 SplineSet
 279.504882812 769.361328125 m 1

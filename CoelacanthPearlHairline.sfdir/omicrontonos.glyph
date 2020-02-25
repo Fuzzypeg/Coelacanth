@@ -1,5 +1,5 @@
 StartChar: omicrontonos
-Encoding: 972 972 1112
+Encoding: 972 972 589
 Width: 586
 Flags: HW
 HStem: 632.951 193.429
@@ -7,8 +7,8 @@ VStem: 270.89 230.611
 AnchorPoint: "Bottom" 250 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 966 900 N 1 0 0 1 255 0 2
-Refer: 1017 959 N 1 0 0 1 0 0 3
+Refer: 776 900 N 1 0 0 1 255 0 2
+Refer: 588 959 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" o.pcap
 Substitution2: "smcp-1" o.smcp
 EndChar

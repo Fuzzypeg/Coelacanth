@@ -1,7 +1,8 @@
 StartChar: Circumflex
-Encoding: 58020 58020 158
+Encoding: 58020 58020 2389
 Width: 281
 Flags: HMW
+AnchorPoint: "Top" 140 699 mark 0
 LayerCount: 2
 Fore
 SplineSet

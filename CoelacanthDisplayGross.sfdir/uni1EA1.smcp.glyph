@@ -1,5 +1,5 @@
 StartChar: uni1EA1.smcp
-Encoding: 57945 57945 2302
+Encoding: 57945 57945 1595
 Width: 530
 Flags: HW
 HStem: -173 102<223.589 308.411> -4.3 29.9<23.3 61.425 342.407 372.926> 170.1 29.6<189.749 321.807>
@@ -7,6 +7,6 @@ VStem: 214 104<-163.562 -80.401> 263.2 34.6<439.075 504.1>
 AnchorPoint: "Top" 278 539 basechar 0
 LayerCount: 2
 Fore
-Refer: 271 803 N 1 0 0 1 460 0 2
-Refer: 2028 57671 N 1 0 0 1 0 0 3
+Refer: 290 803 N 1 0 0 1 460 0 2
+Refer: 2 57671 N 1 0 0 1 0 0 3
 EndChar

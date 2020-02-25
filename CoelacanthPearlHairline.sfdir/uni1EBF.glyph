@@ -1,5 +1,5 @@
 StartChar: uni1EBF
-Encoding: 7871 7871 864
+Encoding: 7871 7871 1596
 Width: 478
 Flags: HW
 HStem: 543.319 131.361
@@ -7,7 +7,7 @@ VStem: 83.2197 268.561
 AnchorPoint: "Bottom" 205 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 470 58080 N 0.745874 0.125851 -0.313113 1.02483 641.65 98.8114 2
-Refer: 471 58081 N 1 0 0 1 446 111 2
-Refer: 4 101 N 1 0 0 1 0 0 2
+Refer: 16 58080 N 0.745874 0.125851 -0.313113 1.02483 641.65 98.8114 2
+Refer: 231 58081 N 1 0 0 1 446 111 2
+Refer: 272 101 N 1 0 0 1 0 0 2
 EndChar

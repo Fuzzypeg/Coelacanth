@@ -1,12 +1,12 @@
 StartChar: uni01C3
-Encoding: 451 451 1720
+Encoding: 451 451 864
 Width: 266
 Flags: HW
 HStem: -57.5575 234.318<119.191 170.941>
 VStem: 28.3893 233.639<34.0172 83.4269> 105.655 83.6775<209 363.762>
 LayerCount: 2
 Fore
-Refer: 75 33 N 1 0 0 1 0 0 2
+Refer: 324 33 N 1 0 0 1 0 0 2
 Substitution2: "smcp-1" exclam.smcp
 Substitution2: "pcap-1" exclam.pcap
 EndChar

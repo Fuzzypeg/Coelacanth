@@ -1,10 +1,10 @@
 StartChar: uni01F3
-Encoding: 499 499 512
+Encoding: 499 499 933
 Width: 964
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 25 122 N 1 0 0 1 511 0 2
-Refer: 3 100 N 1 0 0 1 0 0 2
+Refer: 2254 122 N 1 0 0 1 511 0 2
+Refer: 244 100 N 1 0 0 1 0 0 2
 Substitution2: "case-1" uni01F1
 EndChar

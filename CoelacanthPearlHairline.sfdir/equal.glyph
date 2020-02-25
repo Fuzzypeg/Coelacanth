@@ -1,11 +1,11 @@
 StartChar: equal
-Encoding: 61 61 329
+Encoding: 61 61 320
 Width: 533
 Flags: HW
 HStem: 110.391 89.2172<34 428> 294.391 89.2172<34 428>
 LayerCount: 2
 Fore
-Refer: 330 8722 N 1 0 0 1 0 -74 2
-Refer: 330 8722 N 1 0 0 1 0 110 2
+Refer: 511 8722 N 1 0 0 1 0 -74 2
+Refer: 511 8722 N 1 0 0 1 0 110 2
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

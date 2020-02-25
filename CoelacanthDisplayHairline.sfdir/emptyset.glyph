@@ -1,5 +1,5 @@
 StartChar: emptyset
-Encoding: 8709 8709 1499
+Encoding: 8709 8709 330
 Width: 503
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,6 +7,6 @@ HStem: 1 33<203.15 319.348> 358 36<180.377 302.898>
 VStem: 55 73<109.281 280.474> 368 79<105.768 284.433>
 LayerCount: 2
 Fore
-Refer: 911 8260 N 1 0 0 1 19 -59 2
-Refer: 63 48 N 1 0 0 1 0 0 2
+Refer: 383 8260 N 1 0 0 1 19 -59 2
+Refer: 2345 48 N 1 0 0 1 0 0 2
 EndChar

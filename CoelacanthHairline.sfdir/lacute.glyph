@@ -1,13 +1,13 @@
 StartChar: lacute
-Encoding: 314 314 249
+Encoding: 314 314 503
 Width: 248
 Flags: HW
 HStem: -7 33<9 67 174 243>
 VStem: 91 70<57 558>
 LayerCount: 2
 Fore
-Refer: 469 58080 N 1 0 0 1 347 290 2
-Refer: 11 108 N 1 0 0 1 0 0 3
+Refer: 16 58080 N 1 0 0 1 347 290 2
+Refer: 500 108 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" lacute.smcp
 Substitution2: "case-1" Lacute
 Substitution2: "pcap-1" lacute.pcap

@@ -1,12 +1,12 @@
 StartChar: semicolon
-Encoding: 59 59 61
+Encoding: 59 59 727
 Width: 201
 Flags: HW
 HStem: 280.5 133<83.8157 116.483>
 VStem: 34.5254 133.95<328.447 362.879>
 LayerCount: 2
 Fore
-Refer: 48 46 N 1 0 0 1 0 350 2
-Refer: 46 44 N 1 0 0 1 0 0 2
+Refer: 656 46 N 1 0 0 1 0 350 2
+Refer: 265 44 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

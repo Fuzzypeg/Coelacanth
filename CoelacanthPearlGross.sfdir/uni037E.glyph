@@ -1,12 +1,12 @@
 StartChar: uni037E
-Encoding: 894 894 965
+Encoding: 894 894 1136
 Width: 250
 Flags: HW
 HStem: -134.937 313.585 266.443 234.318<116.481 168.232>
 VStem: 25.68 233.639<358.017 407.427> 26.1289 224.871<29.7477 78.7948>
 LayerCount: 2
 Fore
-Refer: 48 46 N 1 0 0 1 34 324 2
-Refer: 46 44 N 1 0 0 1 32 0 2
+Refer: 631 46 N 1 0 0 1 34 324 2
+Refer: 240 44 N 1 0 0 1 32 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

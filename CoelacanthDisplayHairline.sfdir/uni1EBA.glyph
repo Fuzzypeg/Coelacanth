@@ -1,5 +1,5 @@
 StartChar: uni1EBA
-Encoding: 7866 7866 750
+Encoding: 7866 7866 1646
 Width: 639
 Flags: HW
 HStem: -9 35<25 70.5829> 3.06988 37.3024<200.897 461.73> 333 36<174 442.393> 656 31<17 77.489> 872 31<284.234 319.612>
@@ -7,7 +7,7 @@ VStem: 91 93<372.534 637.287> 95.7878 78.2122<90.4624 333 369 602.188> 221 61<83
 AnchorPoint: "Bottom" 327 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 749 58037 N 1 0 0 1 652 0 2
-Refer: 30 69 N 1 0 0 1 0 0 3
+Refer: 2430 58037 N 1 0 0 1 652 0 2
+Refer: 2400 69 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

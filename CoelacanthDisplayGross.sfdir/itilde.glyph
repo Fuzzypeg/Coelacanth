@@ -1,13 +1,13 @@
 StartChar: itilde
-Encoding: 297 297 147
+Encoding: 297 297 475
 Width: 264
 Flags: HW
 HStem: -7 33<15 69 166 236> 544 21G<0.206008 19.5982> 552.34 44.667<86.4604 195.749> 577.122 44.2051<36.4606 146.513>
 VStem: 0.206008 227.589 79 71<57 330>
 LayerCount: 2
 Fore
-Refer: 99 771 N 1 0 0 1 338.5 84 2
-Refer: 49 305 N 1 0 0 1 0 0 3
+Refer: 796 771 N 1 0 0 1 338.5 84 2
+Refer: 291 305 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" itilde.smcp
 Substitution2: "case-1" Itilde
 Substitution2: "pcap-1" itilde.pcap

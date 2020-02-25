@@ -1,13 +1,13 @@
 StartChar: Chi
-Encoding: 935 935 514
-Width: 761
+Encoding: 935 935 1257
+Width: 808
 Flags: HW
-HStem: -6 31<18.6774 62.5845 196.476 263> -2 38<685.729 743.289> 653 39<215.532 275> 659 26<13 54.2795 447 485.234 665.996 702.194>
+HStem: -6 31<42.6774 86.5845 220.476 287> -2 38<709.729 767.289> 653 39<239.532 299> 659 26<37 78.2795 471 509.234 689.996 726.194>
 AnchorPoint: "Top" 364 699 basechar 0
 AnchorPoint: "Bottom" 371 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 56 88 N 1 0 0 1 0 0 2
+Refer: 1346 88 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" x.pcap
 Substitution2: "c2sc-1" x.smcp

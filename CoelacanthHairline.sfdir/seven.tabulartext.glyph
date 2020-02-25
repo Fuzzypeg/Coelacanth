@@ -1,11 +1,11 @@
 StartChar: seven.tabulartext
-Encoding: 58375 58375 678
+Encoding: 58375 58375 738
 Width: 463
 Flags: HW
 HStem: 339 67<103.377 355.466>
 LayerCount: 2
 Fore
-Refer: 69 55 N 1 0 0 1 15 0 2
+Refer: 732 55 N 1 0 0 1 15 0 2
 Substitution2: "pnum-1" seven
 Substitution2: "lnum-1" seven.tabularlining
 Substitution2: "numr-1" seven.numerator

@@ -1,5 +1,5 @@
 StartChar: threeeighths
-Encoding: 8540 8540 944
+Encoding: 8540 8540 794
 Width: 598
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,8 +7,8 @@ HStem: -89 28<418.072 490.211> 235 25<403.002 463.643> 247 21<43 79.8831> 417 20
 VStem: 175 59<488.744 555.813> 186 65<329.962 405.243> 324 57<-34.3188 49.7737> 345 45<157.194 229.31> 489 50<141.922 220.084> 506 60<-45.9945 44.4187>
 LayerCount: 2
 Fore
-Refer: 924 58411 N 1 0 0 1 0 0 2
-Refer: 910 8260 N 1 0 0 1 51 0 2
-Refer: 919 58406 N 1 0 0 1 290 0 2
+Refer: 787 58411 N 1 0 0 1 0 0 2
+Refer: 386 8260 N 1 0 0 1 51 0 2
+Refer: 320 58406 N 1 0 0 1 290 0 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

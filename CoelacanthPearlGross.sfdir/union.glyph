@@ -1,10 +1,10 @@
 StartChar: union
-Encoding: 8746 8746 1316
+Encoding: 8746 8746 2204
 Width: 580
 Flags: HW
 HStem: -17 50.2441<197.427 382.284>
 VStem: 50 48<149.165 680.323> 482 48<151.212 680.323>
 LayerCount: 2
 Fore
-Refer: 1310 8745 N -1 0 0 -1 580 680.323 2
+Refer: 442 8745 N -1 0 0 -1 580 680.323 2
 EndChar

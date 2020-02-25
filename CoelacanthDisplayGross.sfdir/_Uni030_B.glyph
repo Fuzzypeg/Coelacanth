@@ -1,7 +1,8 @@
 StartChar: Uni030B
-Encoding: 58027 58027 165
+Encoding: 58027 58027 2529
 Width: 300
 Flags: HW
+AnchorPoint: "Top" 87 699 mark 0
 LayerCount: 2
 Fore
 SplineSet

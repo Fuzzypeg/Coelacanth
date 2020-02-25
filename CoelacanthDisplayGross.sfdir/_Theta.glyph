@@ -1,5 +1,5 @@
 StartChar: Theta
-Encoding: 920 920 982
+Encoding: 920 920 2516
 Width: 793
 Flags: HW
 HStem: -7 50<342.523 545.448> 338.5 61<269.644 572> 456.5 20G<220.5 253.556 581.5 612.5> 657 49<304.396 495.712>
@@ -25,7 +25,7 @@ SplineSet
  516.5 424.067164179 524.5 419.02238806 528.5 468.5 c 13
  546.5 467.5 l 1
 EndSplineSet
-Refer: 989 927 N 1 0 0 1 0 0 2
+Refer: 2484 927 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" theta.pcap
 Substitution2: "c2sc-1" theta.smcp

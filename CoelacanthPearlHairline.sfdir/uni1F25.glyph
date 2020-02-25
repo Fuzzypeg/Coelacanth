@@ -1,5 +1,5 @@
 StartChar: uni1F25
-Encoding: 7973 7973 1341
+Encoding: 7973 7973 1753
 Width: 566
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,6 +8,6 @@ VStem: 171.908 75<544.614 607.331> 324.299 230.611
 AnchorPoint: "Bottom" 139 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1612 8158 N 1 0 0 1 208 0 2
-Refer: 1009 951 N 1 0 0 1 0 0 3
+Refer: 1923 8158 N 1 0 0 1 208 0 2
+Refer: 323 951 N 1 0 0 1 0 0 3
 EndChar

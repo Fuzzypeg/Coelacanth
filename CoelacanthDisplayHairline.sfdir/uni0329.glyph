@@ -1,5 +1,5 @@
 StartChar: uni0329
-Encoding: 809 809 276
+Encoding: 809 809 1133
 Width: 0
 Flags: HW
 HStem: -232 176.4<-216.2 -171.8>
@@ -7,5 +7,5 @@ VStem: -216.2 44.4<-232 -55.6>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore
-Refer: 106 781 N 1 0 0 1 4 -666 2
+Refer: 1117 781 N 1 0 0 1 4 -666 2
 EndChar

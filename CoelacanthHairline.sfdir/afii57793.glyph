@@ -1,9 +1,10 @@
 StartChar: afii57793
-Encoding: 1460 1460 2523
+Encoding: 1460 1460 160
 Width: 0
 Flags: HW
 HStem: -144 70<252.752 317.248>
 VStem: 250 70<-141.248 -76.7518>
+AnchorPoint: "HbBottom" 286 0 mark 0
 LayerCount: 2
 Fore
 SplineSet

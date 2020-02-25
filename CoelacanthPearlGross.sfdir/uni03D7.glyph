@@ -1,5 +1,5 @@
 StartChar: uni03D7
-Encoding: 983 983 1035
+Encoding: 983 983 1142
 Width: 502
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -21,5 +21,5 @@ SplineSet
  419 87 l 1
  428 98 432.778320312 109.979492188 442.255859375 125.01953125 c 1xfa
 EndSplineSet
-Refer: 1041 1008 N 1 0 0 1 20 0 2
+Refer: 1152 1008 N 1 0 0 1 20 0 2
 EndChar

@@ -1,13 +1,14 @@
 StartChar: Ocircumflex
-Encoding: 212 212 184
-Width: 819
+Encoding: 212 212 2401
+Width: 818
 Flags: HW
-HStem: -16.2793 88.0098<373.76 519.227> 598.422 90.6641<290.079 442.078>
-VStem: 45.8672 185.133<268.197 450.24> 595 172.917<213.637 413.835>
+HStem: -16.2793 88.0098<375.893 521.36> 598.422 90.6641<292.212 444.211>
+VStem: 48 185.133<268.197 450.24> 597.133 172.917<213.637 413.835>
+AnchorPoint: "Bottom" 418 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 159 58020 N 1 0 0 1 273 -20 2
-Refer: 40 79 N 1 0 0 1 0 0 3
+Refer: 2315 58020 N 1 0 0 1 275.133 -20 2
+Refer: 2398 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ocircumflex.pcap
 Substitution2: "c2sc-1" ocircumflex.smcp

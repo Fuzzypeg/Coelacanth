@@ -1,13 +1,13 @@
 StartChar: uni0229
-Encoding: 553 553 505
-Width: 464
+Encoding: 553 553 1022
+Width: 506
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -172 50.1914<157.034 244.15>
-VStem: 244.175 58.4277<-118.562 -80.38>
+HStem: -172 50.1914<168.034 255.15>
+VStem: 255.175 58.4277<-118.562 -80.38>
 AnchorPoint: "Top" 252 537 basechar 0
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 436 0 2
-Refer: 4 101 N 1 0 0 1 0 0 3
+Refer: 1110 807 N 1 0 0 1 447 0 2
+Refer: 272 101 N 1 0 0 1 0 0 3
 EndChar

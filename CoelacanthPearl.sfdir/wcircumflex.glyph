@@ -1,12 +1,12 @@
 StartChar: wcircumflex
 Encoding: 373 373 240
-Width: 793
+Width: 783
 Flags: HW
 HStem: 576 155.801
-VStem: 263.3 288.5
+VStem: 259.3 288.5
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 582 0 2
+Refer: 93 770 N 1 0 0 1 578 0 2
 Refer: 22 119 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" wcircumflex.smcp
 Substitution2: "case-1" Wcircumflex

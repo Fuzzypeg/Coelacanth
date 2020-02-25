@@ -1,14 +1,14 @@
 StartChar: uni04E8
-Encoding: 1256 1256 1101
-Width: 819
+Encoding: 1256 1256 1198
+Width: 818
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -16.2793 88.0098<373.76 519.227> 311.75 76.5<55.0407 754> 598.422 90.6641<290.079 442.078>
-VStem: 45.8672 185.133<268.197 450.24> 595 172.917<213.637 413.835>
+HStem: -16.2793 88.0098<375.893 521.36> 311.75 76.5<57.1735 756.133> 598.422 90.6641<292.212 444.211>
+VStem: 48 185.133<268.197 450.24> 597.133 172.917<213.637 413.835>
 AnchorPoint: "Top" 420 699 basechar 0
 AnchorPoint: "Bottom" 416 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 879 415 N 1 0 0 1 0 0 2
+Refer: 846 415 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

@@ -1,5 +1,5 @@
 StartChar: threeeighths.afrc
-Encoding: 58441 58441 1415
+Encoding: 58441 58441 765
 Width: 533
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,9 +7,9 @@ HStem: -6.125 55.8574<197.083 267.083> 231.414 49.6133<198.821 257.893> 314.875 
 VStem: 126.024 69.9756<54.1739 104.159 181.88 229.746> 236 84<585.709 653> 243 92<482.737 532.528> 262 69.2256<169.244 228.034> 268 76<50.7087 101.703>
 LayerCount: 2
 Fore
-Refer: 1965 58113 N 0.394 0 0 0.875 69 342 2
-Refer: 1396 8323 N 1 0 0 1 131 497 2
-Refer: 1400 8328 N 1 0 0 1 123 77 2
+Refer: 753 58113 N 0.394 0 0 0.875 69 342 2
+Refer: 2005 8323 N 1 0 0 1 131 497 2
+Refer: 2010 8328 N 1 0 0 1 123 77 2
 Ligature2: "'afrc' Nut Fractions lookup 23-1" three.numerator fraction eight.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" threeeighths
 EndChar

@@ -1,14 +1,14 @@
 StartChar: Tcommaaccent
-Encoding: 354 354 292
-Width: 726
+Encoding: 354 354 2441
+Width: 724
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -172.787 53.7051<263.509 342.756>
-VStem: 343.489 93.7783<-118.098 -71.2499>
+HStem: -172.787 53.7051<270.15 349.397>
+VStem: 350.13 93.7783<-118.098 -71.2499>
 LayerCount: 2
 Fore
-Refer: 281 58030 N 1 0 0 1 549 0 2
-Refer: 45 84 N 1 0 0 1 0 0 3
+Refer: 2460 58030 N 1 0 0 1 555.641 0 2
+Refer: 2437 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" tcedilla.pcap
 Substitution2: "c2sc-1" tcedilla.smcp

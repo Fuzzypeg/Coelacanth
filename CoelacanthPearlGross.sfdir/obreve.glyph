@@ -1,13 +1,13 @@
 StartChar: obreve
-Encoding: 335 335 219
-Width: 550
+Encoding: 335 335 549
+Width: 570
 Flags: HW
-HStem: -11 92<261.824 358.744> 422 98<185.532 283.601> 576 76.7188<200.397 347.886>
-VStem: 20 144<205.971 346.529> 121.848 305.357 381 149<152.322 307.098>
+HStem: -11 92<271.824 368.744> 422 98<195.532 293.601> 576 76.7188<210.397 357.886>
+VStem: 30 144<205.971 346.529> 131.848 305.357 391 149<152.322 307.098>
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 449 0 2
-Refer: 14 111 N 1 0 0 1 0 0 3
+Refer: 1086 774 N 1 0 0 1 459 0 2
+Refer: 541 111 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" obreve.smcp
 Substitution2: "case-1" Obreve
 Substitution2: "pcap-1" obreve.pcap

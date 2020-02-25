@@ -1,5 +1,5 @@
 StartChar: Iogonek
-Encoding: 302 302 259
+Encoding: 302 302 2439
 Width: 373
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -18,7 +18,7 @@ SplineSet
  98.5488 -138.458 128.549 -29.9902 225.479 16.4531 c 1
  230.178 1.73438 l 1xe8
 EndSplineSet
-Refer: 34 73 N 1 0 0 1 0 0 3
+Refer: 2431 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" iogonek.pcap
 Substitution2: "c2sc-1" iogonek.smcp

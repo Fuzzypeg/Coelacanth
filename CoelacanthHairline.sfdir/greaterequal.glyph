@@ -1,5 +1,5 @@
 StartChar: greaterequal
-Encoding: 8805 8805 1319
+Encoding: 8805 8805 419
 Width: 463
 Flags: HW
 HStem: 66.0001 53.9999<34 428> 392 20G<44.5022 117.133>
@@ -15,6 +15,6 @@ SplineSet
  382 288 l 1
  41 390 l 1
 EndSplineSet
-Refer: 329 8722 N 1 0 0 1 0 -124 2
+Refer: 535 8722 N 1 0 0 1 0 -124 2
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

@@ -1,7 +1,8 @@
 StartChar: uni031B
-Encoding: 795 795 99
+Encoding: 795 795 1102
 Width: 0
 Flags: HW
+AnchorPoint: "Horn" -113.5 453.8 mark 0
 LayerCount: 2
 Fore
 SplineSet

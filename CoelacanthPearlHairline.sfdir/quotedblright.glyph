@@ -1,12 +1,12 @@
 StartChar: quotedblright
-Encoding: 8221 8221 83
+Encoding: 8221 8221 666
 Width: 387
 Flags: HW
 HStem: 449.063 253.586
 VStem: 111 62<543.776 609.295> 297 62<543.776 609.295>
 LayerCount: 2
 Fore
-Refer: 80 8217 N 1 0 0 1 186 0 2
-Refer: 80 8217 N 1 0 0 1 0 0 2
+Refer: 669 8217 N 1 0 0 1 186 0 2
+Refer: 669 8217 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
 EndChar

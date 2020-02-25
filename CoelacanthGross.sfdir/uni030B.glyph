@@ -1,5 +1,5 @@
 StartChar: uni030B
-Encoding: 779 779 99
+Encoding: 779 779 649
 Width: 0
 Flags: HW
 AnchorPoint: "TopMark" -200.5 408 mark 0
@@ -7,6 +7,6 @@ AnchorPoint: "TopMark" -132 648 basemark 0
 AnchorPoint: "Top" -198.5 405 mark 0
 LayerCount: 2
 Fore
-Refer: 90 769 N 0.978148 0.207912 -0.207912 0.978148 50.7246 65.9731 2
-Refer: 90 769 N 0.999391 0.0348993 -0.0348993 0.999391 86.4673 12.5134 2
+Refer: 3 769 N 0.978148 0.203984 -0.207912 0.959666 40.7246 62.9512 2
+Refer: 3 769 N 0.999391 0.0348993 -0.0348993 0.999391 96.4673 12.5134 2
 EndChar

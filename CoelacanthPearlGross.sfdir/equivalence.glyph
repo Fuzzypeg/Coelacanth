@@ -1,10 +1,10 @@
 StartChar: equivalence
-Encoding: 8801 8801 1313
+Encoding: 8801 8801 317
 Width: 533
 Flags: HW
 HStem: 25.3914 89.2172<34 428> 209.391 89.2172<34 428> 393.391 89.2172<34 428>
 LayerCount: 2
 Fore
-Refer: 330 8722 N 1 0 0 1 0 209 2
-Refer: 329 61 N 1 0 0 1 0 -85 2
+Refer: 507 8722 N 1 0 0 1 0 209 2
+Refer: 316 61 N 1 0 0 1 0 -85 2
 EndChar

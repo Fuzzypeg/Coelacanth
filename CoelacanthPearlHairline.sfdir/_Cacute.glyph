@@ -1,13 +1,13 @@
 StartChar: Cacute
-Encoding: 262 262 137
+Encoding: 262 262 2309
 Width: 732
 Flags: HW
 HStem: -16 56<307.203 538.098> 632 56<286.57 553.553> 720.552 134.448
 VStem: 43 56<215.879 444.931> 377.163 197.837 607 52<491.378 596.716> 636 53<131.551 187.717>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 353 -20 2
-Refer: 28 67 N 1 0 0 1 0 0 3
+Refer: 2292 58018 N 1 0 0 1 353 -20 2
+Refer: 2308 67 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" cacute.pcap
 Substitution2: "c2sc-1" cacute.smcp

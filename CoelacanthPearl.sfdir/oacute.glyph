@@ -1,14 +1,14 @@
 StartChar: oacute
 Encoding: 243 243 127
-Width: 550
+Width: 570
 Flags: HW
-HStem: -11 74<225.683 365.593> 440 77<184.436 324.919> 569.951 193.429
-VStem: 20 100<179.83 346.467> 216.389 230.611 426 104<152.433 329.656>
+HStem: -11 74<235.683 375.593> 440 77<194.436 334.919> 569.951 193.429
+VStem: 30 100<179.83 346.467> 226.389 230.611 436 104<152.433 329.656>
 AnchorPoint: "Bottom" 249 -15 basechar 0
 AnchorPoint: "Middle" 255 206 basechar 0
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 449 0 2
+Refer: 92 769 N 1 0 0 1 459 0 2
 Refer: 14 111 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" oacute.pcap
 Substitution2: "'locl' Localized Forms Polish-1" okreska

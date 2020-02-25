@@ -4,6 +4,8 @@ Width: 485
 Flags: HW
 HStem: -0.730825 46.4857<108.017 338.895> 396 20G<238.674 269.553>
 VStem: 239.974 27.9541<369.04 416>
+AnchorPoint: "Bottom" 234 -15 basechar 0
+AnchorPoint: "Top" 254 537 basechar 0
 LayerCount: 2
 Fore
 SplineSet

@@ -1,5 +1,5 @@
 StartChar: uni01EB.pcap
-Encoding: 57492 57492 1797
+Encoding: 57492 57492 920
 Width: 591
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -19,5 +19,5 @@ SplineSet
  218 -36.0618458461 254.981366688 21.2831808819 350.228515625 54.900390625 c 1
  378.859375 4.443359375 l 1
 EndSplineSet
-Refer: 657 57361 N 1 0 0 1 0 0 3
+Refer: 542 57361 N 1 0 0 1 0 0 3
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni01EA
-Encoding: 490 490 308
+Encoding: 490 490 944
 Width: 793
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -20,6 +20,6 @@ SplineSet
  315.765625 -152.803710938 349.834960938 -47.5556640625 492.478515625 36.453125 c 1
  499.177734375 3.734375 l 1
 EndSplineSet
-Refer: 40 79 N 1 0 0 1 0 0 3
+Refer: 2473 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

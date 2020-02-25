@@ -1,10 +1,10 @@
 StartChar: uni0211
-Encoding: 529 529 491
-Width: 406
+Encoding: 529 529 979
+Width: 421
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 104 783 N 1 0 0 1 352 0 2
-Refer: 17 114 N 1 0 0 1 0 0 3
+Refer: 1094 783 N 1 0 0 1 377 0 2
+Refer: 668 114 N 1 0 0 1 0 0 3
 Substitution2: "salt-1" uni0211.alt
 EndChar

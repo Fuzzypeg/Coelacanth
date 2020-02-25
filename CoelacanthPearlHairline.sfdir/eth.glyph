@@ -1,5 +1,5 @@
 StartChar: eth
-Encoding: 240 240 453
+Encoding: 240 240 325
 Width: 471
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -22,7 +22,7 @@ SplineSet
  280.100844176 405 312.529887067 398.835864585 329 392 c 1
  354 309 l 1
 EndSplineSet
-Refer: 1968 58113 N 0.284488 0.177084 -0.547233 0.872389 104.756 489.958 2
+Refer: 757 58113 N 0.284488 0.177084 -0.547233 0.872389 104.756 489.958 2
 Substitution2: "pcap-1" eth.pcap
 Substitution2: "case-1" Eth
 Substitution2: "smcp-1" eth.smcp

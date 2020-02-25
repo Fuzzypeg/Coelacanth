@@ -1,11 +1,11 @@
 StartChar: jcircumflex.pcap
-Encoding: 57429 57429 1682
+Encoding: 57429 57429 464
 Width: 319
 Flags: HW
 HStem: 436.914 60.1846<43.3382 116.762> 490.969 20G<39.8223 61.2975 260.652 287.28> 564 155.801
 VStem: 13.2998 312.5 122.355 97.1875<-57.711 434.556>
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 344 0 2
-Refer: 652 57356 N 1 0 0 1 0 0 3
+Refer: 1087 770 N 1 0 0 1 344 0 2
+Refer: 459 57356 N 1 0 0 1 0 0 3
 EndChar

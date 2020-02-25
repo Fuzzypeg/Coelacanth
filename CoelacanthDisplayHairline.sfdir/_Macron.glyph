@@ -1,5 +1,5 @@
 StartChar: Macron
-Encoding: 58021 58021 160
+Encoding: 58021 58021 2459
 Width: 298
 Flags: HW
 HStem: 772.7 37<28.7002 269.3>
@@ -7,5 +7,5 @@ VStem: 28.7002 240.6<772.7 809.7>
 AnchorPoint: "Top" 150 699 mark 0
 LayerCount: 2
 Fore
-Refer: 1970 58114 N 0.2403 0 0 1.03972 28.7002 791.415 2
+Refer: 531 58114 N 0.2403 0 0 1.03972 28.7002 791.415 2
 EndChar

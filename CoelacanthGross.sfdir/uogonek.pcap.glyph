@@ -1,5 +1,5 @@
 StartChar: uogonek.pcap
-Encoding: 57459 57459 940
+Encoding: 57459 57459 1208
 Width: 562
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -18,5 +18,5 @@ SplineSet
  208.561523438 -119.928898898 239.248200448 -40.7982776007 327 23 c 1
  351.630859375 15.54296875 l 1
 EndSplineSet
-Refer: 333 57367 N 1 0 0 1 0 0 3
+Refer: 520 57367 N 1 0 0 1 0 0 3
 EndChar

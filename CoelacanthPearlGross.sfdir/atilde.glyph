@@ -1,12 +1,14 @@
 StartChar: atilde
-Encoding: 227 227 117
-Width: 442
+Encoding: 227 227 186
+Width: 477
 Flags: HW
-HStem: 582.408 86<233.331 301.951> 629.746 85.4463<148.486 221.66>
-VStem: 76.584 294.106
+HStem: 582.408 86<246.331 314.951> 629.746 85.4463<161.486 234.66>
+VStem: 89.584 294.106
+AnchorPoint: "Bottom" 203 -15 basechar 0
+AnchorPoint: "Ogonek" 386 22 basechar 0
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 394 0 2
+Refer: 771 771 N 1 0 0 1 407 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" atilde.pcap
 Substitution2: "case-1" Atilde

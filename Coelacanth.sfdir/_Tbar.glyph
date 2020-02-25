@@ -1,14 +1,14 @@
 StartChar: Tbar
 Encoding: 358 358 454
 GlifName: T_bar
-Width: 728
+Width: 746
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -7 44<419.307 513> 329 46<188 538> 634 51<94.399 314.89 414 630.844>
-VStem: 312 97<51.3596 333.831>
+HStem: -7 44<427.307 521> 329 46<196 546> 634 51<102.399 322.89 422 638.844>
+VStem: 320 97<51.3596 333.831>
 LayerCount: 2
 Fore
-Refer: 452 58035 N 1 0 0 1 591 0 2
+Refer: 452 58035 N 1 0 0 1 599 0 2
 Refer: 45 84 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" tbar.pcap

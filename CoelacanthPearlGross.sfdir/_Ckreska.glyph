@@ -1,13 +1,13 @@
 StartChar: Ckreska
-Encoding: 58003 58003 1198
+Encoding: 58003 58003 2316
 Width: 732
 Flags: HW
-HStem: -15.709 93.3604<345.891 529.827> 600.343 87.9229<326.08 490.389>
-VStem: 43.3105 174.898<223.333 447.604>
+HStem: -15.709 93.3604<345.58 529.516> 600.343 87.9229<325.769 490.078>
+VStem: 43 174.898<223.333 447.604>
 LayerCount: 2
 Fore
-Refer: 1192 57997 N 1 0 0 1 367 0 2
-Refer: 28 67 N 1 0 0 1 0 0 3
+Refer: 2374 57997 N 1 0 0 1 366.689 0 2
+Refer: 2306 67 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" ckreska.smcp
 Substitution2: "c2pc-1" ckreska.pcap

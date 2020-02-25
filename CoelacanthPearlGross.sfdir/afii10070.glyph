@@ -1,10 +1,10 @@
 StartChar: afii10070
-Encoding: 1077 1077 1067
-Width: 464
+Encoding: 1077 1077 79
+Width: 506
 Flags: HW
 AnchorPoint: "Top" 209 465 basechar 0
 AnchorPoint: "Bottom" 205 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 4 101 N 1 0 0 1 0 0 3
+Refer: 268 101 N 1 0 0 1 0 0 3
 EndChar

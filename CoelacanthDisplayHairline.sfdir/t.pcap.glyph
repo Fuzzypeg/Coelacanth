@@ -1,8 +1,9 @@
 StartChar: t.pcap
-Encoding: 57366 57366 662
+Encoding: 57366 57366 760
 Width: 429
 Flags: HW
 AnchorPoint: "Top" 218.934 489 basechar 0
+AnchorPoint: "Bottom" 222 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet

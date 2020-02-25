@@ -1,13 +1,13 @@
 StartChar: two.numerator
-Encoding: 58410 58410 923
+Encoding: 58410 58410 801
 Width: 330
 Flags: HW
 HStem: 264 56<106 240.903 241 264.858> 560 44<81.1582 175.854>
 VStem: 193 64<446.047 543.981>
 LayerCount: 2
 Fore
-Refer: 913 58400 N 1 0 0 1 0 346 2
-Kerns2: 910 -207 "kern-1 latin individual kerning"
+Refer: 799 58400 N 1 0 0 1 0 346 2
+Kerns2: 383 -207 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "dnom-1" two.denom
 EndChar

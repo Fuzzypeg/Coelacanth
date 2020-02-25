@@ -1,5 +1,5 @@
 StartChar: uacute
-Encoding: 250 250 131
+Encoding: 250 250 817
 Width: 506
 Flags: HW
 HStem: -11 55<171 272> 338 31<291 350> 490.951 225.517
@@ -7,8 +7,8 @@ VStem: 69 76<71 327> 227.889 169.822 358 65<36 52 75 331>
 AnchorPoint: "Bottom" 256 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 91 769 N 1 0 0 1 462.5 63 2
-Refer: 20 117 N 1 0 0 1 0 0 3
+Refer: 15 769 N 1 0 0 1 462.5 63 2
+Refer: 814 117 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" uacute.pcap
 Substitution2: "case-1" Uacute
 Substitution2: "smcp-1" uacute.smcp

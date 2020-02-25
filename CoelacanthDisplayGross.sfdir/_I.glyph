@@ -1,31 +1,11 @@
 StartChar: I
-Encoding: 73 73 34
+Encoding: 73 73 2429
 Width: 373
 Flags: HW
 AnchorPoint: "Bottom" 194 -15 basechar 0
 AnchorPoint: "Top" 195 689 basechar 0
 AnchorPoint: "Ogonek" 269 5 basechar 0
 LayerCount: 2
-Back
-SplineSet
-36 711 m 1
- 82 706 133 702 184 702 c 3
- 241 702 297 705 346 710 c 1
- 347 689 l 1
- 293 688 249 691 240 622 c 0
- 233 566 230 437 230 308 c 3
- 230 224 232 140 234 80 c 0
- 236 18 257 15 339 15 c 1
- 339 -4 l 1
- 294 -2 230 0 167 0 c 3
- 117 0 68 -1 31 -5 c 1
- 30 17 l 1
- 101 19 144 17 149 90 c 0
- 154 159 156 258 156 354 c 3
- 156 465 153 569 148 617 c 0
- 141 685 108 683 34 690 c 1
- 36 711 l 1
-EndSplineSet
 Fore
 SplineSet
 36 709 m 1

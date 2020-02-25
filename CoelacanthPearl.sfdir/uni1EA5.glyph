@@ -1,13 +1,13 @@
 StartChar: uni1EA5
 Encoding: 7845 7845 839
-Width: 462
+Width: 477
 Flags: HW
 HStem: 543.319 131.361
-VStem: 102.22 268.561
+VStem: 112.22 268.561
 AnchorPoint: "Bottom" 193 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 470 58080 N 0.745874 0.125851 -0.313113 1.02483 629.65 98.8114 2
-Refer: 471 58081 N 1 0 0 1 434 111 2
+Refer: 470 58080 N 0.745874 0.125851 -0.313113 1.02483 639.65 98.8114 2
+Refer: 471 58081 N 1 0 0 1 444 111 2
 Refer: 0 97 N 1 0 0 1 0 0 2
 EndChar

@@ -1,13 +1,13 @@
 StartChar: Upsilondieresis
-Encoding: 939 939 1000
+Encoding: 939 939 2541
 Width: 680
 Flags: HW
 HStem: -11 42<192 270.062 401.394 490.814> 624 76<53.2333 162.515 523.65 633.052> 756 98<190.385 271.945 382.385 463.945>
 VStem: 181.165 100<765.068 844.968> 304.377 78.0224<61.5545 369.397> 373.165 100<765.068 844.968>
 LayerCount: 2
 Fore
-Refer: 162 58024 N 1 0 0 1 177.165 0 2
-Refer: 994 933 N 1 0 0 1 0 0 3
+Refer: 2528 58024 N 1 0 0 1 177.165 0 2
+Refer: 2539 933 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" upsilondieresis.smcp
 Substitution2: "c2pc-1" upsilondieresis.pcap

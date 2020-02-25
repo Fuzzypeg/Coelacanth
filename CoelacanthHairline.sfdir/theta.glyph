@@ -1,5 +1,5 @@
 StartChar: theta
-Encoding: 952 952 1009
+Encoding: 952 952 776
 Width: 488
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -7,14 +7,6 @@ HStem: -11 44<184.489 283.36> 657 40<226.149 324.426>
 VStem: 52 79<134.659 458.11> 376 78<221.369 559.965>
 AnchorPoint: "Bottom" 232 -15 basechar 0
 LayerCount: 2
-Back
-SplineSet
-272 673 m 0
- 371.205824736 673 430 575.117840626 430 403 c 0
- 430 146.040778927 316.518910727 13 230 13 c 0
- 140.775338069 13 76 117.074058877 76 286 c 0
- 76 479.388672355 156.965417977 673 272 673 c 0
-EndSplineSet
 Fore
 SplineSet
 230 13 m 3
@@ -28,7 +20,7 @@ SplineSet
  118 -11 52 115.298828125 52 286 c 3
  52 478 130 697 272 697 c 3
 EndSplineSet
-Refer: 1968 58113 N 0.372444 0.00650103 -0.0185432 1.06234 68.7786 349.75 2
+Refer: 781 58113 N 0.372444 0.00650103 -0.0185432 1.06234 68.7786 349.75 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=102
 Substitution2: "pcap-1" theta.pcap
 Substitution2: "smcp-1" theta.smcp

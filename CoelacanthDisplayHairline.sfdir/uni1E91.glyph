@@ -1,5 +1,5 @@
 StartChar: uni1E91
-Encoding: 7825 7825 638
+Encoding: 7825 7825 1563
 Width: 441
 Flags: HW
 HStem: 0 31<137 361> 362 32<77 314> 478.6 184.8
@@ -7,6 +7,6 @@ VStem: 120.75 225.5
 DStem2: 314 360 137 31 0.646621 0.762811<-366.184 0>
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 431 56 2
-Refer: 25 122 N 1 0 0 1 0 0 3
+Refer: 1108 770 N 1 0 0 1 431 56 2
+Refer: 2330 122 N 1 0 0 1 0 0 3
 EndChar

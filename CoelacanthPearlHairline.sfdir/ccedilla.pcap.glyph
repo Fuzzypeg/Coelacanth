@@ -1,5 +1,5 @@
 StartChar: ccedilla.pcap
-Encoding: 57380 57380 1633
+Encoding: 57380 57380 219
 Width: 533
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -8,6 +8,6 @@ VStem: 23.9561 106.584<148.157 345.865> 291.175 58.4277<-118.562 -80.38> 397.555
 AnchorPoint: "Top" 287 537 basechar 0
 LayerCount: 2
 Fore
-Refer: 268 807 N 1 0 0 1 483 0 2
-Refer: 645 57349 N 1 0 0 1 0 0 3
+Refer: 1110 807 N 1 0 0 1 483 0 2
+Refer: 208 57349 N 1 0 0 1 0 0 3
 EndChar

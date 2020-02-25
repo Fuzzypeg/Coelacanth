@@ -1,11 +1,11 @@
 StartChar: uni1FC9
-Encoding: 8137 8137 2390
+Encoding: 8137 8137 1964
 Width: 750
 Flags: HW
 AnchorPoint: "Bottom" 427 -15 basechar 0
 AnchorPoint: "Top" 430 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 1617 8189 N 1.08329 0.191013 -0.191013 1.08329 -37.7241 -26.841 2
-Refer: 980 917 N 1 0 0 1 131 0 2
+Refer: 2010 8189 N 1.08329 0.191013 -0.191013 1.08329 -37.7241 -26.841 2
+Refer: 2412 917 N 1 0 0 1 131 0 2
 EndChar

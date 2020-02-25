@@ -1,11 +1,11 @@
 StartChar: multiply
-Encoding: 215 215 269
+Encoding: 215 215 344
 Width: 463
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1027 58115 N 0.334089 -0.334969 0.695617 0.69745 63.9558 384.985 2
-Refer: 1026 58114 N 0.342407 0.342406 -0.752036 0.752034 60.2968 46.297 2
+Refer: 486 58115 N 0.334089 -0.334969 0.695617 0.69745 63.9558 384.985 2
+Refer: 340 58114 N 0.342407 0.342406 -0.752036 0.752034 60.2968 46.297 2
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

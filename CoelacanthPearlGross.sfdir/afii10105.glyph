@@ -1,10 +1,10 @@
 StartChar: afii10105
-Encoding: 1112 1112 1075
-Width: 242
+Encoding: 1112 1112 112
+Width: 277
 Flags: HW
-HStem: 601.225 155.55<95.0289 214.971>
-VStem: 75.7 158.6<620.246 737.827>
+HStem: 601.225 155.55<124.029 243.971>
+VStem: 104.7 158.6<620.246 737.827>
 LayerCount: 2
 Fore
-Refer: 9 106 N 1 0 0 1 0 0 3
+Refer: 454 106 N 1 0 0 1 0 0 3
 EndChar

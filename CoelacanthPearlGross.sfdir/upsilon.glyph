@@ -1,7 +1,9 @@
 StartChar: upsilon
-Encoding: 965 965 1023
+Encoding: 965 965 2208
 Width: 581
 Flags: HMW
+AnchorPoint: "Top" 319 538 basechar 0
+AnchorPoint: "Bottom" 284 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet

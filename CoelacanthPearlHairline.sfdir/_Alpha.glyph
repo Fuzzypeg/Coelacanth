@@ -1,12 +1,12 @@
 StartChar: Alpha
-Encoding: 913 913 976
+Encoding: 913 913 2295
 Width: 733
 Flags: HW
 AnchorPoint: "Top" 367 699 basechar 0
 AnchorPoint: "Bottom" 353 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 26 65 N 1 0 0 1 0 0 2
+Refer: 2288 65 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" a.pcap
 Substitution2: "c2sc-1" a.smcp

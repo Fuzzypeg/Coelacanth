@@ -1,5 +1,5 @@
 StartChar: uni01EB
-Encoding: 491 491 308
+Encoding: 491 491 945
 Width: 492
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -20,6 +20,6 @@ SplineSet
  187.912109375 -172.674804688 223.05859375 -76.5009765625 320.63671875 8 c 9
  360.98046875 13.54296875 l 1
 EndSplineSet
-Refer: 14 111 N 1 0 0 1 0 0 3
+Refer: 566 111 N 1 0 0 1 0 0 3
 Substitution2: "case-1" uni01EA
 EndChar

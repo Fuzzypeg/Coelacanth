@@ -1,13 +1,13 @@
 StartChar: Okreska
-Encoding: 58005 58005 1200
-Width: 819
+Encoding: 58005 58005 2406
+Width: 818
 Flags: HW
-HStem: -16.2793 88.0098<373.76 519.227> 598.422 90.6641<290.079 442.078>
-VStem: 45.8672 185.133<268.197 450.24> 595 172.917<213.637 413.835>
+HStem: -16.2793 88.0098<375.893 521.36> 598.422 90.6641<292.212 444.211>
+VStem: 48 185.133<268.197 450.24> 597.133 172.917<213.637 413.835>
 LayerCount: 2
 Fore
-Refer: 1192 57997 N 1 0 0 1 365 0 2
-Refer: 40 79 N 1 0 0 1 0 0 3
+Refer: 2374 57997 N 1 0 0 1 367.133 0 2
+Refer: 2398 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" okreska.smcp
 Substitution2: "c2pc-1" okreska.pcap

@@ -1,5 +1,5 @@
 StartChar: exclam.smcp
-Encoding: 57797 57797 2156
+Encoding: 57797 57797 330
 Width: 291
 Flags: HW
 HStem: -29.3744 156.666<113.72 153.965>
@@ -15,5 +15,5 @@ SplineSet
  188.71 339.7 174.85 300.29 174.85 196.57 c 1
  116.15 197.71 l 1
 EndSplineSet
-Refer: 48 46 N 1 0 0 1 36.7093 0 2
+Refer: 635 46 N 1 0 0 1 36.7093 0 2
 EndChar

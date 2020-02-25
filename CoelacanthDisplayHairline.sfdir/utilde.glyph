@@ -1,13 +1,13 @@
 StartChar: utilde
-Encoding: 361 361 230
+Encoding: 361 361 2295
 Width: 512
 Flags: HW
 HStem: -4 43<180.512 271.959> 26 15<488.103 509.867> 347 12<25 38.3301> 360 18<307 355.329> 387 26<132 161 420.5 446> 488.333 44.667<248.088 357.377> 513.115 44.2051<198.088 308.14>
 VStem: 81 67<72.8435 345.445> 161.833 227.589 366 67<71.5641 319.205> 373 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 484 55 2
-Refer: 20 117 N 1 0 0 1 0 0 3
+Refer: 796 771 N 1 0 0 1 484 55 2
+Refer: 811 117 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" utilde.smcp
 Substitution2: "case-1" Utilde
 Substitution2: "pcap-1" utilde.pcap

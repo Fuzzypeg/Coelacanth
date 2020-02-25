@@ -1,18 +1,8 @@
 StartChar: greater
-Encoding: 62 62 333
+Encoding: 62 62 390
 Width: 533
 Flags: HW
 LayerCount: 2
-Back
-SplineSet
-52.83965 387.29356 m 1
- 118 477.115789062 l 1
- 412 276.116 l 1
- 73 60.1157890625 l 1
- 29.9583 131.8643 l 1
- 233.44465 258.78636 l 1
- 52.83965 387.29356 l 1
-EndSplineSet
 Fore
 SplineSet
 60 434 m 1

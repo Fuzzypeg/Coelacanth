@@ -1,16 +1,16 @@
 StartChar: Atilde
-Encoding: 195 195 171
+Encoding: 195 195 2299
 Width: 733
 Flags: HW
-HStem: 734.408 86<393.651 469.467> 781.746 85.4463<299.91 380.756>
-VStem: 220.468 324.946
+HStem: 734.408 86<397.237 473.053> 781.746 85.4463<303.496 384.342>
+VStem: 224.054 324.946
 AnchorPoint: "Ogonek" 533 27 basechar 0
 AnchorPoint: "Bottom" 363 -15 basechar 0
 AnchorPoint: "Top" 372 826 basechar 0
 LayerCount: 2
 Fore
-Refer: 161 58022 N 1 0 0 1 217 -20 2
-Refer: 26 65 N 1 0 0 1 0 0 3
+Refer: 2444 58022 N 1 0 0 1 220.586 -20 2
+Refer: 2286 65 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" atilde.pcap
 Substitution2: "c2sc-1" atilde.smcp

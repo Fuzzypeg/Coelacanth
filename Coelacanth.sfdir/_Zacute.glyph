@@ -1,13 +1,13 @@
 StartChar: Zacute
 Encoding: 377 377 244
 GlifName: Z_acute
-Width: 710
+Width: 734
 Flags: HW
-HStem: 1 40<168 560.424> 642 43<98.8077 540> 744.9 147.152
-VStem: 328.493 234.89
+HStem: 1 40<180 572.424> 642 43<110.808 552> 744.9 147.152
+VStem: 340.493 234.89
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 302 0 2
+Refer: 90 58018 N 1 0 0 1 314 0 2
 Refer: 58 90 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" zacute.pcap

@@ -1,10 +1,11 @@
 StartChar: uni0599
-Encoding: 1433 1433 2496
+Encoding: 1433 1433 1305
 Width: 0
 Flags: HW
 HStem: 774.996 38<-3.84782 89.7431>
 VStem: 110.121 30.998<673.066 749.165>
+AnchorPoint: "HbTopLeft" 96 628 mark 0
 LayerCount: 2
 Fore
-Refer: 2493 1430 N -1 0 0 -1 354.24 602.913 2
+Refer: 1302 1430 N -1 0 0 -1 354.24 602.913 2
 EndChar

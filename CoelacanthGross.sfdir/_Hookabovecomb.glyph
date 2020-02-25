@@ -1,7 +1,8 @@
 StartChar: Hookabovecomb
-Encoding: 58037 58037 378
+Encoding: 58037 58037 1279
 Width: 0
 Flags: HW
+AnchorPoint: "Top" -353 699 mark 0
 LayerCount: 2
 Fore
 SplineSet

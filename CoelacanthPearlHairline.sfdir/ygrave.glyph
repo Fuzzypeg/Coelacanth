@@ -1,11 +1,11 @@
 StartChar: ygrave
-Encoding: 7923 7923 728
-Width: 529
+Encoding: 7923 7923 2255
+Width: 521
 Flags: HW
 HStem: 574 189.38
-VStem: 104.389 215.611
+VStem: 103.389 215.611
 LayerCount: 2
 Fore
-Refer: 94 768 N 1 0 0 1 436 0 2
-Refer: 24 121 N 1 0 0 1 0 0 3
+Refer: 392 768 N 1 0 0 1 435 0 2
+Refer: 2242 121 N 1 0 0 1 0 0 3
 EndChar

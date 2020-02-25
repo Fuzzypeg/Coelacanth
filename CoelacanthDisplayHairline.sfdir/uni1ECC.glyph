@@ -1,5 +1,5 @@
 StartChar: uni1ECC
-Encoding: 7884 7884 733
+Encoding: 7884 7884 1682
 Width: 793
 Flags: HW
 HStem: -176 108<376.142 465.858> -7 50<342.523 545.448> 657 49<304.396 495.712>
@@ -7,7 +7,7 @@ VStem: 43 93<267.4 455.825> 366 110<-166.007 -77.954> 701 101<222.803 442.21>
 AnchorPoint: "Top" 420 699 basechar 0
 LayerCount: 2
 Fore
-Refer: 283 58031 N 1 0 0 1 615 0 2
-Refer: 40 79 N 1 0 0 1 0 0 3
+Refer: 2399 58031 N 1 0 0 1 615 0 2
+Refer: 2473 79 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

@@ -1,12 +1,12 @@
 StartChar: uni2151
-Encoding: 8529 8529 935
+Encoding: 8529 8529 2137
 Width: 624
 Flags: HW
 HStem: 262 22<35 81.2419 170.125 222> 580 19<42 86.7566> 589 20<184.979 218.7>
 VStem: 103 55<294.973 574.375>
 LayerCount: 2
 Fore
-Refer: 941 8543 N 1 0 0 1 0 0 2
-Refer: 920 58407 N 1 0 0 1 314 0 2
+Refer: 2146 8543 N 1 0 0 1 0 0 2
+Refer: 552 58407 N 1 0 0 1 314 0 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar

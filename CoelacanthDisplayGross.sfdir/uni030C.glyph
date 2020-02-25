@@ -1,5 +1,5 @@
 StartChar: uni030C
-Encoding: 780 780 102
+Encoding: 780 780 1116
 Width: 0
 Flags: HW
 HStem: 490 162
@@ -7,5 +7,5 @@ VStem: -300 205
 AnchorPoint: "Top" -198.5 469 mark 0
 LayerCount: 2
 Fore
-Refer: 92 770 N -1 0 0 -1 -395 1143 2
+Refer: 1108 770 N -1 0 0 -1 -395 1143 2
 EndChar

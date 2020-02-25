@@ -1,13 +1,13 @@
 StartChar: udieresis
-Encoding: 252 252 134
+Encoding: 252 252 825
 Width: 512
 Flags: HW
 HStem: -4 43<180.512 271.959> 26 15<488.103 509.867> 347 12<25 38.3301> 360 18<307 355.329> 387 26<132 161 420.5 446> 513.983 64.7014<156.788 217.212> 513.983 64.7014<332.788 393.212>
 VStem: 81 67<72.8435 345.445> 152.576 68.8489<518.395 574.272> 328.576 68.8489<518.395 574.272> 366 67<71.5641 319.205> 373 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 97 776 N 1 0 0 1 472.5 48 2
-Refer: 20 117 N 1 0 0 1 0 0 3
+Refer: 1113 776 N 1 0 0 1 472.5 48 2
+Refer: 811 117 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" udieresis.pcap
 Substitution2: "case-1" Udieresis
 Substitution2: "smcp-1" udieresis.smcp

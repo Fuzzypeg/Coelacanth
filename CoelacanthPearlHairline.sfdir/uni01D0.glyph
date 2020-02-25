@@ -1,13 +1,13 @@
 StartChar: uni01D0
-Encoding: 464 464 299
+Encoding: 464 464 882
 Width: 263
 Flags: HW
 HStem: 581.199 155.801
 VStem: -13.7998 312.5
 LayerCount: 2
 Fore
-Refer: 103 780 N 1 0 0 1 319 0 2
-Refer: 50 305 N 1 0 0 1 0 0 3
+Refer: 1095 780 N 1 0 0 1 319 0 2
+Refer: 270 305 N 1 0 0 1 0 0 3
 Substitution2: "salt-1" uni01D0.alt
 Substitution2: "case-1" uni01CF
 Substitution2: "smcp-1" icaron.smcp

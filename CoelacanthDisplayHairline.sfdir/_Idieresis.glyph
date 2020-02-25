@@ -1,14 +1,14 @@
 StartChar: Idieresis
-Encoding: 207 207 180
+Encoding: 207 207 2435
 Width: 373
 Flags: HW
 HStem: -4 19<31 106.272 256.5 339> 692 19<36 102.034 276.677 346> 772.95 74.1<63.8991 133.101 255.899 325.101>
 VStem: 31 315 59.075 78.85<778.003 841.997> 251.075 78.85<778.003 841.997>
 LayerCount: 2
 Fore
-Refer: 163 58024 N 1 0 0 1 45 -10 2
-Refer: 34 73 N 1 0 0 1 0 0 3
+Refer: 2529 58024 N 1 0 0 1 45 -10 2
+Refer: 2431 73 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" idieresis.pcap
 Substitution2: "c2sc-1" idieresis.smcp
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

@@ -2,9 +2,9 @@ StartChar: uni0324
 Encoding: 804 804 273
 GlifName: uni0324
 Width: 0
-Flags: HW
+Flags: W
 HStem: -161 84<-319.306 -244.694 -143.306 -68.6937>
-VStem: -325 86<-155.418 -82.559> -149 86<-155.418 -82.559>
+VStem: -325 86<-155.418 -82.5594> -149 86<-155.418 -82.5594>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore

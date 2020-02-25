@@ -1,13 +1,13 @@
 StartChar: uacute
-Encoding: 250 250 132
+Encoding: 250 250 814
 Width: 512
 Flags: HW
 HStem: -4 43<180.512 271.959> 26 15<488.103 509.867> 347 12<25 38.3301> 360 18<307 355.329> 387 26<132 161 420.5 446> 461 159
 VStem: 81 67<72.8435 345.445> 246.5 177 366 67<71.5641 319.205> 373 73<165.286 357.317>
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 472.5 27 2
-Refer: 20 117 N 1 0 0 1 0 0 3
+Refer: 15 769 N 1 0 0 1 472.5 27 2
+Refer: 811 117 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" uacute.pcap
 Substitution2: "case-1" Uacute
 Substitution2: "smcp-1" uacute.smcp

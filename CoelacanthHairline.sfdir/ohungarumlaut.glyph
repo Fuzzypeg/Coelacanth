@@ -1,13 +1,13 @@
 StartChar: ohungarumlaut
-Encoding: 337 337 154
+Encoding: 337 337 598
 Width: 505
 Flags: HW
 HStem: -11 39<199.926 327.747> 374 45<168.903 305.133>
 VStem: 32 76<130.211 291.037> 395 78<107.641 276.826>
 LayerCount: 2
 Fore
-Refer: 101 779 N 1 0 0 1 450.5 60 2
-Refer: 14 111 N 1 0 0 1 0 0 3
+Refer: 1167 779 N 1 0 0 1 450.5 60 2
+Refer: 569 111 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ohungarumlaut.smcp
 Substitution2: "case-1" Ohungarumlaut
 Substitution2: "pcap-1" ohungarumlaut.pcap

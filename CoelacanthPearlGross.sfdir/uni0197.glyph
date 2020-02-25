@@ -1,10 +1,10 @@
 StartChar: uni0197
-Encoding: 407 407 1759
+Encoding: 407 407 840
 Width: 453
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 452 58035 N 0.874283 0 0 1 437.413 0 2
-Refer: 34 73 N 1 0 0 1 0 0 2
+Refer: 2462 58035 N 0.874283 0 0 1 438.805 0 2
+Refer: 2355 73 N 1 0 0 1 0 0 2
 EndChar

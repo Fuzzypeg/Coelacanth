@@ -1,7 +1,9 @@
 StartChar: iota
-Encoding: 953 953 1011
+Encoding: 953 953 446
 Width: 345
 Flags: HMW
+AnchorPoint: "Top" 200 537 basechar 0
+AnchorPoint: "Bottom" 159 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet

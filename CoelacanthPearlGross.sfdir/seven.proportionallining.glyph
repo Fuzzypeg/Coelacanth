@@ -1,10 +1,10 @@
 StartChar: seven.proportionallining
-Encoding: 58395 58395 908
+Encoding: 58395 58395 706
 Width: 524
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 689 58385 N 1 0 0 1 21.6588 0 2
+Refer: 709 58385 N 1 0 0 1 21.6588 0 2
 Substitution2: "tnum-1" seven.tabularlining
 Substitution2: "onum-1" seven
 Substitution2: "numr-1" seven.numerator

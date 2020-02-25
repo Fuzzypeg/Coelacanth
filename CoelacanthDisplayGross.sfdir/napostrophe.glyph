@@ -1,12 +1,12 @@
 StartChar: napostrophe
-Encoding: 329 329 881
+Encoding: 329 329 542
 Width: 485
 Flags: HW
 HStem: -10 16<188.625 212.375> -4 15<12 36.0376> 338 11<13 27.6289> 344 45<229.607 336.126> 379 20G<115 141> 507.953 187.434
 VStem: 53.9043 108.5<624.364 657.272> 79 60<30.6838 318.111 320 325.711> 369 63<26.9973 308.316>
 LayerCount: 2
 Fore
-Refer: 110 787 N 1 0 0 1 266 55 2
-Refer: 13 110 N 1 0 0 1 0 0 3
+Refer: 1123 787 N 1 0 0 1 266 55 2
+Refer: 536 110 N 1 0 0 1 0 0 3
 MultipleSubs2: "case-2" quoteright N
 EndChar

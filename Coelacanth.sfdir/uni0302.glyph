@@ -2,7 +2,7 @@ StartChar: uni0302
 Encoding: 770 770 93
 GlifName: uni0302
 Width: 0
-Flags: HW
+Flags: W
 HStem: 422.6 184.8
 VStem: -310.25 225.5
 AnchorPoint: "TopMark" -198.5 587 basemark 0

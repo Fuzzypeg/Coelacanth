@@ -1,14 +1,14 @@
 StartChar: oneninth.afrc
-Encoding: 58444 58444 1421
+Encoding: 58444 58444 630
 Width: 463
 Flags: HW
 HStem: 328 28<34 428> 416 20.0625<151.934 189.86 276.338 319.932> 670.525 18.2988<158.552 196.343> 677.6 18.3701<286.022 316.82>
 VStem: 210.888 53.4014<445.301 666.154>
 LayerCount: 2
 Fore
-Refer: 1968 58113 N 0.394 0 0 0.875 34 342 2
-Refer: 1404 8329 N 1 0 0 1 85 83 2
-Refer: 1397 8321 N 1 0 0 1 107 496 2
+Refer: 781 58113 N 0.394 0 0 0.875 34 342 2
+Refer: 2131 8329 N 1 0 0 1 85 83 2
+Refer: 2123 8321 N 1 0 0 1 107 496 2
 LCarets2: 2 0 0
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2151
 Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction nine.denom

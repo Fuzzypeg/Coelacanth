@@ -1,11 +1,11 @@
 StartChar: yacute.pcap
-Encoding: 57401 57401 1655
+Encoding: 57401 57401 2320
 Width: 435
 Flags: HW
 HStem: -11 27<168.185 206.747 323.93 362.656> 382 25<33.44 68.7653 140.953 189 304 342.606 427.785 467> 557 159
 VStem: 218.5 177
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 427.434 19 2
-Refer: 667 57371 N 1 0 0 1 0 0 3
+Refer: 15 769 N 1 0 0 1 427.434 19 2
+Refer: 2317 57371 N 1 0 0 1 0 0 3
 EndChar

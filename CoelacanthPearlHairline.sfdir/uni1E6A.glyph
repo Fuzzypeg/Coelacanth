@@ -1,12 +1,12 @@
 StartChar: uni1E6A
-Encoding: 7786 7786 591
-Width: 726
+Encoding: 7786 7786 1433
+Width: 724
 Flags: HW
-HStem: 735.881 98.2387<326.596 413.404>
-VStem: 319.971 100.058<742.409 827.618>
+HStem: 735.881 98.2387<316.596 403.404>
+VStem: 309.971 100.058<742.409 827.618>
 LayerCount: 2
 Fore
-Refer: 164 58025 N 1 0 0 1 292 -20 2
-Refer: 45 84 N 1 0 0 1 0 0 3
+Refer: 2324 58025 N 1 0 0 1 282 -20 2
+Refer: 2439 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

@@ -1,5 +1,5 @@
 StartChar: afii10101
-Encoding: 1108 1108 648
+Encoding: 1108 1108 82
 Width: 421
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -15,5 +15,5 @@ SplineSet
  172.02401817 187.745009126 119.597324037 187.533295221 77 184.49609375 c 1
  77 212.046875 l 1
 EndSplineSet
-Refer: 2 99 N 1 0 0 1 0 0 2
+Refer: 177 99 N 1 0 0 1 0 0 2
 EndChar

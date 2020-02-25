@@ -1,10 +1,12 @@
 StartChar: oe
-Encoding: 339 339 871
+Encoding: 339 339 564
 Width: 809
 UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -14 39<190.397 302.402> 371 45<159.168 278.592>
 VStem: 32 76<120.631 292.302> 359 78<100.689 280.313>
+AnchorPoint: "Top" 418 537 basechar 0
+AnchorPoint: "Bottom" 421 -15 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19,7 +21,7 @@ SplineSet
  315.723314446 45 381 147.696006086 381 254 c 0
  381 360.981111693 318.787032132 464 231 464 c 0
 EndSplineSet
-Refer: 4 101 N 1 0 0 1 359 0 2
+Refer: 272 101 N 1 0 0 1 359 0 2
 Substitution2: "smcp-1" oe.smcp
 Substitution2: "case-1" OE
 Substitution2: "pcap-1" oe.pcap

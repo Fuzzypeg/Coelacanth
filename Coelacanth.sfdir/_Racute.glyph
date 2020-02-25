@@ -1,13 +1,13 @@
 StartChar: Racute
 Encoding: 340 340 220
 GlifName: R_acute
-Width: 738
+Width: 763
 Flags: HW
-HStem: -10 44<264 272> 323 44<178 306.579> 744.9 147.152
-VStem: 88 90<71.4111 283.488 429.868 640.189> 246.493 234.89 456 87<441.267 575.707>
+HStem: -10 44<287 295> 323 44<201 329.579> 744.9 147.152
+VStem: 111 90<71.4111 283.488 429.868 640.189> 269.493 234.89 479 87<441.267 575.707>
 LayerCount: 2
 Fore
-Refer: 90 58018 N 1 0 0 1 220 0 2
+Refer: 90 58018 N 1 0 0 1 243 0 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" racute.pcap

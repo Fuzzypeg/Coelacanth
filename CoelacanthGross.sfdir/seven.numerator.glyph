@@ -1,13 +1,13 @@
 StartChar: seven.numerator
-Encoding: 58415 58415 446
+Encoding: 58415 58415 451
 Width: 307
 Flags: HW
 HStem: 543 56<84.3764 221.462>
 VStem: 28 274
 LayerCount: 2
 Fore
-Refer: 436 58405 N 1 0 0 1 0 346 2
-Kerns2: 428 -273 "kern-1 latin individual kerning"
+Refer: 449 58405 N 1 0 0 1 0 346 2
+Kerns2: 274 -273 "kern-1 latin individual kerning"
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 Substitution2: "dnom-1" seven.denom
 EndChar

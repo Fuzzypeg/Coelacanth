@@ -1,5 +1,5 @@
 StartChar: oe
-Encoding: 339 339 870
+Encoding: 339 339 585
 Width: 740
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -19,7 +19,7 @@ SplineSet
  340.845426803 19 353 106.599609375 353 160 c 3
  353 248.6484375 294.407124013 380 216 380 c 3
 EndSplineSet
-Refer: 4 101 N 1 0 0 1 321 0 2
+Refer: 293 101 N 1 0 0 1 321 0 2
 Substitution2: "smcp-1" oe.smcp
 Substitution2: "case-1" OE
 Substitution2: "pcap-1" oe.pcap

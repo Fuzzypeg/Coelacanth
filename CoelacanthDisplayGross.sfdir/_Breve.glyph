@@ -1,7 +1,8 @@
 StartChar: Breve
-Encoding: 58023 58023 161
+Encoding: 58023 58023 2379
 Width: 321
 Flags: HW
+AnchorPoint: "Top" 162 699 mark 0
 LayerCount: 2
 Fore
 SplineSet

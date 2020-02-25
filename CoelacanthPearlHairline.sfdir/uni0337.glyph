@@ -1,9 +1,10 @@
 StartChar: uni0337
-Encoding: 823 823 321
+Encoding: 823 823 1122
 Width: 0
 Flags: HW
+AnchorPoint: "Horn" -251.303 205.853 mark 0
 AnchorPoint: "Middle" -251 206 mark 0
 LayerCount: 2
 Fore
-Refer: 1968 58113 N 0.403574 0.410119 -0.669586 0.657102 -461.287 -8.0595 2
+Refer: 757 58113 N 0.468101 0.475782 -0.669658 0.657029 -473.55 -32.8911 2
 EndChar

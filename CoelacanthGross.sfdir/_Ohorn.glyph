@@ -1,5 +1,5 @@
 StartChar: Ohorn
-Encoding: 416 416 379
+Encoding: 416 416 1304
 Width: 845
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -21,7 +21,7 @@ SplineSet
  607.8671875 639.8828125 627.685546875 627 652 627 c 3
  692.520507812 627 752 646.424804688 752 688 c 3xf4
 EndSplineSet
-Refer: 40 79 N 1 0 0 1 0 0 2
+Refer: 1303 79 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ohorn.pcap
 Substitution2: "c2sc-1" ohorn.smcp

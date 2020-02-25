@@ -1,11 +1,11 @@
 StartChar: jcaron.pcap
-Encoding: 57496 57496 1803
+Encoding: 57496 57496 482
 Width: 272
 Flags: HW
 HStem: 380 19.6829<148.262 258> 382 26<58.1923 104.033> 495.6 184.8
 VStem: 47.25 225.5 128 75<-61.7031 126.564>
 LayerCount: 2
 Fore
-Refer: 102 780 N 1 0 0 1 357.5 64 2
-Refer: 651 57356 N 1 0 0 1 0 0 3
+Refer: 1116 780 N 1 0 0 1 357.5 64 2
+Refer: 480 57356 N 1 0 0 1 0 0 3
 EndChar

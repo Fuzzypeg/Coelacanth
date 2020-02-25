@@ -1,5 +1,5 @@
 StartChar: yen
-Encoding: 165 165 451
+Encoding: 165 165 2254
 Width: 463
 UnlinkRmOvrlpSave: 1
 Flags: HW
@@ -25,7 +25,7 @@ SplineSet
  345.5 424.066173481 396.25 400.848034565 418 391 c 1
  345.004852928 317.965777551 314.263107929 249.458544383 274.890625 169.708984375 c 1
 EndSplineSet
-Refer: 1968 58113 N 0.29 0 0 1.125 93 -2 2
-Refer: 1968 58113 N 0.29 0 0 1.125 93 98 2
+Refer: 757 58113 N 0.29 0 0 1.125 93 -2 2
+Refer: 757 58113 N 0.29 0 0 1.125 93 98 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=190 dh=0 dv=0
 EndChar

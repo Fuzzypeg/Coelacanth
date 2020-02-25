@@ -1,13 +1,13 @@
 StartChar: Ucircumflex
-Encoding: 219 219 189
+Encoding: 219 219 2523
 Width: 827
 Flags: HW
 HStem: -16 33<304.712 522.917> 688 19<24.2632 80.625 217.522 287 737.19 788> 723.855 147.545
 VStem: 103 75<119.571 665.877> 291.495 248.01
 LayerCount: 2
 Fore
-Refer: 159 58020 N 1 0 0 1 275 -28 2
-Refer: 53 85 N 1 0 0 1 0 0 3
+Refer: 2391 58020 N 1 0 0 1 275 -28 2
+Refer: 2520 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" ucircumflex.pcap
 Substitution2: "c2sc-1" ucircumflex.smcp
