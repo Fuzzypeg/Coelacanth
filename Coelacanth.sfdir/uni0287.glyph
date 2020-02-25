@@ -1,0 +1,27 @@
+StartChar: uni0287
+Encoding: 647 647 2818
+Width: 341
+Flags: HW
+AnchorPoint: "Top" 168 465 basechar 0
+AnchorPoint: "Bottom" 191 -62 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+327 35 m 1
+ 275 5 232 -26 201 -73 c 1
+ 186 -70 l 1
+ 190 -44 190 -22 192 6 c 1
+ 142 4 83 5 33 3 c 1
+ 37 50 l 1
+ 87 50 145 48 195 47 c 1
+ 199 109 200 176 200 298 c 3
+ 200 332 186 367 134 367 c 3
+ 92 367 62 350 32 336 c 1
+ 32 336 26 349 21 359 c 1
+ 59 384 123 415 181 415 c 3
+ 201 415 273 405 273 308 c 3
+ 273 208 269 146 267 48 c 1
+ 267 48 302 51 324 51 c 1
+ 327 35 l 1
+EndSplineSet
+EndChar
