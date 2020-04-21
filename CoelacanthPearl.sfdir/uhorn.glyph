@@ -48,6 +48,5 @@ SplineSet
  318 470 l 1
 EndSplineSet
 Substitution2: "smcp-1" uhorn.smcp
-Substitution2: "case-1" Uhorn
 Substitution2: "pcap-1" uhorn.pcap
 EndChar

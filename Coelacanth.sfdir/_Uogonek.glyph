@@ -10,7 +10,7 @@ LayerCount: 2
 Fore
 Refer: 257 58029 N 1 0 0 1 603.35 -8.6582 2
 Refer: 53 85 N 1 0 0 1 0 0 3
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
-Substitution2: "c2pc-1" uogonek.pcap
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
 Substitution2: "c2sc-1" uogonek.smcp
+Substitution2: "c2pc-1" uogonek.pcap
 EndChar

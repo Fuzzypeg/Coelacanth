@@ -31,7 +31,6 @@ SplineSet
  433 98 413 31 401 -3 c 1
  387 -2 374 -1 360 -1 c 0xd0
 EndSplineSet
-Substitution2: "case-1" Z
 Substitution2: "pcap-1" z.pcap
 Substitution2: "smcp-1" z.smcp
 EndChar

@@ -10,6 +10,5 @@ LayerCount: 2
 Fore
 Refer: 25 122 N 1 0 0 1 792 0 2
 Refer: 29 68 N 1 0 0 1 0 0 2
-Substitution2: "case-1" uni01F1
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
 EndChar

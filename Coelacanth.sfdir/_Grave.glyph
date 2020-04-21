@@ -2,7 +2,7 @@ StartChar: Grave
 Encoding: 58019 58019 96
 GlifName: G_rave
 Width: 222
-Flags: HW
+Flags: W
 HStem: 744.316 147.151
 VStem: -116.065 234.888
 AnchorPoint: "Top" 64 699 mark 0

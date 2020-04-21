@@ -33,7 +33,6 @@ SplineSet
  363.98046875 49.884765625 l 1xd0
 EndSplineSet
 Refer: 4 101 N 1 0 0 1 0 0 3
-Substitution2: "smcp-1" eogonek.smcp
-Substitution2: "case-1" Eogonek
 Substitution2: "pcap-1" eogonek.pcap
+Substitution2: "smcp-1" eogonek.smcp
 EndChar

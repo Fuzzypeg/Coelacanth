@@ -9,6 +9,5 @@ Fore
 Refer: 93 770 N 1 0 0 1 458.5 28 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ucircumflex.pcap
-Substitution2: "case-1" Ucircumflex
 Substitution2: "smcp-1" ucircumflex.smcp
 EndChar

@@ -18,9 +18,10 @@ SplineSet
  134 -12 51 112 51 260 c 3
  51 336 107 508 285 508 c 3
 EndSplineSet
-Substitution2: "'zero' Slashed Zero lookup 22-1" zero.alt
-Substitution2: "dnom-1" zero.denom
-Substitution2: "numr-1" zero.numerator
-Substitution2: "lnum-1" zero.proportionallining
+Substitution2: "case-1" zero.proportionallining
 Substitution2: "tnum-1" zero.tabulartext
+Substitution2: "lnum-1" zero.proportionallining
+Substitution2: "numr-1" zero.numerator
+Substitution2: "dnom-1" zero.denom
+Substitution2: "'zero' Slashed Zero lookup 22-1" zero.alt
 EndChar

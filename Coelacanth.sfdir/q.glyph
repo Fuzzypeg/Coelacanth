@@ -39,7 +39,6 @@ SplineSet
  361 -229 361 -90 361 26 c 1
 EndSplineSet
 Kerns2: 24 22 "kern-1 latin individual kerning"
-Substitution2: "case-1" Q
-Substitution2: "pcap-1" q.pcap
 Substitution2: "smcp-1" q.smcp
+Substitution2: "pcap-1" q.pcap
 EndChar

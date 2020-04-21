@@ -49,6 +49,6 @@ SplineSet
  704 650 692.806142836 652.01317276 691 624 c 0
  683.799122875 512.314804924 674.02734375 329.207531575 674.02734375 198.342773438 c 3x1ae0
 EndSplineSet
-Substitution2: "c2pc-1" uni0195.pcap
 Substitution2: "c2sc-1" uni0195.smcp
+Substitution2: "c2pc-1" uni0195.pcap
 EndChar

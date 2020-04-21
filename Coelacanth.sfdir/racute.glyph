@@ -9,7 +9,6 @@ LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 364 63 2
 Refer: 17 114 N 1 0 0 1 0 0 3
-Substitution2: "smcp-1" racute.smcp
-Substitution2: "case-1" Racute
 Substitution2: "pcap-1" racute.pcap
+Substitution2: "smcp-1" racute.smcp
 EndChar

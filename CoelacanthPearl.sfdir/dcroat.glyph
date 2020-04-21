@@ -10,6 +10,5 @@ Fore
 Refer: 441 821 N 1 0 0 1 580 106 2
 Refer: 3 100 N 1 0 0 1 0 0 2
 Substitution2: "smcp-1" eth.smcp
-Substitution2: "case-1" Dcroat
 Substitution2: "pcap-1" eth.pcap
 EndChar

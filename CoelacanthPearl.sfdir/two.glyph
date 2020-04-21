@@ -23,8 +23,9 @@ SplineSet
  227.191004079 425.686523438 167.498716895 386.951728103 126.244140625 342.372070312 c 1
  87.302734375 386.836914062 l 1xb0
 EndSplineSet
-Substitution2: "dnom-1" two.denom
-Substitution2: "numr-1" two.numerator
-Substitution2: "tnum-1" two.tabulartext
+Substitution2: "case-1" two.proportionallining
 Substitution2: "lnum-1" two.proportionallining
+Substitution2: "tnum-1" two.tabulartext
+Substitution2: "numr-1" two.numerator
+Substitution2: "dnom-1" two.denom
 EndChar

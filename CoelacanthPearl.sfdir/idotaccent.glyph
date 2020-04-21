@@ -7,6 +7,5 @@ VStem: 134.4 135.2<624.969 733.079>
 LayerCount: 2
 Fore
 Refer: 8 105 N 1 0 0 1 0 0 2
-Substitution2: "case-1" Idotaccent
 Substitution2: "pcap-1" idotaccent.pcap
 EndChar

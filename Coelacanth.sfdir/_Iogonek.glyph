@@ -20,7 +20,7 @@ SplineSet
  233.177734375 3.734375 l 1xf0
 EndSplineSet
 Refer: 34 73 N 1 0 0 1 0 0 3
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
-Substitution2: "c2pc-1" iogonek.pcap
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
 Substitution2: "c2sc-1" iogonek.smcp
+Substitution2: "c2pc-1" iogonek.pcap
 EndChar

@@ -21,6 +21,6 @@ SplineSet
  192.358909571 71.0388023437 196.319271094 65.9263436523 196.319271094 58.8294251465 c 3
  196.319271094 51.7325066406 192.416031446 42.9890297363 186.857308105 39.9046066406 c 0
 EndSplineSet
-Position2: "Extra space for context kern-1" dx=78 dy=0 dh=156 dv=0
 Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+Position2: "Extra space for context kern-1" dx=78 dy=0 dh=156 dv=0
 EndChar

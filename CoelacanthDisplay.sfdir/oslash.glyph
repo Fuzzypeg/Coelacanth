@@ -13,6 +13,5 @@ Fore
 Refer: 321 823 N 1 0 0 1 504 8 2
 Refer: 14 111 N 1 0 0 1 0 0 2
 Substitution2: "pcap-1" oslash.pcap
-Substitution2: "case-1" Oslash
 Substitution2: "smcp-1" oslash.smcp
 EndChar

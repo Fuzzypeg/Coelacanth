@@ -12,6 +12,5 @@ Fore
 Refer: 268 807 N 1 0 0 1 446 0 2
 Refer: 2 99 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ccedilla.pcap
-Substitution2: "case-1" Ccedilla
 Substitution2: "smcp-1" ccedilla.smcp
 EndChar

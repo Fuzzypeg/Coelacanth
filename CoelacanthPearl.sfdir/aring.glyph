@@ -11,6 +11,5 @@ Fore
 Refer: 98 778 N 1 0 0 1 404 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" aring.pcap
-Substitution2: "case-1" Aring
 Substitution2: "smcp-1" aring.smcp
 EndChar

@@ -8,5 +8,5 @@ LayerCount: 2
 Fore
 Refer: 48 46 N 1 0 0 1 0 298 2
 Refer: 48 46 N 1 0 0 1 0 0 2
-Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14 [ddx={} ddy={} ddh={} ddv={}]
 EndChar

@@ -11,6 +11,5 @@ Refer: 268 807 N 1 0 0 1 411 0 2
 Refer: 18 115 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" scedilla.smcp
 Substitution2: "'locl' Localized Forms Romanian and Moldavian-1" scommaaccent
-Substitution2: "case-1" Scedilla
 Substitution2: "pcap-1" scedilla.pcap
 EndChar

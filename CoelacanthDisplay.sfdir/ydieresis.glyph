@@ -8,6 +8,5 @@ Fore
 Refer: 97 776 N 1 0 0 1 424 36.3 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ydieresis.pcap
-Substitution2: "case-1" Ydieresis
 Substitution2: "smcp-1" ydieresis.smcp
 EndChar

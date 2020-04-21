@@ -20,6 +20,5 @@ SplineSet
 EndSplineSet
 Refer: 8 105 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" iogonek.smcp
-Substitution2: "case-1" Iogonek
 Substitution2: "pcap-1" iogonek.pcap
 EndChar

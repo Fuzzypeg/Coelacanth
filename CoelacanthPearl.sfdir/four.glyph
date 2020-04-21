@@ -27,8 +27,9 @@ SplineSet
  37.1960901944 27.4549496647 377.388671875 447.77734375 405.126953125 515.017578125 c 1
  466.108398438 479.17578125 l 1
 EndSplineSet
-Substitution2: "dnom-1" four.denom
-Substitution2: "numr-1" four.numerator
-Substitution2: "tnum-1" four.tabulartext
+Substitution2: "case-1" four.proportionallining
 Substitution2: "lnum-1" four.proportionallining
+Substitution2: "tnum-1" four.tabulartext
+Substitution2: "numr-1" four.numerator
+Substitution2: "dnom-1" four.denom
 EndChar

@@ -21,8 +21,9 @@ SplineSet
  306.97265625 149.161897424 280.474349454 235.799020386 97.517578125 227.197265625 c 1
  104.558112047 304.810418512 106.481445312 418.76171875 102.69921875 509.0390625 c 1
 EndSplineSet
-Substitution2: "dnom-1" five.denom
-Substitution2: "numr-1" five.numerator
-Substitution2: "tnum-1" five.tabulartext
+Substitution2: "case-1" five.proportionallining
 Substitution2: "lnum-1" five.proportionallining
+Substitution2: "tnum-1" five.tabulartext
+Substitution2: "numr-1" five.numerator
+Substitution2: "dnom-1" five.denom
 EndChar

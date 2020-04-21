@@ -2,15 +2,15 @@ StartChar: Cacute
 Encoding: 262 262 137
 GlifName: C_acute
 Width: 743
-Flags: HW
+Flags: W
 HStem: -13 42<347.099 553.906> 670 40<327.101 545.759> 744.9 147.152
 VStem: 43 103<243.914 469.499> 388.493 234.89 633 33<533.188 599.436> 673 27<146.932 165.074>
 LayerCount: 2
 Fore
 Refer: 90 58018 N 1 0 0 1 362 0 2
 Refer: 28 67 N 1 0 0 1 0 0 3
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
-Substitution2: "c2pc-1" cacute.pcap
-Substitution2: "c2sc-1" cacute.smcp
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
 Substitution2: "'locl' Localized Forms Polish-1" Ckreska
+Substitution2: "c2sc-1" cacute.smcp
+Substitution2: "c2pc-1" cacute.pcap
 EndChar

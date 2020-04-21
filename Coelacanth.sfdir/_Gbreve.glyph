@@ -9,7 +9,7 @@ LayerCount: 2
 Fore
 Refer: 162 58023 N 1 0 0 1 287 0 2
 Refer: 32 71 N 1 0 0 1 0 0 3
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
-Substitution2: "c2pc-1" gbreve.pcap
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
 Substitution2: "c2sc-1" gbreve.smcp
+Substitution2: "c2pc-1" gbreve.pcap
 EndChar

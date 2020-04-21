@@ -48,7 +48,6 @@ SplineSet
  156.685686189 34 214.544057141 66.8281059285 248.280273438 85.912109375 c 1
  237.057418482 115.432138083 231.974484175 149.746287693 232.563476562 187.689453125 c 1
 EndSplineSet
-Substitution2: "pcap-1" ae.pcap
-Substitution2: "case-1" AE
 Substitution2: "smcp-1" ae.smcp
+Substitution2: "pcap-1" ae.pcap
 EndChar

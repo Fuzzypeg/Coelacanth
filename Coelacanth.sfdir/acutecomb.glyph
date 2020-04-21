@@ -2,7 +2,7 @@ StartChar: acutecomb
 Encoding: 769 769 92
 GlifName: acutecomb
 Width: 0
-Flags: HW
+Flags: W
 HStem: 427.951 225.517
 VStem: -234.611 169.822
 AnchorPoint: "TopMark" -216 403 mark 0

@@ -96,7 +96,6 @@ SplineSet
  80 102 84 170 84 204 c 3
  84 235 81 364 77 387 c 1
 EndSplineSet
-Substitution2: "case-1" N
 Substitution2: "pcap-1" n.pcap
 Substitution2: "smcp-1" n.smcp
 EndChar

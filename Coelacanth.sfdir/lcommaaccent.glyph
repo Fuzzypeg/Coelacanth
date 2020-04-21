@@ -9,7 +9,6 @@ LayerCount: 2
 Fore
 Refer: 275 806 N 1 0 0 1 312 0 2
 Refer: 11 108 N 1 0 0 1 0 0 3
-Substitution2: "smcp-1" lcommaaccent.smcp
-Substitution2: "case-1" Lcommaaccent
 Substitution2: "pcap-1" lcommaaccent.pcap
+Substitution2: "smcp-1" lcommaaccent.smcp
 EndChar

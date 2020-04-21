@@ -44,7 +44,6 @@ SplineSet
  70 114.961165049 72 154.038834951 72 192 c 3
  72 233 71.4952431676 271.89997337 65 306 c 0x46
 EndSplineSet
-Substitution2: "case-1" N
 Substitution2: "pcap-1" n.pcap
 Substitution2: "smcp-1" n.smcp
 EndChar

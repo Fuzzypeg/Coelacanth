@@ -23,7 +23,6 @@ SplineSet
  344.65639898 379.930865178 338.633063123 389.565250163 334.482421875 402.741210938 c 1x9a
 EndSplineSet
 Refer: 14 111 N 1 0 0 1 0 0 2
-Substitution2: "smcp-1" ohorn.smcp
-Substitution2: "case-1" Ohorn
 Substitution2: "pcap-1" ohorn.pcap
+Substitution2: "smcp-1" ohorn.smcp
 EndChar

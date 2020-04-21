@@ -47,7 +47,6 @@ SplineSet
  141 727 139.73181874 702.950162899 138 683 c 0xf0
  126 544.762695312 129 380.291015625 127 236 c 1xe8
 EndSplineSet
-Substitution2: "case-1" K
 Substitution2: "pcap-1" k.pcap
 Substitution2: "smcp-1" k.smcp
 EndChar

@@ -9,6 +9,5 @@ Fore
 Refer: 103 780 N 1 0 0 1 458 0 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" zcaron.smcp
-Substitution2: "case-1" Zcaron
 Substitution2: "pcap-1" zcaron.pcap
 EndChar

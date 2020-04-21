@@ -23,8 +23,9 @@ SplineSet
  417.740234375 -55.4290682166 213.870190824 -148.784580583 118 -177.099609375 c 1
  91.6611328125 -123.62890625 l 1xd0
 EndSplineSet
-Substitution2: "dnom-1" three.denom
-Substitution2: "numr-1" three.numerator
-Substitution2: "tnum-1" three.tabulartext
+Substitution2: "case-1" three.proportionallining
 Substitution2: "lnum-1" three.proportionallining
+Substitution2: "tnum-1" three.tabulartext
+Substitution2: "numr-1" three.numerator
+Substitution2: "dnom-1" three.denom
 EndChar

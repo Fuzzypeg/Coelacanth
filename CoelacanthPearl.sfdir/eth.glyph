@@ -24,6 +24,5 @@ SplineSet
 EndSplineSet
 Refer: 1961 58113 N 0.284488 0.177084 -0.547233 0.872389 104.756 489.958 2
 Substitution2: "pcap-1" eth.pcap
-Substitution2: "case-1" Eth
 Substitution2: "smcp-1" eth.smcp
 EndChar

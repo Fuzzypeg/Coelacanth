@@ -29,7 +29,6 @@ SplineSet
  293 283 l 1
  283 322.87654321 241 368 199 368 c 3
 EndSplineSet
-Substitution2: "case-1" E
-Substitution2: "pcap-1" e.pcap
 Substitution2: "smcp-1" e.smcp
+Substitution2: "pcap-1" e.pcap
 EndChar

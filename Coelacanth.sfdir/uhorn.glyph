@@ -47,7 +47,6 @@ SplineSet
  359 337 329 337 292 338 c 1
  285 369 l 1
 EndSplineSet
-Substitution2: "smcp-1" uhorn.smcp
-Substitution2: "case-1" Uhorn
 Substitution2: "pcap-1" uhorn.pcap
+Substitution2: "smcp-1" uhorn.smcp
 EndChar

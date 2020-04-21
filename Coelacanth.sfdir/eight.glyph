@@ -25,8 +25,9 @@ SplineSet
  170.9453125 349.612304688 96 402.180664062 96 484 c 3
  96 574.750976562 174.927242309 631 235 631 c 3
 EndSplineSet
-Substitution2: "dnom-1" eight.denom
-Substitution2: "numr-1" eight.numerator
-Substitution2: "lnum-1" eight.proportionallining
+Substitution2: "case-1" eight.proportionallining
 Substitution2: "tnum-1" eight.tabulartext
+Substitution2: "lnum-1" eight.proportionallining
+Substitution2: "numr-1" eight.numerator
+Substitution2: "dnom-1" eight.denom
 EndChar

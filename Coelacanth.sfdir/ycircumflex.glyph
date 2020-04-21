@@ -10,7 +10,6 @@ LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 431 56 2
 Refer: 24 121 N 1 0 0 1 0 0 3
-Substitution2: "smcp-1" ycircumflex.smcp
-Substitution2: "case-1" Ycircumflex
 Substitution2: "pcap-1" ycircumflex.pcap
+Substitution2: "smcp-1" ycircumflex.smcp
 EndChar

@@ -10,6 +10,5 @@ Fore
 Refer: 254 808 N 1 0 0 1 500.35 0.3418 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" aogonek.pcap
-Substitution2: "case-1" Aogonek
 Substitution2: "smcp-1" aogonek.smcp
 EndChar

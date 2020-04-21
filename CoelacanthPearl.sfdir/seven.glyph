@@ -20,8 +20,9 @@ SplineSet
  57.427734375 370.1484375 113.490234375 500.1171875 122.692382812 544.783203125 c 1
  179.084960938 514.116210938 l 1
 EndSplineSet
-Substitution2: "dnom-1" seven.denom
-Substitution2: "numr-1" seven.numerator
-Substitution2: "tnum-1" seven.tabulartext
+Substitution2: "case-1" seven.proportionallining
 Substitution2: "lnum-1" seven.proportionallining
+Substitution2: "tnum-1" seven.tabulartext
+Substitution2: "numr-1" seven.numerator
+Substitution2: "dnom-1" seven.denom
 EndChar

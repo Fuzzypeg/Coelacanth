@@ -9,6 +9,5 @@ Fore
 Refer: 49 775 N 1 0 0 1 431.5 44 2
 Refer: 2 99 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" cdotaccent.smcp
-Substitution2: "case-1" Cdotaccent
 Substitution2: "pcap-1" cdotaccent.pcap
 EndChar

@@ -2,7 +2,7 @@ StartChar: zero
 Encoding: 48 48 63
 GlifName: zero
 Width: 502
-Flags: HW
+Flags: W
 HStem: 1 33<203.15 319.348> 358 36<180.377 302.898>
 VStem: 55 73<109.281 280.474> 368 79<105.768 284.433>
 LayerCount: 2
@@ -24,4 +24,5 @@ Substitution2: "dnom-1" zero.denom
 Substitution2: "numr-1" zero.numerator
 Substitution2: "lnum-1" zero.proportionallining
 Substitution2: "tnum-1" zero.tabulartext
+Substitution2: "case-1" zero.proportionallining
 EndChar

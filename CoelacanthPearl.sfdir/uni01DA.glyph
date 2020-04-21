@@ -11,5 +11,4 @@ Refer: 473 58083 N 1 0 0 1 486 176 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" uni01DA.pcap
 Substitution2: "smcp-1" uni01DA.smcp
-Substitution2: "case-1" uni01D9
 EndChar

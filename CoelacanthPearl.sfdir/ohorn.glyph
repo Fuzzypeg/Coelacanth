@@ -23,6 +23,5 @@ SplineSet
 EndSplineSet
 Refer: 14 111 N 1 0 0 1 0 0 2
 Substitution2: "smcp-1" ohorn.smcp
-Substitution2: "case-1" Ohorn
 Substitution2: "pcap-1" ohorn.pcap
 EndChar

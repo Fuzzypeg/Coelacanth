@@ -1,8 +1,8 @@
 StartChar: uni0308
 Encoding: 776 776 97
 Width: 0
-Flags: HW
-HStem: 593.08 105.84<-310.006 -215.994 -134.006 -39.9941>
+Flags: W
+HStem: 593.08 105.84<-310.006 -215.994 -134.006 -39.994>
 VStem: -317.18 108.36<600.114 691.915> -141.18 108.36<600.114 691.915>
 AnchorPoint: "Top" -174 537 mark 0
 AnchorPoint: "TopMark" -180 537 mark 0

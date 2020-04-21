@@ -7,6 +7,5 @@ Fore
 Refer: 102 779 N 1 0 0 1 460 0 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" uhungarumlaut.smcp
-Substitution2: "case-1" Uhungarumlaut
 Substitution2: "pcap-1" uhungarumlaut.pcap
 EndChar

@@ -1,8 +1,8 @@
 StartChar: Uni0308
 Encoding: 58024 58024 163
 Width: 298
-Flags: HW
-HStem: 751.1 107.8<9.1421 98.8579 201.142 290.858>
+Flags: W
+HStem: 751.1 107.8<9.14214 98.8579 201.142 290.858>
 VStem: -0.99988 110<761.075 848.965> 191 110<761.075 848.965>
 AnchorPoint: "Top" 150 699 mark 0
 LayerCount: 2

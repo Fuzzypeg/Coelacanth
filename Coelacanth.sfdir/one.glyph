@@ -26,6 +26,7 @@ SplineSet
  147 357 151 365 86 369 c 9
  87 392 l 1xd0
 EndSplineSet
+Substitution2: "case-1" one.proportionallining
 Substitution2: "dnom-1" one.denom
 Substitution2: "numr-1" one.numerator
 Substitution2: "tnum-1" one.tabulartext

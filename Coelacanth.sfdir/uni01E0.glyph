@@ -11,5 +11,5 @@ Fore
 Refer: 26 65 N 1 0 0 1 0 0 3
 Refer: 164 58025 N 1 0 0 0.861111 303 102.306 2
 Refer: 160 58021 N 1 0 0 0.849266 232 220.396 2
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
 EndChar

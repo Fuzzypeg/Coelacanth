@@ -21,8 +21,9 @@ SplineSet
  103.85546875 -10 43 121.913085938 43 214 c 3
  43 413.572265625 167 572 341 630 c 13
 EndSplineSet
-Substitution2: "dnom-1" six.denom
-Substitution2: "numr-1" six.numerator
-Substitution2: "tnum-1" six.tabulartext
+Substitution2: "case-1" six.proportionallining
 Substitution2: "lnum-1" six.proportionallining
+Substitution2: "tnum-1" six.tabulartext
+Substitution2: "numr-1" six.numerator
+Substitution2: "dnom-1" six.denom
 EndChar

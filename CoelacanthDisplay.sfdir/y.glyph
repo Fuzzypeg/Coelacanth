@@ -64,7 +64,6 @@ SplineSet
  330 224 279.737914141 126.127934623 232 28 c 0
  178 -83 124 -200 93 -343 c 1x80
 EndSplineSet
-Substitution2: "case-1" Y
 Substitution2: "pcap-1" y.pcap
 Substitution2: "smcp-1" y.smcp
 EndChar

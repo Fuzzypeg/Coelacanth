@@ -24,8 +24,9 @@ SplineSet
  123 405 96 381 76 353 c 1
  56 367 l 1x70
 EndSplineSet
-Substitution2: "dnom-1" two.denom
-Substitution2: "numr-1" two.numerator
-Substitution2: "tnum-1" two.tabulartext
+Substitution2: "case-1" two.proportionallining
 Substitution2: "lnum-1" two.proportionallining
+Substitution2: "tnum-1" two.tabulartext
+Substitution2: "numr-1" two.numerator
+Substitution2: "dnom-1" two.denom
 EndChar

@@ -23,7 +23,6 @@ SplineSet
  359 299 282.736328125 371 218 371 c 3
 EndSplineSet
 Refer: 4 101 N 1 0 0 1 326 0 2
-Substitution2: "smcp-1" oe.smcp
-Substitution2: "case-1" OE
 Substitution2: "pcap-1" oe.pcap
+Substitution2: "smcp-1" oe.smcp
 EndChar

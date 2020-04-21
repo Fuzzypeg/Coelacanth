@@ -44,8 +44,6 @@ SplineSet
  99 579.533 140.062 647.199 205 704 c 0
  235.911 731 265.237 756 312 756 c 0xfb
 EndSplineSet
-MultipleSubs2: "case-2" S S
-Substitution2: "pcap-1" uni1E9E.pcap
-Substitution2: "case-1" uni1E9E
 Substitution2: "smcp-1" uni1E9E.smcp
+Substitution2: "pcap-1" uni1E9E.pcap
 EndChar

@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1582370020
+ModificationTime: 1587469204
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -59,7 +59,6 @@ Lookup: 1 0 0 "'zero' Slashed Zero lookup 22" { "'zero' Slashed Zero lookup 22-1
 Lookup: 1 0 0 "'locl' Localized Forms Romanian and Moldavian" { "'locl' Localized Forms Romanian and Moldavian-1"  } ['locl' ('latn' <'MOL ' 'ROM ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms Turkic" { "'locl' Localized Forms Turkic-1"  } ['locl' ('latn' <'AZE ' 'CRT ' 'KAZ ' 'TAT ' 'TRK ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms Polish" { "'locl' Localized Forms Polish-1"  } ['locl' ('latn' <'PLK ' > ) ]
-Lookup: 2 0 0 "'case' LC single to UC multiple glyphs" { "case-2"  } ['case' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'case' Case-Sensitive Forms" { "case-1"  } ['case' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "smcp" { "smcp-1" ("smcp") } ['smcp' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "c2sc" { "c2sc-1" ("smcp") } ['c2sc' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -196,7 +195,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 19 19 8
+WinInfo: 475 19 8
 BeginPrivate: 6
 StdHW 4 [32]
 StemSnapH 16 [24 32 37 46 50]

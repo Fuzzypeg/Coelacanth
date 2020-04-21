@@ -9,7 +9,7 @@ VStem: 117.188 82.2977<49.5582 525.672> 678 94<221.047 461.211>
 LayerCount: 2
 Fore
 Refer: 324 208 N 1 0 0 1 0 0 2
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
-Substitution2: "c2pc-1" eth.pcap
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
 Substitution2: "c2sc-1" eth.smcp
+Substitution2: "c2pc-1" eth.pcap
 EndChar

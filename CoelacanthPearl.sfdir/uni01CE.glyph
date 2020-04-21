@@ -10,5 +10,4 @@ Refer: 103 780 N 1 0 0 1 404 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" acaron.pcap
 Substitution2: "smcp-1" acaron.smcp
-Substitution2: "case-1" uni01CD
 EndChar

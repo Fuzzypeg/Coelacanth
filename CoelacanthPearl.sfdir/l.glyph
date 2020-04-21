@@ -28,7 +28,6 @@ SplineSet
  215 694 205 665 203 650 c 0
  195 582 189 418 189 303 c 3
 EndSplineSet
-Substitution2: "case-1" L
 Substitution2: "pcap-1" l.pcap
 Substitution2: "smcp-1" l.smcp
 EndChar

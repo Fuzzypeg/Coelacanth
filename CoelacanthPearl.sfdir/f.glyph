@@ -36,7 +36,6 @@ SplineSet
  224 721 277 749 314 749 c 3
 EndSplineSet
 Substitution2: "salt-1" f.alt
-Substitution2: "case-1" F
 Substitution2: "pcap-1" f.pcap
 Substitution2: "smcp-1" f.smcp
 EndChar

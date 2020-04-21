@@ -9,6 +9,5 @@ Fore
 Refer: 113 789 N 1 0 0 1 465.75 0 2
 Refer: 19 116 N 1 0 0 1 0.25 0 2
 Substitution2: "smcp-1" tcaron.smcp
-Substitution2: "case-1" Tcaron
 Substitution2: "pcap-1" tcaron.pcap
 EndChar

@@ -2,7 +2,7 @@ StartChar: oacute.smcp
 Encoding: 57716 57716 2076
 GlifName: oacute.smcp
 Width: 651
-Flags: HW
+Flags: W
 HStem: -5.6 40.9<271.034 427.015> 461.7 39.2<230.39 375.856> 564.951 225.517
 VStem: 52.1 82.5<180.762 335.941> 292.889 169.822 509.9 89.1<144.602 324.626>
 LayerCount: 2

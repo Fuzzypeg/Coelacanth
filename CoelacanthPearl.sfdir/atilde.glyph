@@ -11,6 +11,5 @@ Fore
 Refer: 100 771 N 1 0 0 1 404 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" atilde.pcap
-Substitution2: "case-1" Atilde
 Substitution2: "smcp-1" atilde.smcp
 EndChar

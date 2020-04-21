@@ -39,7 +39,7 @@ SplineSet
  500.971423636 509.34667069 592.571690909 490.052063793 655.3116 491.43025 c 1
  646.8279 439.0652 l 1
 EndSplineSet
-Substitution2: "pcap-1" ampersand.pcap
-Substitution2: "smcp-1" ampersand.smcp
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "smcp-1" ampersand.smcp
+Substitution2: "pcap-1" ampersand.pcap
 EndChar
