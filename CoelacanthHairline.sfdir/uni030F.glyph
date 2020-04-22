@@ -3,10 +3,10 @@ Encoding: 783 783 1171
 Width: 0
 Flags: HW
 AnchorPoint: "TopMark" -200.5 410 mark 0
-AnchorPoint: "TopMark" -280 648 basemark 0
+AnchorPoint: "TopMark" -221 648 basemark 0
 AnchorPoint: "Top" -198.5 405 mark 0
 LayerCount: 2
 Fore
-Refer: 416 768 N 0.999391 -0.0348993 0.0348993 0.999391 -74.557 -2.8135 2
-Refer: 416 768 N 0.978148 -0.198097 0.207911 0.931976 -67.3414 -3.15105 2
+Refer: 416 768 N 0.999391 -0.0311829 0.0348993 0.892966 -90.557 47.7769 2
+Refer: 416 768 N 0.979321 -0.0477666 0.0988162 0.917822 20.145 31.8447 2
 EndChar
