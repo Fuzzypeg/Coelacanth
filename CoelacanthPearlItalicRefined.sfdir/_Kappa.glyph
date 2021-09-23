@@ -1,0 +1,12 @@
+StartChar: Kappa
+Encoding: 922 922 1013
+Width: 682
+Flags: W
+HStem: -6 30<161.559 206.514> -1 35<-30.917 37.012> 660 29<124.932 162.777 287.246 351.691 468.01 498.187> 660 35<622.625 679.691>
+AnchorPoint: "Top" 346 699 basechar 0
+AnchorPoint: "Bottom" 370 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 36 75 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

@@ -1,0 +1,12 @@
+StartChar: Chi
+Encoding: 935 935 1025
+Width: 733
+Flags: W
+HStem: -8 21G<391.522 424.5> 0 33<-18.1523 30.2408 150.297 202.931 618.379 648> 654 39<310.892 358.693> 660 26<121.035 149.424 519.965 548.511 708.119 751.979>
+AnchorPoint: "Top" 383 699 basechar 0
+AnchorPoint: "Bottom" 390 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 57 88 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

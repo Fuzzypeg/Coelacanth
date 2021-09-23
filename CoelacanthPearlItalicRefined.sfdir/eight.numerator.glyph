@@ -1,0 +1,15 @@
+StartChar: eight.numerator
+Encoding: 65668 -1 958
+Width: 292
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 198.875 25.8574<124.777 187.213> 512.414 23.6133<108.26 160.445>
+VStem: 38.0244 54.6572<246.55 334.51> 57.0186 37.9678<435.433 501.095> 182.484 48.7412<414.622 500.909> 199.606 56.3936<233.203 325.519>
+LayerCount: 2
+Fore
+Refer: 948 -1 N 1 0 0 1 0 279 2
+Kerns2: 939 19 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "dnom-1" eight.denom
+EndChar

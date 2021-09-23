@@ -1,0 +1,12 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 1322
+Width: 269
+VWidth: 1159
+Flags: W
+VStem: 146.9 74.0996<134.586 267.414>
+LayerCount: 2
+Fore
+Refer: 1321 8249 N -1 0 0 -1 269 402 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

@@ -1,0 +1,13 @@
+StartChar: lcaron
+Encoding: 318 318 253
+Width: 249
+VWidth: 0
+Flags: W
+HStem: -10 21G<62.2915 107.118> 500.494 206.751 749 20G<226.618 256.618>
+VStem: 31.6184 82<53.6655 157.415> 355.868 61<621.846 691.311>
+LayerCount: 2
+Fore
+Refer: 114 789 N 1 0 0 1 415.618 50 2
+Refer: 11 108 N 1 0 0 1 0 0 2
+Substitution2: "case-1" Lcaron
+EndChar

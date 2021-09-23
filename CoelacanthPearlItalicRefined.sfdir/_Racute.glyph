@@ -1,0 +1,12 @@
+StartChar: Racute
+Encoding: 340 340 221
+Width: 747
+VWidth: 0
+Flags: W
+HStem: -32 36<596.499 649.034> -10 44<-1.96609 66.894 174.767 220.739> 322 45<232.034 342.548> 649 37<157.034 205.076> 664 42<320.477 473.152>
+LayerCount: 2
+Fore
+Refer: 91 -1 N 1 0 0 1 169.457 0 2
+Refer: 43 82 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

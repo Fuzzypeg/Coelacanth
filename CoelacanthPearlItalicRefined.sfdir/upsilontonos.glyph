@@ -1,0 +1,13 @@
+StartChar: upsilontonos
+Encoding: 973 973 1141
+Width: 506
+VWidth: 1043
+Flags: W
+HStem: 490.951 225.517
+VStem: 345.248 205.956
+AnchorPoint: "Bottom" 241 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 994 900 N 1 0 0 1 231.499 63 2
+Refer: 1051 965 N 1 0 0 1 0 0 3
+EndChar

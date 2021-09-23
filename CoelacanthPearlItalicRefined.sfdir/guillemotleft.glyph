@@ -1,0 +1,13 @@
+StartChar: guillemotleft
+Encoding: 171 171 1241
+Width: 407
+VWidth: 1159
+Flags: W
+VStem: 48 74.0996<134.586 267.414> 186 74.0996<134.586 267.414>
+LayerCount: 2
+Fore
+Refer: 1321 8249 N 1 0 0 1 138 0 2
+Refer: 1321 8249 N 1 0 0 1 0 0 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

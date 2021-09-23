@@ -1,0 +1,19 @@
+StartChar: emdash
+Encoding: 8212 8212 915
+Width: 1000
+VWidth: 0
+Flags: W
+HStem: 227 36<0 1000>
+LayerCount: 2
+Fore
+SplineSet
+0 263 m 25
+ 1000 263 l 25
+ 1000 227 l 25
+ 0 227 l 25
+ 0 263 l 25
+EndSplineSet
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

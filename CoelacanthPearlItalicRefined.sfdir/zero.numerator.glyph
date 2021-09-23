@@ -1,0 +1,14 @@
+StartChar: zero.numerator
+Encoding: 65660 -1 950
+Width: 345
+VWidth: 1159
+Flags: W
+HStem: 198.81 26.0342<140.856 220.939> 446.84 27.3115<118.099 202.645>
+VStem: 26.54 63.6611<267.006 406.206> 246.659 67.3408<261.536 410.163>
+LayerCount: 2
+Fore
+Refer: 940 -1 N 1 0 0 1 0 279 2
+Validated: 1
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "dnom-1" zero.denom
+EndChar

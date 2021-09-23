@@ -1,0 +1,13 @@
+StartChar: Ohungarumlaut
+Encoding: 336 336 447
+Width: 757
+VWidth: 0
+Flags: W
+HStem: -10 53<272.863 456.334> 655 50<341.459 522.992> 731.472 183.528
+VStem: 36.7354 96.0459<202.593 413.03> 413.075 261.258 662.638 100.362<290.286 501.723>
+LayerCount: 2
+Fore
+Refer: 167 -1 S 1 0 0 1 392.575 3 2
+Refer: 40 79 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni2150
+Encoding: 8528 8528 963
+Width: 622
+VWidth: 0
+Flags: W
+HStem: 131.807 59.1934<410.933 529.742> 199 20.0625<44.9336 82.8599 169.338 212.932> 453.525 18.2988<51.5518 89.3432> 460.6 18.3701<179.022 209.82>
+VStem: 103.888 53.4014<228.301 449.154> 354.539 255.461
+LayerCount: 2
+Fore
+Refer: 947 -1 N 1 0 0 1 339 0 2
+Refer: 951 -1 N 1 0 0 1 0 0 2
+Refer: 939 8260 N 1 0 0 1 296 0 2
+Validated: 1
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+EndChar

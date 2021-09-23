@@ -1,0 +1,15 @@
+StartChar: Abreve
+Encoding: 258 258 196
+Width: 733
+VWidth: 1159
+Flags: HW
+HStem: -10 43<103.227 160.116 544.577 583.188> 245 42<253.295 431.093> 691 20G<494.822 540.39>
+VStem: 398.408 33.4678<827.449 841.462> 437.779 92.5742<383.39 544>
+AnchorPoint: "Ogonek" 533 27 basechar 0
+AnchorPoint: "Bottom" 363 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 163 -1 N 1 0 0 1 203.423 0 2
+Refer: 26 65 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

@@ -1,0 +1,13 @@
+StartChar: umacron
+Encoding: 363 363 233
+Width: 545
+VWidth: 0
+Flags: HW
+HStem: -18 56<294.047 386.116> -10 70<85.5471 175.547> 341 75<126.547 185.547> 387 20G<438.047 445.547> 522.6 49.2002<227.532 475.875>
+VStem: 217.074 269.259
+LayerCount: 2
+Fore
+Refer: 102 772 N 1 0 0 1 448.547 76 2
+Refer: 20 117 N 1 0 0 1 0 0 3
+Substitution2: "case-1" Umacron
+EndChar

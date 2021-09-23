@@ -1,0 +1,15 @@
+StartChar: hyphen
+Encoding: 45 45 48
+Width: 247
+VWidth: 1159
+Flags: HMW
+HStem: 183 118
+VStem: 10 287
+DStem2: 10 244 14 183 0.98012 0.198405<0 283.87>
+LayerCount: 2
+Fore
+Refer: 331 8722 N 0.565373 0.119094 -0.000200578 0.90972 -7.36814 18.08 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

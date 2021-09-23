@@ -1,0 +1,13 @@
+StartChar: Imacron
+Encoding: 298 298 211
+Width: 391
+VWidth: 0
+Flags: W
+HStem: -2 40<-5.74609 95.0633 204.093 280.957> 656 43<138.421 215.708 330.979 416.446> 757.14 54.1202<179.518 477.53>
+VStem: 166.969 323.111
+LayerCount: 2
+Fore
+Refer: 161 -1 N 1 0 0 1 15.3362 0 2
+Refer: 34 73 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

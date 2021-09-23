@@ -1,0 +1,16 @@
+StartChar: ellipsis
+Encoding: 8230 8230 435
+Width: 743
+VWidth: 0
+Flags: W
+HStem: -18 140<84.9007 113.663 355.901 384.663 626.901 655.663>
+VStem: 31 136 302 136 573 136
+CounterMasks: 1 70
+LayerCount: 2
+Fore
+Refer: 49 46 N 1 0 0 1 542 0 2
+Refer: 49 46 N 1 0 0 1 271 0 2
+Refer: 49 46 N 1 0 0 1 0 0 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

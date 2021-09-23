@@ -1,0 +1,13 @@
+StartChar: edotaccent
+Encoding: 279 279 265
+Width: 434
+VWidth: 1159
+Flags: W
+HStem: -15 51<132.518 227.037> 367 54<183.549 254.884> 527 102<241.081 312.326>
+VStem: 34.5302 71.9619<61.4685 197.627> 224.491 104.425<543.528 612.472> 272 60<289.245 349.853>
+LayerCount: 2
+Fore
+Refer: 50 775 N 1 0 0 1 368 76 2
+Refer: 4 101 N 1 0 0 1 0 0 3
+Substitution2: "case-1" Edotaccent
+EndChar

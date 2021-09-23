@@ -1,0 +1,15 @@
+StartChar: zero.proportionallining
+Encoding: 65640 -1 929
+Width: 499
+VWidth: 1159
+Flags: W
+HStem: 1 33<186.957 276.181> 587 36<280.21 376.392>
+LayerCount: 2
+Fore
+Refer: 710 -1 N 1 0 0 1 -29.3703 0 2
+Validated: 1
+Substitution2: "dnom-1" zero.denom
+Substitution2: "numr-1" zero.numerator
+Substitution2: "onum-1" zero
+Substitution2: "tnum-1" zero.tabularlining
+EndChar

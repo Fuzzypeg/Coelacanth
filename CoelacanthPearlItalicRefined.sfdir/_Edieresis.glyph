@@ -1,0 +1,15 @@
+StartChar: Edieresis
+Encoding: 203 203 177
+Width: 683
+VWidth: 1159
+Flags: HW
+HStem: -10 36<4.20215 60.1368> 337 36<227.173 421.499> 659 31<150.872 192.652> 680 20G<562.614 583.261> 756.321 97.359<305.906 373.909 497.906 565.909>
+VStem: 290.071 99.6735<772.096 837.904> 438.604 36.7646<251 326.443> 482.071 99.6735<772.096 837.904> 519.983 25.9209<536 581.468>
+AnchorPoint: "Top" 319 828 basechar 0
+AnchorPoint: "Bottom" 329 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 164 -1 N 1 0 0 1 105.059 0 2
+Refer: 30 69 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

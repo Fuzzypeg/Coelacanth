@@ -1,0 +1,14 @@
+StartChar: iogonek
+Encoding: 303 303 261
+Width: 277
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -289.658 60.1279<11.846 105.654> 354 75<141 212> 579 102<217.484 290.971>
+VStem: -42.278 76.1592<-223.294 -139.57> 60 202 204.478 100<592.417 668.146>
+LayerCount: 2
+Fore
+Refer: 255 808 N 1 0 0 1 270.257 10.3418 2
+Refer: 8 105 N 1 0 0 1 0 0 3
+Substitution2: "case-1" Iogonek
+EndChar

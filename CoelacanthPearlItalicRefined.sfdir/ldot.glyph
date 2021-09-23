@@ -1,0 +1,13 @@
+StartChar: ldot
+Encoding: 320 320 807
+Width: 408
+VWidth: 0
+Flags: W
+HStem: -10 21G<62.2915 107.118> 196 140<291.901 320.663> 749 20G<226.618 256.618>
+VStem: 31.6184 82<53.6655 157.415> 238 136
+LayerCount: 2
+Fore
+Refer: 462 183 N 1 0 0 1 207 0 2
+Refer: 11 108 N 1 0 0 1 0 0 2
+Substitution2: "case-1" Ldot
+EndChar

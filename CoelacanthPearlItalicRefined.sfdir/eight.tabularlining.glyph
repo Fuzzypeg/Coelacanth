@@ -1,0 +1,15 @@
+StartChar: eight.tabularlining
+Encoding: 65638 -1 718
+Width: 463
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -7 34<158.534 265.479> 601 30<252.094 338.972>
+LayerCount: 2
+Fore
+Refer: 708 -1 N 1 0 0 1 0 0 2
+Substitution2: "pnum-1" eight.proportionallining
+Substitution2: "onum-1" eight.tabulartext
+Substitution2: "numr-1" eight.numerator
+Substitution2: "dnom-1" eight.denom
+EndChar

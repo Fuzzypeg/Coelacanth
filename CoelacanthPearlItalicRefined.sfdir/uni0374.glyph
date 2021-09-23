@@ -1,0 +1,18 @@
+StartChar: uni0374
+Encoding: 884 884 985
+Width: 108
+Flags: W
+HStem: 458.304 285.492
+VStem: 1.93164 30.0322<463.383 483.94>
+LayerCount: 2
+Fore
+SplineSet
+1.931640625 464.926757812 m 1
+ 43.232421875 743.795898438 l 1
+ 105.67578125 728.2578125 l 1
+ 31.9638671875 458.303710938 l 1
+ 1.931640625 464.926757812 l 1
+EndSplineSet
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

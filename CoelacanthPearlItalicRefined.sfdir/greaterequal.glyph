@@ -1,0 +1,21 @@
+StartChar: greaterequal
+Encoding: 8805 8805 1353
+Width: 463
+VWidth: 0
+Flags: W
+HStem: 66 54<34.2002 427.8> 392 20G<44.5022 117.133>
+LayerCount: 2
+Fore
+SplineSet
+35 360.314453125 m 1
+ 50.5 412 l 1
+ 426.5 299.142578125 l 25
+ 428.5 276.232421875 l 25
+ 44.5 162 l 1
+ 35.5 193.512695312 l 1
+ 316 276.109375 l 1
+ 35 360.314453125 l 1
+EndSplineSet
+Refer: 331 8722 N 1 0 0 1 0 -124 2
+Validated: 1
+EndChar

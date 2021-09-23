@@ -1,0 +1,13 @@
+StartChar: Ubreve
+Encoding: 364 364 234
+Width: 777
+VWidth: 0
+Flags: W
+HStem: -10 54<239.68 460.587> 651 39<112.318 172.767 275.016 361.419 628.318 696.924 762.585 837.576>
+VStem: 397.408 33.4678<827.449 841.462>
+LayerCount: 2
+Fore
+Refer: 163 -1 N 1 0 0 1 202.423 0 2
+Refer: 54 85 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

@@ -1,0 +1,12 @@
+StartChar: Zeta
+Encoding: 918 918 1009
+Width: 689
+Flags: W
+HStem: 4 40<126.113 496.248> 646 43<195.288 597.917>
+AnchorPoint: "Top" 375 699 basechar 0
+AnchorPoint: "Bottom" 366 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 59 90 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

@@ -1,0 +1,13 @@
+StartChar: Omacron
+Encoding: 332 332 218
+Width: 757
+VWidth: 0
+Flags: W
+HStem: -10 53<272.863 456.334> 655 50<341.459 522.992> 757.14 54.1202<340.168 638.18>
+VStem: 36.7354 96.0459<202.593 413.03> 327.619 323.111 662.638 100.362<290.286 501.723>
+LayerCount: 2
+Fore
+Refer: 161 -1 N 1 0 0 1 175.986 0 2
+Refer: 40 79 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

@@ -1,0 +1,18 @@
+StartChar: figuredash
+Encoding: 8210 8210 913
+Width: 463
+VWidth: 0
+Flags: W
+HStem: 227 36<0 463>
+LayerCount: 2
+Fore
+SplineSet
+0 263 m 25
+ 463 263 l 25
+ 463 227 l 25
+ 0 227 l 25
+ 0 263 l 25
+EndSplineSet
+Validated: 1
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

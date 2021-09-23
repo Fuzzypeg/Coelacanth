@@ -1,0 +1,11 @@
+StartChar: fraction
+Encoding: 8260 8260 939
+Width: 0
+Flags: W
+LayerCount: 2
+Fore
+Refer: 111 773 S 0.757083 1.00468 -0.798635 0.601815 699.202 -169.663 2
+Validated: 1
+Kerns2: 942 27 "kern-1 latin individual kerning" 943 27 "kern-1 latin individual kerning" 947 43 "kern-1 latin individual kerning" 941 37 "kern-1 latin individual kerning" 949 18 "kern-1 latin individual kerning" 944 -29 "kern-1 latin individual kerning" 945 35 "kern-1 latin individual kerning" 948 40 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+EndChar

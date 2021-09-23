@@ -1,0 +1,12 @@
+StartChar: notequal
+Encoding: 8800 8800 720
+Width: 463
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 128 54<34.2002 427.8> 252 54<34.2002 427.8>
+LayerCount: 2
+Fore
+Refer: 322 823 N 0.973188 0.0451349 -0.430587 0.866293 566.894 56.992 2
+Refer: 330 61 N 1 0 0 1 0 0 2
+EndChar

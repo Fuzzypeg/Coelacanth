@@ -1,0 +1,14 @@
+StartChar: questiondown
+Encoding: 191 191 906
+Width: 378
+VWidth: 1159
+Flags: W
+HStem: -285 20<188.523 223.388> 293.8 140<246.474 275.236>
+VStem: 193.137 136 226.814 18.2549<207.714 231.372>
+LayerCount: 2
+Fore
+Refer: 75 63 N -1 0 0 -1 378.137 415.8 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=235 dh=0 dv=0
+EndChar

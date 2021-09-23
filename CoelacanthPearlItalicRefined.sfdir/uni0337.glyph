@@ -1,0 +1,18 @@
+StartChar: uni0337
+Encoding: 823 823 322
+Width: 0
+VWidth: 1159
+Flags: W
+HStem: 391.747 20G<-87.813 -46.585>
+AnchorPoint: "Middle" -259 192 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-68.1973 411.747 m 25
+ -46.585 392.313 l 25
+ -449.803 -17.7119 l 25
+ -469.397 2.68652 l 25
+ -68.1973 411.747 l 25
+EndSplineSet
+Validated: 1
+EndChar

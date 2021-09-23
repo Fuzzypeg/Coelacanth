@@ -1,0 +1,15 @@
+StartChar: two.numerator
+Encoding: 65662 -1 952
+Width: 319
+VWidth: 1159
+Flags: W
+HStem: 200.312 54.9277<108.963 238.959> 434.184 41.6133<69.1749 154.365>
+VStem: 164.903 62.8506<339.545 424.683>
+LayerCount: 2
+Fore
+Refer: 942 -1 N 1 0 0 1 0 279 2
+Validated: 1
+Kerns2: 939 22 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "dnom-1" two.denom
+EndChar
