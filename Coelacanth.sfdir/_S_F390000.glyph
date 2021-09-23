@@ -1,0 +1,13 @@
+StartChar: SF390000
+Encoding: 9556 9556 2918
+Width: 463
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 2825 9472 N 0.602592 0 0 1 184 35 2
+Refer: 2825 9472 N 0.451404 0 0 1 254 -35 2
+Refer: 2827 9474 N 1 0 0 0.537302 -35 -161.019 2
+Refer: 2827 9474 S 1 0 0 0.481746 35 -180.352 2
+EndChar
