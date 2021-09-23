@@ -3,7 +3,7 @@ Encoding: 1443 1443 2532
 GlifName: uni05A_3
 Width: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -188 40<164 306>
 AnchorPoint: "HbBottom" 254 0 mark 0
 LayerCount: 2

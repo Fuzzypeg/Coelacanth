@@ -25,6 +25,6 @@ SplineSet
  114 434.004 91.5 466.372 91.5 526.3 c 3
  91.5 677.592 164.146 719.696 239.5 716.3 c 1xe0
 EndSplineSet
-Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

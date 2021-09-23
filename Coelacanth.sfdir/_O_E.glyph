@@ -47,7 +47,7 @@ SplineSet
  886.301 -0.545565 771.508 3.06988 667.928 3.06988 c 3x7bc0
  487.932 3.06988 491.022 -7.00001 424 -7 c 3
 EndSplineSet
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" oe.smcp
 Substitution2: "c2pc-1" oe.pcap
 EndChar

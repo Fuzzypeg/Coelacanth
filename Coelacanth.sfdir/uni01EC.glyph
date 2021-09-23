@@ -10,5 +10,5 @@ LayerCount: 2
 Fore
 Refer: 160 58021 N 1 0 0 1 270 0 2
 Refer: 308 490 N 1 0 0 1 0 0 3
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

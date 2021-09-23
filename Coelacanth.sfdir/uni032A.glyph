@@ -3,7 +3,7 @@ Encoding: 810 810 695
 GlifName: uni032A_
 Width: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -136 60<-307 -82>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2

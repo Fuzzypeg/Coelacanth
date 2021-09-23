@@ -10,7 +10,7 @@ AnchorPoint: "Top" 232.5 465 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-113 -346 m 1
+113 -346 m 5
  109 -346 90 -343 52 -343 c 3
  22 -343 15 -345 -6 -346 c 9
  -6 -346 -5 -330 -7 -319 c 1
@@ -35,7 +35,7 @@ SplineSet
  448 382 l 1
  410 372 401 367 383 323 c 0
  368 287.40625 294 134.5625 223 -12 c 0
- 179 -98 113 -281 113 -346 c 1
+ 179 -98 113 -281 113 -346 c 5
 EndSplineSet
 Kerns2: 46 -50 "kern-1 latin individual kerning"
 Substitution2: "smcp-1" y.smcp

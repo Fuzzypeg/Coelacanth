@@ -65,7 +65,7 @@ SplineSet
  455.302222486 -346.801757812 407.2734375 -298.236689929 407.2734375 -235.232421875 c 3
  407.2734375 -105.156513021 468.973437955 -33.2965410067 505.106445312 9.3037109375 c 0
 EndSplineSet
-Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100 [ddx={} ddy={} ddh={} ddv={}]
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2sc-1" aogonek.smcp
 Substitution2: "c2pc-1" aogonek.pcap
 EndChar
