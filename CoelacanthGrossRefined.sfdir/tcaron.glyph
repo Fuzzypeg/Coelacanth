@@ -1,12 +1,12 @@
 StartChar: tcaron
 Encoding: 357 357 481
-Width: 364
+Width: 349
 Flags: HW
-HStem: -10 49<168.25 275.25> 360 36<162.25 318.25> 450.494 206.751
-VStem: 82.25 74<52 357> 306 61<571.847 641.311>
+HStem: -10 49<158.25 265.25> 360 36<152.25 308.25> 450.494 206.751
+VStem: 72.25 74<52 357> 296 61<571.847 641.311>
 LayerCount: 2
 Fore
-Refer: 659 789 N 1 0 0 1 365.75 0 2
+Refer: 659 789 N 1 0 0 1 418.75 0 2
 Refer: 476 116 N 1 0 0 1 0.25 0 2
 Substitution2: "smcp-1" tcaron.smcp
 Substitution2: "case-1" Tcaron

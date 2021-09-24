@@ -1,12 +1,12 @@
 StartChar: ij
 Encoding: 307 307 303
-Width: 521
+Width: 500
 Flags: HW
 HStem: -7 33<33 87 184 254> 572 102<98.589 183.411 381.589 466.411>
 VStem: 89 104<581.438 664.599> 97 71<57 330> 252 27<-331 -293> 361 68<-160 327> 372 104<581.438 664.599>
 LayerCount: 2
 Fore
-Refer: 311 106 N 1 0 0 1 279 0 2
+Refer: 311 106 N 1 0 0 1 270 0 2
 Refer: 300 105 N 1 0 0 1 0 0 2
 Substitution2: "smcp-1" ij.smcp
 Substitution2: "case-1" IJ

@@ -1,15 +1,15 @@
 StartChar: uni01E5
 Encoding: 485 485 581
-Width: 495
+Width: 470
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -335 65<102 305> -198 38<11.2106 481.711> -106 69<161 396> 362 42<161 276>
-VStem: 53 68<155 306> 329 73<144 309> 412 48<-213 -122>
+HStem: -335 65<94 297> -198 38<3.2106 473.711> -106 69<153 388> 362 42<153 268>
+VStem: 45 68<155 306> 321 73<144 309> 404 48<-213 -122>
 AnchorPoint: "Top" 220 465 basechar 0
 AnchorPoint: "Bottom" 221 -318 basechar 0
 LayerCount: 2
 Fore
-Refer: 676 821 N 1.61312 0 0 0.905283 530.878 -639.584 2
+Refer: 676 821 N 1.61312 0 0 0.905283 522.878 -639.584 2
 Refer: 276 103 N 1 0 0 1 0 0 2
 Substitution2: "case-1" uni01E4
 EndChar

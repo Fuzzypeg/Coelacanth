@@ -1,15 +1,15 @@
 StartChar: i
 Encoding: 105 105 300
-Width: 281
+Width: 270
 Flags: HW
-HStem: -7 33<68.9922 122.992 219.992 289.992> 572 102<134.581 219.403>
-VStem: 124.992 104<581.438 664.599> 132.992 71<57 330>
-AnchorPoint: "Bottom" 130.996 -15 basechar 0
-AnchorPoint: "Ogonek" 213.996 6 basechar 0
+HStem: -7 33<55 109 206 276> 572 102<120.589 205.411>
+VStem: 111 104<581.438 664.599> 119 71<57 330>
+AnchorPoint: "Bottom" 117.004 -15 basechar 0
+AnchorPoint: "Ogonek" 200.004 6 basechar 0
 LayerCount: 2
 Fore
-Refer: 646 775 N 1 0 0 1 382.992 121 2
-Refer: 213 305 N 1 0 0 1 -0.0039 0 2
+Refer: 646 775 N 1 0 0 1 369 121 2
+Refer: 213 305 N 1 0 0 1 -13.9961 0 2
 Substitution2: "'locl' Localized Forms Turkic-1" idotaccent
 Substitution2: "case-1" I
 Substitution2: "pcap-1" i.pcap
