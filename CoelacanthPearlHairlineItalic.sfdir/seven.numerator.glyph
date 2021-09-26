@@ -1,0 +1,15 @@
+StartChar: seven.numerator
+Encoding: 65667 -1 957
+Width: 283
+VWidth: 1159
+Flags: W
+HStem: 410.807 59.1934<71.9334 190.742>
+VStem: 15.5391 255.461
+LayerCount: 2
+Fore
+Refer: 947 -1 N 1 0 0 1 0 279 2
+Validated: 1
+Kerns2: 939 -12 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "dnom-1" seven.denom
+EndChar

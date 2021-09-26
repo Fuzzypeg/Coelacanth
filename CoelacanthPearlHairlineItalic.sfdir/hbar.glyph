@@ -1,0 +1,14 @@
+StartChar: hbar
+Encoding: 295 295 343
+Width: 427
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: 343 60<222.293 318.876> 508.5 38<43.501 341.501> 662 38<86.0009 118.754>
+VStem: -10.9996 78<-4 76.7172> 43.501 298<508.5 546.5> 345.001 56.9735<180.359 316.446>
+LayerCount: 2
+Fore
+Refer: 442 821 S 1 0 0 1 369.001 0 2
+Refer: 7 104 N 1 0 0 1 0 0 2
+Substitution2: "case-1" Hbar
+EndChar

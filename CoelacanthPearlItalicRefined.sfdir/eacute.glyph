@@ -1,10 +1,10 @@
 StartChar: eacute
 Encoding: 233 233 92
-Width: 434
+Width: 436
 VWidth: 1159
-Flags: W
-HStem: -15 51<132.518 227.037> 367 54<183.549 254.884> 498.951 225.517
-VStem: 34.5302 71.9619<61.4685 197.627> 208.444 205.956 272 60<289.245 349.853>
+Flags: HW
+HStem: -15 51<132.022 226.541> 367 54<183.053 254.388> 640.951 193.429
+VStem: 34.0341 71.9619<61.4685 197.627> 114.59 230.611 271.504 60<289.245 349.853>
 LayerCount: 2
 Back
 Image: 40 54 2 120 0 ffffffff -60 645 14.2323 14.3148 0
@@ -119,7 +119,7 @@ l/pIZk0rPUdcff@k2XhMim6cId,sB8kN(%Tk0rY[ea2POm-3*ekgenYdcTT:jl4VJim6iMdd$#F
 
 EndImage
 Fore
-Refer: 93 769 N 1 0 0 1 347.697 71 2
+Refer: 93 769 N 1 0 0 1 347.201 71 2
 Refer: 4 101 N 1 0 0 1 0 0 3
 Substitution2: "case-1" Eacute
 EndChar

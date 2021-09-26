@@ -3,9 +3,9 @@ Encoding: 8053 8053 1170
 Width: 490
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
-HStem: 490.951 225.517
-VStem: 386.657 205.956
+Flags: HW
+HStem: 632.951 193.429
+VStem: 293.299 230.611
 AnchorPoint: "Bottom" 98.4092 -15 basechar 0
 LayerCount: 2
 Fore

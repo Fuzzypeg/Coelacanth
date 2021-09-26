@@ -1,0 +1,11 @@
+StartChar: anoteleia
+Encoding: 903 903 997
+Width: 200
+Flags: HW
+HStem: 196 140<84.9007 113.663>
+VStem: 31 136
+LayerCount: 2
+Fore
+Refer: 462 183 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

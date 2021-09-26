@@ -3,8 +3,8 @@ Encoding: 464 464 300
 Width: 277
 VWidth: 0
 Flags: HW
-HStem: 354 75<141 212> 495.6 184.801
-VStem: 60 202 133.383 225.5
+HStem: 354 75<141 212> 633.199 155.801
+VStem: -0.535 288.5 60 202
 LayerCount: 2
 Fore
 Refer: 104 780 N 1 0 0 1 320.265 64 2

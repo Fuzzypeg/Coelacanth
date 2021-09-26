@@ -2,9 +2,9 @@ StartChar: upsilontonos
 Encoding: 973 973 1141
 Width: 506
 VWidth: 1043
-Flags: W
-HStem: 490.951 225.517
-VStem: 345.248 205.956
+Flags: HW
+HStem: 632.951 193.429
+VStem: 251.89 230.611
 AnchorPoint: "Bottom" 241 -15 basechar 0
 LayerCount: 2
 Fore

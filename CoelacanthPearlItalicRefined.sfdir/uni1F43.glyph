@@ -2,9 +2,9 @@ StartChar: uni1F43
 Encoding: 8003 8003 1367
 Width: 510
 VWidth: 1043
-Flags: W
-HStem: 491.2 201.6
-VStem: 182.152 112.8
+Flags: HW
+HStem: 620 149<222.377 252.41>
+VStem: 159.047 102<674.839 754.8>
 LayerCount: 2
 Fore
 Refer: 95 768 S 0.984808 -0.173648 0.173648 0.984808 456.795 22.957 2

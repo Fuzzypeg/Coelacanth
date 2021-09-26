@@ -1,0 +1,14 @@
+StartChar: seven.tabulartext
+Encoding: 65627 -1 707
+Width: 463
+VWidth: 1159
+Flags: HW
+HStem: 339 67<144.004 378.532>
+LayerCount: 2
+Fore
+Refer: 71 55 N 1 0 0 1 21.504 0 2
+Substitution2: "dnom-1" seven.denom
+Substitution2: "numr-1" seven.numerator
+Substitution2: "lnum-1" seven.tabularlining
+Substitution2: "pnum-1" seven
+EndChar

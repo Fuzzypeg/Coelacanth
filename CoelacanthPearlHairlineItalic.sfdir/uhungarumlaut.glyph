@@ -1,0 +1,13 @@
+StartChar: uhungarumlaut
+Encoding: 369 369 239
+Width: 545
+VWidth: 0
+Flags: HW
+HStem: -18 56<294.047 386.116> -10 70<85.5471 175.547> 341 75<126.547 185.547> 387 20G<438.047 445.547> 492.981 247.172
+VStem: 260.845 31.3643<513.32 545.66>
+LayerCount: 2
+Fore
+Refer: 103 779 N 1 0 0 1 523.047 60 2
+Refer: 20 117 N 1 0 0 1 0 0 3
+Substitution2: "case-1" Uhungarumlaut
+EndChar

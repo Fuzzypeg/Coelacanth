@@ -1,0 +1,13 @@
+StartChar: rcaron
+Encoding: 345 345 158
+Width: 431
+VWidth: 0
+Flags: HW
+HStem: 406 20G<310.705 331.205> 413 20G<142.705 168.705 310.705 331.205> 495.6 184.801
+VStem: 32.7051 19<295.105 306.953> 43.7051 68<0 66.3041> 146.088 225.5
+LayerCount: 2
+Fore
+Refer: 104 780 N 1 0 0 1 332.97 64 2
+Refer: 17 114 N 1 0 0 1 0 0 3
+Substitution2: "case-1" Rcaron
+EndChar

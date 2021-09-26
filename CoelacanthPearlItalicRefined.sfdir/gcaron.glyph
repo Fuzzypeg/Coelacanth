@@ -1,13 +1,13 @@
 StartChar: gcaron
 Encoding: 487 487 306
-Width: 530
+Width: 504
 VWidth: 0
-Flags: W
-HStem: -337 64<20.3914 156.022> 325 55<349.705 429.963> 378 38<170.55 260.831> 495.6 184.801
-VStem: 395.223 225.5
+Flags: HW
+HStem: -337 64<7.47097 143.102> 325 55<336.785 417.043> 378 38<157.63 247.911> 633.199 155.801
+VStem: 248.385 288.5
 LayerCount: 2
 Fore
-Refer: 104 780 N 1 0 0 1 582.105 64 2
+Refer: 104 780 N 1 0 0 1 569.185 64 2
 Refer: 6 103 N 1 0 0 1 0 0 3
 Substitution2: "case-1" Gcaron
 EndChar

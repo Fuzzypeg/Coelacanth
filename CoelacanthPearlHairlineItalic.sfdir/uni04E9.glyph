@@ -1,0 +1,14 @@
+StartChar: uni04E9
+Encoding: 1257 1257 1129
+Width: 422
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -10 65<168.926 252.853> 187.95 34.55<67.88 365.88> 433 74<222.578 317.617>
+VStem: 25.9262 109.074<94.5032 295.923> 67.88 298<187.95 222.5> 345 108.83<201.003 404.137>
+AnchorPoint: "Top" 251 465 basechar 0
+AnchorPoint: "Bottom" 249 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 909 629 N 1 0 0 1 0 0 2
+EndChar

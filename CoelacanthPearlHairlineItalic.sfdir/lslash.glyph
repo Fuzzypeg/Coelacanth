@@ -1,0 +1,14 @@
+StartChar: lslash
+Encoding: 322 322 457
+Width: 249
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -10 21G<62.2915 107.118> 749 20G<226.618 256.618>
+VStem: 31.6184 82<53.6655 157.415>
+LayerCount: 2
+Fore
+Refer: 322 823 S 0.765537 -0.608919 -0.131231 0.956953 363.025 27.3842 2
+Refer: 11 108 N 1 0 0 1 0 0 2
+Substitution2: "case-1" Lslash
+EndChar

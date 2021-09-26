@@ -1,0 +1,14 @@
+StartChar: four.tabularlining
+Encoding: 65634 -1 714
+Width: 463
+VWidth: 1159
+Flags: HW
+HStem: 204 21G<386.328 409.68> 211 45.5<47.5312 239.258 309.531 395.827> 613.3 20G<373.708 410.721>
+LayerCount: 2
+Fore
+Refer: 704 -1 S 1 0 0 1 8 211 2
+Substitution2: "dnom-1" four.denom
+Substitution2: "numr-1" four.numerator
+Substitution2: "onum-1" four.tabulartext
+Substitution2: "pnum-1" four.proportionallining
+EndChar

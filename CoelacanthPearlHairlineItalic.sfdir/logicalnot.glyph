@@ -1,0 +1,12 @@
+StartChar: logicalnot
+Encoding: 172 172 1242
+Width: 463
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: 190 54<34.2002 427.8>
+LayerCount: 2
+Fore
+Refer: 331 8722 N 0 0.431402 -0.831489 0 585.883 59.3461 2
+Refer: 331 8722 S 1 0 0 1 0 0 2
+EndChar

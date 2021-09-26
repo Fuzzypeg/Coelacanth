@@ -1,14 +1,14 @@
 StartChar: tcommaaccent
 Encoding: 355 355 271
-Width: 304
+Width: 331
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -15 53<87.8374 167.367> 342 26<61.8374 95.7364> 352 38<192.837 298.768> 358 41<193.902 299.837>
-VStem: 38.8374 267 77.837 62.4277<-164.272 -94.0566>
+HStem: -172 50.1914<42.9075 109.077> -15 53<98.8739 178.404> 342 26<72.8739 106.773> 352 38<203.874 309.805> 358 41<204.939 310.874>
+VStem: 49.8739 267 112.049 76.4277<-122.225 -75.0357>
 LayerCount: 2
 Fore
-Refer: 269 807 N 1 0 0 1 310.837 0 2
+Refer: 269 807 N 1 0 0 1 321.874 0 2
 Refer: 19 116 N 1 0 0 1 0 0 3
 Substitution2: "case-1" Tcommaaccent
 Substitution2: "'locl' Localized Forms Romanian and Moldavian-1" uni021B

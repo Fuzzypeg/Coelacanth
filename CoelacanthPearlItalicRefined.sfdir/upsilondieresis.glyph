@@ -2,9 +2,9 @@ StartChar: upsilondieresis
 Encoding: 971 971 1139
 Width: 506
 VWidth: 1043
-Flags: W
-HStem: 518.67 84.66<247.497 306.63 423.497 482.63>
-VStem: 233.728 86.6727<532.388 589.612> 409.728 86.6727<532.388 589.612>
+Flags: HW
+HStem: 669.08 105.84<163.494 257.506 339.494 433.506>
+VStem: 156.32 108.36<676.114 767.915> 332.32 108.36<676.114 767.915>
 AnchorPoint: "Bottom" 241 -15 basechar 0
 LayerCount: 2
 Fore

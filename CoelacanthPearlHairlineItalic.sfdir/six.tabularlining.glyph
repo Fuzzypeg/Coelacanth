@@ -1,0 +1,14 @@
+StartChar: six.tabularlining
+Encoding: 65636 -1 716
+Width: 463
+VWidth: 1159
+Flags: HW
+HStem: -10 40<178.225 275.246> 320 44<225.438 317.273> 607 23<423.435 439.241>
+LayerCount: 2
+Fore
+Refer: 706 -1 S 1 0 0 1 0 0 2
+Substitution2: "dnom-1" six.denom
+Substitution2: "numr-1" six.numerator
+Substitution2: "onum-1" six.tabulartext
+Substitution2: "pnum-1" six.proportionallining
+EndChar

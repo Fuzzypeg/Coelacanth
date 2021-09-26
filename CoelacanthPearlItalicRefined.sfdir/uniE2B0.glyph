@@ -1,0 +1,11 @@
+StartChar: uniE2B0
+Encoding: 58032 58032 1665
+Width: 0
+Flags: W
+HStem: -172.9 107.8<-327.521 -252.472 -135.521 -60.4722>
+VStem: -344.986 110<-156.142 -81.7962> -152.986 110<-156.142 -81.7962>
+AnchorPoint: "Bottom" -193 -15 mark 0
+LayerCount: 2
+Fore
+Refer: 1657 58024 N 1 0 0 1 -344 -924 2
+EndChar

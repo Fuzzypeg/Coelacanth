@@ -1,0 +1,13 @@
+StartChar: uni1F42
+Encoding: 8002 8002 1366
+Width: 510
+VWidth: 1043
+Flags: HW
+HStem: 496.42 200.07
+VStem: 113.551 131.469
+LayerCount: 2
+Fore
+Refer: 112 787 S 1 0 0 1 349.047 51 2
+Refer: 95 768 S 0.984808 -0.173648 0.173648 0.984808 470.795 22.957 2
+Refer: 1045 959 N 1 0 0 1 0 0 3
+EndChar

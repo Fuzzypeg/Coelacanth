@@ -1,12 +1,10 @@
 StartChar: circumflex
 Encoding: 710 710 1252
 Width: 275
-VWidth: 1159
-Flags: W
-HStem: 422.6 184.801
-VStem: 117.382 225.5
+Flags: HW
+HStem: 576 155.801
+VStem: 16.3 288.5
 LayerCount: 2
 Fore
 Refer: 94 770 N 1 0 0 1 335 0 2
-Validated: 1
 EndChar

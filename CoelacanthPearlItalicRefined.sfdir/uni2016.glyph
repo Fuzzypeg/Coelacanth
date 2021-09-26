@@ -3,11 +3,8 @@ Encoding: 8214 8214 470
 Width: 273
 VWidth: 1515
 Flags: W
-HStem: 684 20<60 98 175 213>
-VStem: 60 38<-223 704> 175 38<-223 704>
 LayerCount: 2
 Fore
 Refer: 326 124 N 1 0 0 1 115 0 2
 Refer: 326 124 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

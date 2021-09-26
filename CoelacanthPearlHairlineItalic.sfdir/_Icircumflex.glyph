@@ -1,0 +1,14 @@
+StartChar: Icircumflex
+Encoding: 206 206 180
+Width: 453
+VWidth: 1159
+Flags: HW
+HStem: -2 40<-5.74609 95.0633 204.093 280.957> 656 43<138.421 215.708 330.979 416.446>
+AnchorPoint: "Top" 197 806 basechar 0
+AnchorPoint: "Bottom" 198 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 160 -1 N 1 0 0 1 -5.18231 0 2
+Refer: 34 73 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

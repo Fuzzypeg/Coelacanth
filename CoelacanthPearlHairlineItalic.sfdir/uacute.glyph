@@ -1,0 +1,14 @@
+StartChar: uacute
+Encoding: 250 250 133
+Width: 545
+VWidth: 1159
+Flags: HW
+HStem: -18 56<294.047 386.116> -10 70<85.5471 175.547> 341 75<126.547 185.547> 387 20G<438.047 445.547> 498.951 225.517
+VStem: 268.611 205.956
+AnchorPoint: "Bottom" 256 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 93 769 N 1 0 0 1 407.864 71 2
+Refer: 20 117 N 1 0 0 1 0 0 3
+Substitution2: "case-1" Uacute
+EndChar

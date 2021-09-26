@@ -1,0 +1,13 @@
+StartChar: ij
+Encoding: 307 307 345
+Width: 535
+VWidth: 0
+Flags: H
+HStem: 353 75<426 496> 354 75<141 212> 579 102<217.484 290.971 520.485 593.971>
+VStem: 60 202 204.478 100<592.417 668.146> 507.478 100<592.417 668.146>
+LayerCount: 2
+Fore
+Refer: 9 106 N 1 0 0 1 293 0 2
+Refer: 8 105 N 1 0 0 1 0 0 2
+Substitution2: "case-1" IJ
+EndChar

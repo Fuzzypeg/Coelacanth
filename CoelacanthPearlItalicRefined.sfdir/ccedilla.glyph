@@ -3,9 +3,9 @@ Encoding: 231 231 268
 Width: 417
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: W
-HStem: -15 53<138.021 225.281> 359 63<200.666 292.636>
-VStem: 31.6688 74.9532<71.9391 229.688> 143 62.4277<-164.272 -94.0566>
+Flags: HW
+HStem: -172 50.1914<97.1946 163.364> -15 53<138.182 225.442> 359 63<200.827 292.797>
+VStem: 31.8294 74.9532<71.9391 229.688> 166.336 76.4277<-122.225 -75.0357>
 LayerCount: 2
 Back
 Image: 54 67 2 162 0 ffffffff -120 554.917 14.4815 14.6704 0
@@ -192,7 +192,7 @@ jlFbMjj</Od-'Q=kN:1Tk0`ASdHBZ>k2jtPjj<,McfO66jlFbMjj</Od-'Q=kN:1Tk0`ASdHBZ>
 kN:1Tk0`ASdHBZ>ki^CXkL/SWdcflBki^CXkL/SWdcflBk2jtPjj<2QdHBZ>kN:1Tk0X//
 EndImage
 Fore
-Refer: 269 807 N 1 0 0 1 376 0 2
+Refer: 269 807 S 1 0 0 1 352.161 0 2
 Refer: 2 99 N 1 0 0 1 0 0 3
 Substitution2: "case-1" Ccedilla
 EndChar

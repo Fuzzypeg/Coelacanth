@@ -2,7 +2,7 @@ StartChar: Kreska
 Encoding: 65672 -1 1225
 Width: 140
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 93 769 S 1.03303 0.317551 -0.588347 0.56113 545.871 569.578 2

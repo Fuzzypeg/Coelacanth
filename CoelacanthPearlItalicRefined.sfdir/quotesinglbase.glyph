@@ -3,11 +3,10 @@ Encoding: 8218 8218 464
 Width: 200
 VWidth: 1159
 Flags: W
-HStem: -125 247
-VStem: 5.56055 162.308
+HStem: -134.937 283.585
+VStem: 20.1295 174.45<36.3884 79.9558>
 LayerCount: 2
 Fore
 Refer: 47 44 N 1 0 0 1 0 0 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar

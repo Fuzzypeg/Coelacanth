@@ -1,0 +1,16 @@
+StartChar: uni0308
+Encoding: 776 776 98
+Width: 0
+VWidth: 1159
+Flags: W
+HStem: 442.67 84.66<-50.0028 9.1305> 442.67 84.66<-226.003 -166.87>
+VStem: -239.772 86.6727<456.388 513.612> -63.7725 86.6727<456.388 513.612>
+AnchorPoint: "Top" -124 389 mark 0
+AnchorPoint: "TopMark" -118.54 397 mark 0
+AnchorPoint: "TopMark" -86.9082 525 basemark 0
+LayerCount: 2
+Fore
+Refer: 50 775 N 0.83 0 0 0.83 55.34 68.34 2
+Refer: 50 775 N 0.83 0 0 0.83 -120.66 68.34 2
+Validated: 1
+EndChar

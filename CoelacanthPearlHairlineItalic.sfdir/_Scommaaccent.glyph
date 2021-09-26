@@ -1,0 +1,13 @@
+StartChar: Scommaaccent
+Encoding: 536 536 497
+Width: 588
+VWidth: 0
+Flags: HW
+HStem: -254.58 200.07 -10 43<160.629 332.782> 672 38<289.828 429.79> 681 20G<516.709 556>
+VStem: 37.1113 32.79<111.023 202> 108.669 131.469 488.832 38.8477<531.982 616.02>
+LayerCount: 2
+Fore
+Refer: 276 806 N 1 0 0 1 426.165 0 2
+Refer: 44 83 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

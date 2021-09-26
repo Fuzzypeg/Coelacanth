@@ -2,9 +2,9 @@ StartChar: uni1F20
 Encoding: 7968 7968 1194
 Width: 490
 VWidth: 0
-Flags: W
-HStem: 496.42 200.07
-VStem: 211.913 131.469
+Flags: HW
+HStem: 620 149
+VStem: 253.409 102<674.839 754.8>
 AnchorPoint: "Bottom" 98.4092 -15 basechar 0
 LayerCount: 2
 Fore

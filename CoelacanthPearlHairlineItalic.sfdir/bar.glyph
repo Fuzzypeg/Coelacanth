@@ -1,0 +1,20 @@
+StartChar: bar
+Encoding: 124 124 326
+Width: 158
+VWidth: 1515
+Flags: W
+HStem: 684 20G<60 98>
+VStem: 60 38<-223 704>
+LayerCount: 2
+Fore
+SplineSet
+60 704 m 17
+ 98 704 l 9
+ 98 -223 l 1
+ 60 -223 l 1
+ 60 704 l 17
+EndSplineSet
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

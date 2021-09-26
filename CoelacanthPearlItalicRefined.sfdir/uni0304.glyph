@@ -1,21 +1,12 @@
 StartChar: uni0304
 Encoding: 772 772 102
 Width: 0
-VWidth: 1159
-Flags: W
-HStem: 446.6 49.2002<-221.015 27.3281>
-VStem: -231.473 269.259
-AnchorPoint: "Top" -124 389 mark 0
-AnchorPoint: "TopMark" -120.115 397 mark 0
-AnchorPoint: "TopMark" -93.2842 495 basemark 0
+Flags: HW
+HStem: 587.022 80.9567<-301 -42>
+AnchorPoint: "Top" -157.857 537 mark 0
+AnchorPoint: "TopMark" -163.857 537 mark 0
+AnchorPoint: "TopMark" -108.757 768 basemark 0
 LayerCount: 2
 Fore
-SplineSet
--231.47265625 446.599609375 m 1
- -221.014648438 495.799804688 l 1
- 37.7861328125 495.799804688 l 1
- 27.328125 446.599609375 l 1
- -231.47265625 446.599609375 l 1
-EndSplineSet
-Validated: 1
+Refer: 1462 58114 S 0.259 0 0.22642 1.06522 -265.621 627.5 2
 EndChar

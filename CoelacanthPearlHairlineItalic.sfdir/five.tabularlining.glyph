@@ -1,0 +1,15 @@
+StartChar: five.tabularlining
+Encoding: 65635 -1 715
+Width: 463
+VWidth: 1159
+Flags: W
+HStem: -29 32<0.904814 72.2264> 512.5 72<229.871 462.065>
+LayerCount: 2
+Fore
+Refer: 705 -1 S 1 0 0 1 3 186 2
+Validated: 1
+Substitution2: "dnom-1" five.denom
+Substitution2: "numr-1" five.numerator
+Substitution2: "onum-1" five.tabulartext
+Substitution2: "pnum-1" five.proportionallining
+EndChar

@@ -1,0 +1,14 @@
+StartChar: idieresis
+Encoding: 239 239 126
+Width: 277
+VWidth: 1159
+Flags: HW
+HStem: 354 75<141 212> 518.67 84.66<104.997 164.13 280.997 340.13>
+VStem: 60 202 91.228 86.6727<532.388 589.612> 267.228 86.6727<532.388 589.612>
+AnchorPoint: "Bottom" 127 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 98 776 N 1 0 0 1 331 76 2
+Refer: 51 305 N 1 0 0 1 0 0 3
+Substitution2: "case-1" Idieresis
+EndChar

@@ -4,9 +4,9 @@ Width: 538
 VWidth: 1043
 UnlinkRmOvrlpSave: 1
 InSpiro: 1
-Flags: W
-HStem: 490.951 225.517
-VStem: 342.248 205.956
+Flags: HW
+HStem: 632.951 193.429
+VStem: 248.89 230.611
 AnchorPoint: "Bottom" 248 -15 basechar 0
 LayerCount: 2
 Fore

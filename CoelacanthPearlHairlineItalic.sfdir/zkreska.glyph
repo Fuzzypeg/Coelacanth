@@ -1,0 +1,12 @@
+StartChar: zkreska
+Encoding: 65677 -1 1230
+Width: 394
+VWidth: 1159
+Flags: HW
+HStem: -79 29<283.571 314.227> 399 20G<145.175 160.675>
+VStem: 319.175 68<-39.3516 32.8313>
+LayerCount: 2
+Fore
+Refer: 1224 -1 S 1 0 0 1 153.175 0 2
+Refer: 25 122 N 1 0 0 1 0 0 3
+EndChar

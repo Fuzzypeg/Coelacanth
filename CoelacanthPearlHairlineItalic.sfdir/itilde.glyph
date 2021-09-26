@@ -1,0 +1,13 @@
+StartChar: itilde
+Encoding: 297 297 149
+Width: 277
+VWidth: 0
+Flags: HW
+HStem: 354 75<141 212> 497.645 21G<78.611 115.401> 510.053 60<226.726 311.243> 547.391 59.4463<145.662 226.726>
+VStem: 60 202 78.611 294.189
+LayerCount: 2
+Fore
+Refer: 101 771 N 1 0 0 1 331 76 2
+Refer: 51 305 N 1 0 0 1 0 0 3
+Substitution2: "case-1" Itilde
+EndChar

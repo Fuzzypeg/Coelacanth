@@ -1,0 +1,14 @@
+StartChar: uniE290
+Encoding: 58000 58000 1633
+Width: 490
+VWidth: 1159
+Flags: HW
+HStem: -10 65<174.096 258.023> 433 74<227.748 322.787>
+VStem: 31.0957 109.074<94.5032 295.923> 350.17 108.83<201.003 404.137>
+AnchorPoint: "Middle" 255 206 basechar 0
+AnchorPoint: "Bottom" 249 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1629 57996 N 1 0 0 1 212.171 0 2
+Refer: 14 111 N 1 0 0 1 0 0 3
+EndChar

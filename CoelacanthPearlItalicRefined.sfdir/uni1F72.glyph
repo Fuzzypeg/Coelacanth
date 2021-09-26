@@ -3,9 +3,9 @@ Encoding: 8050 8050 1167
 Width: 417
 VWidth: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
-HStem: 486.175 225.517
-VStem: 304.808 25.0635<501.075 516.102>
+Flags: HW
+HStem: 625.951 193.429
+VStem: 62.095 230.611
 LayerCount: 2
 Fore
 Refer: 95 768 N 1 0 0 1 408.706 56 2

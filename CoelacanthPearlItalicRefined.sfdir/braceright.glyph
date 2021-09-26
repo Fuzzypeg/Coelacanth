@@ -1,14 +1,12 @@
 StartChar: braceright
 Encoding: 125 125 338
 Width: 266
-VWidth: 1515
 Flags: W
-HStem: -229.7 31<26.5 76.9823> 685.3 31<26.5 76.9823>
-VStem: 86 66<-8.67215 162.063 324.537 495.273> 115 59.5<-156.251 38.463 448.138 642.852>
+HStem: -175.7 58.4189<17.3604 80.7532> 651.881 58.4189<17.3604 80.7532>
+VStem: 72.291 93.418<25.3279 196.607 337.994 509.273> 101.291 86.918<-97.669 72.463 462.138 632.27>
 LayerCount: 2
 Fore
-Refer: 337 123 N -1 0 0 -1 266 486.6 2
-Validated: 1
+Refer: 337 123 N -1 0 0 -1 266 534.6 2
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

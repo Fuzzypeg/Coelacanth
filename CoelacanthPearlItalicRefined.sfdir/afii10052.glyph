@@ -2,7 +2,7 @@ StartChar: afii10052
 Encoding: 1027 1027 1136
 Width: 572
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -14 56<237.021 329.116> -9 35<46.9404 103.365> 654 31<176.455 224.231>
 VStem: 625.721 31.6377<534 592.245>
 LayerCount: 2

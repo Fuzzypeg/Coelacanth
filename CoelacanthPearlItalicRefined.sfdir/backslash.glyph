@@ -6,7 +6,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 326 124 N 0.952661 0.304033 -0.34831 1.0914 199.508 -74.5 2
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=95 dh=0 dv=0
 EndChar

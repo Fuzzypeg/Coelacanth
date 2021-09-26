@@ -1,14 +1,10 @@
 StartChar: brokenbar
 Encoding: 166 166 671
 Width: 158
-VWidth: 1515
 Flags: W
-HStem: 139.996 8.00432<60 98> 695.996 8.00432<60 98>
-VStem: 60 38<-223 148 333 704>
 LayerCount: 2
 Fore
-Refer: 326 124 N 1 0 0 0.400216 0 -133.752 2
-Refer: 326 124 S 1 0 0 0.400216 0 422.248 2
-Validated: 1
+Refer: 326 124 N 1 0 0 0.400216 0 -126.752 2
+Refer: 326 124 N 1 0 0 0.400216 0 429.248 2
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar

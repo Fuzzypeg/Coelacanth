@@ -1,0 +1,12 @@
+StartChar: arrowboth
+Encoding: 8596 8596 1338
+Width: 821
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: 101 288 223.4 43.2<80 632> 223.4 43.2<189.2 741.2>
+LayerCount: 2
+Fore
+Refer: 1336 8594 N 1 0 0 1 60 0 2
+Refer: 1334 8592 N 1 0 0 1 0 0 2
+EndChar

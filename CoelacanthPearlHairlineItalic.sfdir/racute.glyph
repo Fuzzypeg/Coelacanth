@@ -1,0 +1,13 @@
+StartChar: racute
+Encoding: 341 341 157
+Width: 431
+VWidth: 0
+Flags: HW
+HStem: 406 20G<310.705 331.205> 413 20G<142.705 168.705 310.705 331.205> 498.951 225.517
+VStem: 32.7051 19<295.105 306.953> 43.7051 68<0 66.3041> 204.458 205.956
+LayerCount: 2
+Fore
+Refer: 93 769 N 1 0 0 1 343.711 71 2
+Refer: 17 114 N 1 0 0 1 0 0 3
+Substitution2: "case-1" Racute
+EndChar

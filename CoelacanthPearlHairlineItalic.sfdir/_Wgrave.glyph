@@ -1,0 +1,13 @@
+StartChar: Wgrave
+Encoding: 7808 7808 621
+Width: 1038
+VWidth: 0
+Flags: HW
+HStem: 661 29<91 132.598 292.728 344 436 479.875 604.084 686 787 833.406>
+VStem: 172 34<-21 13.3559> 172 80<130 633.169> 498 74<113 317.235> 498 91<404.765 476 556 648.438>
+LayerCount: 2
+Fore
+Refer: 97 -1 N 1 0 0 1 491 0 2
+Refer: 56 87 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
+EndChar

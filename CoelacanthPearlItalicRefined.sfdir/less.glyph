@@ -1,11 +1,8 @@
 StartChar: less
 Encoding: 60 60 335
-Width: 463
-VWidth: 0
+Width: 535
 Flags: W
-HStem: -7 20<327.718 371.44> 391 21<349.571 392.538>
 LayerCount: 2
 Fore
-Refer: 334 62 N -1 0 0 -1 463 405 2
-Validated: 1
+Refer: 334 62 N -1 0 0 -1 535 551.232 2
 EndChar
