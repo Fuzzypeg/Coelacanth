@@ -1,8 +1,8 @@
 StartChar: Beta
 Encoding: 914 914 1005
-Width: 630
+Width: 640
 Flags: HW
-HStem: -4 38<-2.80248 73.1182 168.323 346.698> 349 30<239.198 374.402> 653 41<166.198 213.511 316.782 437.183>
+HStem: -4 38<-2.97646 72.9443 168.149 346.524> 349 30<239.024 374.228> 653 41<166.024 213.337 316.608 437.009>
 AnchorPoint: "Top" 278 699 basechar 0
 AnchorPoint: "Bottom" 311 -15 basechar 0
 LayerCount: 2

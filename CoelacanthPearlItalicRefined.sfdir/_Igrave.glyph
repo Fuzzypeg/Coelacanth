@@ -1,14 +1,14 @@
 StartChar: Igrave
 Encoding: 204 204 178
-Width: 453
+Width: 468
 VWidth: 1159
 Flags: HW
-HStem: -8 72<5.44043 119.394 235.832 313.052> 0 65<5.44043 120.403> 616 76<148.673 230.373 355.126 451.496>
+HStem: -8 72<21.1543 135.108 251.546 328.766> 0 65<21.1543 136.117> 616 76<164.387 246.087 370.84 467.21>
 AnchorPoint: "Bottom" 198 -15 basechar 0
 AnchorPoint: "Top" 197 806 basechar 0
 LayerCount: 2
 Fore
-Refer: 97 -1 N 1 0 0 1 70.8177 0 2
+Refer: 97 -1 N 1 0 0 1 86.5315 0 2
 Refer: 34 73 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar

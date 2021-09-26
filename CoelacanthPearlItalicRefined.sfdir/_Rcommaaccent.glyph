@@ -1,13 +1,13 @@
 StartChar: Rcommaaccent
 Encoding: 342 342 291
-Width: 757
+Width: 707
 VWidth: 0
 Flags: HW
 HStem: -177.1 149
-VStem: 297.034 102<-122.261 -42.3>
+VStem: 296.994 102<-122.261 -42.3>
 LayerCount: 2
 Fore
-Refer: 276 806 N 1 0 0 1 533.034 0 2
+Refer: 276 806 N 1 0 0 1 532.994 0 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar

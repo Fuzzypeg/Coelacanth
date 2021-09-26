@@ -1,10 +1,7 @@
 StartChar: space
 Encoding: 32 32 46
-Width: 205
-VWidth: 1159
-Flags: W
+Width: 350
+Flags: HW
 LayerCount: 2
-Fore
-Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=40 dv=80
 EndChar

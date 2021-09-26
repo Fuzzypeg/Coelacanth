@@ -1,12 +1,12 @@
 StartChar: Ucircumflex
 Encoding: 219 219 190
-Width: 816
+Width: 775
 VWidth: 1159
-Flags: W
-HStem: -13 88<256.871 487.114> 613 73<122.332 162.857 276.319 344.304 648.743 689.282 771.82 839.028>
+Flags: HW
+HStem: -13 88<245.48 475.722> 613 73<110.941 151.465 264.927 332.912 637.351 677.891 760.428 827.637>
 LayerCount: 2
 Fore
-Refer: 160 -1 N 1 0 0 1 202.459 0 2
+Refer: 160 -1 N 1 0 0 1 191.068 0 2
 Refer: 54 85 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar

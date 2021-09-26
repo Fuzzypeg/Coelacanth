@@ -1,11 +1,11 @@
 StartChar: Rcaron
 Encoding: 344 344 222
-Width: 757
+Width: 707
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 168 -1 N 1 0 0 1 93.4569 0 2
+Refer: 168 -1 N 1 0 0 1 93.4173 0 2
 Refer: 43 82 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar

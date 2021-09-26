@@ -1,11 +1,11 @@
 StartChar: Tcaron
 Encoding: 356 356 228
-Width: 724
+Width: 684
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 168 -1 N 1 0 0 1 166.277 0 2
+Refer: 168 -1 N 1 0 0 1 162.258 0 2
 Refer: 45 84 N 1 0 0 1 0 0 3
 Position2: "cpsp-1" dx=0 dy=0 dh=10 dv=20
 EndChar
