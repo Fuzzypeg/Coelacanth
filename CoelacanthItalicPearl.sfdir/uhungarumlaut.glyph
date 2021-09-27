@@ -1,0 +1,11 @@
+StartChar: uhungarumlaut
+Encoding: 369 369 238
+Width: 536
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 102 779 N 1 0 0 1 460 0 2
+Refer: 20 117 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" uhungarumlaut.smcp
+Substitution2: "pcap-1" uhungarumlaut.pcap
+EndChar

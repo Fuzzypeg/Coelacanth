@@ -1,0 +1,15 @@
+StartChar: Uacute
+Encoding: 218 218 188
+Width: 775
+Flags: HW
+HStem: -13 88<308.037 549.516> 610 66<715.018 775.284> 616 69<49.4167 109.229 222.011 277.696> 700.552 154.372
+VStem: 109 113<150.891 608.316> 383.163 205.617 635 80<158.27 609.484>
+AnchorPoint: "Bottom" 428 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 359 -20 2
+Refer: 53 85 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" uacute.pcap
+Substitution2: "c2sc-1" uacute.smcp
+EndChar

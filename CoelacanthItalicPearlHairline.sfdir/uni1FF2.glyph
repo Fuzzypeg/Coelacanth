@@ -1,0 +1,12 @@
+StartChar: uni1FF2
+Encoding: 8178 8178 1346
+Width: 801
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -295 44.4951<319.366 389.73> 625.951 193.429
+VStem: 215.374 230.611 278.435 65.9873<-249.952 -89.5438> 292.439 71.1582<-220.355 -87.5068>
+LayerCount: 2
+Fore
+Refer: 961 890 N 1 0 0 1 315.907 0 2
+Refer: 1152 8060 N 1 0 0 1 0 0 3
+EndChar

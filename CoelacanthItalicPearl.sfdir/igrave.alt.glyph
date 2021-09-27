@@ -1,0 +1,12 @@
+StartChar: igrave.alt
+Encoding: 58122 58122 1424
+Width: 277
+Flags: HW
+HStem: 569.951 193.429
+VStem: 14.3887 230.611
+AnchorPoint: "Bottom" 127 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 94 768 N 1 0 0 1 361 0 2
+Refer: 50 305 N 1 0 0 1 0 0 3
+EndChar

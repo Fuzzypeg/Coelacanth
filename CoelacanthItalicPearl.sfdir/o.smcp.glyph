@@ -1,0 +1,23 @@
+StartChar: o.smcp
+Encoding: 57685 57685 2037
+Width: 659
+Flags: HW
+HStem: -12 77<238 380.814> 433 79<207.486 352.49>
+VStem: 27 115<161.882 350.475> 453 105<152.614 330.102>
+AnchorPoint: "Top" 334 580 basechar 0
+AnchorPoint: "Bottom" 336 -15 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+314 497 m 3
+ 218 497 151 419 151 278 c 3
+ 151 163 250 62 356 62 c 3
+ 458 62 525 159 525 284 c 3
+ 525 384 432 497 314 497 c 3
+331 574 m 3
+ 485 574 634 453 634 275 c 3
+ 634 109 491 -13 340 -13 c 3
+ 206 -13 34 76 34 277 c 3
+ 34 447 176 574 331 574 c 3
+EndSplineSet
+EndChar

@@ -1,0 +1,14 @@
+StartChar: Ccircumflex
+Encoding: 264 264 196
+Width: 726
+Flags: HW
+HStem: -16 75<324.657 532.763> 616 72<305.31 517.851>
+VStem: 43 115<224.684 446.36> 597 62<492.205 547.426> 632 57<153.196 187.719>
+LayerCount: 2
+Fore
+Refer: 159 58020 N 1 0 0 1 277 -20 2
+Refer: 28 67 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" ccircumflex.pcap
+Substitution2: "c2sc-1" ccircumflex.smcp
+EndChar

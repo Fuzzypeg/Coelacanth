@@ -1,0 +1,14 @@
+StartChar: uni01D6
+Encoding: 470 470 711
+Width: 536
+Flags: HW
+HStem: 555.08 105.84<160.494 254.506 336.494 430.506> 688.752 80.9567<169.5 428.5>
+VStem: 153.32 108.36<562.114 653.915> 329.32 108.36<562.114 653.915>
+LayerCount: 2
+Fore
+Refer: 97 776 N 1 0 0 1 470.5 -38 2
+Refer: 20 117 N 1 0 0 1 0 0 3
+Refer: 101 772 N 1 0 0 1 470.5 101.73 2
+Substitution2: "pcap-1" uni01D6.pcap
+Substitution2: "smcp-1" uni01D6.smcp
+EndChar

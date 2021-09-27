@@ -1,0 +1,15 @@
+StartChar: iacute
+Encoding: 237 237 123
+Width: 277
+Flags: HW
+HStem: 569.951 193.429
+VStem: 94.3887 230.611
+AnchorPoint: "Bottom" 143 -15 basechar 0
+AnchorPoint: "Ogonek" 197 18 basechar 0
+LayerCount: 2
+Fore
+Refer: 92 769 N 1 0 0 1 327 0 2
+Refer: 50 305 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" iacute.pcap
+Substitution2: "smcp-1" iacute.smcp
+EndChar

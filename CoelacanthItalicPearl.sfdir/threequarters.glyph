@@ -1,0 +1,13 @@
+StartChar: threequarters
+Encoding: 190 190 943
+Width: 557
+Flags: HW
+HStem: -14.8516 58.9453<339.916 417.974 505.016 527.673 528.191 543.327> 246.802 53.085<92.2946 177.458> 537.824 70.4854<192.66 297.565>
+VStem: 89.4316 262.053 242.44 332.299
+LayerCount: 2
+Fore
+Refer: 925 58411 N 1 0 0 1 56 0 2
+Refer: 911 8260 N 1 0 0 1 51 0 2
+Refer: 916 58402 S 1 0 0 1 222.584 0 2
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+EndChar

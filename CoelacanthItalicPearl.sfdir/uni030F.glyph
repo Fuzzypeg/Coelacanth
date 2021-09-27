@@ -1,0 +1,12 @@
+StartChar: uni030F
+Encoding: 783 783 104
+Width: 0
+Flags: HW
+AnchorPoint: "Top" -157.857 537 mark 0
+AnchorPoint: "TopMark" -163.857 537 mark 0
+AnchorPoint: "TopMark" -113.757 768 basemark 0
+LayerCount: 2
+Fore
+Refer: 94 768 N 0.788276 -0.141082 0.440351 0.809203 -408.755 86.0848 2
+Refer: 94 768 N 0.760969 -0.249416 0.548685 0.740042 -301.917 112.788 2
+EndChar

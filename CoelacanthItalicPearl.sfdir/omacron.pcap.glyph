@@ -1,0 +1,11 @@
+StartChar: omacron.pcap
+Encoding: 57440 57440 1686
+Width: 591
+Flags: HW
+HStem: -12 77<238 380.814> 433 79<207.486 352.49> 587.022 80.9567<177 436>
+VStem: 27 115<161.882 350.475> 453 105<152.614 330.102>
+LayerCount: 2
+Fore
+Refer: 101 772 N 1 0 0 1 478 0 2
+Refer: 657 57361 N 1 0 0 1 0 0 3
+EndChar

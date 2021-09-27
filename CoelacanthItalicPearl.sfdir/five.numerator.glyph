@@ -1,0 +1,13 @@
+StartChar: five.numerator
+Encoding: 58413 58413 927
+Width: 277
+Flags: HW
+HStem: 245.933 56.1533<24.5565 118.856> 526.681 70.7764<165.68 288.438>
+VStem: 15.0762 322.559
+LayerCount: 2
+Fore
+Refer: 917 58403 N 1 0 0 1 0 346 2
+Kerns2: 911 -255 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "dnom-1" five.denom
+EndChar

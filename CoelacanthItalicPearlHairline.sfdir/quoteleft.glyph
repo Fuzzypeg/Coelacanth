@@ -1,0 +1,12 @@
+StartChar: quoteleft
+Encoding: 8216 8216 81
+Width: 200
+Flags: HW
+HStem: 444.351 283.585
+VStem: 5.42027 174.45<513.044 556.612>
+LayerCount: 2
+Fore
+Refer: 46 44 N -1 0 0 -1 200 593 2
+Position2: "Extra space for context kern-1" dx=35 dy=0 dh=70 dv=0
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

@@ -1,0 +1,17 @@
+StartChar: Adieresis
+Encoding: 196 196 172
+Width: 715
+Flags: HW
+HStem: -177 78.1279<-199.541 -97.954> 0.542969 50.457<-135.903 -117.444> 731.1 107.8<241.142 330.858 433.142 522.858>
+VStem: -272.438 98.4385<-124.671 -35.1372> 231 110<741.075 828.965> 423 110<741.075 828.965>
+AnchorPoint: "Ogonek" 533 27 basechar 0
+AnchorPoint: "Bottom" 363 -15 basechar 0
+AnchorPoint: "Top" 371 823 basechar 0
+LayerCount: 2
+Fore
+Refer: 163 58024 N 1 0 0 1 232 -20 2
+Refer: 26 65 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" adieresis.pcap
+Substitution2: "c2sc-1" adieresis.smcp
+EndChar

@@ -1,0 +1,13 @@
+StartChar: Zkreska
+Encoding: 58007 58007 1202
+Width: 693
+Flags: HW
+HStem: 0 67<199 568.049> 610 66.0349<126.721 501>
+LayerCount: 2
+Fore
+Refer: 1192 57997 N 1 0 0 1 286 0 2
+Refer: 58 90 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2sc-1" zkreska.smcp
+Substitution2: "c2pc-1" zkreska.pcap
+EndChar

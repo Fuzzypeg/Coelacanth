@@ -1,0 +1,11 @@
+StartChar: icircumflex.pcap
+Encoding: 57387 57387 1633
+Width: 377
+Flags: HW
+HStem: -8 66<247.449 314.53> 438 71<69.5139 135.452 252.508 318.493> 576 155.801
+VStem: 54.2998 288.5 140 104<63.5768 428.84>
+LayerCount: 2
+Fore
+Refer: 93 770 N 1 0 0 1 373 0 2
+Refer: 651 57355 N 1 0 0 1 0 0 3
+EndChar

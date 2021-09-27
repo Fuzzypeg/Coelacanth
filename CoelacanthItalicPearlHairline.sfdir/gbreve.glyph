@@ -1,0 +1,13 @@
+StartChar: gbreve
+Encoding: 287 287 145
+Width: 492
+Flags: HW
+HStem: 576 76.7188<163.397 310.886>
+VStem: 84.8477 305.357
+LayerCount: 2
+Fore
+Refer: 105 774 N 1 0 0 1 412 0 2
+Refer: 6 103 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" gbreve.smcp
+Substitution2: "pcap-1" gbreve.pcap
+EndChar

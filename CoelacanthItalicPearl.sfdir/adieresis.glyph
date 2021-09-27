@@ -1,0 +1,15 @@
+StartChar: adieresis
+Encoding: 228 228 118
+Width: 491
+Flags: HW
+HStem: 593.08 105.84<93.994 188.006 269.994 364.006>
+VStem: 86.82 108.36<600.114 691.915> 262.82 108.36<600.114 691.915>
+AnchorPoint: "Bottom" 203 -15 basechar 0
+AnchorPoint: "Ogonek" 386 22 basechar 0
+LayerCount: 2
+Fore
+Refer: 97 776 N 1 0 0 1 404 0 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" adieresis.pcap
+Substitution2: "smcp-1" adieresis.smcp
+EndChar

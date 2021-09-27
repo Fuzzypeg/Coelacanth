@@ -1,0 +1,14 @@
+StartChar: six.tabulartext
+Encoding: 58374 58374 678
+Width: 533
+Flags: W
+HStem: -10 28<200.382 286.277> 326 38<193.088 279.145>
+VStem: 38 62<125.59 348.209> 358 48<96.5611 235.991>
+LayerCount: 2
+Fore
+Refer: 69 54 N 1 0 0 1 -39 0 2
+Substitution2: "pnum-1" six
+Substitution2: "lnum-1" six.tabularlining
+Substitution2: "numr-1" six.numerator
+Substitution2: "dnom-1" six.denom
+EndChar

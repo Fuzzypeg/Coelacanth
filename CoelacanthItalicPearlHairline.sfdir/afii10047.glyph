@@ -1,0 +1,14 @@
+StartChar: afii10047
+Encoding: 1069 1069 1255
+Width: 726
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: 2 72<242.149 454.69> 322 36<293.607 634> 631 75<227.237 435.343>
+VStem: 71 57<502.281 536.804> 101 62<142.574 197.795> 234 36<385.652 442> 602 115<243.64 465.316>
+AnchorPoint: "Bottom" 350 -15 basechar 0
+AnchorPoint: "Top" 364 699 basechar 0
+LayerCount: 2
+Fore
+Refer: 1098 1028 N -1 0 0 -1 760 690 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

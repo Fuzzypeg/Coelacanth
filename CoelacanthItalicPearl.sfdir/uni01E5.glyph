@@ -1,0 +1,13 @@
+StartChar: uni01E5
+Encoding: 485 485 706
+Width: 504
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -55 52<7.21064 477.711>
+AnchorPoint: "Top" 220 465 basechar 0
+AnchorPoint: "Bottom" 221 -318 basechar 0
+LayerCount: 2
+Fore
+Refer: 441 821 N 1.57886 0 0 0.706282 474.919 -401.211 2
+Refer: 6 103 N 1 0 0 1 0 0 2
+EndChar

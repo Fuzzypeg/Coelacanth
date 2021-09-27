@@ -1,0 +1,17 @@
+StartChar: Aacute
+Encoding: 193 193 169
+Width: 715
+Flags: HW
+HStem: 700.552 154.372
+VStem: 342.163 205.617
+AnchorPoint: "Ogonek" 533 27 basechar 0
+AnchorPoint: "Bottom" 363 -15 basechar 0
+AnchorPoint: "Top" 358 806 basechar 0
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 318 -20 2
+Refer: 26 65 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" aacute.pcap
+Substitution2: "c2sc-1" aacute.smcp
+EndChar

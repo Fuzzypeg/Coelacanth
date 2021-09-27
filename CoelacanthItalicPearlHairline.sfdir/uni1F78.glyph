@@ -1,0 +1,12 @@
+StartChar: uni1F78
+Encoding: 8056 8056 1148
+Width: 586
+Flags: HW
+HStem: 625.951 193.429
+VStem: 145.889 230.611
+AnchorPoint: "Bottom" 250 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 2379 8175 N 1 0 0 1 121 0 2
+Refer: 1017 959 N 1 0 0 1 0 0 3
+EndChar

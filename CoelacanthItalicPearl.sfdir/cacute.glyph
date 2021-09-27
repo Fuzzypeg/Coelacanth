@@ -1,0 +1,14 @@
+StartChar: cacute
+Encoding: 263 263 138
+Width: 417
+Flags: HW
+HStem: 569.951 193.429
+VStem: 203.389 230.611
+LayerCount: 2
+Fore
+Refer: 92 769 N 1 0 0 1 436 0 2
+Refer: 2 99 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" cacute.smcp
+Substitution2: "'locl' Localized Forms Polish-1" ckreska
+Substitution2: "pcap-1" cacute.pcap
+EndChar

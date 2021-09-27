@@ -1,0 +1,14 @@
+StartChar: zacute
+Encoding: 378 378 245
+Width: 418
+Flags: HW
+HStem: 569.951 193.429
+VStem: 225.389 230.611
+LayerCount: 2
+Fore
+Refer: 92 769 N 1 0 0 1 458 0 2
+Refer: 25 122 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" zacute.smcp
+Substitution2: "'locl' Localized Forms Polish-1" zkreska
+Substitution2: "pcap-1" zacute.pcap
+EndChar

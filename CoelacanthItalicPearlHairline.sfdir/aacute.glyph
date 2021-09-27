@@ -1,0 +1,15 @@
+StartChar: aacute
+Encoding: 225 225 115
+Width: 491
+Flags: HW
+HStem: 569.951 193.429
+VStem: 171.389 230.611
+AnchorPoint: "Bottom" 203 -15 basechar 0
+AnchorPoint: "Ogonek" 386 22 basechar 0
+LayerCount: 2
+Fore
+Refer: 92 769 N 1 0 0 1 404 0 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" aacute.pcap
+Substitution2: "smcp-1" aacute.smcp
+EndChar

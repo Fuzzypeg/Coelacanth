@@ -1,0 +1,13 @@
+StartChar: Wcircumflex
+Encoding: 372 372 239
+Width: 992
+Flags: HW
+HStem: -8 20G<271.5 342.5 631 699> 616 74<198.407 244.946 580.37 615.84 777 863.741> 624 66<990.05 1028.17>
+LayerCount: 2
+Fore
+Refer: 159 58020 N 1 0 0 1 390 -20 2
+Refer: 55 87 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" wcircumflex.pcap
+Substitution2: "c2sc-1" wcircumflex.smcp
+EndChar

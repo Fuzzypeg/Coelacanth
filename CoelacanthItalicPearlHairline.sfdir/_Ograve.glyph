@@ -1,0 +1,15 @@
+StartChar: Ograve
+Encoding: 210 210 182
+Width: 792
+Flags: HW
+HStem: -16 72<348.672 528.99> 616 73<286.654 477.048> 698.331 154.372
+VStem: 48 119<261.919 449.449> 248.331 205.617 655 115<214.618 413.376>
+AnchorPoint: "Bottom" 418 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 96 58019 N 1 0 0 1 351 -20 2
+Refer: 40 79 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" ograve.pcap
+Substitution2: "c2sc-1" ograve.smcp
+EndChar
