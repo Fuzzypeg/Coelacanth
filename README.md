@@ -4,7 +4,7 @@ An open-source type family for general typesetting (screen and print), intended 
 It is closely based on Bruce Rogers' much-loved _Centaur_ typeface, but with a new italic that shares the essential characteristics of the roman, rather than the _Arrighi_ italic
 which typically accompanied _Centaur_ but was conceived independently. Possibly in future an italic based on the _Arrighi_ will be offered as well.
 
-You can find the most recent release of Coelacanth at [Font Library](https://fontlibrary.org/en/font/coelacanth).
+You can find the most recent release of Coelacanth [here](https://github.com/Fuzzypeg/Coelacanth/tree/master/release) or at [Font Library](https://fontlibrary.org/en/font/coelacanth).
 
 Coelacanth offers numerous features:
 - Roman and italic
