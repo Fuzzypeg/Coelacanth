@@ -2,14 +2,14 @@ StartChar: thinrule
 Encoding: 58113 58113 1961
 Width: 1000
 Flags: W
-HStem: -31 62<0 1000>
+HStem: -28 56<0 1000>
 LayerCount: 2
 Fore
 SplineSet
-0 -31 m 1
- 0 31 l 1
- 1000 31 l 1
- 1000 -31 l 1
- 0 -31 l 1
+0 -28 m 1
+ 0 28 l 1
+ 1000 28 l 1
+ 1000 -28 l 1
+ 0 -28 l 1
 EndSplineSet
 EndChar

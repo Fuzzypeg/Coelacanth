@@ -8,6 +8,6 @@ LayerCount: 2
 Fore
 Refer: 911 8260 N 1 0 0 1 106 -51 2
 Refer: 1390 8320 N 1 0 0 1 328 0 2
-Refer: 1390 8320 S 1 0 0 1 42 279 2
+Refer: 1390 8320 N 1 0 0 1 42 279 2
 Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
 EndChar
