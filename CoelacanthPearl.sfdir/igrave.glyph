@@ -1,7 +1,7 @@
 StartChar: igrave
 Encoding: 236 236 122
 Width: 287
-Flags: HW
+Flags: W
 HStem: 569.951 193.429
 VStem: -27.6113 230.611
 AnchorPoint: "Ogonek" 197 18 basechar 0

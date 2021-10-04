@@ -1,7 +1,7 @@
 StartChar: lcommaaccent.pcap
 Encoding: 57432 57432 1678
 Width: 527
-Flags: HW
+Flags: W
 HStem: -177.1 149 -7 74<59 97.9832> 0 69<202.433 406.128> 437 71<203.384 260.493>
 VStem: 98 104<68.769 431.064> 229 102<-122.261 -42.3> 430 73<73.8172 135>
 LayerCount: 2

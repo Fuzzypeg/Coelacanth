@@ -1,9 +1,9 @@
 StartChar: uni1FCD
 Encoding: 8141 8141 1352
 Width: 340
-Flags: HW
-HStem: 479 56<6.83691 58.3612>
-VStem: 64.8369 75<543.614 606.331>
+Flags: W
+HStem: 566 56<26.8369 78.3612>
+VStem: 84.8369 75<630.614 693.632>
 AnchorPoint: "Top" 162 537 mark 0
 LayerCount: 2
 Fore

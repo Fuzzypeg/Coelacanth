@@ -1,7 +1,7 @@
 StartChar: uni03F3
 Encoding: 1011 1011 1043
 Width: 268
-Flags: HW
+Flags: W
 HStem: -307 29<-113.666 -77.7346> 703.7 132.6<151.865 262.135>
 VStem: 139.4 135.2<715.969 824.079>
 AnchorPoint: "Top" 158 465 basechar 0

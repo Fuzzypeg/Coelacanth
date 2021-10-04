@@ -1,7 +1,7 @@
 StartChar: z.pcap
 Encoding: 57372 57372 668
 Width: 537
-Flags: HW
+Flags: W
 HStem: -8 21G<44.0159 71> 1 75<204.304 424.158> 424 75<129 357>
 AnchorPoint: "Top" 283 537 basechar 0
 AnchorPoint: "Bottom" 269 -15 basechar 0

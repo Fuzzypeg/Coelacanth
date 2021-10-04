@@ -1,7 +1,7 @@
 StartChar: egrave
 Encoding: 232 232 95
 Width: 506
-Flags: HW
+Flags: W
 HStem: 569.951 193.429
 VStem: 97.3887 230.611
 AnchorPoint: "Ogonek" 364 18 basechar 0

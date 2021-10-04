@@ -1,7 +1,7 @@
 StartChar: edieresis
 Encoding: 235 235 121
 Width: 506
-Flags: HW
+Flags: W
 HStem: 593.08 105.84<133.994 228.006 309.994 404.006>
 VStem: 126.82 108.36<600.114 691.915> 302.82 108.36<600.114 691.915>
 AnchorPoint: "Ogonek" 364 18 basechar 0

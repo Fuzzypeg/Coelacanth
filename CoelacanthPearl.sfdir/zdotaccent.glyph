@@ -1,7 +1,7 @@
 StartChar: zdotaccent
 Encoding: 380 380 266
 Width: 550
-Flags: HW
+Flags: W
 HStem: 582.7 132.6<226.865 337.135>
 VStem: 214.4 135.2<594.969 703.079>
 LayerCount: 2

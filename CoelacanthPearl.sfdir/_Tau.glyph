@@ -1,7 +1,7 @@
 StartChar: Tau
 Encoding: 932 932 994
 Width: 724
-Flags: HW
+Flags: W
 AnchorPoint: "Top" 358 699 basechar 0
 AnchorPoint: "Bottom" 358 -15 basechar 0
 LayerCount: 2

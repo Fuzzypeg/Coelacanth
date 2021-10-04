@@ -2,9 +2,9 @@ StartChar: theta
 Encoding: 952 952 1010
 Width: 543
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -11 44<189.489 288.36> 657 40<231.149 329.426>
-VStem: 57 79<134.659 458.11> 381 78<221.369 559.965>
+Flags: W
+HStem: -11 78<204.486 301.349> 623 74<254.462 356.21>
+VStem: 57 103<141.455 452.618> 398 101<239.836 554.595>
 AnchorPoint: "Bottom" 257 -15 basechar 0
 LayerCount: 2
 Fore

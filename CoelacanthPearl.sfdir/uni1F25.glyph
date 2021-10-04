@@ -2,9 +2,7 @@ StartChar: uni1F25
 Encoding: 7973 7973 1334
 Width: 566
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 480 56<253.384 304.908> 633.951 193.429
-VStem: 171.908 75<544.614 607.331> 324.299 230.611
+Flags: W
 AnchorPoint: "Bottom" 139 -15 basechar 0
 LayerCount: 2
 Fore

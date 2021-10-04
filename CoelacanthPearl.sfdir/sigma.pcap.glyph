@@ -1,7 +1,7 @@
 StartChar: sigma.pcap
 Encoding: 57534 57534 1839
 Width: 468
-Flags: HW
+Flags: W
 HStem: -0.434544 32.4345<174.533 325.173> 375.725 25.65<182.202 331.994>
 VStem: 357.612 20.8594<303.319 348.88> 396.331 19.6689<106.364 116.621>
 AnchorPoint: "Bottom" 229 -15 basechar 0

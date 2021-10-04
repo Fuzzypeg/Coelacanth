@@ -1,7 +1,7 @@
 StartChar: Q
 Encoding: 81 81 42
 Width: 801
-Flags: HW
+Flags: W
 HStem: -171 74<683.094 828.457> -12 82<334.469 436.601> 619 73<276.077 461.215>
 VStem: 42 107<247.224 459.392> 642 103<228.036 436.809>
 AnchorPoint: "Middle" 400.697 347.853 basechar 0

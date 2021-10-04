@@ -1,7 +1,7 @@
 StartChar: i
 Encoding: 105 105 8
 Width: 331
-Flags: HW
+Flags: W
 HStem: 612.7 132.6<146.865 257.135>
 VStem: 134.4 135.2<624.969 733.079>
 AnchorPoint: "Ogonek" 221 18 basechar 0

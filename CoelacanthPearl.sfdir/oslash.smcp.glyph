@@ -2,9 +2,9 @@ StartChar: oslash.smcp
 Encoding: 57720 57720 2074
 Width: 659
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -15.858 74.9411<273.024 431.504> 491.323 76.6295<237.92 401.754>
-VStem: 34.0109 116.953<183.715 382.171> 525.047 108.837<167.936 363.427>
+Flags: W
+HStem: -13 75<274.971 431.469> 497 77<238.2 401.869>
+VStem: 34 117<188.562 387.446> 525 109<172.815 368.674>
 AnchorPoint: "Bottom" 336 -15 basechar 0
 AnchorPoint: "Top" 334 580 basechar 0
 LayerCount: 2

@@ -2,7 +2,7 @@ StartChar: tcedilla.pcap
 Encoding: 57451 57451 1697
 Width: 532
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 HStem: -172 50.1914<187.034 253.203> -10 21G<153.108 172 371 384.025> 429 69<91.8749 215 322 441>
 VStem: 215 107<73.2591 429> 256.175 76.4277<-122.225 -75.0357>
 LayerCount: 2

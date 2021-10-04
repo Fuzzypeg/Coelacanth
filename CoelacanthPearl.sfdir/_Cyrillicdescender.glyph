@@ -1,9 +1,9 @@
 StartChar: Cyrillicdescender
 Encoding: 58088 58088 1317
 Width: 209
-Flags: HW
-HStem: 0 56<19 86.8366>
-VStem: 153 56<-240 -107.204>
+Flags: W
+HStem: 6 70<19 86.8366>
+VStem: 153 56<-234 -101.204>
 LayerCount: 2
 Fore
 SplineSet

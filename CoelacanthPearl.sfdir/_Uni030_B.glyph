@@ -1,9 +1,9 @@
 StartChar: Uni030B
 Encoding: 58027 58027 166
 Width: 300
-Flags: HW
-HStem: 714.808 169.192
-VStem: -8 50.4854<738.158 767.047>
+Flags: W
+HStem: 712.128 166.872
+VStem: -37 50.4854<732.742 747.402>
 AnchorPoint: "Top" 87 699 mark 0
 LayerCount: 2
 Fore

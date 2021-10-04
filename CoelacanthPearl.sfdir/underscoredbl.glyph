@@ -1,8 +1,8 @@
 StartChar: underscoredbl
 Encoding: 8215 8215 1278
 Width: 463
-Flags: HW
-HStem: -286.348 72.6957<0 463> -176.348 72.6957<0 463>
+Flags: W
+HStem: -286.348 72.6957<-2.81997e-14 534> -176.348 72.6957<-2.81997e-14 534>
 LayerCount: 2
 Fore
 Refer: 338 95 N 1 0 0 1 0 -110 2

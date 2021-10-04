@@ -1,9 +1,9 @@
 StartChar: periodcentered
 Encoding: 183 183 461
 Width: 217
-Flags: HW
-HStem: 185.443 176.317<84.6342 132.724>
-VStem: 21.6798 174.639<248.62 295.449>
+Flags: W
+HStem: 229.443 176.317<84.6342 132.724>
+VStem: 21.6798 174.639<292.62 339.449>
 LayerCount: 2
 Fore
 Refer: 48 46 N 1 0 0 1 0 258 2

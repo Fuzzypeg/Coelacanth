@@ -2,8 +2,8 @@ StartChar: clickalveolar.smcp
 Encoding: 57796 57796 2148
 Width: 378
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 139.391 89.2172<60 318> 260.391 89.2172<60 318>
+Flags: W
+HStem: 136.391 89.2172<60 318> 337.391 89.2172<60 318>
 LayerCount: 2
 Fore
 Refer: 2146 57794 N 1 0 0 1 96 0 2

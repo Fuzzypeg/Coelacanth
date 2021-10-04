@@ -2,8 +2,8 @@ StartChar: notequal
 Encoding: 8800 8800 693
 Width: 533
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 110.391 89.2172<34 428> 294.391 89.2172<34 428>
+Flags: W
+HStem: 138.391 89.2172<61 472> 322.391 89.2172<61 472>
 LayerCount: 2
 Fore
 Refer: 1961 58113 N 0.209471 0.449212 -0.962952 0.449032 164.765 52.3942 2

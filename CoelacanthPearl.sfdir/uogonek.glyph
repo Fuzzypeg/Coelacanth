@@ -2,9 +2,9 @@ StartChar: uogonek
 Encoding: 371 371 262
 Width: 563
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 HStem: -177.1 75.1279<380.727 467.339>
-VStem: 321.79 79.4385<-124.77 -34.6367>
+VStem: 321.79 79.4385<-124.771 -34.6369>
 LayerCount: 2
 Fore
 SplineSet

@@ -1,7 +1,7 @@
 StartChar: l.pcap
 Encoding: 57358 57358 654
 Width: 527
-Flags: HW
+Flags: W
 HStem: -7 74<59 97.9832> 0 69<202.433 406.128> 437 71<203.384 260.493>
 VStem: 98 104<68.769 431.064> 430 73<73.8172 135>
 AnchorPoint: "Top" 174 537 basechar 0

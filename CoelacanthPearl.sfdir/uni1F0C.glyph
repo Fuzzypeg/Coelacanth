@@ -1,9 +1,9 @@
 StartChar: uni1F0C
 Encoding: 7948 7948 1461
 Width: 733
-Flags: HW
-HStem: 501.848 60.48<-13.0091 42.6371>
-VStem: 49.6309 81<571.631 639.366>
+Flags: W
+HStem: -177 78.1279<-199.541 -97.954> 0.542969 50.457<-135.903 -117.444> 563.808 60.48<9.83087 65.4771>
+VStem: -272.438 98.4385<-124.671 -35.1372> 72.4709 81<633.591 701.65>
 AnchorPoint: "Bottom" 368 -15 basechar 0
 AnchorPoint: "Top" 382 679 basechar 0
 LayerCount: 2

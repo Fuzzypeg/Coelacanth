@@ -1,8 +1,9 @@
 StartChar: uni1E29
 Encoding: 7721 7721 797
 Width: 559
-Flags: HW
-VStem: 284 63.126<-165.104 -94.3473>
+Flags: W
+HStem: -172 50<200 266.39>
+VStem: 269 77<-121.725 -74.8019>
 AnchorPoint: "Top" 120 733 basechar 0
 LayerCount: 2
 Fore

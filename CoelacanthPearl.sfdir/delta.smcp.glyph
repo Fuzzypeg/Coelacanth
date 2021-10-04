@@ -1,8 +1,8 @@
 StartChar: delta.smcp
 Encoding: 57853 57853 2205
 Width: 544
-Flags: HW
-HStem: 0.16966 49.6487<108.302 398.144>
+Flags: W
+HStem: 0.16966 49.6487<108.302 398.144> 484.8 20G<266.972 302.837>
 VStem: 268.482 32.4679<447.935 504.8>
 LayerCount: 2
 Fore

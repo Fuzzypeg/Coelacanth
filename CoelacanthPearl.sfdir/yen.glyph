@@ -2,7 +2,7 @@ StartChar: yen
 Encoding: 165 165 451
 Width: 463
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 HStem: -195.143 27.832<290.394 317.58> -36.875 69.75<93 383> 63.125 69.75<93 383>
 VStem: 207.261 75.8369<-163.561 112.389>
 LayerCount: 2

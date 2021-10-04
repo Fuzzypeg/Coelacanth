@@ -1,8 +1,8 @@
 StartChar: uni271A
 Encoding: 10010 10010 2437
 Width: 698
-Flags: HW
-HStem: 291 99<8.5 689.5>
+Flags: W
+HStem: 271.5 138<8.5 689.5>
 LayerCount: 2
 Fore
 Refer: 1963 58115 N 0.681 0 0 1.5 8.5 340.5 2

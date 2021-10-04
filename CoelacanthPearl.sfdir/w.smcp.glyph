@@ -1,8 +1,8 @@
 StartChar: w.smcp
 Encoding: 57693 57693 2045
 Width: 887
-Flags: HW
-HStem: -9 21G<242.5 318 496 580> 435 71<183.051 205.887 462.618 488.8 605 639.633> 446 60<732.079 760.283>
+Flags: W
+HStem: -9 21G<281 355.5 573 647> 500 72<199.39 230.972 685 735.754> 510 62<835.828 868.242>
 AnchorPoint: "Top" 460 580 basechar 0
 AnchorPoint: "Bottom" 447 -15 basechar 0
 LayerCount: 2

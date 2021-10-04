@@ -2,9 +2,9 @@ StartChar: cent
 Encoding: 162 162 1203
 Width: 473
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -9 63<150.253 274.436> 370 51<159.213 276.324>
-VStem: 25 62<120.66 283.256>
+Flags: W
+HStem: -10.7998 88.7998<204.335 344.838> 430 84.2002<171.827 311.21>
+VStem: 21 94<179.709 348.98>
 LayerCount: 2
 Back
 SplineSet

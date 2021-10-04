@@ -1,9 +1,9 @@
 StartChar: uniE2CA
 Encoding: 58058 58058 2528
 Width: 733
-Flags: HW
-HStem: 658.447 78.834<284.023 454.147> 728.331 154.372
-VStem: 207.331 205.617 210.765 317.471
+Flags: W
+HStem: 658.447 78.834<297.023 467.147>
+VStem: 223.765 317.471
 AnchorPoint: "Top" 384 679 mark 0
 LayerCount: 2
 Fore

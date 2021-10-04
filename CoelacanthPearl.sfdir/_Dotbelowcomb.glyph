@@ -1,9 +1,9 @@
 StartChar: Dotbelowcomb
 Encoding: 58031 58031 283
 Width: 0
-Flags: HW
-HStem: -154.4 118.8<-243.344 -144.656>
-VStem: -254.5 121<-143.408 -46.5488>
+Flags: W
+HStem: -154.4 118.8<-249.461 -138.539>
+VStem: -262 136<-143.408 -46.5488>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Fore

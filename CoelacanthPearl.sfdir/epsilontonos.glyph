@@ -3,9 +3,9 @@ Encoding: 941 941 1104
 Width: 481
 UnlinkRmOvrlpSave: 1
 InSpiro: 1
-Flags: HW
-HStem: 632.951 193.429
-VStem: 230.89 230.611
+Flags: W
+HStem: 569.951 193.429
+VStem: 230.391 230.611
 AnchorPoint: "Bottom" 232 -15 basechar 0
 LayerCount: 2
 Fore

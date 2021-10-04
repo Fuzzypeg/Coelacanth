@@ -1,7 +1,7 @@
 StartChar: ugrave
 Encoding: 249 249 131
 Width: 563
-Flags: HW
+Flags: W
 HStem: 569.951 193.429
 VStem: 113.389 230.611
 AnchorPoint: "Bottom" 256 -15 basechar 0

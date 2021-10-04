@@ -2,8 +2,8 @@ StartChar: dcroat
 Encoding: 273 273 341
 Width: 561
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 596.188 73.625<203 501>
+Flags: W
+HStem: 596.188 73.625<254 552>
 AnchorPoint: "Bottom" 224 -15 basechar 0
 LayerCount: 2
 Fore

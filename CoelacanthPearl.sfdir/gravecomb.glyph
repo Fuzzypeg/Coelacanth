@@ -1,7 +1,7 @@
 StartChar: gravecomb
 Encoding: 768 768 94
 Width: 0
-Flags: HW
+Flags: W
 HStem: 569.951 193.429
 VStem: -346.611 230.611
 AnchorPoint: "TopMark" -185 768 basemark 0

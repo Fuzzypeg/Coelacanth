@@ -1,8 +1,8 @@
 StartChar: W
 Encoding: 87 87 55
 Width: 1038
-Flags: HW
-HStem: -8 20G<271.5 342.5 631 699> 616 74<198.407 244.946 580.37 615.84 777 863.741> 624 66<990.05 1028.17>
+Flags: W
+HStem: -8 20G<271.5 342.5 631 699> 616 74<198.407 244.946 580.37 615.84 777 863.741> 624 66<990.052 1028.17>
 AnchorPoint: "Bottom" 498 -15 basechar 0
 AnchorPoint: "Top" 530 679 basechar 0
 LayerCount: 2

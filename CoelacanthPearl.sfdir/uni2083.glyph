@@ -1,7 +1,9 @@
 StartChar: uni2083
 Encoding: 8323 8323 1394
 Width: 285
-Flags: HW
+Flags: W
+HStem: -95 53<50 121.613> 28 50<111 133.527> 133 67<68.1321 142.237>
+VStem: 143 81<89.3812 156> 154 85<-13.74 35.5276>
 LayerCount: 2
 Fore
 Refer: 2449 58361 N 1 0 0 1 0 -80 2

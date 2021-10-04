@@ -1,7 +1,7 @@
 StartChar: q.pcap
 Encoding: 57363 57363 659
 Width: 594
-Flags: HW
+Flags: W
 HStem: -148 72<526.94 751.048> -12 76<224.496 338.513> 437 75<205.101 366.292>
 VStem: 24 104<162.557 356.363> 455 101<147.735 344.348>
 AnchorPoint: "Middle" 296.697 252.853 basechar 0

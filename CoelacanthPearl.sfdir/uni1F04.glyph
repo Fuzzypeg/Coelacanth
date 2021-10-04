@@ -2,9 +2,9 @@ StartChar: uni1F04
 Encoding: 7940 7940 1128
 Width: 618
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 486 56<157.336 208.86> 633.951 193.429
-VStem: 215.336 75<550.614 613.331> 303.89 230.611
+Flags: W
+HStem: 572 56<196.837 248.361>
+VStem: 254.837 75<636.614 699.632>
 AnchorPoint: "Bottom" 275 -15 basechar 0
 LayerCount: 2
 Fore

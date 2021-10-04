@@ -1,7 +1,7 @@
 StartChar: acircumflex
 Encoding: 226 226 116
 Width: 477
-Flags: HW
+Flags: W
 HStem: 576 155.801
 VStem: 85.2998 288.5
 AnchorPoint: "Bottom" 203 -15 basechar 0

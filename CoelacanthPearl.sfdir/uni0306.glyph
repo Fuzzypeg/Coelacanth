@@ -1,7 +1,7 @@
 StartChar: uni0306
 Encoding: 774 774 105
 Width: 0
-Flags: HW
+Flags: W
 HStem: 576 76.7188<-248.603 -101.114>
 VStem: -327.152 305.357
 AnchorPoint: "Top" -174 537 mark 0

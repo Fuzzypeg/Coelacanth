@@ -1,9 +1,9 @@
 StartChar: uni1EAF
 Encoding: 7855 7855 845
 Width: 477
-Flags: HW
-HStem: 620 76.7188<160.897 308.386>
-VStem: 82.3477 305.357
+Flags: W
+HStem: 545 76.7188<173.897 321.386>
+VStem: 95.3477 305.357
 AnchorPoint: "Bottom" 193 -15 basechar 0
 LayerCount: 2
 Fore

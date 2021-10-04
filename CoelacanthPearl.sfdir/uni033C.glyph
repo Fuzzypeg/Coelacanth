@@ -1,7 +1,7 @@
 StartChar: uni033C
 Encoding: 828 828 868
 Width: 0
-Flags: HW
+Flags: W
 HStem: -117.309 66.7197<-280.599 -228.612 -161.39 -108.851>
 VStem: -343 296.179
 AnchorPoint: "Bottom" -193 -15 mark 0

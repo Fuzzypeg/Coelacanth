@@ -1,7 +1,7 @@
 StartChar: ebreve
 Encoding: 277 277 142
 Width: 506
-Flags: HW
+Flags: W
 HStem: 576 76.7188<188.397 335.886>
 VStem: 109.848 305.357
 AnchorPoint: "Ogonek" 298.65 23 basechar 0

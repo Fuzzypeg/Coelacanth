@@ -1,7 +1,9 @@
 StartChar: five.small
 Encoding: 58456 58456 2461
 Width: 304
-Flags: HW
+Flags: W
+HStem: -15.0676 21G<30.2792 76.0839> 265.681 70.7759<121.417 224.625>
+VStem: 161.595 87.9596<76.9144 146.216>
 LayerCount: 2
 Fore
 SplineSet
