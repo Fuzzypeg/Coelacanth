@@ -1,9 +1,9 @@
 StartChar: t.pcap
 Encoding: 57366 57366 662
 Width: 532
-Flags: HW
+Flags: W
 HStem: -10 21G<153.108 172 371 384.025> 429 69<91.8749 215 322 441>
-VStem: 215 107<73.2591 429>
+VStem: 215 107<73.2591 429> 431 79<381.671 415.2>
 AnchorPoint: "Top" 274 537 basechar 0
 AnchorPoint: "Bottom" 273 -15 basechar 0
 LayerCount: 2

@@ -1,9 +1,9 @@
 StartChar: igrave
 Encoding: 236 236 122
 Width: 277
-Flags: HW
-HStem: 569.951 193.429
-VStem: -27.6113 230.611
+Flags: W
+HStem: 354 75<141 212> 569.951 193.429
+VStem: -27.611 230.611 60 202
 AnchorPoint: "Ogonek" 197 18 basechar 0
 AnchorPoint: "Bottom" 143 -15 basechar 0
 LayerCount: 2

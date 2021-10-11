@@ -1,7 +1,8 @@
 StartChar: less
 Encoding: 60 60 334
 Width: 535
-Flags: HW
+Flags: W
+HStem: 33.2632 20G<390.513 433.277>
 LayerCount: 2
 Fore
 Refer: 333 62 S -1 0 0 -1 650 551.232 2

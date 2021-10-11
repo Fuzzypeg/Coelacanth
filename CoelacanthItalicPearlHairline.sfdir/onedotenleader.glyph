@@ -1,9 +1,9 @@
 StartChar: onedotenleader
 Encoding: 8228 8228 432
 Width: 200
-Flags: HW
-HStem: -28.557 176.317<84.6342 132.724>
-VStem: 21.6798 174.639<34.62 81.4493>
+Flags: W
+HStem: 0.443359 118.316<102.784 142.377>
+VStem: 64.2998 115.312
 LayerCount: 2
 Fore
 Refer: 48 46 N 1 0 0 1 0 0 2

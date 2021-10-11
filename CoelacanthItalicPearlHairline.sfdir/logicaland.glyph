@@ -1,8 +1,8 @@
 StartChar: logicaland
 Encoding: 8743 8743 1315
 Width: 522
-Flags: HW
-HStem: -8 21G<1 57.0628 464.975 521> 680 20G<242.286 280.227>
+Flags: W
+HStem: -8 21G<1 57.0628 464.975 521>
 LayerCount: 2
 Fore
 SplineSet

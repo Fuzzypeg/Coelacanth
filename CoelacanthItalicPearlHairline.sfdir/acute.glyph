@@ -1,9 +1,9 @@
 StartChar: acute
 Encoding: 180 180 89
 Width: 230
-Flags: HW
+Flags: W
 HStem: 569.951 193.429
-VStem: 36.3887 230.611
+VStem: 36.389 230.611
 LayerCount: 2
 Fore
 Refer: 92 769 N 1 0 0 1 269 0 2

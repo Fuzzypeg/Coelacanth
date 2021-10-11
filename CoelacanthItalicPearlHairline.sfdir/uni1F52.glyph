@@ -1,9 +1,9 @@
 StartChar: uni1F52
 Encoding: 8018 8018 1445
 Width: 581
-Flags: HW
-HStem: 480 56<120.336 171.86>
-VStem: 178.336 75<544.614 607.331>
+Flags: W
+HStem: 567 56<183.837 235.361>
+VStem: 241.837 75<631.614 694.632>
 LayerCount: 2
 Fore
 Refer: 1352 8141 N 1 0 0 1 157 1 2

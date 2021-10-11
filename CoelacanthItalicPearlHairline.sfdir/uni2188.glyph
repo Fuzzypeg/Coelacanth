@@ -2,6 +2,6 @@ StartChar: uni2188
 Encoding: 8584 8584 2649
 Width: 1000
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 EndChar

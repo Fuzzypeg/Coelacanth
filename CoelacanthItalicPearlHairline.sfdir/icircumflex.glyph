@@ -1,9 +1,9 @@
 StartChar: icircumflex
 Encoding: 238 238 124
 Width: 277
-Flags: HW
-HStem: 576 155.801
-VStem: 8.2998 288.5
+Flags: W
+HStem: 354 75<141 212> 576 155.801
+VStem: 8.3 288.5 60 202
 AnchorPoint: "Bottom" 143 -15 basechar 0
 AnchorPoint: "Ogonek" 197 18 basechar 0
 LayerCount: 2

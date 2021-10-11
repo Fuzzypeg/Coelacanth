@@ -1,9 +1,9 @@
 StartChar: lcaron
 Encoding: 318 318 252
 Width: 259
-Flags: HW
-HStem: 492.494 214.751
-VStem: 257.5 141.25
+Flags: W
+HStem: -10 21G<47.0016 91.8281> 492.494 214.751 749 20G<211.328 241.328>
+VStem: 16.3285 82<53.6655 157.415> 257.5 141.25
 LayerCount: 2
 Fore
 Refer: 113 789 N 1 0 0 1 375.5 50 2

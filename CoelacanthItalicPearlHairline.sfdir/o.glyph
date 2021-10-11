@@ -2,9 +2,9 @@ StartChar: o
 Encoding: 111 111 14
 Width: 490
 VWidth: 1159
-Flags: HW
-HStem: -10 65<174.096 258.023> 433 74<227.748 322.787>
-VStem: 31.0957 109.074<94.5032 295.923> 350.17 108.83<201.003 404.137>
+Flags: W
+HStem: -10 55<125.983 257.332> 450 57<239.007 366.724>
+VStem: 31.0957 55.9043<87.0703 286.368> 403 56<208.747 411.031>
 AnchorPoint: "Top" 316.17 537 basechar 0
 AnchorPoint: "Horn" 435.808 420.164 basechar 0
 AnchorPoint: "Ogonek" 289.169 19 basechar 0

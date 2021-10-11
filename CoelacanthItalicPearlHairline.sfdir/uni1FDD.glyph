@@ -1,9 +1,7 @@
 StartChar: uni1FDD
 Encoding: 8157 8157 1606
 Width: 337
-Flags: HW
-HStem: 479 56<69.4757 121>
-VStem: -12 75<543.614 606.331>
+Flags: W
 AnchorPoint: "Top" 172 537 mark 0
 LayerCount: 2
 Fore

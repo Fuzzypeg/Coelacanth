@@ -2,8 +2,9 @@ StartChar: uni0180
 Encoding: 384 384 1489
 Width: 478
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 581.188 73.625<11 309>
+Flags: W
+HStem: -9 58<106.435 219.908> 347 56<232.967 313.336> 611.75 66.5<137 435>
+VStem: 336.159 70.1571<192.971 323.898>
 LayerCount: 2
 Fore
 Refer: 441 821 S 1 0 0 1 463 118 2

@@ -1,8 +1,8 @@
 StartChar: uni1E77
 Encoding: 7799 7799 616
 Width: 536
-Flags: HW
-HStem: -172 142.801
+Flags: W
+HStem: -172 142.801 -18 56<286.605 378.674> -10 70<78.1053 168.105> 341 75<119.105 178.105> 387 20G<430.605 438.105>
 VStem: 141.3 288.5
 LayerCount: 2
 Fore

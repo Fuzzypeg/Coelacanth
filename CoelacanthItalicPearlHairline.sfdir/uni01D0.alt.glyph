@@ -1,9 +1,9 @@
 StartChar: uni01D0.alt
 Encoding: 58123 58123 1426
 Width: 277
-Flags: HW
-HStem: 569.199 155.801
-VStem: 33.2 271.8
+Flags: W
+HStem: 354 75<141 212> 569.199 155.801
+VStem: 33.1998 271.8 60 202
 LayerCount: 2
 Fore
 Refer: 103 780 N 0.942114 0 0 1 335.43 0 2

@@ -1,8 +1,8 @@
 StartChar: umacron
 Encoding: 363 363 232
 Width: 536
-Flags: HW
-HStem: 587.022 80.9567<159 418>
+Flags: W
+HStem: -18 56<286.605 378.674> -10 70<78.1053 168.105> 341 75<119.105 178.105> 387 20G<430.605 438.105>
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 460 0 2

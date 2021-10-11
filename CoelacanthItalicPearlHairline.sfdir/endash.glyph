@@ -1,8 +1,8 @@
 StartChar: endash
 Encoding: 8211 8211 886
 Width: 500
-Flags: HW
-HStem: 210.125 69.75<0 500>
+Flags: W
+HStem: 213.5 63<0 500>
 LayerCount: 2
 Fore
 Refer: 1961 58113 N 0.5 0 0 1.125 0 245 2

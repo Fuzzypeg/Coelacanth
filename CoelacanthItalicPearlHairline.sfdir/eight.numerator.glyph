@@ -2,7 +2,7 @@ StartChar: eight.numerator
 Encoding: 58416 58416 930
 Width: 308
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 HStem: 253.183 57.7783<128.729 215.156> 557.524 52.3311<171.373 242.152>
 VStem: 45.082 273.003
 LayerCount: 2

@@ -1,9 +1,8 @@
 StartChar: Iota
 Encoding: 921 921 984
 Width: 468
-Flags: HW
-HStem: -8 21G<69.1579 95.5 360.5 387.389> 672 20G<74.4211 102.5 362 391.026>
-VStem: 179 106<67.4773 555.247>
+Flags: W
+HStem: -8 72<21.1543 135.108 251.546 328.766> 0 65<21.1543 136.117> 616 76<164.387 246.087 370.84 467.21>
 AnchorPoint: "Bottom" 234 -15 basechar 0
 AnchorPoint: "Top" 233 679 basechar 0
 LayerCount: 2

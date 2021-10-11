@@ -1,9 +1,9 @@
 StartChar: quotedblbase
 Encoding: 8222 8222 464
 Width: 387
-Flags: HW
-HStem: -134.937 283.585
-VStem: 20.1295 174.45<36.3884 79.9558> 206.13 174.45<36.3884 79.9558>
+Flags: W
+HStem: -134.937 253.586
+VStem: 13.082 164.382 199.082 164.382
 LayerCount: 2
 Fore
 Refer: 463 8218 N 1 0 0 1 186 0 2

@@ -1,8 +1,9 @@
 StartChar: cedillafloating
 Encoding: 58084 58084 269
 Width: 0
-Flags: HW
-VStem: -195 63.126<-165.104 -94.3473>
+Flags: W
+HStem: -172 50<-279 -212.61>
+VStem: -210 77<-121.725 -74.8019>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2
 Back

@@ -1,9 +1,9 @@
 StartChar: quotedblleft
 Encoding: 8220 8220 82
 Width: 387
-Flags: HW
-HStem: 444.351 283.585
-VStem: 5.42027 174.45<513.044 556.612> 191.42 174.45<513.044 556.612>
+Flags: W
+HStem: 474.351 253.586
+VStem: 22.5361 164.382 208.536 164.382
 LayerCount: 2
 Fore
 Refer: 81 8216 N 1 0 0 1 186 0 2

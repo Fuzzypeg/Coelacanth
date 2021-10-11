@@ -2,8 +2,8 @@ StartChar: jcircumflex
 Encoding: 309 309 151
 Width: 307
 Flags: HW
-HStem: 576 155.801
-VStem: 0.299805 288.5
+HStem: 353 75<133 203> 576 155.801
+VStem: 0.3 288.5
 LayerCount: 2
 Fore
 Refer: 93 770 N 1 0 0 1 319 0 2

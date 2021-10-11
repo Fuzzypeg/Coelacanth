@@ -1,7 +1,7 @@
 StartChar: ckreska.pcap
 Encoding: 58008 58008 2352
 Width: 533
-Flags: HW
+Flags: W
 HStem: -14 70<225.77 388.056> 440 70<214.501 370.255>
 VStem: 24 107<148.163 345.732> 398 90<344.375 413.654> 445 63<115.501 149>
 LayerCount: 2

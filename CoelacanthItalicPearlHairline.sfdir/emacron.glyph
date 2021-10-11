@@ -1,8 +1,9 @@
 StartChar: emacron
 Encoding: 275 275 141
 Width: 436
-Flags: HW
-HStem: 587.022 80.9567<136 395>
+Flags: W
+HStem: -15 51<132.022 226.541> 367 54<183.053 254.388>
+VStem: 34.0341 71.9619<61.4685 197.627> 271.504 60<289.245 349.853>
 AnchorPoint: "Top" 209 560 basechar 0
 AnchorPoint: "Bottom" 205 -15 basechar 0
 LayerCount: 2

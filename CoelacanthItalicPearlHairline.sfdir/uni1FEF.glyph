@@ -1,9 +1,9 @@
 StartChar: uni1FEF
 Encoding: 8175 8175 2379
 Width: 230
-Flags: HW
+Flags: W
 HStem: 569.951 193.429
-VStem: 16.3887 230.611
+VStem: 16.389 230.611
 AnchorPoint: "Top" 190 537 mark 0
 LayerCount: 2
 Fore

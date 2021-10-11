@@ -1,9 +1,9 @@
 StartChar: Alphatonos
 Encoding: 902 902 968
 Width: 715
-Flags: HW
-HStem: 671.951 193.429
-VStem: 80.3907 230.611
+Flags: W
+HStem: -177 78.1279<-199.919 -98.3319> 0.542969 50.457<-136.281 -117.822>
+VStem: -272.816 98.4385<-124.671 -35.1372>
 LayerCount: 2
 Fore
 Refer: 976 913 N 1 0 0 1 0 0 3

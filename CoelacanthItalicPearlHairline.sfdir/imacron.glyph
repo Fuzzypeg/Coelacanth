@@ -1,8 +1,9 @@
 StartChar: imacron
 Encoding: 299 299 149
 Width: 277
-Flags: HW
-HStem: 587.022 80.9567<18 277>
+Flags: W
+HStem: 354 75<141 212>
+VStem: 60 202
 LayerCount: 2
 Fore
 Refer: 101 772 N 1 0 0 1 319 0 2

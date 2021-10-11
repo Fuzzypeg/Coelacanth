@@ -1,9 +1,9 @@
 StartChar: uni2027
 Encoding: 8231 8231 439
 Width: 172
-Flags: HW
-HStem: 179 124<39.1119 132.888>
-VStem: 24 124<194.163 287.896>
+Flags: W
+HStem: 179 124<47.7407 124.276>
+VStem: 24.0146 124<202.782 279.301>
 LayerCount: 2
 Fore
 Refer: 2351 57346 N 1 0 0 1 86 241 2

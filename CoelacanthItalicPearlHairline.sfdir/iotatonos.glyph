@@ -1,9 +1,9 @@
 StartChar: iotatonos
 Encoding: 943 943 1106
 Width: 345
-Flags: HW
-HStem: 632.951 193.429
-VStem: 136.89 230.611
+Flags: W
+HStem: 569.951 193.429
+VStem: 164.391 230.611
 AnchorPoint: "Bottom" 159 -15 basechar 0
 LayerCount: 2
 Fore

@@ -1,7 +1,9 @@
 StartChar: uni01DD
 Encoding: 477 477 719
 Width: 436
-Flags: HW
+Flags: W
+HStem: 88 54<223.612 294.947> 473 51<251.459 345.978>
+VStem: 146.496 60<159.147 219.755> 372.004 71.9619<311.373 447.531>
 AnchorPoint: "Top" 239 538 basechar 0
 AnchorPoint: "Bottom" 230 -15 basechar 0
 LayerCount: 2

@@ -1,9 +1,9 @@
 StartChar: idieresis
 Encoding: 239 239 125
 Width: 277
-Flags: HW
-HStem: 593.08 105.84<16.9941 111.006 192.994 287.006>
-VStem: 9.82 108.36<600.114 691.915> 185.82 108.36<600.114 691.915>
+Flags: W
+HStem: 354 75<141 212> 593.08 105.84<51.9941 146.006 227.994 322.006>
+VStem: 44.82 108.36<600.114 691.915> 60 202 220.82 108.36<600.114 691.915>
 AnchorPoint: "Bottom" 143 -15 basechar 0
 AnchorPoint: "Ogonek" 197 18 basechar 0
 LayerCount: 2

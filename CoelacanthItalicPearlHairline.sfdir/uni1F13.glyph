@@ -2,9 +2,7 @@ StartChar: uni1F13
 Encoding: 7955 7955 1183
 Width: 481
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 480 56<171.975 223.499>
-VStem: 90.499 75<544.614 607.331>
+Flags: W
 AnchorPoint: "Bottom" 232 -15 basechar 0
 LayerCount: 2
 Back

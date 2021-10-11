@@ -2,8 +2,9 @@ StartChar: tbar
 Encoding: 359 359 457
 Width: 331
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 236.188 73.625<36 334>
+Flags: W
+HStem: -15 53<98.8739 178.404> 239.75 66.5<36 334> 342 26<72.8739 106.773> 352 38<203.874 309.805> 358 41<204.939 310.874>
+VStem: 49.8739 267
 LayerCount: 2
 Fore
 Refer: 441 821 N 1 0 0 1 362 -254 2

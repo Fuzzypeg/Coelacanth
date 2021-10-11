@@ -1,7 +1,7 @@
 StartChar: Cedillafloating
 Encoding: 58085 58085 282
 Width: 0
-Flags: HW
+Flags: W
 HStem: -170.844 51.9629<-285.393 -207.092> -89.1416 53.1416<-227.642 -206.771>
 VStem: -289.112 178.081<-125.272 -118.881>
 AnchorPoint: "Bottom" -193 -15 mark 0

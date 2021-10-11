@@ -1,8 +1,8 @@
 StartChar: O
 Encoding: 79 79 40
 Width: 792
-Flags: HW
-HStem: -16 72<298.374 470.915> 616 73<363.657 534.969>
+Flags: W
+HStem: -16 56<238.64 462.15> 632 57<374.955 596.571>
 AnchorPoint: "Horn" 650.274 595 basechar 0
 AnchorPoint: "Middle" 413.009 358 basechar 0
 AnchorPoint: "Ogonek" 392.009 10 basechar 0
