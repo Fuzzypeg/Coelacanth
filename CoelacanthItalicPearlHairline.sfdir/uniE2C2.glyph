@@ -1,9 +1,9 @@
 StartChar: uniE2C2
 Encoding: 58050 58050 2520
 Width: 588
-Flags: HW
-HStem: 782.929 118.8<200.554 293.342>
-VStem: 178.961 136<801.397 883.329>
+Flags: W
+HStem: 804.907 74.8436<209.846 284.072>
+VStem: 204.121 85.6792<810.342 874.338>
 AnchorPoint: "Top" 321 679 mark 0
 LayerCount: 2
 Fore

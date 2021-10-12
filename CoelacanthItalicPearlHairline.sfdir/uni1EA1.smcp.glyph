@@ -1,7 +1,7 @@
 StartChar: uni1EA1.smcp
 Encoding: 57945 57945 2297
 Width: 604
-Flags: HW
+Flags: W
 HStem: -8 68<38.3653 85.7676 173.998 196 417 423.311> 0 59<540.002 585.395> 148 64<221 382> 554 20G<286 359>
 AnchorPoint: "Top" 315 580 basechar 0
 LayerCount: 2

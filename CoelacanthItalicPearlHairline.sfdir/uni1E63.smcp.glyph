@@ -1,7 +1,7 @@
 StartChar: uni1E63.smcp
 Encoding: 57914 57914 2266
 Width: 482
-Flags: HW
+Flags: W
 HStem: -11 76<179.684 337.824> -3 21G<66 136> 502 72<192.465 332.203>
 VStem: 77 91<394.355 476.991> 361 89<86.3815 188.788>
 AnchorPoint: "Top" 264 580 basechar 0
