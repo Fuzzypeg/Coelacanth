@@ -1,13 +1,13 @@
 StartChar: lslash
 Encoding: 322 322 456
-Width: 250
+Width: 281
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -10 21G<72.3038 117.13> 749 20G<236.63 266.63>
-VStem: 41.6307 82<53.6655 157.415>
+HStem: -10 21G<89.3073 134.134> 749 20G<253.634 283.634>
+VStem: 58.6342 82<53.6655 157.415>
 LayerCount: 2
 Fore
-Refer: 1961 58113 N 0.241835 0.226095 -0.723895 0.778281 29.8803 211.452 2
+Refer: 1961 58113 N 0.241835 0.226095 -0.723895 0.778281 46.8838 211.452 2
 Refer: 11 108 N 1 0 0 1 29.0046 0 2
 Substitution2: "pcap-1" lslash.pcap
 Substitution2: "smcp-1" lslash.smcp

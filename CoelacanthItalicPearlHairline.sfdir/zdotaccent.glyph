@@ -1,12 +1,12 @@
 StartChar: zdotaccent
 Encoding: 380 380 266
-Width: 414
+Width: 454
 Flags: HW
-HStem: -79 29<276.764 307.42> 399 20G<138.368 153.868> 607.231 83.5374<272.437 346.227>
-VStem: 266.746 85.1754<613.297 684.727> 312.368 68<-39.3516 32.8313>
+HStem: -79 29<296.446 327.102> 399 20G<158.05 173.55> 607.231 83.5374<292.119 365.909>
+VStem: 286.428 85.1754<613.297 684.727> 332.05 68<-39.3516 32.8313>
 LayerCount: 2
 Fore
-Refer: 49 775 N 1 0 0 1 446.317 0 2
+Refer: 49 775 N 1 0 0 1 465.999 0 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" zdotaccent.smcp
 Substitution2: "pcap-1" zdotaccent.pcap
