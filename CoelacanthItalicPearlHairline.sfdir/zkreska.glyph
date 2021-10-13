@@ -1,12 +1,12 @@
 StartChar: zkreska
 Encoding: 58002 58002 1197
-Width: 418
-Flags: W
-HStem: -79 29<288.447 319.103> 399 20G<150.051 165.551>
-VStem: 324.051 68<-39.3516 32.8313>
+Width: 414
+Flags: HW
+HStem: -79 29<276.764 307.42> 399 20G<138.368 153.868>
+VStem: 312.368 68<-39.3516 32.8313>
 LayerCount: 2
 Fore
-Refer: 1191 57996 N 1 0 0 1 184 0 2
+Refer: 1191 57996 N 1 0 0 1 172.317 0 2
 Refer: 25 122 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" zkreska.smcp
 Substitution2: "pcap-1" zkreska.pcap

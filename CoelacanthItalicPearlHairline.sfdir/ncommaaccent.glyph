@@ -1,12 +1,12 @@
 StartChar: ncommaaccent
 Encoding: 326 326 279
-Width: 522
-Flags: W
-HStem: -177.1 149 -11 73<330.961 387.216> 346 65<308.172 403.961>
-VStem: 45.461 17<275.412 284.988> 61.461 65<0 38.5218> 247 102<-122.261 -42.3>
+Width: 517
+Flags: HW
+HStem: -177.1 149 -11 73<299.08 355.335> 346 65<276.291 372.08>
+VStem: 13.5804 17<275.412 284.988> 29.5804 65<0 38.5218> 215.119 102<-122.261 -42.3>
 LayerCount: 2
 Fore
-Refer: 275 806 N 1 0 0 1 483 0 2
+Refer: 275 806 N 1 0 0 1 451.119 0 2
 Refer: 13 110 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ncommaaccent.smcp
 Substitution2: "pcap-1" ncommaaccent.pcap

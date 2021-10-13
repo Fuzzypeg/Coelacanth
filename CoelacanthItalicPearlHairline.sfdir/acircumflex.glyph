@@ -1,14 +1,14 @@
 StartChar: acircumflex
 Encoding: 226 226 116
-Width: 491
-Flags: W
-HStem: -10 97<94.2354 184.826 309.177 393.582> 485 20G<378.761 444.808> 576 155.801
-VStem: 18.5986 97.9414<96.1415 221.174> 85.3 288.5
+Width: 493
+Flags: HW
+HStem: -10 97<93.7758 184.366 308.717 393.122> 485 20G<378.301 444.348> 576 155.801
+VStem: 18.139 97.9414<96.1415 221.174> 84.8404 288.5
 AnchorPoint: "Bottom" 203 -15 basechar 0
 AnchorPoint: "Ogonek" 386 22 basechar 0
 LayerCount: 2
 Fore
-Refer: 93 770 N 1 0 0 1 404 0 2
+Refer: 93 770 N 1 0 0 1 403.54 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" acircumflex.pcap
 Substitution2: "smcp-1" acircumflex.smcp

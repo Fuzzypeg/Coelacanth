@@ -1,12 +1,12 @@
 StartChar: uni1EA1
 Encoding: 7841 7841 722
-Width: 491
-Flags: W
-HStem: -10 97<94.2354 184.826 309.177 393.582> 485 20G<378.761 444.808>
-VStem: 18.5986 97.9414<96.1415 221.174>
+Width: 493
+Flags: HW
+HStem: -10 97<93.7758 184.366 308.717 393.122> 485 20G<378.301 444.348>
+VStem: 18.139 97.9414<96.1415 221.174>
 AnchorPoint: "Top" 220 537 basechar 0
 LayerCount: 2
 Fore
-Refer: 272 803 N 1 0 0 1 406 0 2
+Refer: 272 803 N 1 0 0 1 405.54 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 EndChar

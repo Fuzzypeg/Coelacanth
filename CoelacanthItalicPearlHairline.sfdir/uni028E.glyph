@@ -1,9 +1,9 @@
 StartChar: uni028E
 Encoding: 654 654 2485
-Width: 449
-Flags: W
-HStem: 92 20G<404.582 418.123>
-VStem: 475.122 22<167.781 227>
+Width: 425
+Flags: HW
+HStem: 92 20G<373.585 387.126>
+VStem: 444.125 22<167.781 227>
 LayerCount: 2
 Fore
 Refer: 24 121 N -1 0 0 -1 529 500 2

@@ -1,12 +1,12 @@
 StartChar: yacute
 Encoding: 253 253 192
-Width: 449
-Flags: W
-HStem: 388 20G<110.877 124.418> 569.951 193.429
-VStem: 31.8778 22<273 332.219> 200.389 230.611
+Width: 425
+Flags: HW
+HStem: 388 20G<79.8801 93.4211> 569.951 193.429
+VStem: 0.880919 22<273 332.219> 169.392 230.611
 LayerCount: 2
 Fore
-Refer: 92 769 N 1 0 0 1 433 0 2
+Refer: 92 769 N 1 0 0 1 402.003 0 2
 Refer: 24 121 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" yacute.pcap
 Substitution2: "smcp-1" yacute.smcp
