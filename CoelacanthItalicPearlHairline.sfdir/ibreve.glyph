@@ -1,12 +1,12 @@
 StartChar: ibreve
 Encoding: 301 301 150
-Width: 277
-Flags: W
-HStem: 354 75<141 212> 576 76.7188<70.397 217.886>
-VStem: -8.152 305.357 60 202
+Width: 321
+Flags: HW
+HStem: 354 75<154 225> 576 76.7188<83.397 230.886>
+VStem: 4.848 305.357 73 202
 LayerCount: 2
 Fore
-Refer: 105 774 N 1 0 0 1 319 0 2
+Refer: 105 774 N 1 0 0 1 332 0 2
 Refer: 50 305 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ibreve.smcp
 Substitution2: "pcap-1" ibreve.pcap
