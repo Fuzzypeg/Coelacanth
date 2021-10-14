@@ -3,12 +3,11 @@ Encoding: 1488 1488 2456
 GlifName: afii57664
 Width: 486
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -12.7197 21G<29 67.7998>
 VStem: 52.707 40.1729<442.677 562.035> 125.687 37.7598<180.339 331.958> 403.92 36.9395<2.89004 80.033>
 AnchorPoint: "HbTop" 258.68 619.44 basechar 0
 AnchorPoint: "HbBottom" 254 0 basechar 0
-AnchorPoint: "TopRight" 460.52 574.2 basechar 0
 AnchorPoint: "HbTopLeft" 92.68 619.44 basechar 0
 LayerCount: 2
 Back
