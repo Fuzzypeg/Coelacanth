@@ -1,0 +1,10 @@
+StartChar: dkshade
+Encoding: 9619 9619 2952
+Width: 926
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 2951 9618 S -1 0 0 1 926 0 2
+Refer: 2823 9608 N 1 0 0 1 0 0 2
+EndChar

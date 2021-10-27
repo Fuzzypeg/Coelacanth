@@ -1,11 +1,11 @@
 StartChar: uni2525
 Encoding: 9509 9509 2859
-Width: 463
+Width: 926
 VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 2842 9592 N 0.974359 0 0 1 0 0 2
 Refer: 2827 9474 N 1 0 0 1 0 0 2
+Refer: 2842 9592 N 1 0 0 1 0 0 2
 EndChar
