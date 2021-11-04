@@ -1,0 +1,11 @@
+StartChar: uni259C
+Encoding: 9628 9628 1508
+Width: 926
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1504 9624 N 1 0 0 1 0 0 2
+Refer: 1509 9629 N 1 0 0 1 0 0 2
+Refer: 1503 9623 N 1 0 0 1 0 0 2
+EndChar
