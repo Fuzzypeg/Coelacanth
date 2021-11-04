@@ -2,10 +2,10 @@ StartChar: uni01DD
 Encoding: 477 477 719
 GlifName: uni01D_D_
 Width: 409
-Flags: HW
+Flags: W
 HStem: -196 168
 VStem: 165 185
 LayerCount: 2
 Fore
-Refer: 4 101 N -1 0 0 -1 403 397 2
+Refer: 880 601 N 1 0 0 1 0 0 2
 EndChar
