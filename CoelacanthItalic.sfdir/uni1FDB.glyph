@@ -1,7 +1,7 @@
 StartChar: uni1FDB
 Encoding: 8155 8155 842
 Width: 468
-Flags: W
+Flags: HW
 HStem: -2 40<133.254 234.063 343.093 419.957> 656 43<277.421 354.708 469.979 555.446>
 AnchorPoint: "Bottom" 294 -15 basechar 0
 AnchorPoint: "Top" 298 699 basechar 0

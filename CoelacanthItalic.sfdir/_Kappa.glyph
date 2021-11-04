@@ -1,7 +1,7 @@
 StartChar: Kappa
 Encoding: 922 922 1286
 Width: 682
-Flags: W
+Flags: HW
 HStem: -6 30<173.559 218.514> -1 35<-18.917 49.012> 660 29<136.932 174.777 299.246 363.691 480.01 510.187> 660 35<634.625 691.691>
 AnchorPoint: "Top" 335 699 basechar 0
 AnchorPoint: "Bottom" 359 -15 basechar 0

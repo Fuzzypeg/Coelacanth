@@ -1,7 +1,7 @@
 StartChar: uni1F2D
 Encoding: 7981 7981 798
 Width: 1107
-Flags: W
+Flags: HW
 HStem: -10 35<411.237 459.922 675.646 738.605> -7 42<229.767 301.175> 327 40<459.714 818.46> 662 38<372.454 423.066 528.975 606.965 820.306 864.595>
 AnchorPoint: "Bottom" 681 -15 basechar 0
 AnchorPoint: "Top" 689 699 basechar 0

@@ -1,7 +1,7 @@
 StartChar: Eta
 Encoding: 919 919 1270
 Width: 708
-Flags: W
+Flags: HW
 HStem: -10 35<160.237 208.922 424.646 487.605> -7 42<-21.2326 50.175> 327 40<208.714 567.46> 662 38<121.454 172.066 277.975 355.965 569.306 613.595>
 AnchorPoint: "Top" 427 699 basechar 0
 AnchorPoint: "Bottom" 419 -15 basechar 0

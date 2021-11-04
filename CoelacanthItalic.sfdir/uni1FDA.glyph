@@ -1,7 +1,7 @@
 StartChar: uni1FDA
 Encoding: 8154 8154 841
 Width: 464
-Flags: W
+Flags: HW
 HStem: -2 40<129.254 230.063 339.093 415.957> 656 43<273.421 350.708 465.979 551.446>
 AnchorPoint: "Bottom" 290 -15 basechar 0
 AnchorPoint: "Top" 294 699 basechar 0

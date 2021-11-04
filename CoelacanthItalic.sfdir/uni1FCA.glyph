@@ -1,7 +1,7 @@
 StartChar: uni1FCA
 Encoding: 8138 8138 836
 Width: 950
-Flags: W
+Flags: HW
 HStem: -10 35<279.237 327.922 543.646 606.605> -7 42<97.7674 169.175> 327 40<327.714 686.46> 662 38<240.454 291.066 396.975 474.965 688.306 732.595>
 AnchorPoint: "Bottom" 538 -15 basechar 0
 AnchorPoint: "Top" 546 699 basechar 0

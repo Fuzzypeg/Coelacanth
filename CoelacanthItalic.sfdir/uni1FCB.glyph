@@ -1,7 +1,7 @@
 StartChar: uni1FCB
 Encoding: 8139 8139 837
 Width: 954
-Flags: W
+Flags: HW
 HStem: -10 35<283.237 331.922 547.646 610.605> -7 42<101.767 173.175> 327 40<331.714 690.46> 662 38<244.454 295.066 400.975 478.965 692.306 736.595>
 AnchorPoint: "Bottom" 542 -15 basechar 0
 AnchorPoint: "Top" 550 699 basechar 0

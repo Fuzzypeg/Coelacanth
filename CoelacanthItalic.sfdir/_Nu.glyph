@@ -1,7 +1,7 @@
 StartChar: Nu
 Encoding: 925 925 1302
 Width: 784
-Flags: W
+Flags: HW
 HStem: -5 44<18.2393 85.5495> 647 44<124.179 184.173 777.053 868.614> 657 38<630.15 690.209>
 VStem: 598.422 36.5205<0 52.4211>
 AnchorPoint: "Top" 427 699 basechar 0
