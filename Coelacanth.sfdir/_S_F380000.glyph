@@ -2,6 +2,7 @@ StartChar: SF380000
 Encoding: 9562 9562 2924
 Width: 926
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore

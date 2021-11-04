@@ -2,6 +2,7 @@ StartChar: uni257C
 Encoding: 9596 9596 2846
 Width: 926
 VWidth: 0
+UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore
