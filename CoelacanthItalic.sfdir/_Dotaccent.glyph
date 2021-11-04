@@ -1,0 +1,12 @@
+StartChar: Dotaccent
+Encoding: 58025 58025 1262
+Width: 156
+VWidth: 1159
+Flags: W
+HStem: 749.659 110.684<211.558 287.963>
+VStem: 193.47 112.813<768.159 841.947>
+AnchorPoint: "Top" 224.577 699 mark 0
+LayerCount: 2
+Fore
+Refer: 646 775 S 1.06427 0 0 1.06427 346.725 270.738 2
+EndChar

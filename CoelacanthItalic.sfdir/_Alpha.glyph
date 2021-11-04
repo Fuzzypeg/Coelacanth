@@ -1,0 +1,15 @@
+StartChar: Alpha
+Encoding: 913 913 1245
+Width: 665
+Flags: W
+HStem: -10 43<115.227 172.116 556.577 595.188> 245 42<265.295 443.093> 691 20G<506.822 552.39>
+VStem: 449.779 92.5742<383.39 544>
+AnchorPoint: "Top" 367 699 basechar 0
+AnchorPoint: "Bottom" 353 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1243 65 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" a.pcap
+Substitution2: "c2sc-1" a.smcp
+EndChar

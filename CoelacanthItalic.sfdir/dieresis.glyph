@@ -1,0 +1,11 @@
+StartChar: dieresis
+Encoding: 168 168 205
+Width: 311
+VWidth: 1159
+Flags: HW
+HStem: 442 86<118.694 193.306 294.694 369.306>
+VStem: 113 86<447.715 522.308> 289 86<447.715 522.308>
+LayerCount: 2
+Fore
+Refer: 647 776 S 1 0 0 1 352 0 2
+EndChar

@@ -1,0 +1,17 @@
+StartChar: bullet
+Encoding: 8226 8226 176
+Width: 446
+Flags: W
+HStem: 122 288<148.717 298.663>
+VStem: 79 288<191.67 339.225>
+LayerCount: 2
+Fore
+SplineSet
+79 266 m 0
+ 79 353 151 410 223 410 c 0
+ 311.5 410 367 336.5 367 264.5 c 0
+ 367 188 307 122 223 122 c 0
+ 149.5 122 79 180.5 79 266 c 0
+EndSplineSet
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

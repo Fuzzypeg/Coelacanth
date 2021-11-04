@@ -1,0 +1,15 @@
+StartChar: Epsilon
+Encoding: 917 917 1268
+Width: 624
+Flags: W
+HStem: -10 36<16.2021 72.1368> 337 36<239.173 433.499> 659 31<162.872 204.652> 680 20G<574.614 595.261>
+VStem: 450.604 36.7646<251 326.443> 486.157 31.1562<417.406 445.348> 531.983 25.9209<536 581.468>
+AnchorPoint: "Top" 299 699 basechar 0
+AnchorPoint: "Bottom" 296 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1264 69 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" e.pcap
+Substitution2: "c2sc-1" e.smcp
+EndChar

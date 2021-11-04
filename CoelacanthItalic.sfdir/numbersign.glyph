@@ -1,0 +1,13 @@
+StartChar: numbersign
+Encoding: 35 35 357
+Width: 463
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 486 58115 N 0.325756 0.0284999 0.295248 1.02965 142 381 2
+Refer: 486 58115 N 0.325756 0.0284999 0.295248 1.02965 90 217 2
+Refer: 487 58113 N 0.182196 0.635394 -1.0403 0 249 0 2
+Refer: 487 58113 N 0.182196 0.635394 -1.0403 0 128 0 2
+EndChar

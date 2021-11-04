@@ -1,0 +1,15 @@
+StartChar: zero.proportionallining
+Encoding: 58388 58388 1232
+Width: 499
+VWidth: 1159
+Flags: HW
+HStem: 1 33<186.957 276.181> 587 36<280.21 376.392>
+LayerCount: 2
+Fore
+Refer: 1236 58378 S 1 0 0 1 12.6297 0 2
+Substitution2: "tnum-1" zero.tabularlining
+Substitution2: "onum-1" zero
+Substitution2: "numr-1" zero.numerator
+Substitution2: "dnom-1" zero.denom
+Substitution2: "'zero' Slashed Zero lookup 22-1" zero.proportionalliningalt
+EndChar

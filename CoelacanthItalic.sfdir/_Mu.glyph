@@ -1,0 +1,15 @@
+StartChar: Mu
+Encoding: 924 924 1295
+Width: 928
+Flags: W
+HStem: -7 38<598.42 669.912> -4 41<-11.8936 69.1353 168.508 225.253 789.57 849.253> 648 40<893.416 979.097> 652 44<132.926 203.836>
+VStem: 393.044 38<0 41.0475>
+AnchorPoint: "Top" 499 699 basechar 0
+AnchorPoint: "Bottom" 465 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1293 77 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" m.pcap
+Substitution2: "c2sc-1" m.smcp
+EndChar

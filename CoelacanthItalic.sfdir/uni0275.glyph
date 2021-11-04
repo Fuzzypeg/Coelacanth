@@ -1,0 +1,15 @@
+StartChar: uni0275
+Encoding: 629 629 630
+Width: 422
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -10 41<143.917 234.098> 187.95 34.55<79.88 377.88> 373 46<186.469 284.728>
+VStem: 79.88 298<187.95 222.5>
+LayerCount: 2
+Fore
+Refer: 676 821 S 1 0 0 0.90921 388.38 -274.383 2
+Refer: 358 111 N 1 0 0 1 0 0 2
+Substitution2: "pcap-1" obar.pcap
+Substitution2: "case-1" uni019F
+EndChar

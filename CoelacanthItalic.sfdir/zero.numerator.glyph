@@ -1,0 +1,14 @@
+StartChar: zero.numerator
+Encoding: 58408 58408 1230
+Width: 366
+Flags: HW
+HStem: 260.044 27.288<154.846 236.541> 576.829 28.8754<129.484 215.516>
+VStem: 30.0628 65.3421<346.39 520.962> 266.901 69.4395<340.203 525.884>
+LayerCount: 2
+Fore
+Refer: 1227 58398 S 1 0 0 1 34 346 2
+Kerns2: 274 -248 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "dnom-1" zero.denom
+Substitution2: "'zero' Slashed Zero lookup 22-1" zero.numeratoralt
+EndChar

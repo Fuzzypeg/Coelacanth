@@ -1,0 +1,12 @@
+StartChar: slash
+Encoding: 47 47 471
+Width: 383
+VWidth: 1515
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 167 124 N 0.952661 -0.304033 0.34831 1.0914 31.9712 -26.4627 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=95 dh=0 dv=0
+Substitution2: "frac-1 slash to fraction" fraction
+EndChar

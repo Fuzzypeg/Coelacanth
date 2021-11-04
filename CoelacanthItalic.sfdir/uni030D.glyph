@@ -1,0 +1,20 @@
+StartChar: uni030D
+Encoding: 781 781 651
+Width: 0
+VWidth: 1159
+Flags: W
+HStem: 434 176.4<-201.452 -194.548>
+VStem: -238.947 81.8945
+AnchorPoint: "TopMark" -227.324 396 mark 0
+AnchorPoint: "TopMark" -181.751 601 basemark 0
+AnchorPoint: "Top" -225.962 393 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-201.452148438 610.400390625 m 1
+ -157.052734375 610.400390625 l 1
+ -194.547851562 434 l 1
+ -238.947265625 434 l 1
+ -201.452148438 610.400390625 l 1
+EndSplineSet
+EndChar

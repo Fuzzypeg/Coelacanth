@@ -1,0 +1,14 @@
+StartChar: afii10074
+Encoding: 1080 1080 57
+Width: 482
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -2 27<34 65.8092 336 366.998 458.953 489> 381 20G<346.215 395.73> 384 25<34.44 71.766 163.671 203>
+VStem: 80 73<63.6529 294.917>
+AnchorPoint: "Top" 295.864 465 basechar 0
+AnchorPoint: "Bottom" 218.859 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 519 117 N 1 0 0 1 0 0 2
+EndChar

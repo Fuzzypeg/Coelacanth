@@ -1,0 +1,14 @@
+StartChar: afii57842
+Encoding: 1472 1472 141
+Width: 172
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+86.33984375 -149 m 5
+ 54.33984375 -149 l 5
+ 152.612304688 786 l 5
+ 184.612304688 786 l 5
+ 86.33984375 -149 l 5
+EndSplineSet
+EndChar

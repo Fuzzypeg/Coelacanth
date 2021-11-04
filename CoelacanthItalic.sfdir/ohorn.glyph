@@ -1,0 +1,19 @@
+StartChar: ohorn
+Encoding: 417 417 364
+Width: 568
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -10 41<144.646 235.435> 330 18<367.5 404.557> 373 46<187.796 283.165>
+VStem: 33.5293 75.7197<70.0077 254.691> 314.522 74.3486<156.751 339.116> 464.882 62.7432<400.38 466.056>
+AnchorPoint: "Top" 258 465 basechar 0
+AnchorPoint: "Bottom" 249 -15 basechar 0
+AnchorPoint: "Middle" 213 206 basechar 0
+LayerCount: 2
+Fore
+Refer: 661 795 N 1 0 0 1 452 0 2
+Refer: 358 111 N 1 0 0 1 0 0 2
+Substitution2: "smcp-1" ohorn.smcp
+Substitution2: "case-1" Ohorn
+Substitution2: "pcap-1" ohorn.pcap
+EndChar

@@ -1,0 +1,14 @@
+StartChar: three.tabularlining
+Encoding: 58381 58381 496
+Width: 463
+VWidth: 1159
+Flags: HW
+HStem: -63 26<19.7102 50.1367> 296 26<116.488 161.179> 581 44<232.682 346.716>
+LayerCount: 2
+Fore
+Refer: 497 58371 S 1 0 0 1 44 171 2
+Substitution2: "pnum-1" three.proportionallining
+Substitution2: "onum-1" three.tabulartext
+Substitution2: "numr-1" three.numerator
+Substitution2: "dnom-1" three.denom
+EndChar

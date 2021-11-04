@@ -1,0 +1,15 @@
+StartChar: Aogonek
+Encoding: 260 260 1247
+Width: 665
+VWidth: 1159
+Flags: HW
+HStem: -338.888 73.7197<379.804 446.852> -10 43<115.227 172.116 556.577 595.188> 245 42<265.295 443.093> 691 20G<506.822 552.39>
+VStem: 288.766 71.875<-245.641 -119.154> 449.779 92.5742<383.39 544>
+LayerCount: 2
+Fore
+Refer: 1337 58029 S 1 0 0 1 564.35 -0.6582 2
+Refer: 1243 65 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" aogonek.pcap
+Substitution2: "c2sc-1" aogonek.smcp
+EndChar

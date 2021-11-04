@@ -1,0 +1,16 @@
+StartChar: tbar
+Encoding: 359 359 479
+Width: 304
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -15 53<99.8374 179.367> 226.5 38<21.337 319.337> 342 26<73.8374 107.736> 352 38<204.837 310.768> 358 41<205.902 311.837>
+VStem: 21.337 298<226.5 264.5> 50.8374 267
+LayerCount: 2
+Fore
+Refer: 676 821 S 1 0 0 1 346.837 -282 2
+Refer: 476 116 N 1 0 0 1 0 0 2
+Substitution2: "smcp-1" tbar.smcp
+Substitution2: "case-1" Tbar
+Substitution2: "pcap-1" tbar.pcap
+EndChar

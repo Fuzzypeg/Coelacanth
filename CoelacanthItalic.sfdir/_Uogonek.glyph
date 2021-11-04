@@ -1,0 +1,16 @@
+StartChar: Uogonek
+Encoding: 370 370 1340
+Width: 777
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -351.888 73.7197<298.804 365.852> -10 54<251.68 472.587> 651 39<124.318 184.767 287.016 373.419 640.318 708.924 774.585 849.576>
+VStem: 207.766 71.875<-258.641 -132.154>
+LayerCount: 2
+Fore
+Refer: 1337 58029 S 1 0 0 1 514.35 -13.6582 2
+Refer: 1328 85 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" uogonek.pcap
+Substitution2: "c2sc-1" uogonek.smcp
+EndChar

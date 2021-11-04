@@ -1,0 +1,11 @@
+StartChar: uni0209.alt
+Encoding: 58126 58126 593
+Width: 277
+Flags: HW
+HStem: -7 33<45 99 196 266>
+VStem: 109 71<57 330>
+LayerCount: 2
+Fore
+Refer: 213 305 N 1 0 0 1 0 0 3
+Refer: 653 783 S 0.984808 -0.173648 0.173648 0.984808 384.703 22.1297 2
+EndChar

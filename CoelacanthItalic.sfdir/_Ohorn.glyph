@@ -1,0 +1,20 @@
+StartChar: Ohorn
+Encoding: 416 416 1304
+Width: 883
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -10 53<284.863 468.334> 563.768 21.6<734.538 779.006> 655 50<353.459 534.992>
+VStem: 48.7354 96.0459<202.593 413.03> 674.638 100.362<290.286 501.723> 851.396 75.2918<648.224 727.035>
+AnchorPoint: "Horn" 707.5 573 basechar 0
+AnchorPoint: "Top" 420 699 basechar 0
+AnchorPoint: "Bottom" 416 -15 basechar 0
+AnchorPoint: "Middle" 417.697 364.853 basechar 0
+LayerCount: 2
+Fore
+Refer: 661 795 N 1.2 0 0 1.2 835.938 167.768 2
+Refer: 1303 79 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" ohorn.pcap
+Substitution2: "c2sc-1" ohorn.smcp
+EndChar
