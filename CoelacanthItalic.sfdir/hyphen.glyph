@@ -2,7 +2,7 @@ StartChar: hyphen
 Encoding: 45 45 299
 Width: 247
 VWidth: 1159
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 340 58114 N 0.222942 0.047197 -3.18572e-05 1.06092 7.02872 219.402 2

@@ -2,7 +2,7 @@ StartChar: T
 Encoding: 84 84 1322
 Width: 711
 VWidth: 1159
-Flags: HMWO
+Flags: HMW
 HStem: -21 51<158.854 263.432> -11 44<375.699 445.854> 632 51<207.933 418.854 509.181 727.797> 676 34G<193.854 210.354 786.854 809.854>
 AnchorPoint: "Top" 436.346 699 basechar 0
 AnchorPoint: "Bottom" 310.509 -15 basechar 0

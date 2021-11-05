@@ -2,7 +2,7 @@ StartChar: q
 Encoding: 113 113 16
 Width: 475
 VWidth: 1159
-Flags: HMWO
+Flags: HMW
 HStem: -342 36<289.303 357.679> -5 43<111.888 210.273> 369 49<184.341 297.544> 409 20G<399.179 429.679>
 AnchorPoint: "Top" 353.394 537 basechar 0
 AnchorPoint: "Bottom" 298.413 -144 basechar 0
