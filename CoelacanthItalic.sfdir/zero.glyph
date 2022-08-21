@@ -2,8 +2,8 @@ StartChar: zero
 Encoding: 48 48 1229
 Width: 503
 VWidth: 1159
-Flags: HW
-HStem: 1 33<167.776 279.07> 375 36<209.091 325.043>
+Flags: W
+HStem: -5 33<173.776 285.07> 369 36<215.091 331.043>
 LayerCount: 2
 Fore
 SplineSet
@@ -18,6 +18,7 @@ SplineSet
  103.456054688 -5 32.837890625 87.4091796875 53.810546875 200 c 4
  75.8212890625 309.674804688 187.051757812 405 296.35546875 405 c 7
 EndSplineSet
+Validated: 33
 Substitution2: "'zero' Slashed Zero lookup 22-1" zero.alt
 Substitution2: "dnom-1" zero.denom
 Substitution2: "numr-1" zero.numerator

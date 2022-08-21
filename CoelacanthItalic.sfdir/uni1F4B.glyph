@@ -2,8 +2,8 @@ StartChar: uni1F4B
 Encoding: 8011 8011 812
 Width: 994
 Flags: W
-HStem: -10 53<433.863 617.334> 655 50<502.459 683.992>
-VStem: 197.735 96.0459<202.593 413.03> 823.638 100.362<290.286 501.723>
+HStem: -10 53<442.128 625.599> 655 50<510.724 692.256>
+VStem: 206 96.0459<202.593 413.03> 831.902 100.362<290.286 501.723>
 AnchorPoint: "Top" 575 699 basechar 0
 AnchorPoint: "Bottom" 571 -15 basechar 0
 AnchorPoint: "Middle" 572.697 364.853 basechar 0

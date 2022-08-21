@@ -1,9 +1,9 @@
 StartChar: anoteleia
 Encoding: 903 903 150
 Width: 200
-Flags: HW
-HStem: 193 140<77.678 120.536>
-VStem: 30 141<239.309 283.937>
+Flags: W
+HStem: 196 140<51.9007 80.6632>
+VStem: -2 136
 LayerCount: 2
 Fore
 Refer: 406 183 N 1 0 0 1 0 0 3

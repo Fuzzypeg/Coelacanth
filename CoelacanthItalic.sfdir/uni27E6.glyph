@@ -2,7 +2,9 @@ StartChar: uni27E6
 Encoding: 10214 10214 1014
 Width: 289
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
+HStem: -230 42<200.944 262> 677 40<207.05 262>
+VStem: 37 68<-170 657>
 LayerCount: 2
 Fore
 SplineSet

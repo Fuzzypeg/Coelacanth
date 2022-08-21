@@ -27,6 +27,7 @@ SplineSet
  -31.869140625 19 339.587890625 367.799804688 371.829101562 422.299804688 c 9
  392.720703125 409.5 l 25
 EndSplineSet
+Validated: 33
 Substitution2: "dnom-1" four.denom
 Substitution2: "numr-1" four.numerator
 Substitution2: "tnum-1" four.tabulartext

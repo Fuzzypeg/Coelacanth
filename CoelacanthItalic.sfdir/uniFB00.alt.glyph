@@ -60,5 +60,6 @@ SplineSet
  263 699 304 724 363 724 c 3
  390.125 724 445.25 709.153846154 468 694 c 1
 EndSplineSet
+Validated: 1
 Kerns2: 594 10 "kern-1 latin individual kerning" 593 52 "kern-1 latin individual kerning" 592 13 "kern-1 latin individual kerning" 591 13 "kern-1 latin individual kerning" 578 20 "kern-1 latin individual kerning" 302 39 "kern-1 latin individual kerning"
 EndChar

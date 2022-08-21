@@ -18,6 +18,7 @@ SplineSet
  219 685 l 1
  91 669 l 1
 EndSplineSet
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

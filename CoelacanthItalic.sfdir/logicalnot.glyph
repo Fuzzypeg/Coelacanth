@@ -2,8 +2,8 @@ StartChar: logicalnot
 Encoding: 172 172 330
 Width: 463
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 190 53.9999<34 428>
+Flags: W
+HStem: 190 53.9999<25.9999 427.998>
 LayerCount: 2
 Fore
 Refer: 340 58114 N 0 -0.17 0.978261 0 405.5 244 2

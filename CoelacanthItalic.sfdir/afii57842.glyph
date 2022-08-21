@@ -1,7 +1,8 @@
 StartChar: afii57842
 Encoding: 1472 1472 141
 Width: 172
-Flags: HW
+Flags: W
+VStem: 54.3398 130.272
 LayerCount: 2
 Fore
 SplineSet
@@ -11,4 +12,5 @@ SplineSet
  184.612304688 786 l 5
  86.33984375 -149 l 5
 EndSplineSet
+Validated: 1
 EndChar

@@ -2,8 +2,8 @@ StartChar: zero.tabularlining
 Encoding: 58378 58378 1236
 Width: 463
 VWidth: 1159
-Flags: HW
-HStem: 1 33<216.327 305.551> 587 36<309.58 405.763>
+Flags: W
+HStem: 1 33<166.327 255.551> 587 36<259.58 355.763>
 LayerCount: 2
 Fore
 SplineSet
@@ -18,6 +18,7 @@ SplineSet
  71.249023438 1 8.35351562522 105.69921875 62.283203125 322 c 4
  112.407226562 523.03515625 228.331054688 623 336.331054688 623 c 7
 EndSplineSet
+Validated: 33
 Substitution2: "pnum-1" zero.proportionallining
 Substitution2: "onum-1" zero.tabulartext
 Substitution2: "numr-1" zero.numerator

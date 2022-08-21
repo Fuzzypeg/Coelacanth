@@ -7,6 +7,7 @@ HStem: 339 67<144.004 378.532>
 LayerCount: 2
 Fore
 Refer: 450 55 N 1 0 0 1 21.504 0 2
+Validated: 1
 Substitution2: "pnum-1" seven
 Substitution2: "lnum-1" seven.tabularlining
 Substitution2: "numr-1" seven.numerator

@@ -45,5 +45,6 @@ SplineSet
  620 654 612 644 609 612 c 0
  603 550 598 421 598 343 c 3x7c
 EndSplineSet
+Validated: 1
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

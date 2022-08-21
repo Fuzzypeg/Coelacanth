@@ -2,9 +2,9 @@ StartChar: uni27E7
 Encoding: 10215 10215 1015
 Width: 289
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -230 32<27 152.3> 675 42<66.7778 206> 684 33<27 166.222>
-VStem: 206 46<-188 675>
+Flags: W
+HStem: -230 40<27 81.95> 675 42<27 88.0556>
+VStem: 184 68<-170 657>
 LayerCount: 2
 Fore
 Refer: 1014 10214 N -1 0 0 -1 289 487 2

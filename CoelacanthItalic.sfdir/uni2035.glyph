@@ -1,7 +1,9 @@
 StartChar: uni2035
 Encoding: 8245 8245 879
 Width: 148
-Flags: HW
+Flags: W
+HStem: 453.607 294.984
+VStem: -13.1367 144.488
 LayerCount: 2
 Fore
 SplineSet
@@ -11,4 +13,5 @@ SplineSet
  96.75 748.591796875 l 1
  99.5206504189 652.834194237 96.5160340524 563.235935333 131.3515625 466.853515625 c 1
 EndSplineSet
+Validated: 1
 EndChar

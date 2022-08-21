@@ -2,8 +2,8 @@ StartChar: three.tabulartext
 Encoding: 58371 58371 497
 Width: 463
 VWidth: 1159
-Flags: HW
-HStem: -234 26<29.7102 60.1367> 125 26<126.488 171.179> 410 44<242.682 356.716>
+Flags: W
+HStem: -234 26<-8.28981 22.1367> 125 26<88.4882 133.179> 410 44<204.682 318.716>
 LayerCount: 2
 Fore
 SplineSet
@@ -23,6 +23,7 @@ SplineSet
  309.315429688 -135.099609375 52.4072265624 -226.474609375 -7.3427734375 -234 c 5
  -10.8603515625 -208 l 5
 EndSplineSet
+Validated: 33
 Substitution2: "pnum-1" three
 Substitution2: "lnum-1" three.tabularlining
 Substitution2: "numr-1" three.numerator

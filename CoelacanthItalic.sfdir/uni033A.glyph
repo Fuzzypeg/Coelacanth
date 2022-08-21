@@ -4,10 +4,9 @@ Width: 0
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -184.595 60<-279 -110> -184.595 114.5<-307 -279 -110 -82>
-VStem: -307 28<-124.595 -70.0954> -110 28<-124.595 -70.0954>
+HStem: -184.691 60<-307 -82>
 AnchorPoint: "Bottom" -179 -15 mark 0
 LayerCount: 2
 Fore
-Refer: 668 810 N -1 0 0 -1 -389 -260.691 2
+Refer: 668 810 N -1 0 0 -1 -387 -260.691 2
 EndChar

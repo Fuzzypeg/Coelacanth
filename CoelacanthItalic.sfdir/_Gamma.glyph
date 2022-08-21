@@ -2,9 +2,9 @@ StartChar: Gamma
 Encoding: 915 915 1276
 Width: 572
 VWidth: 1159
-Flags: HW
-HStem: -14 56<237.021 329.116> -9 35<46.9404 103.365> 654 31<176.455 224.231>
-VStem: 625.721 31.6377<534 592.245>
+Flags: W
+HStem: -14 56<194.021 286.116> -9 35<3.94043 60.3651> 654 31<133.455 181.231>
+VStem: 582.721 31.6377<534 592.245>
 AnchorPoint: "Top" 428.432 699 basechar 0
 AnchorPoint: "Bottom" 138.667 -15 basechar 0
 LayerCount: 2
@@ -28,6 +28,7 @@ SplineSet
  186.45703125 64 189.78125 42 301.78125 42 c 5
  283.877929688 -14 l 5xb0
 EndSplineSet
+Validated: 545
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" gamma.pcap
 Substitution2: "c2sc-1" gamma.smcp

@@ -24,6 +24,7 @@ SplineSet
  250.534179688 -142 55.208984375 -227 9.7822265625 -234 c 1
  5.0810546875 -208 l 1
 EndSplineSet
+Validated: 33
 Substitution2: "dnom-1" three.denom
 Substitution2: "numr-1" three.numerator
 Substitution2: "tnum-1" three.tabulartext

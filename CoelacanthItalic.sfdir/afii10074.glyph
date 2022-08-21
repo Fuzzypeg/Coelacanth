@@ -3,9 +3,8 @@ Encoding: 1080 1080 57
 Width: 482
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: -2 27<34 65.8092 336 366.998 458.953 489> 381 20G<346.215 395.73> 384 25<34.44 71.766 163.671 203>
-VStem: 80 73<63.6529 294.917>
+Flags: W
+HStem: -18 56<306.047 398.116> -10 70<97.5471 187.547> 341 75<138.547 197.547> 387 20G<450.047 457.547>
 AnchorPoint: "Top" 295.864 465 basechar 0
 AnchorPoint: "Bottom" 218.859 -15 basechar 0
 LayerCount: 2

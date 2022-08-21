@@ -1,6 +1,6 @@
 StartChar: Z
 Encoding: 90 90 1349
-Width: 689
+Width: 682
 VWidth: 1159
 Flags: W
 HStem: 4 40<138.113 508.248> 646 43<207.288 609.917>
@@ -31,6 +31,7 @@ SplineSet
  219.822265625 646.154296875 176.702148438 626 125.93359375 552 c 1
  104.147460938 570 l 1
 EndSplineSet
+Validated: 545
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" z.pcap
 Substitution2: "c2sc-1" z.smcp

@@ -21,6 +21,7 @@ SplineSet
  83.5986328125 -10 49.62890625 121.913085938 68.3984375 214 c 0
  109.075195312 413.572265625 265.365234375 572 451.185546875 630 c 9
 EndSplineSet
+Validated: 33
 Substitution2: "dnom-1" six.denom
 Substitution2: "numr-1" six.numerator
 Substitution2: "tnum-1" six.tabulartext

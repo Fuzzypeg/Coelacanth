@@ -1,8 +1,9 @@
 StartChar: nine.smaller
 Encoding: 58367 58367 352
 Width: 302
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 468 58364 N -0.996195 0.0871557 -0.0871557 -0.996195 316.604 262.122 2
+Validated: 1
 EndChar

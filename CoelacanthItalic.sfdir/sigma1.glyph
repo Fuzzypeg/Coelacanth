@@ -25,6 +25,7 @@ SplineSet
  325.252929688 419 353.41015625 405 364.168945312 397 c 1
  349.24609375 368.243164062 322.596679688 325 293.396484375 321 c 1xee
 EndSplineSet
+Validated: 545
 Substitution2: "pcap-1" sigma.pcap
 Substitution2: "smcp-1" sigma.smcp
 EndChar

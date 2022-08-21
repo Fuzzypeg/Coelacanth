@@ -2,6 +2,7 @@ StartChar: k
 Encoding: 107 107 313
 Width: 408
 VWidth: 1159
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 HStem: -6 21G<12.8311 15.331> 372.562 46.4375<263.198 354.797> 661 28<86.5811 128.443> 749 20G<227.331 266.331>
 VStem: 12.3311 70<-5 81.6634> 332.23 68.0957<292.691 368.052>
@@ -33,7 +34,7 @@ SplineSet
  424.048828125 -86.9326171875 385.322265625 -97.51953125 364.624023438 -101 c 1
  292.529296875 -69.8076171875 157.528320312 63.5439453125 111.954101562 198 c 1
 EndSplineSet
-Substitution2: "case-1" K
-Substitution2: "pcap-1" k.pcap
 Substitution2: "smcp-1" k.smcp
+Substitution2: "pcap-1" k.pcap
+Substitution2: "case-1" K
 EndChar

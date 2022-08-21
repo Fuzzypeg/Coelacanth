@@ -2,7 +2,7 @@ StartChar: uni021C
 Encoding: 540 540 595
 Width: 485
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 HStem: -175 35<56 120.665> 261 33<106.03 140.314> 644 54<148.003 282.349>
 VStem: 29 27<520.926 543.653> 334 88<469.235 593.626> 356 93<71.7085 208.115>
 LayerCount: 2

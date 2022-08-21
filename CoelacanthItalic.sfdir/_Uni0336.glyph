@@ -2,15 +2,9 @@ StartChar: Uni0336
 Encoding: 58036 58036 1339
 Width: 0
 VWidth: 1159
-Flags: W
+Flags: HW
 HStem: 509.5 36<-818.5 -32.5>
 LayerCount: 2
 Fore
-SplineSet
--818.5 545.5 m 25
- -32.5 545.5 l 25
- -32.5 509.5 l 25
- -818.5 509.5 l 25
- -818.5 545.5 l 25
-EndSplineSet
+Refer: 487 58113 N 0.787 0 0 1.125 -819 527 2
 EndChar

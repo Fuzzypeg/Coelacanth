@@ -1,10 +1,11 @@
 StartChar: uni01C1
 Encoding: 449 449 566
 Width: 273
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 872 8214 N 1 0 0 1 0 0 2
+Validated: 513
 Substitution2: "smcp-1" clicklateral.smcp
 Substitution2: "pcap-1" clicklateral.pcap
 EndChar

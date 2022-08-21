@@ -21,6 +21,7 @@ SplineSet
  26.943359375 293 86.9365234375 396 99.2548828125 427 c 9
  122.236328125 422 l 17
 EndSplineSet
+Validated: 33
 Substitution2: "dnom-1" seven.denom
 Substitution2: "numr-1" seven.numerator
 Substitution2: "tnum-1" seven.tabulartext

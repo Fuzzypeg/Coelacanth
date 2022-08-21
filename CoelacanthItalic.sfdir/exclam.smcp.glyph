@@ -1,9 +1,9 @@
 StartChar: exclam.smcp
 Encoding: 57797 57797 243
 Width: 260
-Flags: HW
-HStem: -22.1617 129.078<105.732 143.697>
-VStem: 63.4984 124.9<20.5342 61.6804> 108.3 40.1<163.5 321.756>
+Flags: W
+HStem: -19.3957 129.078<82.8984 108.377>
+VStem: 35.1524 120.471 108.3 40.1<163.5 321.756>
 LayerCount: 2
 Fore
 SplineSet

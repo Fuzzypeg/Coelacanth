@@ -1,8 +1,11 @@
 StartChar: uni2082
 Encoding: 8322 8322 915
 Width: 319
-Flags: HW
+Flags: W
+HStem: -89.5566 21G<213.086 228.107> -78.6875 54.9277<105.917 222.034> 155.184 41.6133<109.173 185.481>
+VStem: 5.93457 288.282
 LayerCount: 2
 Fore
 Refer: 512 58360 N 1 0 0 1 0 -80 2
+Validated: 1
 EndChar

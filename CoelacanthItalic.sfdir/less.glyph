@@ -2,10 +2,11 @@ StartChar: less
 Encoding: 60 60 326
 Width: 463
 VWidth: 0
-Flags: HW
-HStem: -7 20<327.718 371.44> 391 21<349.571 392.538>
+Flags: W
+HStem: -7 20G<327.718 371.44> 391 21G<349.571 392.538>
 LayerCount: 2
 Fore
 Refer: 286 62 N -1 0 0 -1 463 405 2
+Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

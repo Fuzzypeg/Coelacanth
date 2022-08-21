@@ -2,8 +2,8 @@ StartChar: two.tabulartext
 Encoding: 58370 58370 514
 Width: 463
 VWidth: 1159
-Flags: HW
-HStem: -11 21G<363.252 386.991> 2 64<125.456 376.818> 405 53<223.134 339.991>
+Flags: W
+HStem: -11 21G<329.252 352.991> 2 64<91.4561 342.818> 405 53<189.134 305.991>
 LayerCount: 2
 Fore
 SplineSet
@@ -23,6 +23,7 @@ SplineSet
  189.6015625 405 149.940429688 381 118.012695312 353 c 5
  101.502929688 367 l 5x60
 EndSplineSet
+Validated: 33
 Substitution2: "pnum-1" two
 Substitution2: "lnum-1" two.tabularlining
 Substitution2: "numr-1" two.numerator

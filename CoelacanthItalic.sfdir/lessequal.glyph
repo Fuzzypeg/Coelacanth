@@ -1,8 +1,8 @@
 StartChar: lessequal
 Encoding: 8804 8804 327
 Width: 463
-Flags: HW
-HStem: 66.0001 53.9999<34 428> 392 20G<351.769 424.712>
+Flags: W
+HStem: 66.0001 53.9999<26 420> 392 20G<351.769 424.712>
 LayerCount: 2
 Fore
 SplineSet
@@ -16,5 +16,6 @@ SplineSet
  428.5 213.685546875 l 1
 EndSplineSet
 Refer: 341 8722 N 1 0 0 1 0 -124 2
+Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar

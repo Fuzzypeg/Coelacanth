@@ -2,6 +2,7 @@ StartChar: f_j
 Encoding: 58320 58320 275
 Width: 495
 VWidth: 1159
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -326 36<-130.972 -90.3675> 351 62<348.388 451.821> 697 57<342.222 440.122>
 LayerCount: 2

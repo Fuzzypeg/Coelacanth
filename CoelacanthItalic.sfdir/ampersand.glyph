@@ -40,6 +40,7 @@ SplineSet
  525 509 598 495 648 496 c 1
  645 461 l 1xcc
 EndSplineSet
+Validated: 545
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "pcap-1" ampersand.pcap
 Substitution2: "smcp-1" ampersand.smcp

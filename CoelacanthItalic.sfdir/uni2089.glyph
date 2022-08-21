@@ -1,8 +1,9 @@
 StartChar: uni2089
 Encoding: 8329 8329 922
 Width: 302
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 352 58367 N 1 0 0 1 0 -80 2
+Validated: 1
 EndChar

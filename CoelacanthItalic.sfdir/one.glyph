@@ -2,8 +2,8 @@ StartChar: one
 Encoding: 49 49 371
 Width: 370
 VWidth: 1159
-Flags: HW
-HStem: 0 26<31.8135 87.6873 199.022 246.514> 369 23<118.41 164.102> 379 23<279.414 319.76>
+Flags: W
+HStem: 0 26<31.8135 87.6873 197.901 248.2> 369 23<116.679 166.003> 379 23<277.037 319.76>
 VStem: 28.5137 293.935
 LayerCount: 2
 Fore
@@ -26,6 +26,7 @@ SplineSet
  171.276367188 357 176.90625 365 112.721679688 369 c 9
  118.41015625 392 l 1xd0
 EndSplineSet
+Validated: 33
 Substitution2: "dnom-1" one.denom
 Substitution2: "numr-1" one.numerator
 Substitution2: "tnum-1" one.tabulartext

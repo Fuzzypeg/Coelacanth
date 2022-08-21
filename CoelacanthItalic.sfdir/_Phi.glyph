@@ -2,8 +2,8 @@ StartChar: Phi
 Encoding: 934 934 1311
 Width: 700
 UnlinkRmOvrlpSave: 1
-Flags: HW
-HStem: 103.5 42.9443<255.606 454.566> 545.254 44.2461<306.796 492.82>
+Flags: W
+HStem: 103.5 42.9443<258.606 457.566> 545.254 44.2461<309.796 495.82>
 AnchorPoint: "Top" 443.065 699 basechar 0
 AnchorPoint: "Bottom" 316.595 -15 basechar 0
 LayerCount: 2

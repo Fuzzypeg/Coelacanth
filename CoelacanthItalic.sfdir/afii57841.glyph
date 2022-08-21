@@ -1,9 +1,10 @@
 StartChar: afii57841
 Encoding: 1471 1471 140
 Width: 0
-Flags: HW
-HStem: 661 43<163 349>
+Flags: W
+HStem: 661 43<155 341>
 LayerCount: 2
 Fore
 Refer: 130 1463 N 1 0 0 1 -24 784 2
+Validated: 1
 EndChar

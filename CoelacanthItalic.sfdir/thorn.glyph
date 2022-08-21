@@ -40,6 +40,7 @@ SplineSet
  59 -305 65 -294 67 -266 c 0xbd
  72 -214 74.0589 -84.8672 76 31 c 24
 EndSplineSet
+Validated: 513
 Substitution2: "pcap-1" thorn.pcap
 Substitution2: "case-1" Thorn
 Substitution2: "smcp-1" thorn.smcp

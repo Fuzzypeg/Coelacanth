@@ -2,10 +2,9 @@ StartChar: hungarumlaut
 Encoding: 733 733 298
 Width: 301
 VWidth: 1159
-Flags: HW
-HStem: 432.981 247.172
-VStem: 24.798 31.3643<453.32 485.66>
+Flags: W
 LayerCount: 2
 Fore
 Refer: 649 779 N 1 0 0 1 287 0 2
+Validated: 1
 EndChar

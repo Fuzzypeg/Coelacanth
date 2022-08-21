@@ -2,7 +2,7 @@ StartChar: afii10043
 Encoding: 1065 1065 32
 Width: 1006
 UnlinkRmOvrlpSave: 1
-Flags: HW
+Flags: W
 HStem: 0 37<803 873.217>
 VStem: 947 39<-240 -124.031>
 LayerCount: 2

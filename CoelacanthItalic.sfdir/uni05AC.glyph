@@ -1,9 +1,10 @@
 StartChar: uni05AC
 Encoding: 1452 1452 756
 Width: 0
-Flags: HW
+Flags: W
 HStem: 662 40<191 333>
 LayerCount: 2
 Fore
 Refer: 747 1443 N 1 0 0 1 27 850 2
+Validated: 5
 EndChar

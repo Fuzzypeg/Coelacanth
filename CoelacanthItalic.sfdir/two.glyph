@@ -23,6 +23,7 @@ SplineSet
  152.08984375 405 120.19921875 381 94.4921875 353 c 1
  77.3447265625 367 l 1x60
 EndSplineSet
+Validated: 33
 Substitution2: "dnom-1" two.denom
 Substitution2: "numr-1" two.numerator
 Substitution2: "tnum-1" two.tabulartext

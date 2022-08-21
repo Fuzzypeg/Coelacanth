@@ -2,6 +2,7 @@ StartChar: f
 Encoding: 102 102 249
 Width: 296
 VWidth: 1159
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 HStem: -326 36<-124.972 -84.346> 341 42<193.132 331> 697 57<348.061 437.684>
 AnchorPoint: "Top" 338 748 basechar 0
@@ -29,8 +30,8 @@ SplineSet
  172 626 225.583007812 654.627929688 296 701 c 4
  337 728 374 754 431 754 c 7
 EndSplineSet
-Substitution2: "salt-1" f.alt
-Substitution2: "case-1" F
-Substitution2: "pcap-1" f.pcap
 Substitution2: "smcp-1" f.smcp
+Substitution2: "pcap-1" f.pcap
+Substitution2: "case-1" F
+Substitution2: "salt-1" f.alt
 EndChar

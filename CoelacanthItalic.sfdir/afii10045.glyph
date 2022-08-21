@@ -46,5 +46,6 @@ SplineSet
  312 649 l 1
  254 647 214 652 212 616 c 0x6d80
 EndSplineSet
+Validated: 33
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 EndChar

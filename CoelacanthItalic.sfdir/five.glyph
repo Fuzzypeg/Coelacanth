@@ -21,6 +21,7 @@ SplineSet
  217.216796875 87.0654296875 189.3984375 164 55.4521484375 152 c 1
  76.3662109375 208 108.028320312 305.161132812 129.672851562 393.5 c 9
 EndSplineSet
+Validated: 33
 Substitution2: "dnom-1" five.denom
 Substitution2: "numr-1" five.numerator
 Substitution2: "tnum-1" five.tabulartext

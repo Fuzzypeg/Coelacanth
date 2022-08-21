@@ -1,9 +1,9 @@
 StartChar: uni0259.smcp
 Encoding: 57993 57993 620
 Width: 489
-Flags: HW
+Flags: W
 HStem: -19.95 53.675<185.184 295.654> 443.625 54.95<137.276 282.809>
-VStem: 370.3 77.475<220.228 348.235>
+VStem: 369.075 78.7<220.228 353.532>
 LayerCount: 2
 Fore
 SplineSet
@@ -25,4 +25,5 @@ SplineSet
  373.05 498.575 447.775 397.817368421 447.775 267.925 c 3
  447.775 53.55 272.6 -19.95 230.95 -19.95 c 3
 EndSplineSet
+Validated: 5
 EndChar

@@ -14,7 +14,7 @@ SplineSet
  212.541015625 408 182.244140625 342 157.279296875 208 c 9
  112.46484375 209 l 17
 EndSplineSet
-Refer: 405 46 N 1 0 0.0349208 1 11.5253 0 2
+Refer: 405 46 S 1 0 0.0349208 1 44.5253 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "pcap-1" exclam.pcap
 Substitution2: "smcp-1" exclam.smcp

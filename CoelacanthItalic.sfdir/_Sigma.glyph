@@ -1,8 +1,8 @@
 StartChar: Sigma
 Encoding: 931 931 1321
 Width: 656
-Flags: HW
-HStem: 1 40<162.356 491.5> 659 31<205.634 218.138>
+Flags: W
+HStem: 1 40<131.356 460.5> 659 31<174.634 187.138>
 AnchorPoint: "Top" 425.467 699 basechar 0
 AnchorPoint: "Bottom" 276.943 -15 basechar 0
 LayerCount: 2
@@ -32,6 +32,7 @@ SplineSet
  584.196289062 104 564.63671875 62 540 0 c 5
  307.626953125 -1.208984375 206.124023438 5.2880859375 -8.7958984375 1 c 5
 EndSplineSet
+Validated: 545
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" sigma.pcap
 Substitution2: "c2sc-1" sigma.smcp

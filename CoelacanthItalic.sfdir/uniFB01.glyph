@@ -2,6 +2,7 @@ StartChar: uniFB01
 Encoding: 64257 64257 1159
 Width: 511
 VWidth: 1159
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -326 36<-130.972 -90.3675> -5 21G<327.492 346.729> 351 62<329.382 427.658> 697 57<341.935 440.122>
 VStem: 280.492 82<73.8162 149.7>
@@ -44,6 +45,5 @@ SplineSet
  160 626 213.582663748 654.627607834 284 701 c 0
  325 728 362 754 419 754 c 3
 EndSplineSet
-LCarets2: 1 298
 Ligature2: "liga-1" f i
 EndChar

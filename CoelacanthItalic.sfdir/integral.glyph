@@ -1,7 +1,7 @@
 StartChar: integral
 Encoding: 8747 8747 306
 Width: 164
-Flags: HW
+Flags: W
 HStem: -348 55<-69.271 17.4458> 857 55<143.689 230.271>
 VStem: 49 63<-252.213 816.104>
 LayerCount: 2
@@ -25,4 +25,5 @@ SplineSet
  122.703125 857 130.353515625 764.18359375 118 654 c 0
  116.266601562 636.6640625 112 317.897460938 112 297 c 3
 EndSplineSet
+Validated: 1
 EndChar

@@ -40,6 +40,7 @@ SplineSet
  445 -134 432.819094368 -164.880515375 419 -186 c 0
  396.752808989 -220 368.44138087 -241.377070309 329 -267 c 0xdc
 EndSplineSet
+Validated: 513
 Substitution2: "smcp-1" eng.smcp
 Substitution2: "case-1" Eng
 Substitution2: "pcap-1" eng.pcap

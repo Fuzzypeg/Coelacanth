@@ -1,10 +1,11 @@
 StartChar: uni0594
 Encoding: 1428 1428 732
 Width: 0
-Flags: HW
+Flags: W
 HStem: 634 93.0225 746 93.0225
-VStem: 235.018 90.875
+VStem: 222.018 90.875 235.018 90.875
 LayerCount: 2
 Fore
 Refer: 131 1456 N 1 0 0 1 -6 902 2
+Validated: 1
 EndChar

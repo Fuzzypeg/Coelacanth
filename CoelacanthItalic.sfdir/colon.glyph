@@ -2,9 +2,9 @@ StartChar: colon
 Encoding: 58 58 191
 Width: 190
 VWidth: 1159
-Flags: HW
-HStem: -18 140<84.9007 113.663> 272 140<130.901 159.663>
-VStem: 31 136 77 136
+Flags: W
+HStem: -18 140<51.9007 80.6632> 272 140<97.9007 126.663>
+VStem: -2 136 44 136
 LayerCount: 2
 Fore
 Refer: 405 46 S 1 0 0 1 46 290 2

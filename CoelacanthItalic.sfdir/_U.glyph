@@ -2,8 +2,8 @@ StartChar: U
 Encoding: 85 85 1328
 Width: 777
 VWidth: 1159
-Flags: HW
-HStem: -10 54<251.68 472.587> 651 39<124.318 184.767 287.016 373.419 640.318 708.924 774.585 849.576>
+Flags: W
+HStem: -10 54<251.68 472.587> 650 40<121.846 185.949 285.91 373.419 638.512 711.722 773.783 849.576>
 AnchorPoint: "Ogonek" 377.686 10 basechar 0
 AnchorPoint: "Top" 503.036 699 basechar 0
 AnchorPoint: "Bottom" 328.471 -15 basechar 0
@@ -36,6 +36,7 @@ SplineSet
  194.890625 640 185.827148438 642 110.544921875 651 c 1
  124.318359375 690 l 1
 EndSplineSet
+Validated: 545
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" u.pcap
 Substitution2: "c2sc-1" u.smcp

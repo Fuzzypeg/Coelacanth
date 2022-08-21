@@ -1,8 +1,8 @@
 StartChar: j
 Encoding: 106 106 311
-Width: 248
+Width: 259
 VWidth: 1159
-Flags: W
+Flags: HW
 AnchorPoint: "Bottom" -7.77246 -318 basechar 0
 LayerCount: 2
 Fore

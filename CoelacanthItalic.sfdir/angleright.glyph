@@ -1,8 +1,9 @@
 StartChar: angleright
 Encoding: 9002 9002 149
 Width: 383
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 Refer: 148 9001 N -1 0 0 -1 383 422 2
+Validated: 1
 EndChar

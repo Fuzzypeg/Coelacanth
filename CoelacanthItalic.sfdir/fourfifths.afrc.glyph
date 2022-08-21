@@ -1,14 +1,15 @@
 StartChar: fourfifths.afrc
 Encoding: 58436 58436 273
 Width: 463
-Flags: HW
-HStem: 200.08 58.1855<174.948 307.004> 328 28<34 428> 482 39<151 232 286 347.287>
-VStem: 232 54<422.434 482 521 610.87> 249.45 54.9277<40.6657 97.7549> 277 19<692.548 700.684>
+Flags: W
+HStem: -27.0605 24.0527<99.0865 160.896> 197.584 57.001<202.231 333.826> 328 28<34 428> 482 39<144.743 217.454 279.743 331.138>
+VStem: 95.7979 274.734 310.279 16.874<697.687 701.148>
 LayerCount: 2
 Fore
 Refer: 487 58113 N 0.394 0 0 0.875 34 342 2
 Refer: 917 8324 N 1 0 0 1 79 494 2
 Refer: 918 8325 N 1 0 0 1 98 68 2
+Validated: 1
 Ligature2: "'afrc' Nut Fractions lookup 23-1" four.numerator fraction five.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2158
 EndChar

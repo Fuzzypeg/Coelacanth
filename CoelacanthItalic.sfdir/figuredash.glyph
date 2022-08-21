@@ -1,10 +1,11 @@
 StartChar: figuredash
 Encoding: 8210 8210 252
 Width: 463
-Flags: HW
+Flags: W
 HStem: 227 36<0 463>
 LayerCount: 2
 Fore
 Refer: 487 58113 N 0.463 0 0 1.125 0 245 2
+Validated: 1
 Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
 EndChar
