@@ -2,7 +2,7 @@ StartChar: male
 Encoding: 9794 9794 1527
 Width: 712
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -11.2969 67.7646<216.324 362.524> 440.996 63.3008<199.017 341.477>
 VStem: 24.5127 97.5889<161.909 354.364> 438.053 96.4736<145.423 337.843>
 LayerCount: 2

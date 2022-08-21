@@ -2,7 +2,7 @@ StartChar: uni1F07
 Encoding: 7943 7943 1131
 Width: 618
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 748 21G<189.746 240.217> 752.408 86<338.293 406.913> 799.746 85.4463<253.448 326.622>
 VStem: 181.546 294.106
 AnchorPoint: "Bottom" 275 -15 basechar 0
