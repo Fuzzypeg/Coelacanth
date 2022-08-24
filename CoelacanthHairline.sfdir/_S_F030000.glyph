@@ -1,0 +1,10 @@
+StartChar: SF030000
+Encoding: 9488 9488 2745
+Width: 926
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 2845 9588 N 1 0 0 1 0 0 2
+Refer: 2848 9591 N 1 0 0 1 0 0 2
+EndChar
