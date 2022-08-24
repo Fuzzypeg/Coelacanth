@@ -1,8 +1,8 @@
 StartChar: uni01EB.pcap
 Encoding: 57492 57492 585
-Width: 589
+Width: 568
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -266 60.1279<279.947 342.414> -4.67676 36.2852<222.765 352.551> 377.726 35.2666<250.229 366.006>
 VStem: 197.562 69.21<-194.855 -88.4335>
 AnchorPoint: "Top" 285 465 basechar 0

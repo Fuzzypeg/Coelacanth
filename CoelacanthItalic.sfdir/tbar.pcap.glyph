@@ -1,8 +1,8 @@
 StartChar: tbar.pcap
 Encoding: 57453 57453 480
-Width: 492
+Width: 462
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -7.30371 28.4893<108.016 166.548 266.66 306.696> 183 31<124 364> 356.938 36.833<113.843 238.49 321.793 442.993> 381.541 28.8818G<107.866 118.418 480.858 497.979>
 LayerCount: 2
 Fore

@@ -1,11 +1,11 @@
 StartChar: obar.pcap
 Encoding: 57466 57466 360
-Width: 589
+Width: 568
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -4.67676 36.2852<222.765 352.551> 192 28<76 514> 377.726 35.2666<250.229 366.006>
 LayerCount: 2
 Fore
-Refer: 487 58113 S 0.438 0 0 0.875 76 206 2
+Refer: 487 58113 S 0.438 0 0 0.875 66 206 2
 Refer: 359 57361 N 1 0 0 1 0 0 3
 EndChar

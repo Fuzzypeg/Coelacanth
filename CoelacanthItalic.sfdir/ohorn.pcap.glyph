@@ -2,7 +2,7 @@ StartChar: ohorn.pcap
 Encoding: 57467 57467 365
 Width: 574
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -4.67676 36.2852<222.765 352.551> 365 25<409.828 481.105> 377.726 35.2666<250.229 366.006> 383 20G<394.961 400.5>
 VStem: 502 86<403.484 481.553>
 AnchorPoint: "Top" 283 465 basechar 0
