@@ -1,15 +1,15 @@
 StartChar: fivesixths.afrc
 Encoding: 58438 58438 263
 Width: 463
-Flags: W
+Flags: HW
 HStem: -8 32<167.821 264.821> 129 36<234.688 294.386> 269 19<316.01 330.491> 328 28<34 428> 402.939 24.0527<121.087 182.896> 627.584 57.001<224.231 355.826>
 VStem: 117.798 274.734 121.381 214.072
 LayerCount: 2
 Fore
-Refer: 487 58113 N 0.394 0 0 0.875 34 342 2
-Refer: 919 8326 N 1 0 0 1 75 74 2
-Refer: 918 8325 N 1 0 0 1 120 498 2
-Validated: 1
+Refer: 487 58113 S 0.394 0 0 0.875 52 342 2
+Refer: 919 8326 N 1 0 0 1 55 74 2
+Refer: 918 8325 N 1 0 0 1 185 498 2
+LCarets2: 2 0 0
 Ligature2: "'afrc' Nut Fractions lookup 23-1" five.numerator fraction six.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni215A
 EndChar

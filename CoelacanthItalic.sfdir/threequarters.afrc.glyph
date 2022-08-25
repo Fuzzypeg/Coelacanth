@@ -1,15 +1,15 @@
 StartChar: threequarters.afrc
 Encoding: 58431 58431 501
 Width: 463
-Flags: W
+Flags: HW
 HStem: 72 39<147.743 220.454 282.743 334.138> 328 28<34 428> 402 20<112.812 162.966> 535 19<167.082 202.505> 656 41<202.075 274.012>
 VStem: 109.062 227.274 313.279 16.874<287.687 291.148>
 LayerCount: 2
 Fore
-Refer: 487 58113 N 0.394 0 0 0.875 34 342 2
-Refer: 916 8323 N 1 0 0 1 96 497 2
-Refer: 917 8324 N 1 0 0 1 82 84 2
-Validated: 1
+Refer: 487 58113 S 0.394 0 0 0.875 52 342 2
+Refer: 916 8323 N 1 0 0 1 161 497 2
+Refer: 917 8324 N 1 0 0 1 62 84 2
+LCarets2: 2 0 0
 Ligature2: "'afrc' Nut Fractions lookup 23-1" three.numerator fraction four.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" threequarters
 EndChar

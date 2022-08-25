@@ -2,14 +2,15 @@ StartChar: fiveeighths.afrc
 Encoding: 58442 58442 261
 Width: 463
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -6.125 25.8574<194.161 260.08> 251.414 23.6133<225.726 280.404> 328 28<34 428> 402.939 24.0527<121.087 182.896> 627.584 57.001<224.231 355.826>
 VStem: 116.499 226.523 117.798 274.734
 LayerCount: 2
 Fore
-Refer: 487 58113 N 0.394 0 0 0.875 34 342 2
-Refer: 921 8328 N 1 0 0 1 88 77 2
-Refer: 918 8325 N 1 0 0 1 120 498 2
+Refer: 487 58113 S 0.394 0 0 0.875 52 342 2
+Refer: 921 8328 N 1 0 0 1 68 77 2
+Refer: 918 8325 N 1 0 0 1 185 498 2
+LCarets2: 2 0 0
 Ligature2: "'afrc' Nut Fractions lookup 23-1" five.numerator fraction eight.denom
 Ligature2: "'afrc' Nut Fractions lookup 23-1" fiveeighths
 EndChar

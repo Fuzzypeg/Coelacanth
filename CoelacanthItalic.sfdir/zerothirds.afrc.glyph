@@ -1,15 +1,14 @@
 StartChar: zerothirds.afrc
 Encoding: 58446 58446 1240
 Width: 463
-Flags: W
+Flags: HW
 HStem: -13 20<110.812 160.966> 120 19<165.082 200.505> 241 41<200.075 272.012> 328 28<34 428> 415.81 26.0342<182.512 263.308> 663.84 27.3115<204.099 285.713>
 VStem: 89.2598 287.538 107.062 227.274
 LayerCount: 2
 Fore
-Refer: 487 58113 N 0.394 0 0 0.875 34 342 2
-Refer: 916 8323 N 1 0 0 1 94 82 2
-Refer: 913 8320 N 1 0 0 1 63 496 2
-Validated: 1
+Refer: 487 58113 S 0.394 0 0 0.875 52 342 2
+Refer: 916 8323 N 1 0 0 1 74 82 2
+Refer: 913 8320 N 1 0 0 1 128 496 2
 Substitution2: "'zero' Slashed Zero lookup 22-1" zerothirds.afrcalt
 LCarets2: 2 0 0
 Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2189
