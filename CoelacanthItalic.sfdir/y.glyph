@@ -1,12 +1,12 @@
 StartChar: y
 Encoding: 121 121 1220
-Width: 401
+Width: 405
 VWidth: 1159
 Flags: HMW
-HStem: 388 20G<106.562 120.102>
-VStem: 27.5614 22<273 332.219>
+HStem: 388 20G<106.563 120.103>
+VStem: 27.5628 22<273 332.219>
 AnchorPoint: "Bottom" 150.274 -161 basechar 0
-AnchorPoint: "Top" 260.549 465 basechar 0
+AnchorPoint: "Top" 260.55 465 basechar 0
 LayerCount: 2
 Fore
 SplineSet

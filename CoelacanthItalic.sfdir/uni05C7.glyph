@@ -1,6 +1,7 @@
 StartChar: uni05C7
 Encoding: 1479 1479 764
 Width: 0
+UnlinkRmOvrlpSave: 1
 Flags: W
 HStem: -245 50<245.249 272.249> -123 43<179 365>
 VStem: 215.99 86<-274.205 -214.235> 260.542 27<-166.099 -99.5>

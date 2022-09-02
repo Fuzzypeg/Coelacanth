@@ -1,12 +1,12 @@
 StartChar: utilde
 Encoding: 361 361 230
-Width: 532
+Width: 558
 Flags: HW
-HStem: 582.408 86<299.331 367.951> 629.746 85.4463<214.486 287.66>
-VStem: 142.584 294.106
+HStem: 582.408 86<312.164 380.784> 629.746 85.4463<227.319 300.493>
+VStem: 155.417 294.106
 LayerCount: 2
 Fore
-Refer: 100 771 N 1 0 0 1 460 0 2
+Refer: 100 771 N 1 0 0 1 472.833 0 2
 Refer: 20 117 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" utilde.smcp
 Substitution2: "pcap-1" utilde.pcap

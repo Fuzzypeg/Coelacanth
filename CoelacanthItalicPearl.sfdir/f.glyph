@@ -2,6 +2,7 @@ StartChar: f
 Encoding: 102 102 5
 Width: 385
 VWidth: 1159
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Back
@@ -51,7 +52,7 @@ SplineSet
  176.886179681 627.354583713 232.048608713 670.309101432 314.84375 713.6796875 c 4
  357.811523438 736.1875 409.490234375 754 478.653320312 754 c 7
 EndSplineSet
-Substitution2: "salt-1" f.alt
-Substitution2: "pcap-1" f.pcap
 Substitution2: "smcp-1" f.smcp
+Substitution2: "pcap-1" f.pcap
+Substitution2: "salt-1" f.alt
 EndChar

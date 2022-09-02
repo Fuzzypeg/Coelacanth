@@ -2,6 +2,7 @@ StartChar: g
 Encoding: 103 103 6
 Width: 503
 VWidth: 1159
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 LayerCount: 2
 Back
@@ -75,6 +76,6 @@ SplineSet
  72.00796875 431.333984375 201.854335938 505 297.777695312 505 c 3
  371.713242187 505 455.71421875 441 440.587265624 354.936523438 c 1
 EndSplineSet
-Substitution2: "pcap-1" g.pcap
 Substitution2: "smcp-1" g.smcp
+Substitution2: "pcap-1" g.pcap
 EndChar
