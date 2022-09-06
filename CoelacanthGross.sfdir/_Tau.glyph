@@ -2,8 +2,8 @@ StartChar: Tau
 Encoding: 932 932 1323
 Width: 746
 Flags: HW
-HStem: -7 44<430.307 524> 634 51<105.399 325.89 425 641.844>
-VStem: 323 97<51.3596 333.831>
+HStem: -7 44<428.307 522> 634 51<103.399 323.89 423 639.844>
+VStem: 321 97<51.3596 333.831>
 AnchorPoint: "Top" 358 699 basechar 0
 AnchorPoint: "Bottom" 358 -15 basechar 0
 LayerCount: 2

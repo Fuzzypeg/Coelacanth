@@ -1,12 +1,12 @@
 StartChar: Lcaron
 Encoding: 317 317 1290
-Width: 655
+Width: 658
 Flags: HW
 HStem: -7 44<49 114.095> 2 50<215.846 531.493> 500.494 206.751 652 41<223.258 312.683>
 VStem: 120 88<57.6719 639.659> 425.25 61<621.847 691.311> 588 35<122.552 159>
 LayerCount: 2
 Fore
-Refer: 659 789 N 1 0 0 1 485 50 2
+Refer: 659 789 S 1 0 0 1 544 50 2
 Refer: 1288 76 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" lcaron.pcap

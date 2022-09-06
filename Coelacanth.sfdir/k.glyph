@@ -2,6 +2,7 @@ StartChar: k
 Encoding: 107 107 10
 GlifName: k
 Width: 486
+UnlinkRmOvrlpSave: 1
 Flags: HMW
 HStem: -6 33<17 67 297 341 441 484> 371 32<251 284 383 449>
 VStem: 88 63<55 214 237 488>
@@ -49,6 +50,6 @@ SplineSet
  179 724 172.459796002 696.948470013 171 686 c 0
  161 611 150 361 150 237 c 1
 EndSplineSet
-Substitution2: "smcp-1" k.smcp
 Substitution2: "pcap-1" k.pcap
+Substitution2: "smcp-1" k.smcp
 EndChar

@@ -3,13 +3,13 @@ Encoding: 231 231 214
 Width: 468
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -172 50.1914<167.034 233.203>
-VStem: 236.175 76.4277<-122.225 -75.0357>
+HStem: -172 50.1914<173.034 239.203>
+VStem: 242.175 76.4277<-122.225 -75.0357>
 AnchorPoint: "Top" 231 465 basechar 0
 AnchorPoint: "Bottom" 228 -207 basechar 0
 LayerCount: 2
 Fore
-Refer: 1106 807 N 1 0 0 1 446 0 2
+Refer: 1106 807 N 1 0 0 1 452 0 2
 Refer: 203 99 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" ccedilla.pcap
 Substitution2: "case-1" Ccedilla

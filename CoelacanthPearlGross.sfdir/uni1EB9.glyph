@@ -1,12 +1,12 @@
 StartChar: uni1EB9
 Encoding: 7865 7865 1582
-Width: 506
+Width: 513
 Flags: HW
-HStem: -157.1 114.4<215.151 310.25>
-VStem: 204.4 116.6<-146.514 -53.2433>
+HStem: -157.1 114.4<217.151 312.25>
+VStem: 206.4 116.6<-146.514 -53.2433>
 AnchorPoint: "Top" 252 537 basechar 0
 LayerCount: 2
 Fore
-Refer: 265 803 N 1 0 0 1 457 0 2
+Refer: 265 803 N 1 0 0 1 459 0 2
 Refer: 268 101 N 1 0 0 1 0 0 3
 EndChar

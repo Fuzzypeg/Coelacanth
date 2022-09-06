@@ -1,12 +1,12 @@
 StartChar: lcommaaccent
 Encoding: 316 316 484
-Width: 290
+Width: 293
 Flags: HW
 HStem: -177.1 149
-VStem: 102 102<-122.261 -42.3>
+VStem: 103 102<-122.261 -42.3>
 LayerCount: 2
 Fore
-Refer: 1105 806 N 1 0 0 1 338 0 2
+Refer: 1105 806 N 1 0 0 1 339 0 2
 Refer: 472 108 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" lcommaaccent.smcp
 Substitution2: "case-1" Lcommaaccent

@@ -1,6 +1,6 @@
 StartChar: uni04BB
 Encoding: 1211 1211 1172
-Width: 559
+Width: 577
 Flags: HW
 AnchorPoint: "Top" 120 733 basechar 0
 AnchorPoint: "Bottom" 275 -15 basechar 0

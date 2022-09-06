@@ -1,12 +1,12 @@
 StartChar: uni01CC
 Encoding: 460 460 577
-Width: 738
+Width: 734
 Flags: HW
 HStem: -7 33<21 68 170 229 308 360 454 512> 338 60<237 357> 572 102<628.589 713.411>
 VStem: 95 66<44 316 330 333> 379 68<36 316> 499 27<-331 -293> 608 68<-160 327> 619 104<581.438 664.599>
 LayerCount: 2
 Fore
-Refer: 311 106 N 1 0 0 1 526 0 2
+Refer: 311 106 N 1 0 0 1 504 0 2
 Refer: 345 110 N 1 0 0 1 0 0 2
 Substitution2: "case-1" uni01CA
 EndChar

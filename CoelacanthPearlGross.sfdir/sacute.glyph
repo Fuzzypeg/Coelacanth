@@ -1,12 +1,12 @@
 StartChar: sacute
 Encoding: 347 347 687
-Width: 427
+Width: 434
 Flags: HW
 HStem: 569.951 193.429
-VStem: 160.389 230.611
+VStem: 167.389 230.611
 LayerCount: 2
 Fore
-Refer: 15 769 N 1 0 0 1 393 0 2
+Refer: 15 769 N 1 0 0 1 400 0 2
 Refer: 684 115 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" sacute.smcp
 Substitution2: "'locl' Localized Forms Polish-1" skreska

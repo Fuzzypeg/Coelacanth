@@ -1,14 +1,14 @@
 StartChar: edotaccent
 Encoding: 279 279 286
-Width: 506
+Width: 513
 Flags: HW
-HStem: 571.225 155.55<204.029 323.971>
-VStem: 184.7 158.6<590.246 707.827>
+HStem: 571.225 155.55<206.029 325.971>
+VStem: 186.7 158.6<590.246 707.827>
 AnchorPoint: "Bottom" 205 -15 basechar 0
 AnchorPoint: "Ogonek" 298.65 23 basechar 0
 LayerCount: 2
 Fore
-Refer: 1087 775 N 1 0 0 1 440 0 2
+Refer: 1087 775 N 1 0 0 1 442 0 2
 Refer: 268 101 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" edotaccent.smcp
 Substitution2: "case-1" Edotaccent

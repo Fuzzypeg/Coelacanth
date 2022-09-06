@@ -3,10 +3,10 @@ Encoding: 265 265 217
 Width: 468
 Flags: HW
 HStem: 564 167.801
-VStem: 105.3 312.5
+VStem: 111.3 312.5
 LayerCount: 2
 Fore
-Refer: 1083 770 N 1 0 0 1 436 0 2
+Refer: 1083 770 N 1 0 0 1 442 0 2
 Refer: 203 99 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" ccircumflex.smcp
 Substitution2: "case-1" Ccircumflex

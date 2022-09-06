@@ -3,11 +3,11 @@ Encoding: 358 358 1324
 Width: 746
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: -7 44<430.307 524> 329 46<199 549> 634 51<105.399 325.89 425 641.844>
-VStem: 323 97<51.3596 333.831>
+HStem: -7 44<428.307 522> 329 46<197 547> 634 51<103.399 323.89 423 639.844>
+VStem: 321 97<51.3596 333.831>
 LayerCount: 2
 Fore
-Refer: 1338 58035 N 1.1 0 0 1 624.8 0 2
+Refer: 1338 58035 N 1.1 0 0 1 622.8 0 2
 Refer: 1322 84 N 1 0 0 1 0 0 2
 Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
 Substitution2: "c2pc-1" tbar.pcap

@@ -1,9 +1,9 @@
 StartChar: uni04BB
 Encoding: 1211 1211 728
-Width: 531
+Width: 516
 Flags: HW
-HStem: -7 33<21 68 169 229 322 368 450 517> 353 50<219 349>
-VStem: 92 70<42 333 352 611> 379 68<33 322>
+HStem: -7 33<16 63 164 224 317 363 445 512> 353 50<214 344>
+VStem: 87 70<42 333 352 611> 374 68<33 322>
 AnchorPoint: "Top" 120 733 basechar 0
 AnchorPoint: "Bottom" 275 -15 basechar 0
 LayerCount: 2

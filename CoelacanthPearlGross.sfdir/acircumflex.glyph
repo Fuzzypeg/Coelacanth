@@ -1,14 +1,14 @@
 StartChar: acircumflex
 Encoding: 226 226 11
-Width: 477
+Width: 512
 Flags: HW
 HStem: 564 167.801
-VStem: 76.2998 312.5
+VStem: 92.2998 312.5
 AnchorPoint: "Bottom" 203 -15 basechar 0
 AnchorPoint: "Ogonek" 386 22 basechar 0
 LayerCount: 2
 Fore
-Refer: 1083 770 N 1 0 0 1 407 0 2
+Refer: 1083 770 N 1 0 0 1 423 0 2
 Refer: 0 97 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" acircumflex.pcap
 Substitution2: "case-1" Acircumflex

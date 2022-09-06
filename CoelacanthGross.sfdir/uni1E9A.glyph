@@ -1,6 +1,6 @@
 StartChar: uni1E9A
 Encoding: 7834 7834 767
-Width: 413
+Width: 433
 Flags: HW
 AnchorPoint: "Top" 201 465 basechar 0
 AnchorPoint: "Ogonek" 354 18 basechar 0
@@ -8,5 +8,5 @@ AnchorPoint: "Bottom" 203 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 0 97 N 1 0 0 1 0 0 2
-Refer: 682 855 N 1 0 0 1 548 0 2
+Refer: 682 855 N 1 0 0 1 553 0 2
 EndChar

@@ -3,7 +3,7 @@ Encoding: 1101 1101 104
 Width: 468
 UnlinkRmOvrlpSave: 1
 Flags: HW
-HStem: 108.953 107.551<143.152 382>
+HStem: 108.953 107.551<149.152 388>
 AnchorPoint: "Top" 208 465 basechar 0
 AnchorPoint: "Bottom" 180 -15 basechar 0
 LayerCount: 2

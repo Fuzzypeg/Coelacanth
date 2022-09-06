@@ -1,12 +1,12 @@
 StartChar: kcommaaccent
 Encoding: 311 311 467
-Width: 515
+Width: 569
 Flags: HW
 HStem: -177.1 149
-VStem: 222 102<-122.261 -42.3>
+VStem: 345.538 102<-122.261 -42.3>
 LayerCount: 2
 Fore
-Refer: 1105 806 N 1 0 0 1 458 0 2
+Refer: 1105 806 N 1 0 0 1 581.538 0 2
 Refer: 462 107 N 1 0 0 1 0 0 3
 Substitution2: "smcp-1" kcommaaccent.smcp
 Substitution2: "case-1" Kcommaaccent

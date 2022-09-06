@@ -1,9 +1,9 @@
 StartChar: afii10065
 Encoding: 1072 1072 48
-Width: 413
+Width: 433
 Flags: HW
-HStem: -15 43<75 181> 161 32<153 246> 364 52<128 220>
-VStem: 33 64<34 133> 247 65<60 164 191 321>
+HStem: -15 43<80 186> 161 32<158 251> 364 52<133 225>
+VStem: 38 64<34 133> 252 65<60 164 191 321>
 AnchorPoint: "Top" 191 465 basechar 0
 AnchorPoint: "Bottom" 193 -15 basechar 0
 LayerCount: 2

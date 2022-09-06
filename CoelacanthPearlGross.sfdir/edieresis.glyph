@@ -1,14 +1,14 @@
 StartChar: edieresis
 Encoding: 235 235 283
-Width: 506
+Width: 513
 Flags: HW
-HStem: 593.08 105.84<129.994 224.006 305.994 400.006>
-VStem: 122.82 108.36<600.114 691.915> 298.82 108.36<600.114 691.915>
+HStem: 593.08 105.84<131.994 226.006 307.994 402.006>
+VStem: 124.82 108.36<600.114 691.915> 300.82 108.36<600.114 691.915>
 AnchorPoint: "Ogonek" 364 18 basechar 0
 AnchorPoint: "Bottom" 243 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 1088 776 N 1 0 0 1 440 0 2
+Refer: 1088 776 N 1 0 0 1 442 0 2
 Refer: 268 101 N 1 0 0 1 0 0 3
 Substitution2: "pcap-1" edieresis.pcap
 Substitution2: "case-1" Edieresis
