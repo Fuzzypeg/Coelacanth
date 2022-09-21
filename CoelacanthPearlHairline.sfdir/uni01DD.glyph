@@ -1,11 +1,11 @@
 StartChar: uni01DD
 Encoding: 477 477 903
-Width: 506
+Width: 496
 Flags: HW
-AnchorPoint: "Top" 239 538 basechar 0
-AnchorPoint: "Bottom" 230 -15 basechar 0
+AnchorPoint: "Top" 229 538 basechar 0
+AnchorPoint: "Bottom" 220 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 272 101 N -1 0 0 -1 464 509 2
+Refer: 272 101 S -1 0 0 -1 496 504 2
 Substitution2: "case-1" uni018E
 EndChar
