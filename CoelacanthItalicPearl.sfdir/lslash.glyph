@@ -1,12 +1,12 @@
 StartChar: lslash
 Encoding: 322 322 456
-Width: 262
+Width: 321
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1961 58113 N 0.241835 0.226095 -0.723895 0.778281 33.5827 211.452 2
-Refer: 11 108 N 1 0 0 1 29.0046 0 2
+Refer: 1961 58113 N 0.241835 0.226095 -0.723895 0.778281 44.5381 211.452 2
+Refer: 11 108 N 1 0 0 1 39.96 0 2
 Substitution2: "pcap-1" lslash.pcap
 Substitution2: "smcp-1" lslash.smcp
 EndChar

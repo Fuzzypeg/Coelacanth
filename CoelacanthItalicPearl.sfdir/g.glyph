@@ -4,6 +4,7 @@ Width: 503
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HMW
+AnchorPoint: "Top" 302.66 537 basechar 0
 LayerCount: 2
 Back
 SplineSet

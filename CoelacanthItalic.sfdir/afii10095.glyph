@@ -1,10 +1,10 @@
 StartChar: afii10095
 Encoding: 1101 1101 77
-Width: 367
+Width: 361
 UnlinkRmOvrlpSave: 1
-Flags: W
-HStem: -12 63<116.364 208.334> 197.953 27.5508<140.388 332> 372 53<183.719 270.979>
-VStem: 302.378 74.9532<180.312 338.061>
+Flags: HW
+HStem: -12 63<110.506 202.476> 197.953 27.5508<134.53 326.142> 372 53<177.861 265.121>
+VStem: 296.52 74.9532<180.312 338.061>
 AnchorPoint: "Top" 208 465 basechar 0
 AnchorPoint: "Bottom" 180 -15 basechar 0
 LayerCount: 2

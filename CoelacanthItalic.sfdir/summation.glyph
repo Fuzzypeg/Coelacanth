@@ -1,10 +1,9 @@
 StartChar: summation
 Encoding: 8721 8721 475
-Width: 656
-Flags: W
+Width: 626
+Flags: HW
 HStem: 1 40<131.356 460.5> 659 31<174.634 187.138>
 LayerCount: 2
 Fore
 Refer: 1321 931 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar

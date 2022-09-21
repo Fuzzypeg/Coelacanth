@@ -4,6 +4,8 @@ Width: 523
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
 Flags: HW
+AnchorPoint: "Bottom" 205.181 -15 basechar 0
+AnchorPoint: "Top" 332.66 537 basechar 0
 LayerCount: 2
 Fore
 SplineSet

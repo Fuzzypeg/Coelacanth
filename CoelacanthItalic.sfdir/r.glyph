@@ -1,10 +1,10 @@
 StartChar: r
 Encoding: 114 114 438
-Width: 387
+Width: 359
 VWidth: 1159
 Flags: HMW
-HStem: 406 20G<322.48 342.98> 413 20G<154.48 180.48 322.48 342.98>
-VStem: 44.4801 19<295.105 306.953> 55.4801 68<0 66.3041>
+HStem: 406 20G<322.492 342.992> 413 20G<154.492 180.492 322.492 342.992>
+VStem: 44.4925 19<295.105 306.953> 55.4925 68<0 66.3041>
 AnchorPoint: "Bottom" 108.99 -15 basechar 0
 AnchorPoint: "Top" 231.956 465 basechar 0
 LayerCount: 2

@@ -3,6 +3,7 @@ Encoding: 567 567 52
 Width: 307
 VWidth: 1159
 Flags: HMW
+AnchorPoint: "Top" 246.66 537 basechar 0
 LayerCount: 2
 Fore
 SplineSet
