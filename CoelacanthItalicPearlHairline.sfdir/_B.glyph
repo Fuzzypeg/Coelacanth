@@ -3,7 +3,7 @@ Encoding: 66 66 27
 Width: 640
 Flags: MW
 HStem: -4 38<-2.97646 72.9443 168.149 346.524> 349 30<239.024 374.228> 653 41<166.024 213.337 316.608 437.009>
-AnchorPoint: "Top" 379.72 699 basechar 0
+AnchorPoint: "Top" 376.525 679 basechar 0
 AnchorPoint: "Bottom" 249.415 -15 basechar 0
 LayerCount: 2
 Fore

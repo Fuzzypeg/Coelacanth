@@ -1,7 +1,7 @@
 StartChar: uni1F49
 Encoding: 8009 8009 1539
 Width: 910
-Flags: W
+Flags: HW
 HStem: -16 56<303.64 527.15> 593.808 60.48<77.1203 132.767> 632 57<439.955 661.571>
 VStem: -10.8735 81<663.591 731.325>
 AnchorPoint: "Middle" 488.697 364.853 basechar 0

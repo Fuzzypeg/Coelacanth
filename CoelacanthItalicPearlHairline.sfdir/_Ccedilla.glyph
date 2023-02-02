@@ -2,7 +2,7 @@ StartChar: Ccedilla
 Encoding: 199 199 323
 Width: 726
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -172.787 53.7051<308.509 387.756> -16 75<283.952 490.565> 616 72<372.172 586.699>
 VStem: 388.489 93.7783<-118.098 -71.2499> 640.502 71.5645<501.031 572.494>
 AnchorPoint: "Top" 433 699 basechar 0

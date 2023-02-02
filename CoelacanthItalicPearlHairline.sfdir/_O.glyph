@@ -3,10 +3,10 @@ Encoding: 79 79 40
 Width: 792
 Flags: W
 HStem: -16 56<238.64 462.15> 632 57<374.955 596.571>
+AnchorPoint: "Top" 487.525 679 basechar 0
 AnchorPoint: "Horn" 650.274 595 basechar 0
 AnchorPoint: "Middle" 413.009 358 basechar 0
 AnchorPoint: "Ogonek" 392.009 10 basechar 0
-AnchorPoint: "Top" 493.837 699 basechar 0
 AnchorPoint: "Bottom" 345.837 -15 basechar 0
 LayerCount: 2
 Back

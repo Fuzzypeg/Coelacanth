@@ -1,7 +1,7 @@
 StartChar: zdotaccent.pcap
 Encoding: 57464 57464 1710
 Width: 537
-Flags: W
+Flags: HW
 HStem: -8 21G<44.0159 71> 1 75<204.304 424.158> 424 75<129 357> 607.231 83.5374<283.12 356.91>
 VStem: 277.429 85.1754<613.297 684.727>
 LayerCount: 2

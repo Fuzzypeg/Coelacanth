@@ -1,7 +1,7 @@
 StartChar: uni1EA1.pcap
 Encoding: 57621 57621 1895
 Width: 549
-Flags: W
+Flags: HW
 HStem: -8 67<33.2113 75.9979 483.002 522> 124 66<203 336> 489 20G<246.5 325>
 AnchorPoint: "Top" 286 537 basechar 0
 LayerCount: 2

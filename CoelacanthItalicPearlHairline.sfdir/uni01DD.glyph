@@ -1,12 +1,10 @@
 StartChar: uni01DD
 Encoding: 477 477 719
-Width: 447
+Width: 437
 Flags: HW
-HStem: 88 54<225.613 296.948> 473 51<253.46 347.979>
-VStem: 148.497 60<159.147 219.755> 374.005 71.9619<311.373 447.531>
 AnchorPoint: "Top" 239 538 basechar 0
 AnchorPoint: "Bottom" 230 -15 basechar 0
 LayerCount: 2
 Fore
-Refer: 4 101 S -1 0 0 -1 447 498 2
+Refer: 4 101 S -1 0 0 -1 442 497 2
 EndChar

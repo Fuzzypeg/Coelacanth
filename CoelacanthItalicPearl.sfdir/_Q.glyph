@@ -1,10 +1,10 @@
 StartChar: Q
 Encoding: 81 81 42
 Width: 786
-Flags: W
+Flags: HW
 HStem: -171 74<614.642 752.132> -12 82<299.69 376.925> 619 73<356.095 535.886>
+AnchorPoint: "Top" 480.525 679 basechar 0
 AnchorPoint: "Middle" 402.727 347.853 basechar 0
-AnchorPoint: "Top" 484.621 699 basechar 0
 AnchorPoint: "Bottom" 258.553 -15 basechar 0
 LayerCount: 2
 Fore

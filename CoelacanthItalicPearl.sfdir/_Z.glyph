@@ -1,9 +1,9 @@
 StartChar: Z
 Encoding: 90 90 58
 Width: 693
-Flags: W
+Flags: HW
 HStem: 0 67<156.316 520.314> 610 66.0352<218.059 573.734>
-AnchorPoint: "Top" 450.824 699 basechar 0
+AnchorPoint: "Top" 437.525 679 basechar 0
 AnchorPoint: "Bottom" 300.997 -15 basechar 0
 LayerCount: 2
 Fore

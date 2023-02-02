@@ -2,7 +2,7 @@ StartChar: uni01E4
 Encoding: 484 484 705
 Width: 775
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -12 70<307.754 514.134> 151.5 63<453.825 729.676> 284 70<474.622 542.184> 299 65<687.468 732.93> 617 71<377.052 606.935>
 AnchorPoint: "Top" 444 699 basechar 0
 AnchorPoint: "Bottom" 421 -15 basechar 0

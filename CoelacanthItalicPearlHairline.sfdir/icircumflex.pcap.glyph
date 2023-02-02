@@ -1,7 +1,7 @@
 StartChar: icircumflex.pcap
 Encoding: 57387 57387 1633
 Width: 377
-Flags: W
+Flags: HW
 HStem: -8 66<247.449 314.53> 438 71<69.5139 135.452 252.508 318.493> 576 155.801
 VStem: 54.3 288.5 140 104<63.5768 428.84>
 LayerCount: 2

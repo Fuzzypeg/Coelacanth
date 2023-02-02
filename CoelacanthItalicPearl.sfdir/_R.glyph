@@ -2,7 +2,7 @@ StartChar: R
 Encoding: 82 82 43
 Width: 707
 Flags: HMW
-AnchorPoint: "Top" 388.891 699 basechar 0
+AnchorPoint: "Top" 381.525 679 basechar 0
 AnchorPoint: "Bottom" 340.125 -15 basechar 0
 LayerCount: 2
 Fore

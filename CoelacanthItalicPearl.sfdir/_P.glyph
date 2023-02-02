@@ -1,9 +1,9 @@
 StartChar: P
 Encoding: 80 80 41
 Width: 640
-Flags: W
+Flags: HW
 HStem: -15 69<10.5919 70.0803> -11 73<188.42 252.447> 198 68<222.074 387.602> 205 67<221.441 257.048> 609 72<130.403 174.095> 618 68<287.061 456.836>
-AnchorPoint: "Top" 401.266 699 basechar 0
+AnchorPoint: "Top" 396.525 679 basechar 0
 AnchorPoint: "Bottom" 143.699 -15 basechar 0
 LayerCount: 2
 Fore

@@ -1,7 +1,7 @@
 StartChar: upsilondieresis
 Encoding: 971 971 1110
 Width: 581
-Flags: W
+Flags: HW
 HStem: 594.08 105.84<217.994 312.006 393.994 488.006>
 VStem: 210.82 108.36<601.114 692.915> 386.82 108.36<601.114 692.915>
 AnchorPoint: "Bottom" 241 -15 basechar 0

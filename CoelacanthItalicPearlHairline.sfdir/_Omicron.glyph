@@ -1,10 +1,11 @@
 StartChar: Omicron
 Encoding: 927 927 990
 Width: 792
-Flags: W
-HStem: -16 56<238.64 462.15> 632 57<374.955 596.571>
-AnchorPoint: "Top" 426 699 basechar 0
-AnchorPoint: "Bottom" 422 -15 basechar 0
+Flags: HW
+HStem: -16 72<348.672 528.99> 616 73<286.654 477.048>
+VStem: 48 119<261.919 449.449> 655 115<214.618 413.376>
+AnchorPoint: "Top" 492.525 679 basechar 0
+AnchorPoint: "Bottom" 343 -15 basechar 0
 AnchorPoint: "Middle" 423.697 364.853 basechar 0
 LayerCount: 2
 Fore

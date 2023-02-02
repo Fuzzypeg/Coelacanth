@@ -4,8 +4,8 @@ Width: 674
 Flags: W
 HStem: -15 21G<524.027 562.981> -8 75<3.10645 73.2597> 1 72<186.77 427.512> 609 79<133.174 176.233 291.279 388.588>
 VStem: 548.764 64.2363<144.736 171.417>
+AnchorPoint: "Top" 267.525 679 basechar 0
 AnchorPoint: "TopRight" 421.365 581 basechar 0
-AnchorPoint: "Top" 283.363 699 basechar 0
 AnchorPoint: "Bottom" 258.555 -15 basechar 0
 LayerCount: 2
 Fore

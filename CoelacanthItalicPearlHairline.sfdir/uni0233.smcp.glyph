@@ -1,7 +1,7 @@
 StartChar: uni0233.smcp
 Encoding: 57851 57851 2203
 Width: 599
-Flags: W
+Flags: HW
 HStem: -7 69<202.522 271.331 380.733 453.232> 498 71<41.589 80.8037 419.493 442.762>
 VStem: 273 107<70.375 237.481>
 LayerCount: 2

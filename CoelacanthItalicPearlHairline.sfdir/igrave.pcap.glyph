@@ -1,7 +1,7 @@
 StartChar: igrave.pcap
 Encoding: 57385 57385 1631
 Width: 377
-Flags: W
+Flags: HW
 HStem: -8 66<247.449 314.53> 438 71<69.5139 135.452 252.508 318.493> 569.951 193.429
 VStem: 26.389 230.611 140 104<63.5768 428.84>
 LayerCount: 2

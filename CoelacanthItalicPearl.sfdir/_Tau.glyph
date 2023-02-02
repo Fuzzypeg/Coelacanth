@@ -2,8 +2,8 @@ StartChar: Tau
 Encoding: 932 932 994
 Width: 684
 Flags: HW
-AnchorPoint: "Top" 358 699 basechar 0
-AnchorPoint: "Bottom" 358 -15 basechar 0
+AnchorPoint: "Top" 430.525 679 basechar 0
+AnchorPoint: "Bottom" 283 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 45 84 N 1 0 0 1 0 0 2

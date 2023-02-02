@@ -1,7 +1,7 @@
 StartChar: amacron.pcap
 Encoding: 57404 57404 1650
 Width: 549
-Flags: W
+Flags: HW
 HStem: -8 67<33.2113 75.9979 483.002 522> 124 66<203 336> 489 20G<246.5 325>
 LayerCount: 2
 Fore

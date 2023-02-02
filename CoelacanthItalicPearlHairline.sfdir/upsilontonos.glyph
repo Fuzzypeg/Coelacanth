@@ -1,7 +1,7 @@
 StartChar: upsilontonos
 Encoding: 973 973 1112
 Width: 581
-Flags: W
+Flags: HW
 HStem: 570.951 193.429
 VStem: 283.391 230.611
 AnchorPoint: "Bottom" 241 -15 basechar 0

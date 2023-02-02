@@ -1,10 +1,10 @@
 StartChar: C
 Encoding: 67 67 28
 Width: 726
-Flags: W
+Flags: HW
 HStem: -16 75<283.952 490.565> 616 72<372.172 586.699>
 VStem: 640.502 71.5645<501.031 572.494>
-AnchorPoint: "Top" 506.763 699 basechar 0
+AnchorPoint: "Top" 502.525 679 basechar 0
 AnchorPoint: "Bottom" 341.925 -15 basechar 0
 LayerCount: 2
 Fore

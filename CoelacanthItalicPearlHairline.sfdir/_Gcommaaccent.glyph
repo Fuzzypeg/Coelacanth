@@ -1,7 +1,7 @@
 StartChar: Gcommaaccent
 Encoding: 290 290 286
 Width: 775
-Flags: W
+Flags: HW
 HStem: -177.1 149 -12 70<307.754 514.134> 284 70<474.622 542.184> 299 65<687.468 732.93> 617 71<377.052 606.935>
 VStem: 383 102<-122.261 -42.3>
 LayerCount: 2

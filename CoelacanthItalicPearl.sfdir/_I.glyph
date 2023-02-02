@@ -1,10 +1,10 @@
 StartChar: I
 Encoding: 73 73 34
 Width: 468
-Flags: W
+Flags: HW
 HStem: -8 72<21.1543 135.108 251.546 328.766> 0 65<21.1543 136.117> 616 76<164.387 246.087 370.84 467.21>
+AnchorPoint: "Top" 320.525 679 basechar 0
 AnchorPoint: "Ogonek" 173.623 23 basechar 0
-AnchorPoint: "Top" 327.108 699 basechar 0
 AnchorPoint: "Bottom" 156.282 -15 basechar 0
 LayerCount: 2
 Fore

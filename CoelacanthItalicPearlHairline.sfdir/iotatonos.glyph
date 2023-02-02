@@ -1,7 +1,7 @@
 StartChar: iotatonos
 Encoding: 943 943 1106
 Width: 345
-Flags: W
+Flags: HW
 HStem: 569.951 193.429
 VStem: 164.391 230.611
 AnchorPoint: "Bottom" 159 -15 basechar 0

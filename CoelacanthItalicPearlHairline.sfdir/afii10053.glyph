@@ -2,7 +2,7 @@ StartChar: afii10053
 Encoding: 1028 1028 1098
 Width: 726
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -16 75<283.952 490.565> 332 36<126 466.393> 616 72<372.172 586.699>
 VStem: 490 36<248 304.348 394.139 440.094> 640.502 71.5645<501.031 572.494>
 AnchorPoint: "Top" 433 699 basechar 0

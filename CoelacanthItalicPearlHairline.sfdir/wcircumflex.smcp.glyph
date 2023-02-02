@@ -1,7 +1,7 @@
 StartChar: wcircumflex.smcp
 Encoding: 57784 57784 2136
 Width: 887
-Flags: W
+Flags: HW
 HStem: -9 21G<281 355.5 573 647> 500 72<199.39 230.972 685 735.754> 510 62<835.828 868.242> 619 155.801
 VStem: 315.3 288.5
 LayerCount: 2

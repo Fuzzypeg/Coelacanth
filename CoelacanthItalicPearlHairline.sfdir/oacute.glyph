@@ -1,7 +1,7 @@
 StartChar: oacute
 Encoding: 243 243 127
 Width: 490
-Flags: W
+Flags: HW
 HStem: -10 55<125.983 257.332> 450 57<239.007 366.724> 569.951 193.429
 VStem: 31.0957 55.9043<87.0703 286.368> 226.389 230.611 403 56<208.747 411.031>
 AnchorPoint: "Bottom" 249 -15 basechar 0

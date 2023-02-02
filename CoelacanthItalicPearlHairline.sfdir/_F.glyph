@@ -4,8 +4,8 @@ Width: 605
 Flags: W
 HStem: -10 74<13.8517 77.0468 191.991 273.113> 299 68<247.257 395.703> 606 70<143.999 188.643 292.42 515.408>
 VStem: 399.286 73.8262<244 297.486>
-AnchorPoint: "Top" 384.272 699 basechar 0
-AnchorPoint: "Bottom" 140.97 -15 basechar 0
+AnchorPoint: "Bottom" 136.011 -15 basechar 0
+AnchorPoint: "Top" 383.525 679 basechar 0
 LayerCount: 2
 Fore
 SplineSet

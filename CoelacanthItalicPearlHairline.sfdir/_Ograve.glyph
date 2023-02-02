@@ -1,7 +1,7 @@
 StartChar: Ograve
 Encoding: 210 210 182
 Width: 792
-Flags: W
+Flags: HW
 HStem: -16 56<238.64 462.15> 632 57<374.955 596.571> 698.331 154.372
 VStem: 248.331 205.617
 AnchorPoint: "Bottom" 418 -15 basechar 0

@@ -1,7 +1,7 @@
 StartChar: uni1ED2
 Encoding: 7890 7890 836
 Width: 792
-Flags: W
+Flags: HW
 HStem: -16 56<238.64 462.15> 632 57<374.955 596.571>
 AnchorPoint: "Bottom" 416 -15 basechar 0
 LayerCount: 2

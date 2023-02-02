@@ -2,8 +2,8 @@ StartChar: Alpha
 Encoding: 913 913 976
 Width: 715
 Flags: HW
-AnchorPoint: "Bottom" 368 -15 basechar 0
-AnchorPoint: "Top" 382 679 basechar 0
+AnchorPoint: "Top" 523.525 679 basechar 0
+AnchorPoint: "Bottom" 299 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 26 65 N 1 0 0 1 0 0 2

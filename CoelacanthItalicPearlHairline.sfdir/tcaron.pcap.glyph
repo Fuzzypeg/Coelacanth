@@ -1,7 +1,7 @@
 StartChar: tcaron.pcap
 Encoding: 57452 57452 1698
 Width: 478
-Flags: W
+Flags: HW
 HStem: -10 21G<153.108 172 371 384.025> 429 69<91.8749 215 322 441> 570.199 155.801
 VStem: 121.7 288.5 215 107<73.2591 429> 431 79<381.671 415.2>
 LayerCount: 2

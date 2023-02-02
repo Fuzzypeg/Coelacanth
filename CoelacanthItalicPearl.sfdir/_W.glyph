@@ -1,10 +1,10 @@
 StartChar: W
 Encoding: 87 87 55
 Width: 992
-Flags: W
+Flags: HW
 HStem: -8 20G<127.129 195.739 506.044 573.835> 616 74<264.846 316.631 474.862 503.127 640.172 686.517 854.215 921.854> 672 20G<81.8567 98.1987>
 VStem: 136.854 114.949<151 590.799> 509.258 120.608<175 349.212> 516.425 119.325<178.621 378 431.275 598.489>
-AnchorPoint: "Top" 588.866 699 basechar 0
+AnchorPoint: "Top" 587.525 679 basechar 0
 AnchorPoint: "Bottom" 360.866 -15 basechar 0
 LayerCount: 2
 Fore

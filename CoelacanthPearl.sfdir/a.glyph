@@ -2,7 +2,7 @@ StartChar: a
 Encoding: 97 97 0
 Width: 477
 Flags: HMW
-AnchorPoint: "Top" 230 537 basechar 0
+AnchorPoint: "Top" 259 537 basechar 0
 AnchorPoint: "Ogonek" 396 22 basechar 0
 AnchorPoint: "Bottom" 213 -15 basechar 0
 LayerCount: 2

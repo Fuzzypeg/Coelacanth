@@ -2,7 +2,7 @@ StartChar: uni01B5
 Encoding: 437 437 1752
 Width: 693
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 0 67<156.316 520.314> 324 56<158.015 567.102> 610 66.0352<218.059 573.734>
 LayerCount: 2
 Fore

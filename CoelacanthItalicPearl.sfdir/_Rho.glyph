@@ -4,8 +4,8 @@ Width: 640
 Flags: HW
 HStem: -15 69<83.6667 124.139> 198 68<237.579 397.12> 205 67<237 286.335> 618 68<230.869 402.993>
 VStem: 119 111<277.687 608.946> 126 111<66.3363 205 267.256 600.713> 501 105<360.507 516.779>
-AnchorPoint: "Top" 294 699 basechar 0
-AnchorPoint: "Bottom" 162 -15 basechar 0
+AnchorPoint: "Top" 375.525 679 basechar 0
+AnchorPoint: "Bottom" 151 -15 basechar 0
 LayerCount: 2
 Fore
 Refer: 41 80 N 1 0 0 1 0 0 2

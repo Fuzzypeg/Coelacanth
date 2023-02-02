@@ -1,7 +1,7 @@
 StartChar: jcircumflex.smcp
 Encoding: 57753 57753 2106
 Width: 344
-Flags: W
+Flags: HW
 HStem: 556 20G<42.3784 66 285 314.316> 619 155.801
 VStem: 37.3 288.5 137 96<-70.2329 455.596>
 LayerCount: 2

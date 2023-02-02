@@ -2,7 +2,7 @@ StartChar: uni03D9
 Encoding: 985 985 1036
 Width: 586
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 VStem: 220 111<-135.1 42.1596>
 LayerCount: 2
 Fore

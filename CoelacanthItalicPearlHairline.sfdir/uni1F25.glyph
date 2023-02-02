@@ -2,7 +2,7 @@ StartChar: uni1F25
 Encoding: 7973 7973 1334
 Width: 566
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 AnchorPoint: "Bottom" 139 -15 basechar 0
 LayerCount: 2
 Fore

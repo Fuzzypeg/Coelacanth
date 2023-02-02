@@ -1,7 +1,7 @@
 StartChar: uni1FBB
 Encoding: 8123 8123 1614
 Width: 715
-Flags: W
+Flags: HW
 HStem: -177 78.1279<-199.919 -98.3319> 0.542969 50.457<-136.281 -117.822>
 VStem: -272.816 98.4385<-124.671 -35.1372>
 AnchorPoint: "Bottom" 368 -15 basechar 0

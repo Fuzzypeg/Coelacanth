@@ -2,7 +2,7 @@ StartChar: uni1F90
 Encoding: 8080 8080 1173
 Width: 566
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -174 67.4951<119.059 199.968> 566 56<286.837 338.361>
 VStem: 72.5283 101.987<-106.459 -37.5539> 344.837 75<630.614 693.632>
 LayerCount: 2

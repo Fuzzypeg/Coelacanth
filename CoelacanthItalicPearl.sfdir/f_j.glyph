@@ -2,6 +2,7 @@ StartChar: f_j
 Encoding: 58320 58320 718
 Width: 579
 VWidth: 1159
+UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2
 Fore
@@ -43,6 +44,5 @@ SplineSet
  176.886179681 627.354583713 232.048608713 670.309101433 314.84375 713.6796875 c 0
  357.811523438 736.1875 409.490234375 754 478.653320312 754 c 3
 EndSplineSet
-LCarets2: 1 283
 Ligature2: "liga-1" f j
 EndChar

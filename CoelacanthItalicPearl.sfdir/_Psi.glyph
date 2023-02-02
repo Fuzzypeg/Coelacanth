@@ -4,6 +4,7 @@ Width: 756
 Flags: HW
 HStem: -10 40<201.125 307.208> 321 31<296.897 323 399 433.213> 652 43<233.349 310.63>
 VStem: 323 76<43.9251 324.486 352 593>
+AnchorPoint: "Top" 523.525 679 basechar 0
 LayerCount: 2
 Back
 SplineSet

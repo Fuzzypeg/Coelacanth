@@ -1,7 +1,7 @@
 StartChar: ogonek
 Encoding: 731 731 1225
 Width: 258
-Flags: W
+Flags: HW
 HStem: -177 75.1279<97.498 184.11>
 VStem: 38.562 79.4385<-124.671 -30.2807>
 LayerCount: 2

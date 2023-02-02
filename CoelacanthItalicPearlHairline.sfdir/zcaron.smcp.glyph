@@ -1,7 +1,7 @@
 StartChar: zcaron.smcp
 Encoding: 57789 57789 2141
 Width: 593
-Flags: W
+Flags: HW
 HStem: -6 21G<46.8814 78.5> 1 71<208 483.545> 489 75<142 415> 611.199 155.801
 VStem: 163.2 288.5
 LayerCount: 2

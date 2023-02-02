@@ -4,8 +4,8 @@ Width: 734
 Flags: HW
 HStem: -11 42<192 270.062 401.394 490.814> 624 76<53.2333 162.515 523.65 633.052>
 VStem: 304.377 78.0224<61.5545 369.397>
-AnchorPoint: "Top" 515.577 699 basechar 0
-AnchorPoint: "Bottom" 359.812 -15 basechar 0
+AnchorPoint: "Top" 509.525 679 basechar 0
+AnchorPoint: "Bottom" 363.812 -15 basechar 0
 LayerCount: 2
 Back
 SplineSet

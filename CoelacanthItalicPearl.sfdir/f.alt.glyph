@@ -2,6 +2,7 @@ StartChar: f.alt
 Encoding: 58119 58119 1189
 Width: 385
 VWidth: 1159
+UnlinkRmOvrlpSave: 1
 Flags: HW
 HStem: -8 66<11 74.3841> 433 70<8 82 180 324> 670 79<209.611 306.992>
 VStem: 82 98<304.981 437 499 626.838> 87 83<83.6085 434.677>
@@ -28,5 +29,5 @@ SplineSet
  176.645977188 626.114792169 203.965043598 675.971230381 265.84375 713.6796875 c 4
  302.778549985 736.1875 347.201211417 754 406.653320312 754 c 7
 EndSplineSet
-Kerns2: 1430 10 "kern-1 latin individual kerning" 1429 52 "kern-1 latin individual kerning" 1428 13 "kern-1 latin individual kerning" 1427 13 "kern-1 latin individual kerning" 1426 20 "kern-1 latin individual kerning" 1424 39 "kern-1 latin individual kerning"
+Kerns2: 1424 39 "kern-1 latin individual kerning" 1426 20 "kern-1 latin individual kerning" 1427 13 "kern-1 latin individual kerning" 1428 13 "kern-1 latin individual kerning" 1429 52 "kern-1 latin individual kerning" 1430 10 "kern-1 latin individual kerning"
 EndChar

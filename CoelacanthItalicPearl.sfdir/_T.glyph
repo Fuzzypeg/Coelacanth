@@ -2,7 +2,7 @@ StartChar: T
 Encoding: 84 84 45
 Width: 684
 Flags: HMW
-AnchorPoint: "Top" 431.327 699 basechar 0
+AnchorPoint: "Top" 425.525 679 basechar 0
 AnchorPoint: "Bottom" 294.49 -15 basechar 0
 LayerCount: 2
 Fore

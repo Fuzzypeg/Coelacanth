@@ -3,8 +3,8 @@ Encoding: 1505 1505 2409
 Width: 600
 UnlinkRmOvrlpSave: 1
 Flags: W
-HStem: -17.9229 154.89<199.925 329.735>
-VStem: 64.2295 76.46<207.397 371.641> 477.365 74.0752<225.595 344.617>
+HStem: -17.9224 134.889<228.615 330.223> 468.815 20.6G<111.781 170.54>
+VStem: 64.229 47.46<257.625 392.305> 497.365 54.0745<215.44 363.209>
 AnchorPoint: "HbTopLeft" 103.599 638.023 basechar 0
 AnchorPoint: "HbBottom" 282.5 0 basechar 0
 AnchorPoint: "HbMiddle" 305.1 292.52 basechar 0
