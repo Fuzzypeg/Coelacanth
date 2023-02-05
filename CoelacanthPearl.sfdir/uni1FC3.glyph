@@ -1,8 +1,8 @@
 StartChar: uni1FC3
 Encoding: 8131 8131 1343
-Width: 566
+Width: 586
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -174 67.4951<119.059 199.968>
 VStem: 72.5283 101.987<-106.459 -37.5539>
 LayerCount: 2

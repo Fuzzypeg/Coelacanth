@@ -1,7 +1,7 @@
 StartChar: clicklateral.pcap
 Encoding: 57471 57471 1737
 Width: 345
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1735 57470 N 1 0 0 1 147 0 2

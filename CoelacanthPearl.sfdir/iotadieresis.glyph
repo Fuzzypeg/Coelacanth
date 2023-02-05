@@ -1,7 +1,7 @@
 StartChar: iotadieresis
 Encoding: 970 970 1109
 Width: 345
-Flags: W
+Flags: HW
 HStem: 593.08 105.84<63.994 158.006 239.994 334.006>
 VStem: 56.82 108.36<600.114 691.915> 232.82 108.36<600.114 691.915>
 AnchorPoint: "Bottom" 159 -15 basechar 0

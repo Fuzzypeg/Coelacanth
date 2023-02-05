@@ -2,7 +2,7 @@ StartChar: uni1FE5
 Encoding: 8165 8165 2018
 Width: 555
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 554.8 56<265.839 317.363>
 VStem: 184.363 75<619.414 682.13>
 LayerCount: 2

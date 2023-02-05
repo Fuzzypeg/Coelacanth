@@ -1,7 +1,7 @@
 StartChar: upsilondieresistonos
 Encoding: 944 944 1108
-Width: 581
-Flags: W
+Width: 609
+Flags: HW
 AnchorPoint: "Bottom" 241 -15 basechar 0
 LayerCount: 2
 Fore
