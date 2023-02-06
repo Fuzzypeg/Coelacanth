@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1418251196
-ModificationTime: 1587468498
+ModificationTime: 1675633757
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -59,10 +59,10 @@ Lookup: 1 0 0 "'locl' Localized Forms Romanian and Moldavian" { "'locl' Localize
 Lookup: 1 0 0 "'locl' Localized Forms Turkic" { "'locl' Localized Forms Turkic-1"  } ['locl' ('latn' <'AZE ' 'CRT ' 'KAZ ' 'TAT ' 'TRK ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms Polish" { "'locl' Localized Forms Polish-1"  } ['locl' ('latn' <'PLK ' > ) ]
 Lookup: 1 0 0 "'case' Case-Sensitive Forms" { "case-1"  } ['case' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "smcp" { "smcp-1" ("smcp") } ['smcp' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "c2sc" { "c2sc-1" ("smcp") } ['c2sc' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "pcap" { "pcap-1" ("pcap") } ['pcap' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "c2pc" { "c2pc-1" ("pcap") } ['c2pc' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "smcp" { "smcp-1" ("smcp") } ['smcp' ('DFLT' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "c2sc" { "c2sc-1" ("smcp") } ['c2sc' ('DFLT' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "pcap" { "pcap-1" ("pcap") } ['pcap' ('DFLT' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "c2pc" { "c2pc-1" ("pcap") } ['c2pc' ('DFLT' <'dflt' > 'grek' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'salt' Stylistic Alternatives" { "salt-1"  } ['salt' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures" { "liga-1"  } ['liga' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 5 0 0 "'calt' Contextual Alternates" { "calt-3 tight f"  "calt-2 R leg"  "calt-1 Q stroke"  } ['calt' ('DFLT' <'dflt' > 'hani' <'dflt' > 'latn' <'AZE ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -194,7 +194,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 494 19 8
+WinInfo: 133 19 8
 BeginPrivate: 6
 StdHW 4 [18]
 StemSnapH 16 [14 18 23 32 35]
