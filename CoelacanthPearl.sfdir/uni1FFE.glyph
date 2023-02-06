@@ -1,7 +1,7 @@
 StartChar: uni1FFE
 Encoding: 8190 8190 1609
 Width: 278
-Flags: W
+Flags: HW
 HStem: 566 56<144.476 196>
 VStem: 63 75<630.614 693.331>
 AnchorPoint: "Top" 120 537 mark 0

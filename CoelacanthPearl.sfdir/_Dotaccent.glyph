@@ -1,7 +1,7 @@
 StartChar: Dotaccent
 Encoding: 58025 58025 164
 Width: 156
-Flags: W
+Flags: HW
 HStem: 736.6 118.8<22.5393 133.461>
 VStem: 10.0001 136<747.592 844.451>
 AnchorPoint: "Top" 76 699 mark 0

@@ -3,7 +3,7 @@ Encoding: 1479 1479 2526
 GlifName: uni05C_7
 Width: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -281 86<243.694 318.306> -123 43<187 373>
 VStem: 238 86<-275.285 -200.692>
 AnchorPoint: "HbBottom" 282 0 mark 0

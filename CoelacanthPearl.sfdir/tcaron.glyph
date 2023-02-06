@@ -6,7 +6,7 @@ HStem: 442.494 214.751
 VStem: 350.5 141.25
 LayerCount: 2
 Fore
-Refer: 113 789 S 1 0 0 1 463.25 76 2
+Refer: 113 789 N 1 0 0 1 463.25 76 2
 Refer: 19 116 N 1 0 0 1 3 0 2
 Substitution2: "smcp-1" tcaron.smcp
 Substitution2: "pcap-1" tcaron.pcap

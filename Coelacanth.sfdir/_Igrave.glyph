@@ -2,7 +2,7 @@ StartChar: Igrave
 Encoding: 204 204 177
 GlifName: I_grave
 Width: 393
-Flags: W
+Flags: HW
 HStem: -10 40<42.125 145.827> 652 43<47.3488 146.792> 744.316 147.151
 VStem: 16.9346 234.888 157 90<41.0295 293.416> 163.915 75.6025<80.3904 534.592>
 AnchorPoint: "Bottom" 198 -15 basechar 0

@@ -1,7 +1,7 @@
 StartChar: Lambda
 Encoding: 923 923 986
 Width: 733
-Flags: W
+Flags: HW
 HStem: -10 64<510 529.895> -8 72<179.682 222.486 651.002 693.097> 669 20G<345 418>
 VStem: 349 66<604.112 689>
 AnchorPoint: "Bottom" 368 -15 basechar 0

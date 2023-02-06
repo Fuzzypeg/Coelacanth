@@ -1,7 +1,7 @@
 StartChar: Macron
 Encoding: 58021 58021 160
 Width: 298
-Flags: W
+Flags: HW
 HStem: 742 79.6085<-7 304>
 AnchorPoint: "Top" 150 699 mark 0
 LayerCount: 2

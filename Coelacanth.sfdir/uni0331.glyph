@@ -2,7 +2,7 @@ StartChar: uni0331
 Encoding: 817 817 532
 GlifName: uni0331
 Width: 0
-Flags: W
+Flags: HW
 HStem: -133 49.0001<-327 -68>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2

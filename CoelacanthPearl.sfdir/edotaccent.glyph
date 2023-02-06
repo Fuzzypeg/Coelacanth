@@ -1,7 +1,7 @@
 StartChar: edotaccent
 Encoding: 279 279 264
 Width: 506
-Flags: W
+Flags: HW
 HStem: 582.7 132.6<212.865 323.135>
 VStem: 200.4 135.2<594.969 703.079>
 AnchorPoint: "Bottom" 205 -15 basechar 0

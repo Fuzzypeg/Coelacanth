@@ -1,7 +1,6 @@
 StartChar: upblock
 Encoding: 9600 9600 1480
 Width: 926
-VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore

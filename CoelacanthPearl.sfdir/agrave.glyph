@@ -1,7 +1,7 @@
 StartChar: agrave
 Encoding: 224 224 114
 Width: 477
-Flags: W
+Flags: HW
 HStem: 569.951 193.429
 VStem: 57.3887 230.611
 AnchorPoint: "Bottom" 203 -15 basechar 0

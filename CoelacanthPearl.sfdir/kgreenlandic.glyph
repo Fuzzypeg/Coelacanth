@@ -1,7 +1,7 @@
 StartChar: kgreenlandic
 Encoding: 312 312 345
 Width: 503
-Flags: W
+Flags: HW
 HStem: -10 71<178.291 193.69 309.5 319.356 447.446 493> 407 68<8.07353 53.5729> 441 62<268.548 293.626>
 VStem: 67 82<73.187 229.917 285 405.929>
 LayerCount: 2

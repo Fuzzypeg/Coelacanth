@@ -1,7 +1,7 @@
 StartChar: breve.cyrillic
 Encoding: 58086 58086 1370
 Width: 0
-Flags: W
+Flags: HW
 HStem: 417 56<-245.356 -146.566>
 VStem: -349.541 86.3784<502.512 552.035> -129.919 85.4595<502.512 552.364>
 AnchorPoint: "TopMark" -200.5 396 mark 0

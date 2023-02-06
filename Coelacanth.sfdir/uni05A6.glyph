@@ -2,7 +2,7 @@ StartChar: uni05A6
 Encoding: 1446 1446 2535
 GlifName: uni05A_6
 Width: 0
-Flags: W
+Flags: HW
 HStem: -206.315 158.826
 VStem: 213.199 23.9492<-93.4565 -50.2931> 336.199 23.9492<-93.4565 -50.2931>
 AnchorPoint: "HbBottom" 255 0 mark 0

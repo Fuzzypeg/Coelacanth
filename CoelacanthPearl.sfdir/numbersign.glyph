@@ -2,7 +2,7 @@ StartChar: numbersign
 Encoding: 35 35 335
 Width: 533
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1961 58113 N -0.0668773 -0.634 1.06635 0 387.939 634 2

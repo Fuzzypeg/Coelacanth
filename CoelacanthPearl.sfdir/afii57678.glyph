@@ -2,7 +2,7 @@ StartChar: afii57678
 Encoding: 1502 1502 2406
 Width: 645
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -15.5479 13.8467G<45.8779 110.294 260 348.355> 0 144.281<356.513 492.123> 444.909 148.906<331.51 413.797>
 VStem: 523.563 72.082<182.636 331.185>
 AnchorPoint: "HbTopLeft" 113.769 638.023 basechar 0

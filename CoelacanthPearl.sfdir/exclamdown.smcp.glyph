@@ -1,7 +1,7 @@
 StartChar: exclamdown.smcp
 Encoding: 57799 57799 2151
 Width: 260
-Flags: W
+Flags: HW
 HStem: 400.998 176.317<90.7647 138.855>
 VStem: 27.1694 174.639<467.309 514.138> 48.288 119.16<6.32332 176.012> 85.348 58.7<129.79 351.048>
 LayerCount: 2

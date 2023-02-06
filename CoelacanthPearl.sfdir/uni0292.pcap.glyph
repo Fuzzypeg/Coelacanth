@@ -1,7 +1,7 @@
 StartChar: uni0292.pcap
 Encoding: 57494 57494 1796
 Width: 426
-Flags: W
+Flags: HW
 HStem: -10 26<155.532 258.76> 375 31<122.192 263>
 VStem: 70 25<-4 4.83154> 311 72<64.4501 179.906>
 AnchorPoint: "Bottom" 210 -15 basechar 0

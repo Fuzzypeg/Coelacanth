@@ -1,7 +1,7 @@
 StartChar: Grave
 Encoding: 58019 58019 96
 Width: 222
-Flags: W
+Flags: HW
 HStem: 718.331 154.372
 VStem: -102.669 205.617
 AnchorPoint: "Top" 64 699 mark 0

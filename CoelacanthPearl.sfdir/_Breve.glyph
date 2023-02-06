@@ -1,7 +1,7 @@
 StartChar: Breve
 Encoding: 58023 58023 162
 Width: 321
-Flags: W
+Flags: HW
 HStem: 733.447 78.834<75.0234 245.147>
 VStem: 1.76465 317.471
 AnchorPoint: "Top" 162 699 mark 0

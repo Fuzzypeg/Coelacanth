@@ -1,7 +1,7 @@
 StartChar: aring
 Encoding: 229 229 119
 Width: 477
-Flags: W
+Flags: HW
 HStem: 562 53.6064<185.815 269.029> 715.864 51.6064<186.375 269.576>
 VStem: 123.78 53.2266<624.785 706.198> 278.993 50.2266<625.75 706.026>
 AnchorPoint: "Ogonek" 386 22 basechar 0

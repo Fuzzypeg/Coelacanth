@@ -2,7 +2,7 @@ StartChar: uni030D
 Encoding: 781 781 106
 GlifName: uni030D_
 Width: 0
-Flags: W
+Flags: HW
 AnchorPoint: "Bottom" -193 -15 mark 0
 AnchorPoint: "TopMark" -200.5 396 mark 0
 AnchorPoint: "TopMark" -198.5 601 basemark 0

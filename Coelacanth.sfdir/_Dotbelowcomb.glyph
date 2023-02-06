@@ -2,7 +2,7 @@ StartChar: Dotbelowcomb
 Encoding: 58031 58031 283
 GlifName: D_otbelowcomb
 Width: 0
-Flags: W
+Flags: HW
 HStem: -176 108<-238.858 -149.142>
 VStem: -249 110<-166.007 -77.9536>
 AnchorPoint: "Bottom" -193 -15 mark 0

@@ -2,7 +2,7 @@ StartChar: zero.tabularliningalt
 Encoding: 58423 58423 1722
 Width: 533
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -12 82<219.355 333.625> 579 77<205.181 317.353>
 VStem: 41 85<196.539 468.748> 410 82<185.672 455.689>
 LayerCount: 2

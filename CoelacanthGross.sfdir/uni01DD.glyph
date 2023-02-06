@@ -1,11 +1,11 @@
 StartChar: uni01DD
 Encoding: 477 477 579
 Width: 445
-Flags: W
+Flags: HW
 HStem: -196 168
 VStem: 168 185
 LayerCount: 2
 Fore
-Refer: 215 101 S -1 0 0 -1 445 396 2
+Refer: 215 101 N -1 0 0 -1 445 396 2
 Substitution2: "case-1" uni018E
 EndChar

@@ -1,7 +1,7 @@
 StartChar: uni1FEA
 Encoding: 8170 8170 846
 Width: 810
-Flags: W
+Flags: HW
 HStem: -17 42<288.865 368.509> -11 43<513.681 586.636> 623.534 76.2021<295.626 385.232 739.965 852.622>
 VStem: 475.573 45.7939<373.316 510.432>
 AnchorPoint: "Bottom" 469 -15 basechar 0
@@ -10,5 +10,4 @@ LayerCount: 2
 Fore
 Refer: 851 8175 N 1.08329 -0.191013 0.191013 1.08329 -190.296 97.955 2
 Refer: 1341 933 N 1 0 0 1 130 0 2
-Validated: 1
 EndChar

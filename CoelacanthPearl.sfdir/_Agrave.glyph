@@ -1,7 +1,7 @@
 StartChar: Agrave
 Encoding: 192 192 168
 Width: 733
-Flags: W
+Flags: HW
 HStem: -177 78.1279<-199.541 -97.954> 0.542969 50.457<-135.903 -117.444> 698.331 154.372
 VStem: -272.438 98.4385<-124.671 -35.1372> 215.331 205.617
 AnchorPoint: "Ogonek" 533 27 basechar 0

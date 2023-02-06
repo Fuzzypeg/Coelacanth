@@ -1,7 +1,7 @@
 StartChar: zdotaccent.smcp
 Encoding: 57788 57788 2140
 Width: 593
-Flags: W
+Flags: HW
 HStem: -6 21G<46.8814 78.5> 1 71<208 483.545> 489 75<142 415> 624.7 132.6<252.865 363.135>
 VStem: 240.4 135.2<636.969 745.079>
 LayerCount: 2

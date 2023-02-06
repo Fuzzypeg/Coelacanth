@@ -1,7 +1,7 @@
 StartChar: Ocircumflex
 Encoding: 212 212 184
 Width: 818
-Flags: W
+Flags: HW
 HStem: -16 72<348.672 528.99> 616 73<286.654 477.048>
 VStem: 48 119<261.919 449.449> 655 115<214.618 413.376>
 AnchorPoint: "Bottom" 418 -15 basechar 0

@@ -2,7 +2,7 @@ StartChar: tbar.smcp
 Encoding: 57777 57777 2129
 Width: 590
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -14 25G<174.905 194 412.5 430.278> 242.463 72.075<134 462> 494 70<95.8773 249 359 506>
 VStem: 247 110<73.0284 493>
 LayerCount: 2

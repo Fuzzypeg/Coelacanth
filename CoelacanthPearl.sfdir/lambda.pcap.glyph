@@ -1,7 +1,7 @@
 StartChar: lambda.pcap
 Encoding: 57531 57531 1836
 Width: 472
-Flags: W
+Flags: HW
 HStem: -4 26<34 66.3901 295 313.814>
 VStem: 234 31<358.311 415>
 AnchorPoint: "Top" 246 537 basechar 0

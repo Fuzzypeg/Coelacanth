@@ -2,7 +2,7 @@ StartChar: Uni0327
 Encoding: 58030 58030 281
 GlifName: U_ni0327
 Width: 0
-Flags: W
+Flags: HW
 VStem: -194.928 70.897<-182.621 -103.12>
 AnchorPoint: "Bottom" -191 -15 mark 0
 LayerCount: 2

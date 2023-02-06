@@ -2,7 +2,7 @@ StartChar: Oslashacute
 Encoding: 510 510 474
 Width: 818
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -16 72<348.672 528.99> 616 73<286.654 477.048> 720.552 154.372
 VStem: 48 119<261.919 449.449> 382.163 205.617 655 115<214.618 413.376>
 LayerCount: 2

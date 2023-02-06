@@ -2,7 +2,7 @@ StartChar: Cdotaccent
 Encoding: 266 266 197
 GlifName: C_dotaccent
 Width: 743
-Flags: W
+Flags: HW
 HStem: -13 42<347.099 553.906> 670 40<327.101 545.759> 751 108<383.142 472.858>
 VStem: 43 103<243.914 469.499> 373 110<760.993 849.046> 633 33<533.188 599.436> 673 27<146.932 165.074>
 LayerCount: 2

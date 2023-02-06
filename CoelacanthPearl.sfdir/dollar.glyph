@@ -2,7 +2,7 @@ StartChar: dollar
 Encoding: 36 36 1366
 Width: 533
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 0.639648 61.7803<187.997 345.403> 437.47 60.4199<205.114 364.155>
 VStem: 105 72.8799<343.405 412.825> 384.97 71.3506<96.3621 173.46>
 LayerCount: 2

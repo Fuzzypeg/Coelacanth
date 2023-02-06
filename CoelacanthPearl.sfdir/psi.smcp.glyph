@@ -1,7 +1,7 @@
 StartChar: psi.smcp
 Encoding: 57861 57861 2213
 Width: 579
-Flags: W
+Flags: HW
 HStem: -7.9 30.2<175.119 237.187> 462.3 32.5<202.985 248.833>
 VStem: 260.291 63.6606<38.1963 218.812 241.963 454.25>
 LayerCount: 2

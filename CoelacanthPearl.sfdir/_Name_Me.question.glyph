@@ -1,7 +1,7 @@
 StartChar: NameMe.question
 Encoding: 65536 -1 1387
 Width: 333
-Flags: W
+Flags: HW
 HStem: -30.1937 174.074<117.63 162.308> 482 20G<55 75.5>
 VStem: 59.1418 162.25<32.1796 78.4131> 123 18<155 182.499> 246 27<300.281 357.526>
 LayerCount: 2

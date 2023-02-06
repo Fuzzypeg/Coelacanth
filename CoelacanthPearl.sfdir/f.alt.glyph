@@ -1,7 +1,7 @@
 StartChar: f.alt
 Encoding: 58119 58119 1189
 Width: 330
-Flags: W
+Flags: HW
 HStem: -8 66<11 74.3841> 433 70<8 82 180 324> 670 79<209.611 306.992>
 VStem: 82 98<304.981 437 499 626.838> 87 83<83.6085 434.677>
 AnchorPoint: "Top" 208 735 basechar 0

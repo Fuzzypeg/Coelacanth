@@ -3,7 +3,7 @@ Encoding: 827 827 680
 Width: 0
 VWidth: 1159
 UnlinkRmOvrlpSave: 1
-Flags: HWO
+Flags: HW
 HStem: -200 32<-267 -121> -89 32<-267 -121>
 AnchorPoint: "Bottom" -195.916 -15 mark 0
 LayerCount: 2

@@ -2,7 +2,7 @@ StartChar: uni033A
 Encoding: 826 826 869
 Width: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -167.691 70.9997<-307 -82>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2

@@ -2,7 +2,7 @@ StartChar: afii10101
 Encoding: 1108 1108 1235
 Width: 468
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 219.496 67.5508<90 321.755>
 LayerCount: 2
 Fore

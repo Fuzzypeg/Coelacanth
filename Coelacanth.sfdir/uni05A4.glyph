@@ -2,7 +2,7 @@ StartChar: uni05A4
 Encoding: 1444 1444 2533
 GlifName: uni05A_4
 Width: 0
-Flags: W
+Flags: HW
 HStem: -228 185
 VStem: 179 153
 AnchorPoint: "HbBottom" 259 0 mark 0

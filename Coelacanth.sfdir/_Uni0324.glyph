@@ -2,7 +2,7 @@ StartChar: Uni0324
 Encoding: 58032 58032 284
 GlifName: U_ni0324
 Width: 0
-Flags: W
+Flags: HW
 HStem: -168 98<-330.78 -249.22 -138.78 -57.2201>
 VStem: -340 100<-158.932 -79.0319> -148 100<-158.932 -79.0319>
 AnchorPoint: "Bottom" -193 -15 mark 0

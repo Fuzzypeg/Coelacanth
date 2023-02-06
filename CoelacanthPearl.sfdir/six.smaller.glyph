@@ -1,7 +1,7 @@
 StartChar: six.smaller
 Encoding: 58364 58364 2452
 Width: 307
-Flags: W
+Flags: HW
 HStem: -2 60<125.292 199.397> 120 61<152.742 200.958> 258 52<181.732 209>
 VStem: 38 72<72.9784 194.294> 202 67<60.0193 118.551>
 LayerCount: 2

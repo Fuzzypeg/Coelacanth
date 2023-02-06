@@ -1,10 +1,9 @@
 StartChar: uni250F
 Encoding: 9487 9487 1367
 Width: 926
-VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1474 9594 S 1.08842 0 0 1 -81.8778 0 2
+Refer: 1474 9594 N 1.08842 0 0 1 -81.8778 0 2
 Refer: 1475 9595 N 1 0 0 1 0 0 2
 EndChar

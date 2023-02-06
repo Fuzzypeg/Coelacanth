@@ -1,9 +1,8 @@
 StartChar: rtblock
 Encoding: 9616 9616 2873
 Width: 926
-VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 2869 9612 S 1 0 0 1 463 0 2
+Refer: 2869 9612 N 1 0 0 1 463 0 2
 EndChar

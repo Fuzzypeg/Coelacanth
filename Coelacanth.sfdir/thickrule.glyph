@@ -2,7 +2,7 @@ StartChar: thickrule
 Encoding: 58115 58115 1969
 GlifName: thickrule
 Width: 1000
-Flags: W
+Flags: HW
 HStem: -33 66<0 1000>
 LayerCount: 2
 Fore

@@ -1,7 +1,7 @@
 StartChar: Igrave
 Encoding: 204 204 177
 Width: 453
-Flags: W
+Flags: HW
 HStem: -8 21G<69.1579 95.5 360.5 387.389> 672 20G<74.4211 102.5 362 391.026> 698.331 154.372
 VStem: 66.3311 205.617 179 106<67.4773 555.247>
 AnchorPoint: "Bottom" 234 -15 basechar 0

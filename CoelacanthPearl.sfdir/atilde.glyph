@@ -1,7 +1,7 @@
 StartChar: atilde
 Encoding: 227 227 117
 Width: 477
-Flags: W
+Flags: HW
 HStem: 578 21G<94.7838 145.255> 582.408 86<243.331 311.951> 629.746 85.4463<158.486 231.66>
 VStem: 86.584 294.106
 AnchorPoint: "Bottom" 203 -15 basechar 0

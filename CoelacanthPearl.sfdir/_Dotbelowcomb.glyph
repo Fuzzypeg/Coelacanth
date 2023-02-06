@@ -1,7 +1,7 @@
 StartChar: Dotbelowcomb
 Encoding: 58031 58031 283
 Width: 0
-Flags: W
+Flags: HW
 HStem: -154.4 118.8<-249.461 -138.539>
 VStem: -262 136<-143.408 -46.5488>
 AnchorPoint: "Bottom" -193 -15 mark 0

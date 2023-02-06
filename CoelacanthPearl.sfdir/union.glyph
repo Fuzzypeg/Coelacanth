@@ -1,7 +1,7 @@
 StartChar: union
 Encoding: 8746 8746 1314
 Width: 580
-Flags: W
+Flags: HW
 HStem: -17.0002 50.2441<197.427 382.284> 659.323 21G<50 98 482 530>
 VStem: 50 48<149.164 680.323> 482 48<151.212 680.323>
 LayerCount: 2

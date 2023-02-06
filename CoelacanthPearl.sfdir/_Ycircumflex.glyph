@@ -1,7 +1,7 @@
 StartChar: Ycircumflex
 Encoding: 374 374 241
 Width: 658
-Flags: W
+Flags: HW
 HStem: -6 72<207.478 293.748 409.7 499.25> 604 74<133 199 584.52 645.009> 611 75<191.345 223.6 461.658 494.526>
 VStem: 296 106<77.7581 291>
 LayerCount: 2

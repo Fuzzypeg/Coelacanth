@@ -1,7 +1,7 @@
 StartChar: ecaron
 Encoding: 283 283 143
 Width: 506
-Flags: W
+Flags: HW
 HStem: 569.199 155.801
 VStem: 123.2 288.5
 AnchorPoint: "Bottom" 205 -15 basechar 0

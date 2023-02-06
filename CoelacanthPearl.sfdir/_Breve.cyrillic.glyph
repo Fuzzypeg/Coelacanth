@@ -1,7 +1,7 @@
 StartChar: Breve.cyrillic
 Encoding: 58087 58087 1369
 Width: 321
-Flags: W
+Flags: HW
 HStem: 727 56<108.378 215.884>
 VStem: -5 94<812.512 862.035> 234 93<812.512 862.364>
 AnchorPoint: "Top" 161 699 mark 0

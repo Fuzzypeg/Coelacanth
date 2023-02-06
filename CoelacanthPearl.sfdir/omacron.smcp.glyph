@@ -1,7 +1,7 @@
 StartChar: omacron.smcp
 Encoding: 57764 57764 2116
 Width: 659
-Flags: W
+Flags: HW
 HStem: -13 75<274.971 431.469> 497 77<238.2 401.869> 630.022 80.9567<207 466>
 VStem: 34 117<188.562 387.446> 525 109<172.815 368.674>
 LayerCount: 2

@@ -1,7 +1,7 @@
 StartChar: Cyrillicdescender
 Encoding: 58088 58088 1317
 Width: 209
-Flags: W
+Flags: HW
 HStem: 6 70<19 86.8366>
 VStem: 153 56<-234 -101.204>
 LayerCount: 2

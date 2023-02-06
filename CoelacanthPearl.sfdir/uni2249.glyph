@@ -2,7 +2,7 @@ StartChar: uni2249
 Encoding: 8777 8777 1515
 Width: 533
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 65.0762 98.7743<295.154 387.6> 160.08 98.0298<109.85 193.891> 271.076 98.7743<295.154 387.6> 366.08 98.0298<109.85 193.891>
 LayerCount: 2
 Fore

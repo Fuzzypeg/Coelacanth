@@ -2,7 +2,7 @@ StartChar: multiply
 Encoding: 215 215 444
 Width: 533
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1963 58115 N 0.334089 -0.334969 0.695617 0.69745 98.9558 437.985 2

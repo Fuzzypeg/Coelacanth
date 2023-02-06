@@ -2,7 +2,7 @@ StartChar: arrowupdn
 Encoding: 8597 8597 1299
 Width: 329
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 Refer: 1298 8596 N 0 1 -1 0 409.5 -70.5 2

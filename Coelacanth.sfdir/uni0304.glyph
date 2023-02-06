@@ -2,7 +2,7 @@ StartChar: uni0304
 Encoding: 772 772 101
 GlifName: uni0304
 Width: 0
-Flags: W
+Flags: HW
 HStem: 447 49.0001<-327 -68>
 AnchorPoint: "TopMark" -200.5 397 mark 0
 AnchorPoint: "TopMark" -198.5 495 basemark 0

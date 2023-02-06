@@ -2,7 +2,7 @@ StartChar: Uni0308
 Encoding: 58024 58024 163
 GlifName: U_ni0308
 Width: 298
-Flags: W
+Flags: HW
 HStem: 756 98<13.2201 94.7799 205.22 286.78>
 VStem: 4.00002 100<765.068 844.968> 196 100<765.068 844.968>
 AnchorPoint: "Top" 150 699 mark 0

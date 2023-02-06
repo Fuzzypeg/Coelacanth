@@ -1,7 +1,7 @@
 StartChar: uni031B
 Encoding: 795 795 99
 Width: 0
-Flags: W
+Flags: HW
 HStem: 418.221 53.3037<-149.361 -72.2238>
 VStem: -66 121.511<479.563 576.539>
 AnchorPoint: "Horn" -113.5 453.8 mark 0

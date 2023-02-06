@@ -2,7 +2,7 @@ StartChar: Tilde
 Encoding: 58022 58022 161
 GlifName: T_ilde
 Width: 329
-Flags: W
+Flags: HW
 HStem: 754.053 60<160.322 263.434> 791.391 59.4463<72.1065 175.197>
 VStem: 15.0732 301.744
 AnchorPoint: "Top" 165 699 mark 0

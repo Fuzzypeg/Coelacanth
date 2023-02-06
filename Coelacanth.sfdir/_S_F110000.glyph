@@ -1,9 +1,8 @@
 StartChar: SF110000
 Encoding: 9474 9474 2827
 Width: 926
-VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 1966 58112 S 0 -1.26 1 0 463 912 2
+Refer: 1966 58112 N 0 -1.26 1 0 463 912 2
 EndChar

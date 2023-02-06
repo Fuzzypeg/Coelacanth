@@ -1,7 +1,7 @@
 StartChar: adieresis
 Encoding: 228 228 118
 Width: 477
-Flags: W
+Flags: HW
 HStem: 593.08 105.84<93.994 188.006 269.994 364.006>
 VStem: 86.82 108.36<600.114 691.915> 262.82 108.36<600.114 691.915>
 AnchorPoint: "Bottom" 203 -15 basechar 0

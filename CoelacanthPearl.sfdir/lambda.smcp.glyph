@@ -1,7 +1,7 @@
 StartChar: lambda.smcp
 Encoding: 57855 57855 2207
 Width: 541
-Flags: W
+Flags: HW
 HStem: -7.9 28.6<344.5 370.071> 1.5073 22.7927<28.9 57.3273 439.087 517> 484.1 20G<267.15 305.55>
 VStem: 268.8 34.6<439.075 504.1>
 LayerCount: 2

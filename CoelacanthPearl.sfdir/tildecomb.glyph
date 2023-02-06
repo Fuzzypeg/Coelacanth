@@ -1,7 +1,7 @@
 StartChar: tildecomb
 Encoding: 771 771 100
 Width: 0
-Flags: W
+Flags: HW
 HStem: 578 21G<-309.216 -258.745> 582.408 86<-160.669 -92.0489> 629.746 85.4463<-245.514 -172.34>
 VStem: -317.416 294.106
 AnchorPoint: "TopMark" -185 768 basemark 0

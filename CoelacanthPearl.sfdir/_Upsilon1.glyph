@@ -1,7 +1,7 @@
 StartChar: Upsilon1
 Encoding: 978 978 1031
 Width: 697
-Flags: W
+Flags: HW
 HStem: -17 42<207 275.801> 511 21G<603 628> 624 76<60.9482 170.031 520.588 623.993>
 VStem: 625 49<580.975 621.557>
 AnchorPoint: "Top" 335 699 basechar 0

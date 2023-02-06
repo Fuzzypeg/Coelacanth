@@ -2,7 +2,7 @@ StartChar: aogonek
 Encoding: 261 261 256
 Width: 477
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -176.658 75.1279<305.848 392.46>
 VStem: 246.912 79.4385<-124.329 -29.9389>
 LayerCount: 2

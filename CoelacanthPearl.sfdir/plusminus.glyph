@@ -2,7 +2,7 @@ StartChar: plusminus
 Encoding: 177 177 877
 Width: 533
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: 12.3914 89.2172<61 472> 287.391 89.2172<61 472>
 LayerCount: 2
 Fore

@@ -2,7 +2,7 @@ StartChar: zero.proportionallining
 Encoding: 58388 58388 901
 GlifName: zero.proportionallining
 Width: 502
-Flags: W
+Flags: HW
 HStem: -10 33<220.172 312.266> 620 36<185.683 287.028>
 VStem: 55 73<175.959 491.558> 368 79<157.951 499.233>
 LayerCount: 2

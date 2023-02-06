@@ -2,7 +2,7 @@ StartChar: igrave.smcp
 Encoding: 57709 57709 2069
 GlifName: igrave.smcp
 Width: 332
-Flags: W
+Flags: HW
 HStem: -7.9 30.2<48.3656 110.618> 462.3 32.5<52.24 117.352> 560.175 225.516
 VStem: 35.014 169.82 135.472 67.4424<39.011 449.27>
 LayerCount: 2

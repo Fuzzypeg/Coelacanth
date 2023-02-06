@@ -8,7 +8,7 @@ AnchorPoint: "Bottom" 281.537 -15 basechar 0
 LayerCount: 2
 Back
 SplineSet
-317 265 m 5
+317 265 m 1
  317 194.5625 328.126953125 120.076171875 332 104 c 1028
 422 423 m 1
  425 425 424 428 422 429 c 1

@@ -2,7 +2,7 @@ StartChar: obar.smcp
 Encoding: 57790 57790 2142
 Width: 659
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -13 75<274.971 431.469> 244.938 58.125<119 557> 497 77<238.2 401.869>
 VStem: 34 117<188.562 387.446> 525 109<172.815 368.674>
 LayerCount: 2

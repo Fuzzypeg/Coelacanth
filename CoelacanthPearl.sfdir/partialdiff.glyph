@@ -2,7 +2,7 @@ StartChar: partialdiff
 Encoding: 8706 8706 1300
 Width: 464
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -9 40<156.778 251.356> 378 31<212.152 322.076> 662 40<191.19 311.531>
 VStem: 32 79<82.6993 251.357> 367 73<241.913 589.255>
 LayerCount: 2

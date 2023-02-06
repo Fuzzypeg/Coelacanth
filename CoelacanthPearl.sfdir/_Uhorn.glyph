@@ -2,7 +2,7 @@ StartChar: Uhorn
 Encoding: 431 431 760
 Width: 824
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -13 88<308.037 549.516> 601.263 75.5498<716.677 794.94> 613 73<49.3288 109.652 222.011 277.8>
 VStem: 109 113<150.891 608.316> 635 80<158.27 603.114> 799.28 137.914<681.842 764.065>
 AnchorPoint: "Ogonek" 499.65 23.6582 basechar 0

@@ -2,7 +2,7 @@ StartChar: uni059A
 Encoding: 1434 1434 2546
 GlifName: uni059A_
 Width: 0
-Flags: W
+Flags: HW
 HStem: -210 185
 VStem: 410 153
 AnchorPoint: "HbBottomRight" 429 0 mark 0

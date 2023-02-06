@@ -1,7 +1,7 @@
 StartChar: uni1EAF
 Encoding: 7855 7855 845
 Width: 477
-Flags: W
+Flags: HW
 HStem: 545 76.7188<173.897 321.386>
 VStem: 95.3477 305.357
 AnchorPoint: "Bottom" 193 -15 basechar 0

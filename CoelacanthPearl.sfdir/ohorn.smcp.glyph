@@ -2,7 +2,7 @@ StartChar: ohorn.smcp
 Encoding: 57791 57791 2143
 Width: 659
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -13 75<274.971 431.469> 459 53.3037<477.992 555.129> 497 77<238.2 401.869>
 VStem: 34 117<188.562 387.446> 525 109<172.815 368.674> 561.353 121.511<520.343 617.318>
 AnchorPoint: "Bottom" 336 -15 basechar 0

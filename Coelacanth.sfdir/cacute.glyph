@@ -2,7 +2,7 @@ StartChar: cacute
 Encoding: 263 263 138
 GlifName: cacute
 Width: 421
-Flags: W
+Flags: HW
 HStem: -15 52<185 333> 357 60<169 308> 490.951 225.517
 VStem: 34 71<119 282> 194.889 169.822
 LayerCount: 2

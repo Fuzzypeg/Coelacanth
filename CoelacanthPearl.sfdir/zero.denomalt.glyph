@@ -2,7 +2,7 @@ StartChar: zero.denomalt
 Encoding: 58427 58427 1726
 Width: 366
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -85.3162 62.348<142.015 241.778> 199.029 61.6754<128.808 228.884>
 VStem: 24.1428 75.7021<23.1665 169.525> 268.601 72.4395<4.73857 156.851>
 LayerCount: 2

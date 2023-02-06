@@ -3,7 +3,7 @@ Encoding: 807 807 268
 GlifName: uni0327
 Width: 0
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 VStem: -195 62.428<-164.273 -94.0567>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2

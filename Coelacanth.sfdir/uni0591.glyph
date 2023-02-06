@@ -2,7 +2,7 @@ StartChar: uni0591
 Encoding: 1425 1425 2537
 GlifName: uni0591
 Width: 0
-Flags: W
+Flags: HW
 HStem: -111.582 60.582<244.21 273.75>
 VStem: 197 33<-215 -117.141> 244 30<-90.9121 -51> 286 33<-215 -115.536>
 AnchorPoint: "HbBottom" 260 0 mark 0

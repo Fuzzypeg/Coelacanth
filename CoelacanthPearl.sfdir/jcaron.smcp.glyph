@@ -1,7 +1,7 @@
 StartChar: jcaron.smcp
 Encoding: 57820 57820 2172
 Width: 344
-Flags: W
+Flags: HW
 HStem: 556 20G<42.3784 66 285 314.316> 612.199 155.801
 VStem: 35.2002 288.5 137 96<-70.2329 455.596>
 LayerCount: 2

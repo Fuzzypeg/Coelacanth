@@ -2,7 +2,7 @@ StartChar: zero.proportionalliningalt
 Encoding: 58421 58421 1720
 Width: 573
 UnlinkRmOvrlpSave: 1
-Flags: W
+Flags: HW
 HStem: -12 82<232.721 356.884> 579 77<221.738 343.845>
 VStem: 51 85<203.15 462.97> 440 82<191.854 452.95>
 LayerCount: 2

@@ -1,7 +1,6 @@
 StartChar: dnblock
 Encoding: 9604 9604 1484
 Width: 926
-VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore

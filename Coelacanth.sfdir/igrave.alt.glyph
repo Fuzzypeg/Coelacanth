@@ -2,7 +2,7 @@ StartChar: igrave.alt
 Encoding: 58122 58122 1430
 GlifName: igrave.alt
 Width: 263
-Flags: W
+Flags: HW
 HStem: -7 33<33 87 184 254>
 VStem: 97 71<57 330>
 AnchorPoint: "Bottom" 127 -15 basechar 0

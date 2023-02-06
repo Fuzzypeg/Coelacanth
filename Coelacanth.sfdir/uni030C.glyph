@@ -2,7 +2,7 @@ StartChar: uni030C
 Encoding: 780 780 103
 GlifName: uni030C_
 Width: 0
-Flags: W
+Flags: HW
 HStem: 431.6 184.8
 VStem: -310.25 225.5
 AnchorPoint: "TopMark" -200.5 402 mark 0

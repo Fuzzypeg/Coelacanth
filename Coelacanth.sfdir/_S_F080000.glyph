@@ -1,7 +1,6 @@
 StartChar: SF080000
 Encoding: 9500 9500 2855
 Width: 926
-VWidth: 0
 UnlinkRmOvrlpSave: 1
 Flags: HW
 LayerCount: 2

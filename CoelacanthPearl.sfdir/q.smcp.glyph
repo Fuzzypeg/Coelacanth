@@ -1,7 +1,7 @@
 StartChar: q.smcp
 Encoding: 57687 57687 2039
 Width: 657
-Flags: W
+Flags: HW
 HStem: -151 73<575.083 773.765> -12 76<256.3 374.98> 505 72<233.675 407.149>
 VStem: 30 106<191.684 396.822> 521 103<178.008 388.515>
 AnchorPoint: "Top" 326 586 basechar 0

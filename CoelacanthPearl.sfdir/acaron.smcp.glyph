@@ -1,7 +1,7 @@
 StartChar: acaron.smcp
 Encoding: 57802 57802 2154
 Width: 604
-Flags: W
+Flags: HW
 HStem: -8 68<38.3653 85.7676 173.998 196 417 423.311> 0 59<540.002 585.395> 148 64<221 382> 554 20G<286 359> 612.199 155.801
 VStem: 168.2 288.5
 LayerCount: 2

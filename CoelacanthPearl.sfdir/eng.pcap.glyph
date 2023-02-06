@@ -1,7 +1,7 @@
 StartChar: eng.pcap
 Encoding: 57439 57439 1685
 Width: 587
-Flags: W
+Flags: HW
 HStem: -169 51<275.836 400.452> -10 30<63.125 99.9763 181.639 220.167> 380 25<506.758 536>
 VStem: 437 48<-95.3134 58.5409>
 LayerCount: 2

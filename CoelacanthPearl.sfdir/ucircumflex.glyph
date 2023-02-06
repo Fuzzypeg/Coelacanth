@@ -1,7 +1,7 @@
 StartChar: ucircumflex
 Encoding: 251 251 133
 Width: 563
-Flags: W
+Flags: HW
 HStem: 576 155.801
 VStem: 141.3 288.5
 AnchorPoint: "Bottom" 256 -15 basechar 0

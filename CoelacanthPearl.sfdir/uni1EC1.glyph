@@ -1,7 +1,7 @@
 StartChar: uni1EC1
 Encoding: 7873 7873 865
 Width: 506
-Flags: W
+Flags: HW
 HStem: 539.319 131.361
 VStem: 124.22 268.561
 AnchorPoint: "Bottom" 205 -15 basechar 0

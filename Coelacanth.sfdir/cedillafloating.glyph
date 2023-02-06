@@ -2,7 +2,7 @@ StartChar: cedillafloating
 Encoding: 58084 58084 269
 GlifName: cedillafloating
 Width: 0
-Flags: W
+Flags: HW
 VStem: -195 63.126<-165.105 -94.3474>
 AnchorPoint: "Bottom" -193 -15 mark 0
 LayerCount: 2

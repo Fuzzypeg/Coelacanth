@@ -2,7 +2,7 @@ StartChar: Acute
 Encoding: 58018 58018 90
 GlifName: A_cute
 Width: 222
-Flags: W
+Flags: HW
 HStem: 744.9 147.152
 VStem: 26.4932 234.89
 AnchorPoint: "Top" 64 699 mark 0

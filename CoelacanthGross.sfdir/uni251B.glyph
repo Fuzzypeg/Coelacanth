@@ -1,10 +1,9 @@
 StartChar: uni251B
 Encoding: 9499 9499 1379
 Width: 926
-VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 Refer: 1473 9593 N 1 0 0 1 0 0 2
-Refer: 1472 9592 S 1.08842 0 0 1 0 0 2
+Refer: 1472 9592 N 1.08842 0 0 1 0 0 2
 EndChar

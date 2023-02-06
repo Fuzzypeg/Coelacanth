@@ -1,7 +1,7 @@
 StartChar: acutecomb
 Encoding: 769 769 92
 Width: 0
-Flags: W
+Flags: HW
 HStem: 569.951 193.429
 VStem: -232.611 230.611
 AnchorPoint: "Top" -174 537 mark 0

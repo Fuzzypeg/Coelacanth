@@ -1,7 +1,7 @@
 StartChar: Sigma
 Encoding: 931 931 993
 Width: 626
-Flags: W
+Flags: HW
 HStem: 2.48309 63.5169<198 480.751> 519 21G<498.018 562> 621.077 63.892<203.944 482.108> 635 55<34 65.799>
 VStem: 505 57<522 599.837>
 AnchorPoint: "Top" 310 699 basechar 0
