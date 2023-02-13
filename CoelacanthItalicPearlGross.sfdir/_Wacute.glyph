@@ -1,0 +1,12 @@
+StartChar: Wacute
+Encoding: 7810 7810 621
+Width: 992
+Flags: HW
+HStem: -8 20G<271.5 342.5 631 699> 616 74<198.407 244.946 580.37 615.84 777 863.741> 624 66<990.05 1028.17> 700.552 154.372
+VStem: 490.163 205.617
+LayerCount: 2
+Fore
+Refer: 90 58018 N 1 0 0 1 466 -20 2
+Refer: 55 87 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

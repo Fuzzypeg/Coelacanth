@@ -1,0 +1,13 @@
+StartChar: j
+Encoding: 106 106 9
+Width: 307
+VWidth: 1159
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 1223 729 S 1 0 0 1 172.698 27 2
+Refer: 52 567 N 1 0 0 1 0 0 3
+Substitution2: "salt-1" j.alt
+Substitution2: "pcap-1" j.pcap
+Substitution2: "smcp-1" j.smcp
+EndChar

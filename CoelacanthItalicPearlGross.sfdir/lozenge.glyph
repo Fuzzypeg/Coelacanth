@@ -1,0 +1,21 @@
+StartChar: lozenge
+Encoding: 9674 9674 1444
+Width: 502
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+251 39.329758768 m 1
+ 417.421137686 373 l 1
+ 251 706.670241232 l 1
+ 84.5788623136 373 l 1
+ 251 39.329758768 l 1
+279 -30 m 1
+ 223 -30 l 1
+ 22 373 l 1
+ 223 776 l 1
+ 279 776 l 1
+ 480 373 l 1
+ 279 -30 l 1
+EndSplineSet
+EndChar

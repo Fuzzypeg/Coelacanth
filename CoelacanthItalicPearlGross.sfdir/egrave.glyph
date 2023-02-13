@@ -1,0 +1,15 @@
+StartChar: egrave
+Encoding: 232 232 95
+Width: 437
+Flags: HW
+HStem: 569.951 193.429
+VStem: 97.3887 230.611
+AnchorPoint: "Ogonek" 364 18 basechar 0
+AnchorPoint: "Bottom" 243 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 94 768 N 1 0 0 1 444 0 2
+Refer: 4 101 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" egrave.pcap
+Substitution2: "smcp-1" egrave.smcp
+EndChar

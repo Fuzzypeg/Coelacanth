@@ -1,0 +1,15 @@
+StartChar: onefifth.afrc
+Encoding: 58433 58433 1405
+Width: 533
+Flags: HW
+HStem: 190 68.2656<239 318.721> 314.875 54.25<141 535> 416 56.0625<273.934 315.972 396.939 441.932> 632.525 56.2988<280.552 319.816> 639.6 56.3701<398.169 438.347>
+VStem: 255 89.3779<45.6079 96.983> 325.888 65.4014<480.729 625.134>
+LayerCount: 2
+Fore
+Refer: 1961 58113 N 0.394 0 0 0.875 141 342 2
+Refer: 1391 8325 N 1 0 0 1 133 68 2
+Refer: 1392 8321 S 1 0 0 1 229 496 2
+LCarets2: 2 0 0
+Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction five.denom
+Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2155
+EndChar

@@ -1,0 +1,10 @@
+StartChar: uni01DD
+Encoding: 477 477 719
+Width: 437
+Flags: HW
+AnchorPoint: "Top" 239 538 basechar 0
+AnchorPoint: "Bottom" 230 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 4 101 S -1 0 0 -1 442 497 2
+EndChar

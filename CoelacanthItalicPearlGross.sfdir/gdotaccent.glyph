@@ -1,0 +1,13 @@
+StartChar: gdotaccent
+Encoding: 289 289 265
+Width: 503
+Flags: HW
+HStem: 582.7 132.6<180.865 291.135>
+VStem: 168.4 135.2<594.969 703.079>
+LayerCount: 2
+Fore
+Refer: 49 775 N 1 0 0 1 412 0 2
+Refer: 6 103 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" gdotaccent.smcp
+Substitution2: "pcap-1" gdotaccent.pcap
+EndChar

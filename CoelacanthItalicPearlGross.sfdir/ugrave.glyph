@@ -1,0 +1,14 @@
+StartChar: ugrave
+Encoding: 249 249 131
+Width: 558
+Flags: HW
+HStem: 569.951 193.429
+VStem: 126.222 230.611
+AnchorPoint: "Bottom" 256 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 94 768 N 1 0 0 1 472.833 0 2
+Refer: 20 117 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" ugrave.pcap
+Substitution2: "smcp-1" ugrave.smcp
+EndChar

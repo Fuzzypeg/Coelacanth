@@ -1,0 +1,14 @@
+StartChar: i
+Encoding: 105 105 8
+Width: 284
+VWidth: 1159
+Flags: HW
+AnchorPoint: "Bottom" 101.181 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1223 729 N 1 0 0 1 134.281 27 2
+Refer: 50 305 N 1 0 0 1 1.31286 0 3
+Substitution2: "'locl' Localized Forms Turkic-1" idotaccent
+Substitution2: "pcap-1" i.pcap
+Substitution2: "smcp-1" i.smcp
+EndChar

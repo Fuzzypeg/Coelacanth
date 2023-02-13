@@ -1,0 +1,13 @@
+StartChar: ncaron
+Encoding: 328 328 153
+Width: 522
+Flags: HW
+HStem: 569.199 155.801
+VStem: 152.2 288.5
+LayerCount: 2
+Fore
+Refer: 103 780 N 1 0 0 1 473 0 2
+Refer: 13 110 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" ncaron.smcp
+Substitution2: "pcap-1" ncaron.pcap
+EndChar

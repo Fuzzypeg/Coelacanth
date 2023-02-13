@@ -1,0 +1,12 @@
+StartChar: uni1E37
+Encoding: 7735 7735 561
+Width: 262
+Flags: HW
+HStem: -157.1 114.4<93.1506 188.25>
+VStem: 82.4 116.6<-146.514 -53.2433>
+AnchorPoint: "Top" 132 720 basechar 0
+LayerCount: 2
+Fore
+Refer: 272 803 N 1 0 0 1 335 0 2
+Refer: 11 108 N 1 0 0 1 0 0 3
+EndChar

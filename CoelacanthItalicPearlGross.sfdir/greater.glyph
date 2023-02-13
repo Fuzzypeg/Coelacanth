@@ -1,0 +1,17 @@
+StartChar: greater
+Encoding: 62 62 333
+Width: 533
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+146.30078125 424 m 1
+ 234.677734375 517.96875 l 1
+ 534.690429688 276.116210938 l 1
+ 116.71484375 41 l 1
+ 90.81640625 107.6328125 l 1
+ 349.549804688 252.787109376 l 1
+ 146.30078125 424 l 1
+EndSplineSet
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

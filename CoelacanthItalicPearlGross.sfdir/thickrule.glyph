@@ -1,0 +1,14 @@
+StartChar: thickrule
+Encoding: 58115 58115 1963
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 -64 m 1
+ 0 64 l 1
+ 1000 64 l 1
+ 1000 -64 l 1
+ 0 -64 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,12 @@
+StartChar: amacron
+Encoding: 257 257 135
+Width: 491
+Flags: HW
+HStem: 587.022 80.9567<103 362>
+LayerCount: 2
+Fore
+Refer: 101 772 N 1 0 0 1 404 0 2
+Refer: 0 97 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" amacron.smcp
+Substitution2: "pcap-1" amacron.pcap
+EndChar

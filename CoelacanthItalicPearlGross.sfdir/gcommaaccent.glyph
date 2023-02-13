@@ -1,0 +1,13 @@
+StartChar: gcommaaccent
+Encoding: 291 291 147
+Width: 503
+Flags: HW
+HStem: 569 149
+VStem: 179 102<583.2 663.161>
+LayerCount: 2
+Fore
+Refer: 112 786 N 1 0 0 1 412 0 2
+Refer: 6 103 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" gcommaaccent.smcp
+Substitution2: "pcap-1" gcommaaccent.pcap
+EndChar

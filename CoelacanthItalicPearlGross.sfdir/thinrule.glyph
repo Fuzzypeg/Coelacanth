@@ -1,0 +1,14 @@
+StartChar: thinrule
+Encoding: 58113 58113 1961
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 -34 m 1
+ 0 34 l 1
+ 1000 34 l 1
+ 1000 -34 l 1
+ 0 -34 l 1
+EndSplineSet
+EndChar

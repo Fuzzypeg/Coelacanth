@@ -1,0 +1,13 @@
+StartChar: ydieresis
+Encoding: 255 255 193
+Width: 452
+Flags: HW
+HStem: 593.08 105.84<122.994 217.006 298.994 393.006>
+VStem: 115.82 108.36<600.114 691.915> 291.82 108.36<600.114 691.915>
+LayerCount: 2
+Fore
+Refer: 97 776 N 1 0 0 1 433 0 2
+Refer: 24 121 N 1 0 0 1 0 0 3
+Substitution2: "pcap-1" ydieresis.pcap
+Substitution2: "smcp-1" ydieresis.smcp
+EndChar

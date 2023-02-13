@@ -1,0 +1,15 @@
+StartChar: tcommaaccent
+Encoding: 355 355 270
+Width: 335
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -172 50.1914<110.034 176.203>
+VStem: 179.175 76.4277<-122.225 -75.0357>
+LayerCount: 2
+Fore
+Refer: 268 807 S 1 0 0 1 325 0 2
+Refer: 19 116 N 1 0 0 1 0 0 3
+Substitution2: "smcp-1" tcedilla.smcp
+Substitution2: "'locl' Localized Forms Romanian and Moldavian-1" uni021B
+Substitution2: "pcap-1" tcedilla.pcap
+EndChar
