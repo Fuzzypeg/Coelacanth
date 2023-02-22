@@ -1,12 +1,11 @@
 StartChar: uniFB4D
 Encoding: 64333 64333 1203
 Width: 469
-Flags: W
+Flags: HW
 HStem: -2.32031 123.721<105.905 294.904> 661 43<128 314>
 VStem: 383.36 46.4795<176.959 323.478>
 LayerCount: 2
 Fore
 Refer: 106 1499 N 1 0 0 1 0 0 2
 Refer: 140 1471 N 1 0 0 1 -27 0 2
-Validated: 1
 EndChar

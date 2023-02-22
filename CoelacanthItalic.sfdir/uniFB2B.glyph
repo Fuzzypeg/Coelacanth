@@ -1,12 +1,11 @@
 StartChar: uniFB2B
 Encoding: 64299 64299 1174
 Width: 702
-Flags: W
+Flags: HW
 HStem: -19.7197 135.96<219.604 352.955> 424.16 21G<338.386 412.64> 670 93.0225
 VStem: 56.0176 90.875 107.88 41.6797<194.009 372.149> 283.16 19.3203<579.628 596.24>
 LayerCount: 2
 Fore
 Refer: 120 1513 N 1 0 0 1 0 0 2
 Refer: 135 1474 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
