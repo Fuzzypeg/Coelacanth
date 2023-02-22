@@ -1,7 +1,7 @@
 StartChar: uniE2C2
 Encoding: 58050 58050 2520
 Width: 588
-Flags: W
+Flags: HW
 HStem: 804.907 74.8436<209.846 284.072>
 VStem: 204.121 85.6792<810.342 874.338>
 AnchorPoint: "Top" 321 679 mark 0

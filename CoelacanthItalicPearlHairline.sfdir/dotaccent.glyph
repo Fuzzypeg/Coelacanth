@@ -1,7 +1,7 @@
 StartChar: dotaccent
 Encoding: 729 729 1223
 Width: 154
-Flags: W
+Flags: HW
 HStem: 607.231 83.5374<101.12 174.91>
 VStem: 95.4288 85.1754<613.297 684.727>
 LayerCount: 2

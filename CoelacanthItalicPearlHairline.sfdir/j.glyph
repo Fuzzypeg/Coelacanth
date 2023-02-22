@@ -1,7 +1,7 @@
 StartChar: j
 Encoding: 106 106 9
 Width: 307
-Flags: W
+Flags: HW
 HStem: 353 75<133 203> 634.231 83.5374<245.598 319.388>
 VStem: 239.907 85.1754<640.297 711.727>
 AnchorPoint: "Bottom" -7.77246 -318 basechar 0
