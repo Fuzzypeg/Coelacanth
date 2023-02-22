@@ -1,0 +1,10 @@
+StartChar: afii10081.alt
+Encoding: 58161 58161 3000
+Width: 526
+Flags: HW
+AnchorPoint: "Top" 272 465 basechar 0
+AnchorPoint: "Bottom" 269 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 13 110 N 1 0 0 1 0 0 2
+EndChar
