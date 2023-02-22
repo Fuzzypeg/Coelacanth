@@ -1,5 +1,6 @@
 # Fontforge backup files
 *.sfd-*
+*.sfdir.new
 
 # TeX intermediary build files
 *.aux
@@ -9,3 +10,4 @@
 # Interpolated font directories
 interpolations/*.sfdir
 interpolations/log.txt
+interpolations/*.otf
