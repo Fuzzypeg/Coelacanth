@@ -1,0 +1,16 @@
+StartChar: seveneighths.afrc
+Encoding: 58443 58443 457
+Width: 463
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -6.125 25.8574<174.161 240.08> 251.414 23.6133<205.726 260.404> 328 28<52 446> 417 21G<291 293.688> 634 54<277.238 374.265>
+VStem: 96.499 226.523 202.685 257.729
+LayerCount: 2
+Fore
+Refer: 487 58113 S 0.394 0 0 0.875 52 342 2
+Refer: 921 8328 N 1 0 0 1 68 77 2
+Refer: 920 8327 N 1 0 0 1 164 497 2
+LCarets2: 2 0 0
+Ligature2: "'afrc' Nut Fractions lookup 23-1" seven.numerator fraction eight.denom
+Ligature2: "'afrc' Nut Fractions lookup 23-1" seveneighths
+EndChar

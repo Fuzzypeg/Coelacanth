@@ -1,0 +1,13 @@
+StartChar: uni032A
+Encoding: 810 810 668
+Width: 0
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+AnchorPoint: "Bottom" -171.916 -15 mark 0
+LayerCount: 2
+Fore
+Refer: 487 58113 N 0.024444 0.115 -0.875 0 -107.598 -191 2
+Refer: 487 58113 N 0.024444 0.115 -0.875 0 -304.598 -191 2
+Refer: 486 58115 N 0.225 0 0.193233 0.909091 -300.531 -106 2
+EndChar

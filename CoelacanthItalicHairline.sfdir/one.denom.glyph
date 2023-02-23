@@ -1,0 +1,12 @@
+StartChar: one.denom
+Encoding: 58399 58399 370
+Width: 256
+Flags: W
+HStem: -83 21.1309<8.29688 58.5933 149.51 195.157> 234.251 18.9648<84.2773 124.894> 244.012 19.3838<223.173 260.252>
+VStem: 5.58594 257.407
+LayerCount: 2
+Fore
+Refer: 375 58452 N 1 0 0 1 -19 -83 2
+Validated: 1
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+EndChar

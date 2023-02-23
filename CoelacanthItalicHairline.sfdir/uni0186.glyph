@@ -1,0 +1,11 @@
+StartChar: uni0186
+Encoding: 390 390 535
+Width: 654
+Flags: W
+HStem: -9 40<96.5529 289.408> 658 42<215.456 395.739>
+VStem: 4.85742 37.3193<89.1649 164.438>
+LayerCount: 2
+Fore
+Refer: 1254 67 S -1 0 0 -1 668 690 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

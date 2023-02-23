@@ -1,0 +1,14 @@
+StartChar: Hbar
+Encoding: 294 294 1361
+Width: 717
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -10 35<164.822 214.879 430.603 494.431> -7 42<-15.2756 57.065> 327 40<214.671 573.417> 509 36<90 765> 662 38<127.411 180.433 284.796 361.922 572.895 621.502>
+AnchorPoint: "Top" 469.176 699 basechar 0
+AnchorPoint: "Bottom" 328.35 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1278 72 N 1 0 0 1 0 0 2
+Refer: 1339 58036 N 1 0 0 1 717 0 2
+EndChar

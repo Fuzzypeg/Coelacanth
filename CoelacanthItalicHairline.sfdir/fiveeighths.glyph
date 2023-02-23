@@ -1,0 +1,14 @@
+StartChar: fiveeighths
+Encoding: 8541 8541 262
+Width: 569
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -88.9023 27.3232<362.232 434.394> 234.6 24.7627<405.457 465.371> 246.771 25.4834<26.9586 88.0082> 535.648 59.3408<152.386 299.857>
+VStem: 23.4219 319.277 277.78 256.567
+LayerCount: 2
+Fore
+Refer: 255 58413 N 1 0 0 1 0 0 2
+Refer: 274 8260 N 1 0 0 1 22 0 2
+Refer: 217 58406 N 1 0 0 1 261 0 2
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+EndChar

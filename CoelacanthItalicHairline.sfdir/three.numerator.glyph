@@ -1,0 +1,14 @@
+StartChar: three.numerator
+Encoding: 58411 58411 492
+Width: 276
+Flags: W
+HStem: 247.82 21.0801<42.1338 84.1424> 417.36 20.2598<100.75 137.747> 566.44 41.54<147.494 227.465>
+VStem: 38.2539 255.558
+LayerCount: 2
+Fore
+Refer: 490 58401 N 1 0 0 1 34 346 2
+Validated: 1
+Kerns2: 274 -225 "kern-1 latin individual kerning"
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+Substitution2: "dnom-1" three.denom
+EndChar

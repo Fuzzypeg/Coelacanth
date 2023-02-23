@@ -1,0 +1,13 @@
+StartChar: exclamdown
+Encoding: 161 161 245
+Width: 266
+VWidth: 1159
+Flags: W
+LayerCount: 2
+Fore
+Refer: 241 33 S -1 0 0 -1 271 416.186 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=235 dh=0 dv=0
+Substitution2: "pcap-1" exclamdown.pcap
+Substitution2: "smcp-1" exclamdown.smcp
+EndChar

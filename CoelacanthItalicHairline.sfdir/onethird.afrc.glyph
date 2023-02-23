@@ -1,0 +1,15 @@
+StartChar: onethird.afrc
+Encoding: 58429 58429 393
+Width: 463
+Flags: HW
+HStem: -13 20<90.8115 140.966> 120 19<145.082 180.505> 241 41<180.075 252.012> 328 28<52 446> 416 20.0625<192.467 232.753 320.679 359.712> 670.525 18.2988<252.772 288.106> 677.6 18.3701<377.848 411.194>
+VStem: 87.0625 227.274 189.934 223.923
+LayerCount: 2
+Fore
+Refer: 487 58113 S 0.394 0 0 0.875 52 342 2
+Refer: 916 8323 N 1 0 0 1 74 82 2
+Refer: 914 8321 N 1 0 0 1 172 496 2
+LCarets2: 2 0 0
+Ligature2: "'afrc' Nut Fractions lookup 23-1" one.numerator fraction three.denom
+Ligature2: "'afrc' Nut Fractions lookup 23-1" onethird
+EndChar

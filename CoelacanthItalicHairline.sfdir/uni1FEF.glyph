@@ -1,0 +1,13 @@
+StartChar: uni1FEF
+Encoding: 8175 8175 851
+Width: 230
+Flags: HW
+HStem: 478.175 225.517
+VStem: 262.102 25.0635<493.075 508.102>
+AnchorPoint: "TopMark" 259 458 mark 0
+AnchorPoint: "Top" 262 457 mark 0
+AnchorPoint: "TopMark" 301 673 basemark 0
+LayerCount: 2
+Fore
+Refer: 284 768 S 1 0 0 1 366 48 2
+EndChar

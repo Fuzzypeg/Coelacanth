@@ -1,0 +1,11 @@
+StartChar: tbar.pcap
+Encoding: 57453 57453 480
+Width: 462
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -7 28<90.0156 149.77 248.084 288.845> 183 31<124 364> 366 37<105.724 228.772 310.82 432.695> 391 29G<99.4443 110.294 471.807 489>
+LayerCount: 2
+Fore
+Refer: 487 58113 N 0.24 0 0 0.96875 124 198.5 2
+Refer: 477 57366 N 1 0 0 1 0 0 3
+EndChar

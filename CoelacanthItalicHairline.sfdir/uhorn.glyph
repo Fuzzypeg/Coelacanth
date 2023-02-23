@@ -1,0 +1,18 @@
+StartChar: uhorn
+Encoding: 432 432 521
+Width: 552
+VWidth: 0
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -18 56<314.422 406.491> -10 70<105.923 195.922> 327.2 18<434.875 472.888> 341 75<146.922 205.922> 387 20G<458.422 465.922> 469.522 20G<541.559 564.689>
+VStem: 532.257 62.7432<396.982 463.256>
+AnchorPoint: "Top" 265.375 465 basechar 0
+AnchorPoint: "Bottom" 256.375 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 661 795 S 1 0 0 1 519.375 -2.79999 2
+Refer: 519 117 N 1 0 0 1 0.375 0 2
+Substitution2: "smcp-1" uhorn.smcp
+Substitution2: "case-1" Uhorn
+Substitution2: "pcap-1" uhorn.pcap
+EndChar

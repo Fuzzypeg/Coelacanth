@@ -1,0 +1,19 @@
+StartChar: Aring
+Encoding: 197 197 1248
+Width: 665
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: -10 43<115.227 172.116 556.577 595.188> 245 42<265.295 443.093> 672.972 38.3721<490.916 567.424> 691 20G<506.822 552.39> 804.246 38.3721<503.778 578.997>
+VStem: 448.761 173.68 449.779 92.5742<383.39 544>
+AnchorPoint: "Ogonek" 533 27 basechar 0
+AnchorPoint: "Top" 377 812 basechar 0
+AnchorPoint: "Bottom" 363 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1319 58026 S 1 0 0 1 221.423 -64 2
+Refer: 1243 65 N 1 0 0 1 0 0 3
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" aring.pcap
+Substitution2: "c2sc-1" aring.smcp
+EndChar

@@ -1,0 +1,13 @@
+StartChar: twodotenleader
+Encoding: 8229 8229 515
+Width: 472
+VWidth: 0
+Flags: W
+HStem: -18 140<51.9007 80.6632 322.901 351.663>
+VStem: -2 136 269 136
+LayerCount: 2
+Fore
+Refer: 405 46 S 1 0 0 1 271 0 2
+Refer: 405 46 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=7 dv=14
+EndChar

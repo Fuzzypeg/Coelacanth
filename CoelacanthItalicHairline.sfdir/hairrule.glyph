@@ -1,0 +1,16 @@
+StartChar: hairrule
+Encoding: 58112 58112 294
+Width: 1000
+Flags: W
+HStem: -12 24<0 1000>
+LayerCount: 2
+Fore
+SplineSet
+0 -12 m 5
+ 0 12 l 5
+ 1000 12 l 5
+ 1000 -12 l 5
+ 0 -12 l 5
+EndSplineSet
+Validated: 1
+EndChar

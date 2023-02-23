@@ -1,0 +1,13 @@
+StartChar: Oslash
+Encoding: 216 216 1353
+Width: 795
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -10 53<293.128 476.599> 655 50<361.724 543.256>
+VStem: 57 96.0459<202.593 413.03> 682.902 100.362<290.286 501.723>
+LayerCount: 2
+Fore
+Refer: 1303 79 N 1 0 0 1 0 0 2
+Refer: 678 824 S 1 0 0 1 845.264 0 2
+EndChar

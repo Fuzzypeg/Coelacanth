@@ -1,0 +1,14 @@
+StartChar: Upsilontonos
+Encoding: 910 910 1343
+Width: 893
+Flags: HW
+HStem: -11 43<363.015 456.228 585.443 662.021> 529.951 225.517 623.534 76.2021<369.626 459.232 814.098 926.622>
+VStem: 113.749 205.956 549.573 45.7939<372.144 510.432>
+LayerCount: 2
+Fore
+Refer: 505 900 N 1 0 0 1 0 102 2
+Refer: 1341 933 N 1 0 0 1 204 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" upsilon.pcap
+Substitution2: "c2sc-1" upsilon.smcp
+EndChar

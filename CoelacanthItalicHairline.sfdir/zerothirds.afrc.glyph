@@ -1,0 +1,16 @@
+StartChar: zerothirds.afrc
+Encoding: 58446 58446 1240
+Width: 463
+Flags: HW
+HStem: -13 20<90.8115 140.966> 120 19<145.082 180.505> 241 41<180.075 252.012> 328 28<52 446> 415.81 26.0342<247.512 328.308> 663.84 27.3115<269.099 350.713>
+VStem: 87.0625 227.274 154.26 287.538
+LayerCount: 2
+Fore
+Refer: 487 58113 S 0.394 0 0 0.875 52 342 2
+Refer: 916 8323 N 1 0 0 1 74 82 2
+Refer: 913 8320 N 1 0 0 1 128 496 2
+Substitution2: "'zero' Slashed Zero lookup 22-1" zerothirds.afrcalt
+LCarets2: 2 0 0
+Ligature2: "'afrc' Nut Fractions lookup 23-1" uni2189
+Ligature2: "'afrc' Nut Fractions lookup 23-1" zero.numerator fraction three.denom
+EndChar

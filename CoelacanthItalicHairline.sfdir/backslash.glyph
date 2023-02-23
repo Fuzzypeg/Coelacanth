@@ -1,0 +1,11 @@
+StartChar: backslash
+Encoding: 92 92 166
+Width: 383
+VWidth: 1515
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 340 58114 S -0.324704 1.01552 -0.952478 -0.304547 353.436 -295.601 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=95 dh=0 dv=0
+EndChar

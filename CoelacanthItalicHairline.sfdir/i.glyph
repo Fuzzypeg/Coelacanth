@@ -1,0 +1,16 @@
+StartChar: i
+Encoding: 105 105 300
+Width: 281
+VWidth: 1159
+Flags: HW
+AnchorPoint: "Ogonek" 154.981 32 basechar 0
+AnchorPoint: "Bottom" 90.4453 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 211 729 N 1 0 -0.0524078 1 1.1596 0 2
+Refer: 213 305 N 1 0 -0.0524078 1 -16.8404 0 2
+Substitution2: "'locl' Localized Forms Turkic-1" idotaccent
+Substitution2: "case-1" I
+Substitution2: "pcap-1" i.pcap
+Substitution2: "smcp-1" i.smcp
+EndChar

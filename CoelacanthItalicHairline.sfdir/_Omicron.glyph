@@ -1,0 +1,16 @@
+StartChar: Omicron
+Encoding: 927 927 1307
+Width: 795
+Flags: HW
+HStem: -10 53<293.128 476.599> 655 50<361.724 543.256>
+VStem: 57 96.0459<202.593 413.03> 682.902 100.362<290.286 501.723>
+AnchorPoint: "Top" 500 699 basechar 0
+AnchorPoint: "Bottom" 354 -15 basechar 0
+AnchorPoint: "Middle" 423.697 364.853 basechar 0
+LayerCount: 2
+Fore
+Refer: 1303 79 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" o.pcap
+Substitution2: "c2sc-1" o.smcp
+EndChar

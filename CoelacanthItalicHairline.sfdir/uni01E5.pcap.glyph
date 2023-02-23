@@ -1,0 +1,12 @@
+StartChar: uni01E5.pcap
+Encoding: 57489 57489 582
+Width: 525
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -6 28<209.448 327.9> 93 29<296 489> 384 28<263.69 387.552>
+VStem: 452.597 21.8496<301 321.618>
+LayerCount: 2
+Fore
+Refer: 487 58113 N 0.193 0 0 0.90625 296 107.5 2
+Refer: 277 57353 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,14 @@
+StartChar: uni04BB
+Encoding: 1211 1211 728
+Width: 427
+Flags: W
+HStem: 343 60<234.293 330.876> 662 38<98.0009 130.754>
+VStem: 1.0004 78<-4 76.7172> 357.001 56.9735<180.359 316.446>
+AnchorPoint: "Top" 120 733 basechar 0
+AnchorPoint: "Bottom" 275 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 292 104 N 1 0 0 1 0 0 2
+Validated: 1
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+EndChar

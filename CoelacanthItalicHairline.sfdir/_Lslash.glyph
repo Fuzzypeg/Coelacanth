@@ -1,0 +1,18 @@
+StartChar: Lslash
+Encoding: 321 321 1292
+Width: 653
+VWidth: 1159
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -21 21G<548.208 585.22> -7 44<9.62109 78.3822> 2 50<176.984 529.814> 652 41<150.793 201.499 305.268 397.368>
+VStem: 601.792 32.208<139.775 160.521>
+AnchorPoint: "Top" 177 699 basechar 0
+AnchorPoint: "Bottom" 320 -15 basechar 0
+LayerCount: 2
+Fore
+Refer: 1338 58035 N 0.866025 0.5 -0.5 0.866025 575.491 148.977 2
+Refer: 1288 76 N 1 0 0 1 0 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2sc-1" lslash.smcp
+Substitution2: "c2pc-1" lslash.pcap
+EndChar

@@ -1,0 +1,10 @@
+StartChar: uniE2F0
+Encoding: 58096 58096 1115
+Width: 468
+Flags: HMW
+AnchorPoint: "Top" 342 465 mark 0
+LayerCount: 2
+Fore
+Refer: 285 58082 S 1 0 0 1 469 110 2
+Refer: 643 772 N 1 0 0 1 441.5 49 2
+EndChar

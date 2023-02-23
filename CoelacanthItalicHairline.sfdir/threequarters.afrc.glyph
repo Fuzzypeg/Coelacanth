@@ -1,0 +1,15 @@
+StartChar: threequarters.afrc
+Encoding: 58431 58431 501
+Width: 463
+Flags: HW
+HStem: 72 39<127.743 200.454 262.743 314.138> 328 28<52 446> 402 20<177.811 227.966> 535 19<232.082 267.505> 656 41<267.075 339.012>
+VStem: 174.062 227.274 293.279 16.874<287.687 291.148>
+LayerCount: 2
+Fore
+Refer: 487 58113 S 0.394 0 0 0.875 52 342 2
+Refer: 916 8323 N 1 0 0 1 161 497 2
+Refer: 917 8324 N 1 0 0 1 62 84 2
+LCarets2: 2 0 0
+Ligature2: "'afrc' Nut Fractions lookup 23-1" three.numerator fraction four.denom
+Ligature2: "'afrc' Nut Fractions lookup 23-1" threequarters
+EndChar

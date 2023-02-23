@@ -1,0 +1,12 @@
+StartChar: uniE2FC
+Encoding: 58108 58108 1127
+Width: 472
+Flags: HW
+HStem: 455.274 54.7188<290.324 419.605>
+VStem: 234.304 31.0049<542.032 564.649>
+AnchorPoint: "Top" 346 465 mark 0
+LayerCount: 2
+Fore
+Refer: 285 58082 N 0.737828 -0.102438 0.301174 0.777257 285.233 193.742 2
+Refer: 645 774 N 1 0 0 1 448.5 19 2
+EndChar

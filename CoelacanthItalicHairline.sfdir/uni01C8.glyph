@@ -1,0 +1,13 @@
+StartChar: uni01C8
+Encoding: 456 456 573
+Width: 908
+VWidth: 0
+Flags: HW
+HStem: -21 21G<548.208 585.22> -7 44<9.62109 78.3822> 2 50<176.984 529.814> 652 41<150.793 201.499 305.268 397.368>
+VStem: 601.792 32.208<139.775 160.521>
+LayerCount: 2
+Fore
+Refer: 311 106 N 1 0 0 1 666 0 2
+Refer: 1288 76 N 1 0 0 1 0 0 2
+Substitution2: "case-1" uni01C7
+EndChar

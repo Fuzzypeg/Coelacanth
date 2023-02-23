@@ -1,0 +1,14 @@
+StartChar: Omegatonos
+Encoding: 911 911 1306
+Width: 857
+Flags: HW
+HStem: -12 21G<166.181 168.631 719.037 730.422> 0.754883 75.3525<231.586 334.141 585.614 701.831> 529.951 225.517 663 49<482.18 656.378>
+VStem: 113.749 205.956 196.373 41.1064<84.2582 196> 741.151 42.1152<138.402 191.665>
+LayerCount: 2
+Fore
+Refer: 505 900 N 1 0 0 1 0 102 2
+Refer: 1305 937 S 1 0 0 1 126 0 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" omega.pcap
+Substitution2: "c2sc-1" omega.smcp
+EndChar

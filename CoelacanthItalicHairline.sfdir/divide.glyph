@@ -1,0 +1,13 @@
+StartChar: divide
+Encoding: 247 247 207
+Width: 463
+Flags: HW
+HStem: 26 86<197.049 262.951> 190 53.9999<26 420> 323 86<197.049 262.951>
+VStem: 186 88<37.25 100.694 334.25 397.694>
+LayerCount: 2
+Fore
+Refer: 1082 57344 N 1 0 0 1 230 366 2
+Refer: 1082 57344 N 1 0 0 1 230 69 2
+Refer: 341 8722 N 1 0 0 1 0 0 2
+Position2: "'case' vertical ajustments for all-caps-1" dx=0 dy=90 dh=0 dv=0
+EndChar

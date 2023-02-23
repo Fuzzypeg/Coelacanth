@@ -1,0 +1,12 @@
+StartChar: uniE2C0
+Encoding: 58048 58048 1095
+Width: 845
+Flags: W
+HStem: 736.194 54<600.96 694.34> 769.798 53.5017<511.395 600.96> 828.666 132.437
+VStem: 373.589 243.553 437.313 325.038
+AnchorPoint: "Top" 560 699 mark 0
+LayerCount: 2
+Fore
+Refer: 1327 58022 N 1 0 0 0.9 261 57.5464 2
+Refer: 1244 58018 N 1 0 0 0.9 195.392 158.256 2
+EndChar

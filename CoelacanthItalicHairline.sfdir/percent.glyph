@@ -1,0 +1,13 @@
+StartChar: percent
+Encoding: 37 37 404
+Width: 689
+Flags: HW
+HStem: -80.1904 26.0342<432.512 513.308> 167.84 27.3115<454.099 535.713> 198.81 26.0342<159.512 240.308> 446.84 27.3115<181.099 262.713>
+VStem: 66.2598 287.538 339.26 287.538
+LayerCount: 2
+Fore
+Refer: 274 8260 S 1 0 0 1 85 -51 2
+Refer: 913 8320 S 1 0 0 1 313 0 2
+Refer: 913 8320 S 1 0 0 1 40 279 2
+Position2: "'lnum-2' vertical adjustment" dx=0 dy=80 dh=0 dv=0
+EndChar

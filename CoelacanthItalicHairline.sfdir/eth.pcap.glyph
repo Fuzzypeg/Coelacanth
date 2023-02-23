@@ -1,0 +1,11 @@
+StartChar: eth.pcap
+Encoding: 57389 57389 240
+Width: 549
+UnlinkRmOvrlpSave: 1
+Flags: HW
+HStem: -5 29<18.3145 62.14 126.461 295.094> 183 31<63 303> 384 25<99.3613 126.327 225.541 334.541>
+LayerCount: 2
+Fore
+Refer: 487 58113 N 0.24 0 0 0.96875 63 198.5 2
+Refer: 197 57350 N 1 0 0 1 0 0 3
+EndChar

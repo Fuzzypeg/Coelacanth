@@ -1,0 +1,12 @@
+StartChar: uni1FDB
+Encoding: 8155 8155 842
+Width: 468
+Flags: HW
+HStem: -2 40<133.254 234.115 340.24 421.584> 7.12908 30.8709<133.254 231.04> 652 31.4896<467.787 555.446> 656 43<277.421 354.543 468.048 555.446>
+AnchorPoint: "Bottom" 294 -15 basechar 0
+AnchorPoint: "Top" 298 699 basechar 0
+LayerCount: 2
+Fore
+Refer: 856 8189 N 1.08329 0.191013 -0.191013 1.08329 -57.7241 -6.84105 2
+Refer: 1281 921 N 1 0 0 1 127 0 2
+EndChar

@@ -1,0 +1,12 @@
+StartChar: dotbelowcomb
+Encoding: 803 803 212
+Width: 0
+VWidth: 1159
+Flags: HW
+HStem: -173.3 103.3<-278.289 -206.356>
+VStem: -295.318 106.209<-156.034 -87.169>
+AnchorPoint: "Bottom" -218 -15 mark 0
+LayerCount: 2
+Fore
+Refer: 646 775 N 1 0 0 1 -151 -624 2
+EndChar

@@ -1,0 +1,14 @@
+StartChar: Alphatonos
+Encoding: 902 902 1246
+Width: 665
+Flags: HW
+HStem: -10 43<115.227 172.116 556.577 595.188> 245 42<265.295 443.093> 529.951 225.517 691 20G<506.822 552.39>
+VStem: 148.749 205.956 449.779 92.5742<383.39 544>
+LayerCount: 2
+Fore
+Refer: 1245 913 N 1 0 0 1 0 0 3
+Refer: 505 900 S 1 0 0 1 35 102 2
+Position2: "cpsp-1" dx=0 dy=0 dh=50 dv=100
+Substitution2: "c2pc-1" a.pcap
+Substitution2: "c2sc-1" a.smcp
+EndChar
