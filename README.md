@@ -1,5 +1,8 @@
 # Coelacanth
 
+## <font color="red">The Coelacanth repo has moved to GitLab at [https://gitlab.com/Fuzzypeg/coelacanth](https://gitlab.com/Fuzzypeg/coelacanth).</font>
+<font color="red">Latest release can be obtained [here](https://gitlab.com/Fuzzypeg/coelacanth/-/tree/master/release?ref_type=heads). The GitHub repo will be archived.</font>
+
 An open-source type family for general typesetting (screen and print), intended to eventually reach professional quality.
 It is closely based on Bruce Rogers' much-loved _Centaur_ typeface, but with a new italic that shares the essential characteristics of the roman, rather than the _Arrighi_ italic
 which typically accompanied _Centaur_ but was conceived independently. Possibly in future an italic based on the _Arrighi_ will be offered as well.
